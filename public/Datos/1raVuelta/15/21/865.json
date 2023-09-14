@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.09
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.04
+    }
+]

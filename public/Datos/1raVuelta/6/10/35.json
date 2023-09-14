@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 23,
+        "candidato": "Isidro Romero",
+        "value": 0.58
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 0.57
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 37,
+        "candidato": "Isidro Romero",
+        "value": 0.90
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 1.87
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 0.89
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 43,
+        "candidato": "Isidro Romero",
+        "value": 0.87
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 53,
+        "candidato": "Isidro Romero",
+        "value": 0.80
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 28,
+        "candidato": "Isidro Romero",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.36
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 236,
+        "candidato": "Isidro Romero",
+        "value": 0.66
+    }
+]

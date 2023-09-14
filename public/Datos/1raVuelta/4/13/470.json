@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 414,
+        "candidato": "Xavier Hervas",
+        "value": 9.54
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 99,
+        "candidato": "Xavier Hervas",
+        "value": 4.49
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 209,
+        "candidato": "Xavier Hervas",
+        "value": 6.51
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 2135,
+        "votos": 156,
+        "candidato": "Xavier Hervas",
+        "value": 4.88
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 2156,
+        "candidato": "Xavier Hervas",
+        "value": 13.66
+    }
+]

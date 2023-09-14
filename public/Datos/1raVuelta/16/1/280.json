@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.64
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 19,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    }
+]

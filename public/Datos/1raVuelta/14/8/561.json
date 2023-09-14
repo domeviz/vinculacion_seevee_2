@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 1.23
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 18,
+        "candidato": "Carlos Sagnay",
+        "value": 0.75
+    },
+    {
+        "parroquia": "MONTALVO HORQUETA",
+        "id": 2445,
+        "votos": 14,
+        "candidato": "Carlos Sagnay",
+        "value": 0.63
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.64
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 23,
+        "candidato": "Carlos Sagnay",
+        "value": 0.65
+    }
+]

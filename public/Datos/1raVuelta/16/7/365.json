@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.52
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 70950,
+        "votos": 153,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    }
+]

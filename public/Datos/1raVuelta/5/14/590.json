@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI 9 DE OCTUBRE",
+        "id": 65,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.25
+    },
+    {
+        "parroquia": "GRAL. PROAÑO",
+        "id": 1345,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.79
+    },
+    {
+        "parroquia": "RíO BLANCO",
+        "id": 1730,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.64
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.61
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 0.35
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.99
+    },
+    {
+        "parroquia": "SINAÍ",
+        "id": 4485,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 1.25
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 141,
+        "candidato": "Pedro Freile",
+        "value": 1.06
+    }
+]

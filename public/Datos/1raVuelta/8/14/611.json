@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.40
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.10
+    },
+    {
+        "parroquia": "LOGRONIO",
+        "id": 6735,
+        "votos": 10,
+        "candidato": "Gerson Almeida",
+        "value": 0.57
+    }
+]

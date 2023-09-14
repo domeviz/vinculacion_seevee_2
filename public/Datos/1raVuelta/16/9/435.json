@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JESUS MARIA",
+        "id": 1830,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 3370,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SANTA ROSA DE FLANDES",
+        "id": 3740,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "TAURA",
+        "id": 3990,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "NARANJAL",
+        "id": 5675,
+        "votos": 66,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

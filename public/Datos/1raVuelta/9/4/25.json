@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 21,
+        "candidato": "Ximena Peña",
+        "value": 2.04
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 1.05
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 27,
+        "candidato": "Ximena Peña",
+        "value": 2.01
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 21,
+        "candidato": "Ximena Peña",
+        "value": 1.77
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 34,
+        "candidato": "Ximena Peña",
+        "value": 2.78
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 54,
+        "candidato": "Ximena Peña",
+        "value": 1.60
+    }
+]

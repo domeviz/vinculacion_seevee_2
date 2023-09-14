@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 53,
+        "candidato": "Isidro Romero",
+        "value": 2.27
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 163,
+        "candidato": "Isidro Romero",
+        "value": 1.34
+    }
+]

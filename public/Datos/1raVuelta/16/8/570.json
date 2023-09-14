@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.36
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    }
+]

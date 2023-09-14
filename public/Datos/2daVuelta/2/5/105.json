@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 766,
+        "candidato": "Andrés Arauz",
+        "value": 43.95
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 2107,
+        "candidato": "Andrés Arauz",
+        "value": 54.37
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 425,
+        "candidato": "Andrés Arauz",
+        "value": 28.81
+    },
+    {
+        "parroquia": "PILALÓ",
+        "id": 2865,
+        "votos": 542,
+        "candidato": "Andrés Arauz",
+        "value": 53.45
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 844,
+        "candidato": "Andrés Arauz",
+        "value": 45.52
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 4109,
+        "candidato": "Andrés Arauz",
+        "value": 58.47
+    },
+    {
+        "parroquia": "PUJILÍ",
+        "id": 5820,
+        "votos": 6306,
+        "candidato": "Andrés Arauz",
+        "value": 33.46
+    }
+]

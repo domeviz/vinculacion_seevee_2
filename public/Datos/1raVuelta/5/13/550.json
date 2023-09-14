@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.19
+    },
+    {
+        "parroquia": "ÁNGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 90,
+        "candidato": "Pedro Freile",
+        "value": 0.45
+    }
+]

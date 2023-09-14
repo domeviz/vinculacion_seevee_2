@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "PINDAL FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.06
+    }
+]

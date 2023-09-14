@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.44
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    }
+]

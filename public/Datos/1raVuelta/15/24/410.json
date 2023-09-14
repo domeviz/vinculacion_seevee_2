@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.37
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 75,
+        "candidato": "Giovanny Andrade",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 39,
+        "candidato": "Giovanny Andrade",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 63,
+        "candidato": "Giovanny Andrade",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.45
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 111,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    }
+]

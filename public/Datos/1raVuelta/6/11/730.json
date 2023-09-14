@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.41
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 1.07
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PINDAL \/FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 0.32
+    }
+]

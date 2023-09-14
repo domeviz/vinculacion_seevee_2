@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALÁN",
+        "id": 40,
+        "votos": 97,
+        "candidato": "Andrés Arauz",
+        "value": 18.03
+    },
+    {
+        "parroquia": "SAN JOSÉ DEL CHAZO",
+        "id": 45,
+        "votos": 158,
+        "candidato": "Andrés Arauz",
+        "value": 23.58
+    },
+    {
+        "parroquia": "VALPARAÍSO",
+        "id": 410,
+        "votos": 130,
+        "candidato": "Andrés Arauz",
+        "value": 44.83
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 93,
+        "candidato": "Andrés Arauz",
+        "value": 28.88
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 273,
+        "candidato": "Andrés Arauz",
+        "value": 22.05
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 90,
+        "candidato": "Andrés Arauz",
+        "value": 23.08
+    },
+    {
+        "parroquia": "SAN ANDRÉS",
+        "id": 3295,
+        "votos": 1408,
+        "candidato": "Andrés Arauz",
+        "value": 23.82
+    },
+    {
+        "parroquia": "SAN GERARDO / PAQUICAHUAN",
+        "id": 3425,
+        "votos": 315,
+        "candidato": "Andrés Arauz",
+        "value": 31.34
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 463,
+        "candidato": "Andrés Arauz",
+        "value": 20.78
+    },
+    {
+        "parroquia": "GUANO",
+        "id": 60750,
+        "votos": 2527,
+        "candidato": "Andrés Arauz",
+        "value": 22.70
+    }
+]

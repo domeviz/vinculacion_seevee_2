@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 187,
+        "candidato": "Lucio Gutiérrez",
+        "value": 7.98
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 69,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.93
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 26,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.00
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 136,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.40
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 61,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.64
+    },
+    {
+        "parroquia": "UNION MILAGRENIA",
+        "id": 1965,
+        "votos": 234,
+        "candidato": "Lucio Gutiérrez",
+        "value": 11.90
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 148,
+        "candidato": "Lucio Gutiérrez",
+        "value": 21.99
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 110,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.23
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 460,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.44
+    }
+]

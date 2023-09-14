@@ -1,0 +1,145 @@
+[
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 515,
+        "votos": 96364,
+        "votos1": 44164,
+        "fill": "#EF8A62",
+        "votos2": 52200,
+        "porcentaje1": 45.83,
+        "porcentaje2": 54.17
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 516,
+        "votos": 24717,
+        "votos1": 6895,
+        "fill": "#EF8A62",
+        "votos2": 17822,
+        "porcentaje1": 27.90,
+        "porcentaje2": 72.10
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 520,
+        "votos": 24290,
+        "votos1": 6630,
+        "fill": "#EF8A62",
+        "votos2": 17660,
+        "porcentaje1": 27.30,
+        "porcentaje2": 72.70
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 525,
+        "votos": 46515,
+        "votos1": 18934,
+        "fill": "#EF8A62",
+        "votos2": 27581,
+        "porcentaje1": 40.71,
+        "porcentaje2": 59.29
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 530,
+        "votos": 23275,
+        "votos1": 8928,
+        "fill": "#EF8A62",
+        "votos2": 14347,
+        "porcentaje1": 38.36,
+        "porcentaje2": 61.64
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 535,
+        "votos": 18731,
+        "votos1": 8052,
+        "fill": "#EF8A62",
+        "votos2": 10679,
+        "porcentaje1": 42.99,
+        "porcentaje2": 57.01
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 540,
+        "votos": 116266,
+        "votos1": 44011,
+        "fill": "#EF8A62",
+        "votos2": 72255,
+        "porcentaje1": 37.85,
+        "porcentaje2": 62.15
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 545,
+        "votos": 39726,
+        "votos1": 15942,
+        "fill": "#EF8A62",
+        "votos2": 23784,
+        "porcentaje1": 40.13,
+        "porcentaje2": 59.87
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 546,
+        "votos": 8594,
+        "votos1": 4325,
+        "fill": "#045A8D",
+        "votos2": 4269,
+        "porcentaje1": 50.33,
+        "porcentaje2": 49.67
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 710,
+        "votos": 14584,
+        "votos1": 7850,
+        "fill": "#045A8D",
+        "votos2": 6734,
+        "porcentaje1": 53.83,
+        "porcentaje2": 46.17
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 750,
+        "votos": 13312,
+        "votos1": 2582,
+        "fill": "#EF8A62",
+        "votos2": 10730,
+        "porcentaje1": 19.40,
+        "porcentaje2": 80.60
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 945,
+        "votos": 41416,
+        "votos1": 11111,
+        "fill": "#EF8A62",
+        "votos2": 30305,
+        "porcentaje1": 26.83,
+        "porcentaje2": 73.17
+    },
+    {
+        "candidato2": "Andres Arauz",
+        "candidato1": "Guillermo Lasso",
+        "id": 946,
+        "votos": 22176,
+        "votos1": 5053,
+        "fill": "#EF8A62",
+        "votos2": 17123,
+        "porcentaje1": 22.79,
+        "porcentaje2": 77.21
+    }
+]

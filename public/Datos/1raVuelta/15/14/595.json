@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.53
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.39
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.88
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.03
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    }
+]

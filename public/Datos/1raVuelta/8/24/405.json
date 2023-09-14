@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 172,
+        "candidato": "Gerson Almeida",
+        "value": 2.48
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 585,
+        "candidato": "Gerson Almeida",
+        "value": 4.73
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 633,
+        "candidato": "Gerson Almeida",
+        "value": 4.69
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 71,
+        "candidato": "Gerson Almeida",
+        "value": 4.35
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 78,
+        "candidato": "Gerson Almeida",
+        "value": 4.21
+    },
+    {
+        "parroquia": "Gerson ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 117,
+        "candidato": "Gerson Almeida",
+        "value": 3.71
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 186,
+        "candidato": "Gerson Almeida",
+        "value": 4.64
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 394,
+        "candidato": "Andrés Arauz",
+        "value": 56.61
+    },
+    {
+        "parroquia": "ATAHUALPA CAMARONES",
+        "id": 200,
+        "votos": 335,
+        "candidato": "Andrés Arauz",
+        "value": 37.85
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 2947,
+        "candidato": "Andrés Arauz",
+        "value": 56.84
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 350,
+        "candidato": "Andrés Arauz",
+        "value": 38.63
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 516,
+        "candidato": "Andrés Arauz",
+        "value": 81.26
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 372,
+        "candidato": "Andrés Arauz",
+        "value": 73.66
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 835,
+        "candidato": "Andrés Arauz",
+        "value": 59.26
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 189,
+        "candidato": "Andrés Arauz",
+        "value": 69.23
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 586,
+        "candidato": "Andrés Arauz",
+        "value": 61.30
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 298,
+        "candidato": "Andrés Arauz",
+        "value": 70.28
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 266,
+        "candidato": "Andrés Arauz",
+        "value": 34.73
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 512,
+        "candidato": "Andrés Arauz",
+        "value": 78.89
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 861,
+        "candidato": "Andrés Arauz",
+        "value": 31.96
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 566,
+        "candidato": "Andrés Arauz",
+        "value": 44.46
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PEÃ\u2018AS",
+        "id": 4595,
+        "votos": 469,
+        "candidato": "Andrés Arauz",
+        "value": 66.62
+    },
+    {
+        "parroquia": "VALDEZ LIMONES ",
+        "id": 6205,
+        "votos": 2729,
+        "candidato": "Andrés Arauz",
+        "value": 69.53
+    }
+]

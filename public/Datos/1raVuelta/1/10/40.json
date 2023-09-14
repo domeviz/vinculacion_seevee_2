@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 70,
+        "candidato": "Guillermo Lasso",
+        "value": 5.86
+    },
+    {
+        "parroquia": "GARCIA MORENO LLURIMAGUA",
+        "id": 1310,
+        "votos": 483,
+        "candidato": "Guillermo Lasso",
+        "value": 9.95
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 262,
+        "candidato": "Guillermo Lasso",
+        "value": 8.03
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 96,
+        "candidato": "Guillermo Lasso",
+        "value": 9.38
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 29,
+        "candidato": "Guillermo Lasso",
+        "value": 7.57
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 656,
+        "candidato": "Guillermo Lasso",
+        "value": 14.45
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 60,
+        "candidato": "Guillermo Lasso",
+        "value": 4.83
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 66,
+        "candidato": "Guillermo Lasso",
+        "value": 19.58
+    },
+    {
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 2093,
+        "candidato": "Guillermo Lasso",
+        "value": 18.31
+    }
+]

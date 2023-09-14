@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 64,
+        "candidato": "Gerson Almeida",
+        "value": 1.43
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 31,
+        "candidato": "Gerson Almeida",
+        "value": 0.88
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 34,
+        "candidato": "Gerson Almeida",
+        "value": 0.54
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.55
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 27,
+        "candidato": "Gerson Almeida",
+        "value": 0.46
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.76
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 16,
+        "candidato": "Gerson Almeida",
+        "value": 0.39
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 37,
+        "candidato": "Gerson Almeida",
+        "value": 0.52
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 88,
+        "candidato": "Gerson Almeida",
+        "value": 1.03
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 23,
+        "candidato": "Gerson Almeida",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 872,
+        "candidato": "Gerson Almeida",
+        "value": 1.29
+    }
+]

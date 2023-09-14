@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 40,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.91
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 39,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.61
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.61
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.23
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 79,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.09
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.08
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 373,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.51
+    },
+    {
+        "parroquia": "SAN GERARDO PAQUICAHUAN",
+        "id": 3425,
+        "votos": 73,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.83
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 161,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.11
+    },
+    {
+        "parroquia": "GUANO",
+        "id": 60750,
+        "votos": 412,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4
+    }
+]

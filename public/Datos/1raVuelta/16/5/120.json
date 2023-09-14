@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.31
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 31,
+        "candidato": "Isidro Romero",
+        "value": 0.72
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 40,
+        "candidato": "Isidro Romero",
+        "value": 1.44
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 18,
+        "candidato": "Isidro Romero",
+        "value": 0.60
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.40
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.64
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 340,
+        "candidato": "Isidro Romero",
+        "value": 0.89
+    }
+]

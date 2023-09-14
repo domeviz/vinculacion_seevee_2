@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 147,
+        "candidato": "Xavier Hervas",
+        "value": 11.50
+    },
+    {
+        "parroquia": "CHANTILÍN",
+        "id": 830,
+        "votos": 88,
+        "candidato": "Xavier Hervas",
+        "value": 14.01
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 27,
+        "candidato": "Xavier Hervas",
+        "value": 1.06
+    },
+    {
+        "parroquia": "SAQUISILÍ",
+        "id": 6070,
+        "votos": 1733,
+        "candidato": "Xavier Hervas",
+        "value": 13.79
+    }
+]

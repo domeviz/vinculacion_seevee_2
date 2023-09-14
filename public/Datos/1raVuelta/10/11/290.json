@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.42
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.72
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 61,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.24
+    }
+]

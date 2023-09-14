@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "BENITEZ  PACHANLICA",
+        "id": 335,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.44
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 365,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.06
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL ROSARIO RUMICHACA",
+        "id": 1185,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 28,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "PELILEO GRANDE R. MINO",
+        "id": 5900,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    }
+]

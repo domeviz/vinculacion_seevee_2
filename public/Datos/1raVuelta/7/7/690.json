@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.23
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.40
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.78
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 36,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.56
+    }
+]

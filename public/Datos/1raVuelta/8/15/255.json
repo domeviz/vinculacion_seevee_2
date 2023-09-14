@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 1.51
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 2.18
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.12
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 53,
+        "candidato": "Gerson Almeida",
+        "value": 1.48
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE CHANCAMA",
+        "id": 700,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 1530,
+        "votos": 109,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    },
+    {
+        "parroquia": "MALIMPIA GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 49,
+        "candidato": "Pedro Freile",
+        "value": 0.66
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 18,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 317,
+        "candidato": "Pedro Freile",
+        "value": 0.86
+    }
+]

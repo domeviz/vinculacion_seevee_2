@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.46
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.40
+    }
+]

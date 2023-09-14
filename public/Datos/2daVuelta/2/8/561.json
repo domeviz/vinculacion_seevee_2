@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 1395,
+        "candidato": "Andrés Arauz",
+        "value": 73.19
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 1243,
+        "candidato": "Andrés Arauz",
+        "value": 67.19
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 1834,
+        "candidato": "Andrés Arauz",
+        "value": 71.78
+    },
+    {
+        "parroquia": "MONTALVO / HORQUETA",
+        "id": 2445,
+        "votos": 1946,
+        "candidato": "Andrés Arauz",
+        "value": 75.43
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 2565,
+        "candidato": "Andrés Arauz",
+        "value": 74.54
+    },
+    {
+        "parroquia": "RÍO VERDE",
+        "id": 6720,
+        "votos": 2757,
+        "candidato": "Andrés Arauz",
+        "value": 70.57
+    }
+]

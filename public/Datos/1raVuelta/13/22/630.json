@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.65
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.97
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.15
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 7485,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    }
+]

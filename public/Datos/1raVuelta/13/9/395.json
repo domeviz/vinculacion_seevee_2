@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 38,
+        "candidato": "Gustavo Larrea",
+        "value": 0.77
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 25,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO CONE",
+        "id": 4275,
+        "votos": 10,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 46,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    }
+]

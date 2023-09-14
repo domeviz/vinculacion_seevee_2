@@ -1,0 +1,35 @@
+[
+    {
+        "parroquia": "JERUSALÉN",
+        "id": 1085,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "NAZÓN",
+        "id": 2545,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 1.11
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 16,
+        "candidato": "Pedro Freile",
+        "value": 2.27
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.84
+    },
+    {
+        "parroquia": "BIBLIAN",
+        "id": 5115,
+        "votos": 108,
+        "candidato": "Pedro Freile",
+        "value": 1.31
+    }
+]

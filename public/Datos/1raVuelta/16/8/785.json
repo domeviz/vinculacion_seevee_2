@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 50,
+        "candidato": "Paúl Carrasco",
+        "value": 0.89
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2130,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SUA BOCANA",
+        "id": 3880,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 22,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

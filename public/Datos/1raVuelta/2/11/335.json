@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA  LA LIBERTAD",
+        "id": 825,
+        "votos": 363,
+        "candidato": "Andrés Arauz",
+        "value": 26.25
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 581,
+        "candidato": "Andrés Arauz",
+        "value": 26.37
+    },
+    {
+        "parroquia": "PURUNUMA  EGUIGUREN",
+        "id": 3045,
+        "votos": 74,
+        "candidato": "Andrés Arauz",
+        "value": 11.14
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 218,
+        "candidato": "Andrés Arauz",
+        "value": 20.35
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 385,
+        "candidato": "Andrés Arauz",
+        "value": 16.02
+    }
+]

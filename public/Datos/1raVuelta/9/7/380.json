@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 41,
+        "candidato": "Ximena Peña",
+        "value": 2.11
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 75,
+        "candidato": "Ximena Peña",
+        "value": 1.99
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 91,
+        "candidato": "Ximena Peña",
+        "value": 3.65
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 49,
+        "candidato": "Ximena Peña",
+        "value": 2.42
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 461,
+        "candidato": "Ximena Peña",
+        "value": 2.08
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHUGA",
+        "id": 955,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.51
+    },
+    {
+        "parroquia": "MARIANO ACOSTA",
+        "id": 2380,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+        "id": 3415,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PIMAMPIRO",
+        "id": 5750,
+        "votos": 26,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    }
+]

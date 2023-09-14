@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 32,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 87,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 68,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 27,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    }
+]

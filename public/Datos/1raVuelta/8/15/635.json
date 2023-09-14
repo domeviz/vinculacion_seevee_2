@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.25
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.52
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.82
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.20
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.68
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.19
+    }
+]

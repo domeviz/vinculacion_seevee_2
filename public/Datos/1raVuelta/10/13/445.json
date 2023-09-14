@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 72,
+        "candidato": "Guillermo Celi",
+        "value": 3.47
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 1260,
+        "candidato": "Guillermo Celi",
+        "value": 4.34
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 107,
+        "candidato": "Guillermo Celi",
+        "value": 5.32
+    },
+    {
+        "parroquia": "COLORADO",
+        "id": 7490,
+        "votos": 50,
+        "candidato": "Guillermo Celi",
+        "value": 3.74
+    },
+    {
+        "parroquia": "LEONIDAS PROAÑO",
+        "id": 7495,
+        "votos": 184,
+        "candidato": "Guillermo Celi",
+        "value": 2.14
+    },
+    {
+        "parroquia": "GENERAL ELOY ALFARO DELGA",
+        "id": 7500,
+        "votos": 52,
+        "candidato": "Guillermo Celi",
+        "value": 3.09
+    }
+]

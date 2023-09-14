@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    }
+]

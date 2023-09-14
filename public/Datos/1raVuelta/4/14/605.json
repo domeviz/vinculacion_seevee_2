@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COPAL",
+        "id": 645,
+        "votos": 23,
+        "candidato": "Xavier Hervas",
+        "value": 9.43
+    },
+    {
+        "parroquia": "CHUPIANZA",
+        "id": 970,
+        "votos": 46,
+        "candidato": "Xavier Hervas",
+        "value": 13.77
+    },
+    {
+        "parroquia": "SAN FCO. DE CHINIMBIMI",
+        "id": 1365,
+        "votos": 49,
+        "candidato": "Xavier Hervas",
+        "value": 6.36
+    },
+    {
+        "parroquia": "PATUCA",
+        "id": 2795,
+        "votos": 103,
+        "candidato": "Xavier Hervas",
+        "value": 10.18
+    },
+    {
+        "parroquia": "SAN LUIS DEL ACHO",
+        "id": 3565,
+        "votos": 39,
+        "candidato": "Xavier Hervas",
+        "value": 9.85
+    },
+    {
+        "parroquia": "TAYUZA",
+        "id": 4115,
+        "votos": 99,
+        "candidato": "Xavier Hervas",
+        "value": 10.13
+    },
+    {
+        "parroquia": "MÉNDEZ",
+        "id": 5645,
+        "votos": 542,
+        "candidato": "Xavier Hervas",
+        "value": 24.04
+    }
+]

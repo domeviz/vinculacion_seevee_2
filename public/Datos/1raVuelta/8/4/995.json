@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 1520,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.55
+    },
+    {
+        "parroquia": "HUACA",
+        "id": 6665,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.21
+    }
+]

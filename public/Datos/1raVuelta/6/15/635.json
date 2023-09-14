@@ -1,0 +1,40 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.50
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.52
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.46
+    }
+]

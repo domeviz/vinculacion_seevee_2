@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 69,
+        "candidato": "Isidro Romero",
+        "value": 1.59
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 27,
+        "candidato": "Isidro Romero",
+        "value": 1.22
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 48,
+        "candidato": "Isidro Romero",
+        "value": 1.50
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 51,
+        "candidato": "Isidro Romero",
+        "value": 1.60
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 433,
+        "candidato": "Isidro Romero",
+        "value": 2.74
+    }
+]

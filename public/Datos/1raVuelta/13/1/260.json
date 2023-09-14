@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 23,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.07
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.27
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    },
+    {
+        "parroquia": "MULTI NULTI",
+        "id": 2570,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.06
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 45,
+        "candidato": "Gustavo Larrea",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.09
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.12
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.16
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 17,
+        "candidato": "Gustavo Larrea",
+        "value": 0.15
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.27
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 302,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    }
+]

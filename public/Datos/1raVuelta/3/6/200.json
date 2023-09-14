@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 591,
+        "candidato": "Yaku Pérez",
+        "value": 72.60
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 511,
+        "candidato": "Yaku Pérez",
+        "value": 60.40
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 167,
+        "candidato": "Yaku Pérez",
+        "value": 43.60
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 164,
+        "candidato": "Yaku Pérez",
+        "value": 43.39
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 972,
+        "candidato": "Yaku Pérez",
+        "value": 62.67
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 185,
+        "candidato": "Yaku Pérez",
+        "value": 40.75
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 4732,
+        "candidato": "Yaku Pérez",
+        "value": 57.27
+    },
+    {
+        "parroquia": "SAN GERARDO \/ PAQUICAHUAN",
+        "id": 3425,
+        "votos": 486,
+        "candidato": "Yaku Pérez",
+        "value": 38.82
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 1485,
+        "candidato": "Yaku Pérez",
+        "value": 56.34
+    },
+    {
+        "parroquia": "GUANO",
+        "id": 60750,
+        "votos": 4983,
+        "candidato": "Yaku Pérez",
+        "value": 41.2
+    }
+]

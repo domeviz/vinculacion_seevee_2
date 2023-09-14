@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CHUMBLIN",
+        "id": 4560,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.09
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 6565,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.56
+    }
+]

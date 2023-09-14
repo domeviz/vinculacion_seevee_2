@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.44
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.17
+    }
+]

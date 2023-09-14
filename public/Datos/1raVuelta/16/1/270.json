@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.56
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 24,
+        "candidato": "Paúl Carrasco",
+        "value": 0.40
+    }
+]

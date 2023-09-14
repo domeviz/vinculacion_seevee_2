@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 30,
+        "candidato": "Pedro Freile",
+        "value": 1.33
+    }
+]

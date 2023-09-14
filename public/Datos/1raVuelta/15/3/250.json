@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.09
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 34,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    }
+]

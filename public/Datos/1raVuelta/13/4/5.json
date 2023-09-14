@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN",
+        "id": 1125,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 44,
+        "candidato": "Gustavo Larrea",
+        "value": 2.90
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 19,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.36
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 1.52
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 85,
+        "candidato": "Gustavo Larrea",
+        "value": 0.49
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 43,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    }
+]

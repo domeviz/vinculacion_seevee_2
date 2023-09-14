@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 26,
+        "candidato": "Isidro Romero",
+        "value": 0.68
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.64
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.95
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 0.71
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SAN SIMÓN",
+        "id": 3670,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 18,
+        "candidato": "Isidro Romero",
+        "value": 1.45
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 35,
+        "candidato": "Isidro Romero",
+        "value": 0.58
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 316,
+        "candidato": "Isidro Romero",
+        "value": 0.84
+    }
+]

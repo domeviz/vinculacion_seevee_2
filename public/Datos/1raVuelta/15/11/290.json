@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.11
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 32,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    }
+]

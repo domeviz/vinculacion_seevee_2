@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 0.87
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURÁN BALLÉN",
+        "id": 1570,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.42
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 33,
+        "candidato": "Pedro Freile",
+        "value": 0.92
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 69,
+        "candidato": "Pedro Freile",
+        "value": 0.69
+    }
+]

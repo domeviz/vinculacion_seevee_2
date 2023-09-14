@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMAÑO",
+        "id": 1835,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LA TINGUE",
+        "id": 2120,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.24
+    },
+    {
+        "parroquia": "OLMEDO",
+        "id": 6730,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    }
+]

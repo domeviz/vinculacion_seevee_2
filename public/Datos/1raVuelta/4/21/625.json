@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 146,
+        "candidato": "Xavier Hervas",
+        "value": 7.92
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 233,
+        "candidato": "Xavier Hervas",
+        "value": 6.06
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 330,
+        "candidato": "Xavier Hervas",
+        "value": 7.70
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 132,
+        "candidato": "Xavier Hervas",
+        "value": 4.75
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 196,
+        "candidato": "Xavier Hervas",
+        "value": 6.48
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 77,
+        "candidato": "Xavier Hervas",
+        "value": 5.12
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 67,
+        "candidato": "Xavier Hervas",
+        "value": 6.12
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 6378,
+        "candidato": "Xavier Hervas",
+        "value": 16.73
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 17,
+        "candidato": "Ximena Peña",
+        "value": 0.89
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 1.58
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 0.72
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.94
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 150,
+        "candidato": "Ximena Peña",
+        "value": 0.97
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.61
+    }
+]

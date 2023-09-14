@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COTUNDO",
+        "id": 685,
+        "votos": 20,
+        "candidato": "Ximena Peña",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN PABLO DE USHPAYACU",
+        "id": 3605,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 0.64
+    },
+    {
+        "parroquia": "HATUN SUMAKU",
+        "id": 4630,
+        "votos": 19,
+        "candidato": "Ximena Peña",
+        "value": 1.28
+    },
+    {
+        "parroquia": "ARCHIDONA",
+        "id": 5070,
+        "votos": 60,
+        "candidato": "Ximena Peña",
+        "value": 0.60
+    }
+]

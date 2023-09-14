@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 103,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.25
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 86,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.99
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 121,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.64
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.28
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 41,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.70
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 73,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.43
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 310,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.00
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 42,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.29
+    }
+]

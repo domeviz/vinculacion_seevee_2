@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 1026,
+        "candidato": "Yaku Pérez",
+        "value": 68.77
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 347,
+        "candidato": "Yaku Pérez",
+        "value": 38.81
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 546,
+        "candidato": "Yaku Pérez",
+        "value": 48.40
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 286,
+        "candidato": "Yaku Pérez",
+        "value": 33.03
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 501,
+        "candidato": "Yaku Pérez",
+        "value": 60.00
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 1667,
+        "candidato": "Yaku Pérez",
+        "value": 37.67
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 2586,
+        "candidato": "Yaku Pérez",
+        "value": 86.66
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 500,
+        "candidato": "Yaku Pérez",
+        "value": 55.56
+    },
+    {
+        "parroquia": "TAQUIL  MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 946,
+        "candidato": "Yaku Pérez",
+        "value": 51.41
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 765,
+        "candidato": "Yaku Pérez",
+        "value": 24.70
+    },
+    {
+        "parroquia": "YANGANA   ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 258,
+        "candidato": "Yaku Pérez",
+        "value": 28.92
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 474,
+        "candidato": "Yaku Pérez",
+        "value": 55.57
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 182,
+        "candidato": "Yaku Pérez",
+        "value": 25.21
+    },
+    {
+        "parroquia": "LOJA",
+        "id":110150,
+        "votos": 27450,
+        "candidato": "Yaku Pérez",
+        "value": 22.83
+    }
+]

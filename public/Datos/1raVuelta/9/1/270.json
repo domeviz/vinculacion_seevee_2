@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 0.67
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 1.68
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 55,
+        "candidato": "Ximena Peña",
+        "value": 0.92
+    }
+]

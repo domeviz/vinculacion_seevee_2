@@ -1,0 +1,63 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 22,
+        "candidato": "Pedro Freile",
+        "value": 0.58
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.28
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 0.74
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 1.19
+    },
+    {
+        "parroquia": "SAN SIMÓN",
+        "id": 3670,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 1.08
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.64
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 46,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 686,
+        "candidato": "Pedro Freile",
+        "value": 1.9
+    }
+]

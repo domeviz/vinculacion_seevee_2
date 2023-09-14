@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 18,
+        "candidato": "César Montúfar",
+        "value": 0.62
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 42,
+        "candidato": "César Montúfar",
+        "value": 0.68
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 38,
+        "candidato": "César Montúfar",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 13,
+        "candidato": "César Montúfar",
+        "value": 0.76
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 9,
+        "candidato": "César Montúfar",
+        "value": 0.35
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 9,
+        "candidato": "César Montúfar",
+        "value": 0.51
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 44,
+        "candidato": "César Montúfar",
+        "value": 0.74
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 111,
+        "candidato": "César Montúfar",
+        "value": 0.85
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 30,
+        "candidato": "César Montúfar",
+        "value": 0.60
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 12,
+        "candidato": "César Montúfar",
+        "value": 0.53
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 14,
+        "candidato": "César Montúfar",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 81,
+        "candidato": "César Montúfar",
+        "value": 0.83
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 30,
+        "candidato": "César Montúfar",
+        "value": 0.39
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 58,
+        "candidato": "César Montúfar",
+        "value": 0.91
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 52,
+        "candidato": "César Montúfar",
+        "value": 0.92
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 10,
+        "candidato": "César Montúfar",
+        "value": 0.64
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 68,
+        "candidato": "César Montúfar",
+        "value": 0.60
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 24,
+        "candidato": "César Montúfar",
+        "value": 0.55
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 1158,
+        "candidato": "César Montúfar",
+        "value": 0.97
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 29,
+        "candidato": "Isidro Romero",
+        "value": 0.81
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 19,
+        "candidato": "Isidro Romero",
+        "value": 0.92
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 0.72
+    },
+    {
+        "parroquia": "ANDRADE MARIN LOURDES",
+        "id": 5025,
+        "votos": 37,
+        "candidato": "Isidro Romero",
+        "value": 1.20
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 122,
+        "candidato": "Isidro Romero",
+        "value": 0.96
+    }
+]

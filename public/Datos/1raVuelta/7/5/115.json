@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 24,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.88
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 27,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.30
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 247,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.96
+    }
+]

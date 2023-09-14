@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 2125,
+        "candidato": "Andrés Arauz",
+        "value": 54.90
+    },
+    {
+        "parroquia": "CAÃ\u2018AQUEMADA",
+        "id": 775,
+        "votos": 458,
+        "candidato": "Andrés Arauz",
+        "value": 64.24
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 882,
+        "candidato": "Andrés Arauz",
+        "value": 43.86
+    },
+    {
+        "parroquia": "LA PEAÃ\u2018A",
+        "id": 2075,
+        "votos": 1228,
+        "candidato": "Andrés Arauz",
+        "value": 55.67
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 354,
+        "candidato": "Andrés Arauz",
+        "value": 45.62
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 648,
+        "candidato": "Andrés Arauz",
+        "value": 51.31
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 70950,
+        "votos": 15315,
+        "candidato": "Andrés Arauz",
+        "value": 47.37
+    }
+]

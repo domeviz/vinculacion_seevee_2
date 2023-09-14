@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GOALTAL LAS JUNTAS",
+        "id": 1150,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    },
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.51
+    }
+]

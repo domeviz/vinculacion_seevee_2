@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SEVILLA",
+        "id": 1095,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SANTA ROSA DE SUCUMBIOS",
+        "id": 3750,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "NUEVA TRONCAL",
+        "id": 4740,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL DORADO DE CASCALES",
+        "id": 6325,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.09
+    }
+]

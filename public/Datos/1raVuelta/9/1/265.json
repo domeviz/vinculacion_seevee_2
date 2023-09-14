@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 12,
+        "candidato": "Ximena Peña",
+        "value": 1.28
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.53
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 43,
+        "candidato": "Ximena Peña",
+        "value": 1.66
+    },
+    {
+        "parroquia": "MARIANO MORENO CALLASAY",
+        "id": 2385,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 0.97
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 1.02
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 27,
+        "candidato": "Ximena Peña",
+        "value": 1.03
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.72
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 18,
+        "candidato": "Ximena Peña",
+        "value": 1.14
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 144,
+        "candidato": "Ximena Peña",
+        "value": 0.97
+    }
+]

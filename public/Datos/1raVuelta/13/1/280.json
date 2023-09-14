@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    }
+]

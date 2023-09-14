@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 595,
+        "candidato": "Yaku Pérez",
+        "value": 63.37
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 275,
+        "candidato": "Yaku Pérez",
+        "value": 72.56
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 1544,
+        "candidato": "Yaku Pérez",
+        "value": 59.43
+    },
+    {
+        "parroquia": "MARIANO MORENO CALLASAY",
+        "id": 2385,
+        "votos": 804,
+        "candidato": "Yaku Pérez",
+        "value": 70.71
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 272,
+        "candidato": "Yaku Pérez",
+        "value": 55.40
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 1820,
+        "candidato": "Yaku Pérez",
+        "value": 69.76
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 271,
+        "candidato": "Yaku Pérez",
+        "value": 64.83
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 995,
+        "candidato": "Yaku Pérez",
+        "value": 62.78
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 7623,
+        "candidato": "Yaku Pérez",
+        "value": 51.39
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BAQUERIZO MORENO",
+        "id": 295,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EMILIO MARIA TERAN",
+        "id": 1210,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "MARCOS ESPINEL",
+        "id": 2375,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PRESIDENTE URBINA",
+        "id": 2945,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3300,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN JOSE DE POALO",
+        "id": 3485,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SAN MIGUELITO",
+        "id": 3585,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CIUDAD NUEVA",
+        "id": 5225,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "PILLARO",
+        "id": 5785,
+        "votos": 24,
+        "candidato": "Gustavo Larrea",
+        "value": 0.23
+    }
+]

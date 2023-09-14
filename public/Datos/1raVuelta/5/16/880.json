@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSÉ",
+        "id": 2100,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.99
+    },
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.47
+    }
+]

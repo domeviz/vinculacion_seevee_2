@@ -1,0 +1,218 @@
+[
+   {
+      "id_tabla":1,
+      "prov_tabla":"AZUAY",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":56,
+      "porc_mas":47,
+      "porc_fem":52
+   },
+   {
+      "id_tabla":2,
+      "prov_tabla":"BOLIVAR",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":69,
+      "porc_mas":49,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":3,
+      "prov_tabla":"CAÑAR",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":51,
+      "porc_mas":47,
+      "porc_fem":52
+   },
+   {
+      "id_tabla":4,
+      "prov_tabla":"CARCHI",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":63,
+      "porc_mas":49,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":5,
+      "prov_tabla":"COTOPAXI",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":63,
+      "porc_mas":48,
+      "porc_fem":51
+   },
+   {
+      "id_tabla":6,
+      "prov_tabla":"CHIMBORAZO",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":65,
+      "porc_mas":47,
+      "porc_fem":52
+   },
+   {
+      "id_tabla":7,
+      "prov_tabla":"EL ORO",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":51,
+      "porc_mas":51,
+      "porc_fem":48
+   },
+   {
+      "id_tabla":8,
+      "prov_tabla":"ESMERALDAS",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":55,
+      "porc_mas":49,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":9,
+      "prov_tabla":"GUAYAS",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":53,
+      "porc_mas":52,
+      "porc_fem":47
+   },
+   {
+      "id_tabla":10,
+      "prov_tabla":"IMBABURA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":54,
+      "porc_mas":48,
+      "porc_fem":51
+   },
+   {
+      "id_tabla":11,
+      "prov_tabla":"LOJA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":67,
+      "porc_mas":48,
+      "porc_fem":51
+   },
+   {
+      "id_tabla":12,
+      "prov_tabla":"LOS RIOS",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":62,
+      "porc_mas":52,
+      "porc_fem":47
+   },
+   {
+      "id_tabla":13,
+      "prov_tabla":"MANABI",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":66,
+      "porc_mas":52,
+      "porc_fem":47
+   },
+   {
+      "id_tabla":14,
+      "prov_tabla":"MORONA SANTIAGO",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":69,
+      "porc_mas":49,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":15,
+      "prov_tabla":"NAPO",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":74,
+      "porc_mas":50,
+      "porc_fem":49
+   },
+   {
+      "id_tabla":16,
+      "prov_tabla":"PASTAZA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":73,
+      "porc_mas":48,
+      "porc_fem":51
+   },
+   {
+      "id_tabla":17,
+      "prov_tabla":"PICHINCHA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":64,
+      "porc_mas":47,
+      "porc_fem":52
+   },
+   {
+      "id_tabla":18,
+      "prov_tabla":"TUNGURAHUA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":75,
+      "porc_mas":48,
+      "porc_fem":51
+   },
+   {
+      "id_tabla":19,
+      "prov_tabla":"ZAMORA CHINCHIPE",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":69,
+      "porc_mas":50,
+      "porc_fem":49
+   },
+   {
+      "id_tabla":20,
+      "prov_tabla":"GALAPAGOS",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":65,
+      "porc_mas":51,
+      "porc_fem":48
+   },
+   {
+      "id_tabla":21,
+      "prov_tabla":"SUCUMBIOS",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":56,
+      "porc_mas":52,
+      "porc_fem":47
+   },
+   {
+      "id_tabla":22,
+      "prov_tabla":"ORELLANA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":55,
+      "porc_mas":53,
+      "porc_fem":46
+   },
+   {
+      "id_tabla":23,
+      "prov_tabla":"STO DGO TSACHILAS",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":50,
+      "porc_mas":50,
+      "porc_fem":49
+   },
+   {
+      "id_tabla":24,
+      "prov_tabla":"SANTA ELENA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":61,
+      "porc_mas":51,
+      "porc_fem":48
+   }
+]

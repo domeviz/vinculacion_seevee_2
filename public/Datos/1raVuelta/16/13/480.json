@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.36
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.37
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 115,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    }
+]

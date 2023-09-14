@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.65
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.52
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.80
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 12,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.76
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.60
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.21
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.45
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULUC",
+        "id": 3665,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.53
+    },
+    {
+        "parroquia": "URDANETA PAQUISHAPA",
+        "id": 4145,
+        "votos": 8,
+        "candidato": "Gerson Almeida",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 32,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    }
+]

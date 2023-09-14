@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.41
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "value": 0.00
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 14,
+        "candidato": "Gerson Almeida",
+        "value": 2.63
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.64
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 13,
+        "candidato": "Gerson Almeida",
+        "value": 0.28
+    }
+]

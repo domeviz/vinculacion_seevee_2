@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 157,
+        "candidato": "Xavier Hervas",
+        "value": 21.39
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 143,
+        "candidato": "Xavier Hervas",
+        "value": 15.34
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 64,
+        "candidato": "Xavier Hervas",
+        "value": 5.13
+    },
+    {
+        "parroquia": "PINDAL FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 638,
+        "candidato": "Xavier Hervas",
+        "value": 20.34
+    }
+]

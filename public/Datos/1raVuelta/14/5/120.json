@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 12,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.30
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    }
+]

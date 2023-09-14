@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMANIO",
+        "id": 1835,
+        "votos": 12,
+        "candidato": "Gerson Almeida",
+        "value": 1.08
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "value": 0.00
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.26
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.09
+    }
+]

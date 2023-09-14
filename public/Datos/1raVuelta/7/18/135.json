@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 75,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.58
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 131,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.12
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 169,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.82
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 61,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.54
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 71,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.80
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 54,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.06
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 261,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.40
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 359,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.74
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 174,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.49
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 61,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.71
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 103,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.50
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 195,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.99
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 166,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.17
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 190,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.99
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 108,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.90
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 43,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.75
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 331,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.93
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 153,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.48
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 2269,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.91
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 269,
+        "candidato": "Xavier Hervas",
+        "value": 13.87
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 394,
+        "candidato": "Xavier Hervas",
+        "value": 10.43
+    },
+    {
+        "parroquia": "RÍO BONITO",
+        "id": 2050,
+        "votos": 312,
+        "candidato": "Xavier Hervas",
+        "value": 12.53
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 201,
+        "candidato": "Xavier Hervas",
+        "value": 9.95
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 3363,
+        "candidato": "Xavier Hervas",
+        "value": 15.19
+    }
+]

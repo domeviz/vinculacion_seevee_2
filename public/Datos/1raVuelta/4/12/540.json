@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 242,
+        "candidato": "Xavier Hervas",
+        "value": 8.88
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 652,
+        "candidato": "Xavier Hervas",
+        "value": 9.33
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 4629,
+        "candidato": "Xavier Hervas",
+        "value": 10.00
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 2771,
+        "candidato": "Xavier Hervas",
+        "value": 13.57
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 396,
+        "candidato": "Xavier Hervas",
+        "value": 9.95
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 949,
+        "candidato": "Xavier Hervas",
+        "value": 9.94
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DÍAZ",
+        "id": 6645,
+        "votos": 379,
+        "candidato": "Xavier Hervas",
+        "value": 10.73
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 800,
+        "candidato": "Xavier Hervas",
+        "value": 13.57
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 816,
+        "candidato": "Xavier Hervas",
+        "value": 13.36
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 404,
+        "candidato": "Xavier Hervas",
+        "value": 10.28
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 466,
+        "candidato": "Xavier Hervas",
+        "value": 11.21
+    }
+]

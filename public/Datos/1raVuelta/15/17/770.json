@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MINDO",
+        "id": 2410,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "S. MIGUEL DE LOS BANCOS",
+        "id": 6350,
+        "votos": 17,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    }
+]

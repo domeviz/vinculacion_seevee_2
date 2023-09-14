@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 19,
+        "candidato": "Gustavo Larrea",
+        "value": 0.44
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 24,
+        "candidato": "Gustavo Larrea",
+        "value": 0.45
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 1.09
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 1.80
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 135,
+        "candidato": "Gustavo Larrea",
+        "value": 0.61
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    }
+]

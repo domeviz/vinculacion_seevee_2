@@ -1,0 +1,38 @@
+[
+    {
+        "candidato2": "Xavier Hervas",
+        "candidato1": "Yaku Pérez",
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 1176,
+        "votos1": 749,
+        "fill": "#9B59B6",
+        "votos2": 162,
+        "porcentaje1": 63.69,
+        "porcentaje2": 13.78
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Yaku Pérez",
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 697,
+        "votos1": 515,
+        "fill": "#9B59B6",
+        "votos2": 79,
+        "porcentaje1": 73.89,
+        "porcentaje2": 11.33
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Yaku Pérez",
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 2282,
+        "votos1": 1605,
+        "fill": "#9B59B6",
+        "votos2": 279,
+        "porcentaje1": 70.33,
+        "porcentaje2": 12.23
+    }
+]

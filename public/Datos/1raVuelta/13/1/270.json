@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 10,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    }
+]

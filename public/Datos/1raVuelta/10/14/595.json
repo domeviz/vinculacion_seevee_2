@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "value": 0.00
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "value": 0.00
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "value": 0.00
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.66
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "value": 0.00
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 13,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.41
+    }
+]

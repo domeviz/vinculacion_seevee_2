@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 184,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.82
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 51,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.62
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 79,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.25
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 39,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.38
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 71,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.02
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 76,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.15
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 98,
+        "candidato": "Lucio Gutiérrez",
+        "value": 7.90
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 72,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.19
+    },
+     {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 828,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.16
+    }
+]

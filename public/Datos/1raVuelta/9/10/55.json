@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 27,
+        "candidato": "Ximena Peña",
+        "value": 2.18
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 1.38
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 31,
+        "candidato": "Ximena Peña",
+        "value": 2.46
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 24,
+        "candidato": "Ximena Peña",
+        "value": 1.39
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 19,
+        "candidato": "Ximena Peña",
+        "value": 1.85
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 60,
+        "candidato": "Ximena Peña",
+        "value": 1.34
+    }
+]

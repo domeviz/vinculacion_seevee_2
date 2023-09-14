@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 1.88
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 2.16
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 158,
+        "candidato": "Pedro Freile",
+        "value": 1.35
+    }
+]

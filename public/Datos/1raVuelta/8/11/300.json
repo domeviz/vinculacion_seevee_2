@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.34
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.45
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.58
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.60
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 44,
+        "candidato": "Gerson Almeida",
+        "value": 0.99
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.67
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.29
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 8,
+        "candidato": "Gerson Almeida",
+        "value": 0.90
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 1464,
+        "candidato": "Gerson Almeida",
+        "value": 1.21
+    }
+]

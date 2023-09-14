@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ZAPOTAL",
+        "id": 4330,
+        "votos": 285,
+        "candidato": "Xavier Hervas",
+        "value": 6.31
+    },
+    {
+        "parroquia": "LOS ÁNGELES",
+        "id": 4585,
+        "votos": 54,
+        "candidato": "Xavier Hervas",
+        "value": 6.09
+    },
+    {
+        "parroquia": "CHACARITA",
+        "id": 4590,
+        "votos": 39,
+        "candidato": "Xavier Hervas",
+        "value": 4.47
+    },
+    {
+        "parroquia": "VENTANAS",
+        "id": 6235,
+        "votos": 3319,
+        "candidato": "Xavier Hervas",
+        "value": 10.10
+    },
+    {
+        "parroquia": "10-nov",
+        "id": 7480,
+        "votos": 98,
+        "candidato": "Xavier Hervas",
+        "value": 7.52
+    }
+]

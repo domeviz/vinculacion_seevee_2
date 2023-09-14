@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.55
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.07
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.20
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 33,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.81
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.91
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.42
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.18
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 84,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.29
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 86,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.30
+    }
+]

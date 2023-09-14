@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 14,
+        "candidato": "Gustavo Larrea",
+        "value": 0.55
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 101,
+        "candidato": "Gustavo Larrea",
+        "value": 0.37
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MEMBRILLO",
+        "id": 240,
+        "votos": 43,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.80
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3110,
+        "votos": 36,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.31
+    },
+    {
+        "parroquia": "CALCETA",
+        "id": 5150,
+        "votos": 238,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.09
+    }
+]

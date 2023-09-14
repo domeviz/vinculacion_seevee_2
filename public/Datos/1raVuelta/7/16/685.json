@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 61,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.78
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 150,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.34
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 33,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.70
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 19,
+        "candidato": "Giovanny Andrade",
+        "value": 0.38
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 19,
+        "candidato": "Giovanny Andrade",
+        "value": 0.76
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 78,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    }
+]

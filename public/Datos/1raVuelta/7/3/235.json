@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "COJITAMBO",
+        "id": 585,
+        "votos": 28,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.42
+    },
+    {
+        "parroquia": "GUAPAN",
+        "id": 1445,
+        "votos": 64,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.45
+    },
+    {
+        "parroquia": "JAVIER LOYOLA CHUQUIPATA",
+        "id": 1825,
+        "votos": 70,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.85
+    },
+    {
+        "parroquia": "LUIS CORDERO",
+        "id": 2220,
+        "votos": 32,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.79
+    },
+    {
+        "parroquia": "PINDILIG",
+        "id": 2885,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.24
+    },
+    {
+        "parroquia": "RIVERA",
+        "id": 3210,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.20
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 3575,
+        "votos": 28,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.42
+    },
+    {
+        "parroquia": "TADAY",
+        "id": 3945,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.74
+    },
+    {
+        "parroquia": "AZOGUES",
+        "id": 5065,
+        "votos": 235,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.02
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5950,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.42
+    },
+    {
+        "parroquia": "BORRERO",
+        "id": 6790,
+        "votos": 44,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.81
+    },
+    {
+        "parroquia": "AURELIO BAYAS MARTINEZ",
+        "id": 6845,
+        "votos": 44,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.88
+    }
+]

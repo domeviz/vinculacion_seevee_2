@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 69,
+        "candidato": "Pedro Freile",
+        "value": 0.99
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 119,
+        "candidato": "Pedro Freile",
+        "value": 0.96
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 169,
+        "candidato": "Pedro Freile",
+        "value": 1.25
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 1.47
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 1.40
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 0.82
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 0.65
+    }
+]

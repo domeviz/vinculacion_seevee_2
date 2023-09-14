@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.56
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.62
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.44
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.05
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    },
+    {
+        "parroquia": "YANGANA   ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 174,
+        "candidato": "Giovanny Andrade",
+        "value":  0.14
+    }
+]

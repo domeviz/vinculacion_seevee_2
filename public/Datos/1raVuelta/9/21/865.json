@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 0.84
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 20,
+        "candidato": "Ximena Peña",
+        "value": 0.88
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 1.10
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 13,
+        "candidato": "Ximena Peña",
+        "value": 0.58
+    }
+]

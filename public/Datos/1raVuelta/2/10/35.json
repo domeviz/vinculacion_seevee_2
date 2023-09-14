@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 1935,
+        "candidato": "Andrés Arauz",
+        "value": 48.99
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 2062,
+        "candidato": "Andrés Arauz",
+        "value": 47.27
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 1618,
+        "candidato": "Andrés Arauz",
+        "value": 39.36
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 37,
+        "candidato": "Andrés Arauz",
+        "value": 13.81
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 1623,
+        "candidato": "Andrés Arauz",
+        "value": 31.31
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 1918,
+        "candidato": "Andrés Arauz",
+        "value": 38.84
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 1981,
+        "candidato": "Andrés Arauz",
+        "value": 29.81
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 1778,
+        "candidato": "Andrés Arauz",
+        "value": 54.22
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 246,
+        "candidato": "Andrés Arauz",
+        "value": 22.26
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 11414,
+        "candidato": "Andrés Arauz",
+        "value": 32.10
+    }
+]

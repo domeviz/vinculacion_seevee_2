@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DÍAZ DE PINEDA",
+        "id": 1020,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 1.72
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.87
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.12
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 1.07
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 35,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 69,
+        "candidato": "Xavier Hervas",
+        "value": 3.67
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 93,
+        "candidato": "Xavier Hervas",
+        "value": 4.10
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 4719,
+        "candidato": "Xavier Hervas",
+        "value": 21.18
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 8834,
+        "candidato": "Xavier Hervas",
+        "value": 17.57
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 138,
+        "candidato": "Xavier Hervas",
+        "value": 4.99
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 9059,
+        "candidato": "Xavier Hervas",
+        "value": 18.16
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 3397,
+        "candidato": "Xavier Hervas",
+        "value": 15.26
+    }
+]

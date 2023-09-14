@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 123,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.17
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 441,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.57
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 200,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.86
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 299,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.56
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 1254,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.92
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 0.94
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 29,
+        "candidato": "Isidro Romero",
+        "value": 0.65
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 0.57
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 47,
+        "candidato": "Isidro Romero",
+        "value": 1.07
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 18,
+        "candidato": "Isidro Romero",
+        "value": 0.89
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 210,
+        "candidato": "Isidro Romero",
+        "value": 0.90
+    }
+]

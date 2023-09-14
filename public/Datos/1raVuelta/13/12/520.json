@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 32,
+        "candidato": "Gustavo Larrea",
+        "value": 0.84
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.38
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 54,
+        "candidato": "Gustavo Larrea",
+        "value": 0.37
+    }
+]

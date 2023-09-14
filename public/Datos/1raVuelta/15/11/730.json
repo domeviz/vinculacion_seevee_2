@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.54
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.64
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PINDAL FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COTOGCHOA",
+        "id": 680,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.31
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 3230,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 1.26
+    },
+    {
+        "parroquia": "SANGOLQUI",
+        "id": 5965,
+        "votos": 411,
+        "candidato": "Gerson Almeida",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 6600,
+        "votos": 106,
+        "candidato": "Gerson Almeida",
+        "value": 0.84
+    },
+    {
+        "parroquia": "SAN PEDRO DE TABOADA",
+        "id": 6605,
+        "votos": 64,
+        "candidato": "Gerson Almeida",
+        "value": 1.17
+    },
+    {
+        "parroquia": "FAJARDO",
+        "id": 7535,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.68
+    }
+]

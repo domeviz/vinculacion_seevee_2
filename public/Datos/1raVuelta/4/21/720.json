@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 230,
+        "candidato": "Xavier Hervas",
+        "value": 12.00
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 322,
+        "candidato": "Xavier Hervas",
+        "value": 12.61
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 82,
+        "candidato": "Xavier Hervas",
+        "value": 3.23
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 7,
+        "candidato": "Xavier Hervas",
+        "value": 1.75
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 97,
+        "candidato": "Xavier Hervas",
+        "value": 4.94
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 2512,
+        "candidato": "Xavier Hervas",
+        "value": 13.58
+    }
+]

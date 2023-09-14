@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "HUASAGA WAMPUIK",
+        "id": 595,
+        "votos": 5,
+        "candidato": "Xavier Hervas",
+        "value": 0.52
+    },
+    {
+        "parroquia": "TUTINENTZA",
+        "id": 1205,
+        "votos": 14,
+        "candidato": "Xavier Hervas",
+        "value": 0.56
+    },
+    {
+        "parroquia": "MACUMA",
+        "id": 2285,
+        "votos": 25,
+        "candidato": "Xavier Hervas",
+        "value": 0.93
+    },
+    {
+        "parroquia": "PUMPUENTSA",
+        "id": 4575,
+        "votos": 3,
+        "candidato": "Xavier Hervas",
+        "value": 0.25
+    },
+    {
+        "parroquia": "TAISHA",
+        "id": 6700,
+        "votos": 139,
+        "candidato": "Xavier Hervas",
+        "value": 4.28
+    }
+]

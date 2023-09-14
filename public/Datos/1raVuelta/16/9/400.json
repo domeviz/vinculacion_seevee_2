@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.49
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.06
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 136,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 23,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    }
+]

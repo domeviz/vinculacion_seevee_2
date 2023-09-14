@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 1.05
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 53,
+        "candidato": "Isidro Romero",
+        "value": 1.80
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 440,
+        "candidato": "Isidro Romero",
+        "value": 1.80
+    }
+]

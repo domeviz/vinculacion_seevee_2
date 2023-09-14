@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 607,
+        "candidato": "Yaku Pérez",
+        "value": 47.53
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 1385,
+        "candidato": "Yaku Pérez",
+        "value": 30.81
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 335,
+        "candidato": "Yaku Pérez",
+        "value": 27.41
+    }
+]

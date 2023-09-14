@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 21,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 20,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 82,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 75,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 112,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 83,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 42,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    }
+]

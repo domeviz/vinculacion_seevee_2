@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 145,
+        "candidato": "Isidro Romero",
+        "value": 3.82
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 161,
+        "candidato": "Isidro Romero",
+        "value": 3.85
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 471,
+        "candidato": "Isidro Romero",
+        "value": 3.24
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 74,
+        "candidato": "Yaku Pérez",
+        "value": 3.40
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 234,
+        "candidato": "Yaku Pérez",
+        "value": 7.74
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 186,
+        "candidato": "Yaku Pérez",
+        "value": 5.50
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 101,
+        "candidato": "Yaku Pérez",
+        "value": 4.11
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 210,
+        "candidato": "Yaku Pérez",
+        "value": 5.95
+    },
+    {
+        "parroquia": "SAN ANTONIO   DEL PELUDO",
+        "id": 3350,
+        "votos": 153,
+        "candidato": "Yaku Pérez",
+        "value": 3.13
+    },
+    {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 2953,
+        "candidato": "Yaku Pérez",
+        "value": 5.64
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 1.15
+    },
+    {
+        "parroquia": "ATAHUALPA CAMARONES",
+        "id": 200,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.45
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN JOSÉ DE CAYAPAS",
+        "id": 1505,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    },
+    {
+        "parroquia": "COLÓN ELOY DE MARÍA",
+        "id": 1510,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.20
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.50
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLÍVAR",
+        "id": 2670,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.94
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.52
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.62
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+        "id": 4595,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.99
+    },
+    {
+        "parroquia": "VALDÉZ LIMONES",
+        "id": 6205,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.25
+    }
+]

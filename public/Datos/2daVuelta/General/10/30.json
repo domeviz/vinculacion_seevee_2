@@ -1,0 +1,98 @@
+[
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "AMBUQUI CHOTA",
+        "id": 100,
+        "votos": 3449,
+        "votos1": 1018,
+        "votos2": 2431,
+        "fill": "#EF8A62",
+        "porcentaje1": 29.52,
+        "porcentaje2": 70.48
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 2274,
+        "votos1": 994,
+        "votos2": 1280,
+        "fill": "#EF8A62",
+        "porcentaje1": 43.71,
+        "porcentaje2": 56.29
+    },
+    {
+       "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "CAROLINA GUALLUPI",
+        "id": 530,
+        "votos": 1508,
+        "votos1":535 ,
+        "votos2": 973,
+        "fill": "#EF8A62",
+        "porcentaje1": 35.48,
+        "porcentaje2": 64.52
+    },
+    {
+       "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 4390,
+        "votos1": 1947,
+        "votos2": 2443,
+        "fill": "#EF8A62",
+        "porcentaje1": 44.35,
+        "porcentaje2": 55.64
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 3449,
+        "votos1": 929,
+        "votos2": 1172,
+        "fill": "#EF8A62",
+        "porcentaje1": 44.22,
+        "porcentaje2": 55.78
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 1183,
+        "votos1": 346,
+        "votos2": 837,
+        "fill": "#EF8A62",
+        "porcentaje1": 29.25,
+        "porcentaje2": 70.75
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 10200,
+        "votos1": 6010,
+        "votos2": 4190,
+        "fill": "#045A8D",
+        "porcentaje1": 58.92,
+        "porcentaje2": 41.08
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 89589,
+        "votos1": 59310,
+        "votos2": 30279,
+        "fill": "#045A8D",
+        "porcentaje1": 59.22,
+        "porcentaje2": 30.23
+    }
+]

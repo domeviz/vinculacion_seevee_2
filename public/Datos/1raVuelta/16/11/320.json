@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.38
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.43
+    }
+]

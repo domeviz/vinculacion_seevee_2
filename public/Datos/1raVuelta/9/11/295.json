@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 1.40
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 1.26
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 1.15
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 2.15
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 24,
+        "candidato": "Ximena Peña",
+        "value": 1.52
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 1.27
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 44,
+        "candidato": "Ximena Peña",
+        "value": 1.36
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 51,
+        "candidato": "Guillermo Lasso",
+        "value": 7.62
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 222,
+        "candidato": "Guillermo Lasso",
+        "value": 12.16
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 70,
+        "candidato": "Guillermo Lasso",
+        "value": 15.95
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 53,
+        "candidato": "Guillermo Lasso",
+        "value": 8.01
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 226,
+        "candidato": "Guillermo Lasso",
+        "value": 11.58
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 867,
+        "candidato": "Guillermo Lasso",
+        "value": 13.31
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 736,
+        "candidato": "Guillermo Lasso",
+        "value": 11.15
+    }
+]

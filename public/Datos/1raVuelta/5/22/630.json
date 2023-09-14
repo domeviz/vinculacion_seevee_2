@@ -1,0 +1,42 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 1.95
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "YASUNÍ",
+        "id": 4295,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.42
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.30
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 7485,
+        "votos": 12,
+        "candidato": "Pedro Freile",
+        "value": 1.22
+    }
+]

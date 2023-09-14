@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.15
+    },
+    {
+        "parroquia": "MARIANO MORENO CALLASAY",
+        "id": 2385,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.72
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.50
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 51,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    }
+]

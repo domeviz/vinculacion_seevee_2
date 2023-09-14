@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CUYABENO",
+        "id": 760,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "AGUAS NEGRAS",
+        "id": 1555,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.10
+    },
+    {
+        "parroquia": "TARAPOA",
+        "id": 6765,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.28
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.70
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SANTA MARIA",
+        "id": 3632,
+        "votos": 41,
+        "candidato": "Gustavo Larrea",
+        "value": 0.76
+    },
+    {
+        "parroquia": "EL PARAISO LA 14",
+        "id": 3635,
+        "votos": 44,
+        "candidato": "Gustavo Larrea",
+        "value": 0.72
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 234,
+        "candidato": "Gustavo Larrea",
+        "value": 0.50
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 12,
+        "candidato": "Gustavo Larrea",
+        "value": 0.60
+    }
+]

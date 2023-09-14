@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDÓN CALDERÓN / LA UNIÓN",
+        "id": 15,
+        "votos": 682,
+        "candidato": "Guillermo Lasso",
+        "value": 52.14
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 355,
+        "candidato": "Guillermo Lasso",
+        "value": 44.71
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 87,
+        "candidato": "Guillermo Lasso",
+        "value": 56.86
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 3184,
+        "candidato": "Guillermo Lasso",
+        "value": 52.59
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHITO",
+        "id": 915,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL CHORRO",
+        "id": 1145,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA CHONTA",
+        "id": 2015,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 2110,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 1.09
+    },
+    {
+        "parroquia": "PUCAPAMBA",
+        "id": 2955,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ZUMBA",
+        "id": 6315,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    }
+]

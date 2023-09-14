@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA LA LIBERTAD",
+        "id": 825,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.80
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 20,
+        "candidato": "Pedro Freile",
+        "value": 0.91
+    },
+    {
+        "parroquia": "PURUNUMA EGUIGUREN",
+        "id": 3045,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.75
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.75
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 1.00
+    }
+]

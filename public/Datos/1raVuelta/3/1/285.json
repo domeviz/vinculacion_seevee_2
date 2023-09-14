@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON LA UNION",
+        "id": 15,
+        "votos": 939,
+        "candidato": "Yaku Pérez",
+        "value": 51.65
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 734,
+        "candidato": "Yaku Pérez",
+        "value": 67.03
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 340,
+        "candidato": "Yaku Pérez",
+        "value": 82.73
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 5577,
+        "candidato": "Yaku Pérez",
+        "value": 59.33
+    }
+]

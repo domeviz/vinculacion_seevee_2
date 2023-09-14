@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 25,
+        "candidato": "Carlos Sagnay",
+        "value": 0.76
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 33,
+        "candidato": "Carlos Sagnay",
+        "value": 0.69
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 27,
+        "candidato": "Carlos Sagnay",
+        "value": 0.94
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.75
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 101,
+        "candidato": "Carlos Sagnay",
+        "value": 0.85
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 29,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    },
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 16,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

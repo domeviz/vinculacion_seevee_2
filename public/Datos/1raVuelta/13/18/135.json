@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 17,
+        "candidato": "Gustavo Larrea",
+        "value": 0.58
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 14,
+        "candidato": "Gustavo Larrea",
+        "value": 0.23
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 0.43
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.52
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.24
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.11
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 31,
+        "candidato": "Gustavo Larrea",
+        "value": 0.24
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 54,
+        "candidato": "Gustavo Larrea",
+        "value": 0.55
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 22,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 57,
+        "candidato": "Gustavo Larrea",
+        "value": 0.50
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.16
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 253,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    }
+]

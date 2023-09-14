@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.06
+    }
+]

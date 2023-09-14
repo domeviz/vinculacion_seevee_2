@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 313,
+        "candidato": "Yaku Pérez",
+        "value": 3.49
+    },
+    {
+        "parroquia": "ALHAJUELA  BAJO GRANDE",
+        "id": 50,
+        "votos": 131,
+        "candidato": "Yaku Pérez",
+        "value": 4.25
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 552,
+        "candidato": "Yaku Pérez",
+        "value": 7.11
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 34,
+        "candidato": "Yaku Pérez",
+        "value": 2.37
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 64,
+        "candidato": "Yaku Pérez",
+        "value": 2.80
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 230,
+        "candidato": "Yaku Pérez",
+        "value": 3.12
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 203,
+        "candidato": "Yaku Pérez",
+        "value": 3.75
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 1710,
+        "candidato": "Yaku Pérez",
+        "value": 3.53
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 341,
+        "candidato": "Yaku Pérez",
+        "value": 2.83
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 754,
+        "candidato": "Yaku Pérez",
+        "value": 3.01
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 729,
+        "candidato": "Yaku Pérez",
+        "value": 3.61
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 684,
+        "candidato": "Yaku Pérez",
+        "value": 5.15
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 151,
+        "candidato": "Yaku Pérez",
+        "value": 2.88
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 226,
+        "candidato": "Yaku Pérez",
+        "value": 3.14
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 197,
+        "candidato": "Yaku Pérez",
+        "value": 3.68
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 91,
+        "candidato": "Yaku Pérez",
+        "value": 3.32
+    }
+]

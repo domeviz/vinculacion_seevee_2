@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.42
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 20,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.63
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 2,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.38
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 24,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.84
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 83,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.78
+    }
+]

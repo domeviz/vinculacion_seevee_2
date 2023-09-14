@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 5,
+        "candidato": "Juan Velasco",
+        "value": 0.61
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 1,
+        "candidato": "Juan Velasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 3,
+        "candidato": "Juan Velasco",
+        "value": 0.78
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 1,
+        "candidato": "Juan Velasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 9,
+        "candidato": "Juan Velasco",
+        "value": 0.58
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 0,
+        "candidato": "Juan Velasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 29,
+        "candidato": "Juan Velasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN GERARDO PAQUICAHUAN",
+        "id": 3425,
+        "votos": 18,
+        "candidato": "Juan Velasco",
+        "value": 1.44
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 14,
+        "candidato": "Juan Velasco",
+        "value": 0.53
+    },
+    {
+        "parroquia": "GUANO",
+        "id": 60750,
+        "votos": 76,
+        "candidato": "Juan Velasco",
+        "value": 0.67
+    }
+]

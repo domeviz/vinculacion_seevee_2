@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 70,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.34
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 65,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.90
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 130,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.63
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 223,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.23
+    }
+]

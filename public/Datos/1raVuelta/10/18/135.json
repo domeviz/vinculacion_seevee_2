@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 23,
+        "candidato": "Guillermo Celi",
+        "value": 0.79
+    },
+    {
+        "parroquia": "ATAHUALPA  CHIPZALATA",
+        "id": 190,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.48
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 32,
+        "candidato": "Guillermo Celi",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 13,
+        "candidato": "Guillermo Celi",
+        "value": 0.76
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.55
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 32,
+        "candidato": "Guillermo Celi",
+        "value": 0.54
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 91,
+        "candidato": "Guillermo Celi",
+        "value": 0.69
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 56,
+        "candidato": "Guillermo Celi",
+        "value": 1.12
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 25,
+        "candidato": "Guillermo Celi",
+        "value": 1.11
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 17,
+        "candidato": "Guillermo Celi",
+        "value": 0.41
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 64,
+        "candidato": "Guillermo Celi",
+        "value": 0.65
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 54,
+        "candidato": "Guillermo Celi",
+        "value": 0.70
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 29,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 34,
+        "candidato": "Guillermo Celi",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 1.02
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 137,
+        "candidato": "Guillermo Celi",
+        "value": 1.21
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 22,
+        "candidato": "Guillermo Celi",
+        "value": 0.50
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 644,
+        "candidato": "Guillermo Celi",
+        "value": 0.54
+    }
+]

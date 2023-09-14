@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.09
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULÁN / J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 376,
+        "candidato": "Andrés Arauz",
+        "value": 67.99
+    },
+    {
+        "parroquia": "CHICÁN / GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 369,
+        "candidato": "Andrés Arauz",
+        "value": 54.59
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 260,
+        "candidato": "Andrés Arauz",
+        "value": 60.75
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 231,
+        "candidato": "Andrés Arauz",
+        "value": 60.47
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 400,
+        "candidato": "Andrés Arauz",
+        "value": 54.50
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 362,
+        "candidato": "Andrés Arauz",
+        "value": 73.58
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 336,
+        "candidato": "Andrés Arauz",
+        "value": 54.90
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 3544,
+        "candidato": "Andrés Arauz",
+        "value": 53.44
+    }
+]

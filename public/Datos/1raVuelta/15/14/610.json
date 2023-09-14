@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 13,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    }
+]

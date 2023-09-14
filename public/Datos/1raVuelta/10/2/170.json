@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 15,
+        "candidato": "Guillermo Celi",
+        "value": 0.99
+    },
+    {
+        "parroquia": "MAGDALENA CHAPACOTO",
+        "id": 2315,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.72
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 1.00
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 21,
+        "candidato": "Guillermo Celi",
+        "value": 0.48
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 44,
+        "candidato": "Carlos Sagnay",
+        "value": 1.02
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 30,
+        "candidato": "Carlos Sagnay",
+        "value": 0.56
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 24,
+        "candidato": "Carlos Sagnay",
+        "value": 0.94
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.73
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 1.20
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 128,
+        "candidato": "Carlos Sagnay",
+        "value": 0.58
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 1.85
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

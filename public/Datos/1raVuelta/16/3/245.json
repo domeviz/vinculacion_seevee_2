@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JERUSALEN",
+        "id": 1085,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "NAZON",
+        "id": 2545,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.42
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.56
+    },
+    {
+        "parroquia": "BIBLIAN",
+        "id": 5115,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    }
+]

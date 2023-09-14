@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MEMBRILLO",
+        "id": 240,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.38
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3110,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.25
+    },
+    {
+        "parroquia": "CALCETA",
+        "id": 5150,
+        "votos": 40,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    }
+]

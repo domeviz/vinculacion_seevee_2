@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 115,
+        "candidato": "Xavier Hervas",
+        "value": 9.62
+    },
+    {
+        "parroquia": "GARCÍA MORENO LLURIMAGUA",
+        "id": 1310,
+        "votos": 346,
+        "candidato": "Xavier Hervas",
+        "value": 7.13
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 324,
+        "candidato": "Xavier Hervas",
+        "value": 9.94
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 88,
+        "candidato": "Xavier Hervas",
+        "value": 8.60
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 28,
+        "candidato": "Xavier Hervas",
+        "value": 7.31
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 841,
+        "candidato": "Xavier Hervas",
+        "value": 18.52
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 142,
+        "candidato": "Xavier Hervas",
+        "value": 11.42
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 30,
+        "candidato": "Xavier Hervas",
+        "value": 8.90
+    },
+    {
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 1685,
+        "candidato": "Xavier Hervas",
+        "value": 14.74
+    }
+]

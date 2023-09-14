@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 1.00
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.54
+    },
+    {
+        "parroquia": "EL LIMO MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.84
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 0.91
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 1.45
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 69,
+        "candidato": "Ximena Peña",
+        "value": 1.18
+    }
+]

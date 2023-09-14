@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 126,
+        "candidato": "Ximena Peña",
+        "value": 2.23
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2130,
+        "votos": 40,
+        "candidato": "Ximena Peña",
+        "value": 2.67
+    },
+    {
+        "parroquia": "SUA BOCANA",
+        "id": 3880,
+        "votos": 54,
+        "candidato": "Ximena Peña",
+        "value": 2.56
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 131,
+        "candidato": "Ximena Peña",
+        "value": 2.80
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 267,
+        "candidato": "Ximena Peña",
+        "value": 2.49
+    }
+]

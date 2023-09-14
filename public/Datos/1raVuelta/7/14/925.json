@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN JACINTO DE WAKAMBEIS",
+        "id": 710,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SANTIAGO DE PANANZA",
+        "id": 1785,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.37
+    },
+    {
+        "parroquia": "PAN DE AZUCAR",
+        "id": 2750,
+        "votos": 2,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SAN CARLOS DE LIMON",
+        "id": 3920,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SAN JUAN BOSCO",
+        "id": 6445,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.54
+    }
+]

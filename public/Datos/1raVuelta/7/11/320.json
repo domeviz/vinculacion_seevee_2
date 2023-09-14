@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 19,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.80
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 42,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.23
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 15,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.82
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.02
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 123,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.24
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 27,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.48
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.72
+    }
+]

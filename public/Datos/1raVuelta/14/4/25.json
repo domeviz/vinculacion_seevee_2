@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.07
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    }
+]

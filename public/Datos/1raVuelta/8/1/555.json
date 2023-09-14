@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN RAFAEL DE SHARUG",
+        "id": 1690,
+        "votos": 10,
+        "candidato": "Gerson Almeida",
+        "value": 1.22
+    },
+    {
+        "parroquia": "PUCARA",
+        "id": 5690,
+        "votos": 30,
+        "candidato": "Gerson Almeida",
+        "value": 0.65
+    }
+]

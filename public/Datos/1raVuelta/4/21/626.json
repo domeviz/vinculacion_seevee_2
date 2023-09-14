@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CUYABENO",
+        "id": 760,
+        "votos": 5,
+        "candidato": "Xavier Hervas",
+        "value": 1.45
+    },
+    {
+        "parroquia": "AGUAS NEGRAS",
+        "id": 1555,
+        "votos": 44,
+        "candidato": "Xavier Hervas",
+        "value": 4.59
+    },
+    {
+        "parroquia": "TARAPOA",
+        "id": 6765,
+        "votos": 159,
+        "candidato": "Xavier Hervas",
+        "value": 4.42
+    }
+]

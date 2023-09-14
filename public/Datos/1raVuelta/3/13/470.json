@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 191,
+        "candidato": "Yaku Pérez",
+        "value": 4.40
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 60,
+        "candidato": "Yaku Pérez",
+        "value": 2.72
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 152,
+        "candidato": "Yaku Pérez",
+        "value": 4.74
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 95,
+        "candidato": "Yaku Pérez",
+        "value": 2.97
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 1015,
+        "candidato": "Yaku Pérez",
+        "value": 6.43
+    }
+]

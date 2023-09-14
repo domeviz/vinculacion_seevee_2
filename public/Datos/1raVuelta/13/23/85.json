@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 17,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 29,
+        "candidato": "Gustavo Larrea",
+        "value": 0.62
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 29,
+        "candidato": "Gustavo Larrea",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 60,
+        "candidato": "Gustavo Larrea",
+        "value": 0.91
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 25,
+        "candidato": "Gustavo Larrea",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 18,
+        "candidato": "Gustavo Larrea",
+        "value": 0.69
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 48,
+        "candidato": "Gustavo Larrea",
+        "value": 0.80
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 159,
+        "candidato": "Gustavo Larrea",
+        "value": 0.58
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 173,
+        "candidato": "Gustavo Larrea",
+        "value": 0.43
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 197,
+        "candidato": "Gustavo Larrea",
+        "value": 0.42
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 76,
+        "candidato": "Gustavo Larrea",
+        "value": 1.12
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 229,
+        "candidato": "Gustavo Larrea",
+        "value": 0.48
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 107,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 0.42
+    }
+]

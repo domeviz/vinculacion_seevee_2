@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 20,
+        "candidato": "Guillermo Celi",
+        "value": 0.23
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.28
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 102,
+        "candidato": "Guillermo Celi",
+        "value": 0.33
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    }
+]

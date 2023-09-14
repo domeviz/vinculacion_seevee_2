@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.40
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 15,
+        "candidato": "Gerson Almeida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 8,
+        "candidato": "Gerson Almeida",
+        "value": 0.45
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.08
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 13,
+        "candidato": "Gerson Almeida",
+        "value": 0.63
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 74,
+        "candidato": "Gerson Almeida",
+        "value": 0.83
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 155,
+        "candidato": "Gerson Almeida",
+        "value": 0.63
+    }
+]

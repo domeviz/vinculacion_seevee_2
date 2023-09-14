@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 455,
+        "votos": 83,
+        "candidato": "Xavier Hervas",
+        "value": 23.31
+    },
+    {
+        "parroquia": "NUEVO QUITO",
+        "id": 1120,
+        "votos": 239,
+        "candidato": "Xavier Hervas",
+        "value": 24.51
+    },
+    {
+        "parroquia": "PAQUISHA",
+        "id": 6885,
+        "votos": 485,
+        "candidato": "Xavier Hervas",
+        "value": 30.85
+    }
+]

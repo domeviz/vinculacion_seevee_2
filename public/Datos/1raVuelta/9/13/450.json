@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 57,
+        "candidato": "Ximena Peña",
+        "value": 3.04
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 65,
+        "candidato": "Ximena Peña",
+        "value": 2.87
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 295,
+        "candidato": "Ximena Peña",
+        "value": 1.32
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 734,
+        "candidato": "Ximena Peña",
+        "value": 1.46
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 105,
+        "candidato": "Ximena Peña",
+        "value": 3.79
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 729,
+        "candidato": "Ximena Peña",
+        "value": 1.46
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 390,
+        "candidato": "Ximena Peña",
+        "value": 1.75
+    }
+]

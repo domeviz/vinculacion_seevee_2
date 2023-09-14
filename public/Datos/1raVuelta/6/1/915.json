@@ -1,0 +1,35 @@
+[
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 1535,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SAN MARTÍN DE PUZHIO",
+        "id": 1575,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "LUIS GALARZA O. (DELEGSOL)",
+        "id": 1585,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.18
+    },
+    {
+        "parroquia": "PRINCIPAL",
+        "id": 2950,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.14
+    },
+    {
+        "parroquia": "CHORDELEG",
+        "id": 6435,
+        "votos": 14,
+        "candidato": "Isidro Romero",
+        "value": 0.30
+    }
+]

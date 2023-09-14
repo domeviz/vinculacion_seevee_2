@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 21,
+        "candidato": "Giovanny Andrade",
+        "value": 0.47
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 44,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    }
+]

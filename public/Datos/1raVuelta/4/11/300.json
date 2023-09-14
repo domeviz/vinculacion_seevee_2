@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 117,
+        "candidato": "Xavier Hervas",
+        "value": 7.84
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 152,
+        "candidato": "Xavier Hervas",
+        "value": 17.00
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 76,
+        "candidato": "Xavier Hervas",
+        "value": 6.74
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 252,
+        "candidato": "Xavier Hervas",
+        "value": 29.10
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 133,
+        "candidato": "Xavier Hervas",
+        "value": 15.93
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 1174,
+        "candidato": "Xavier Hervas",
+        "value": 26.53
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 79,
+        "candidato": "Xavier Hervas",
+        "value": 2.65
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 120,
+        "candidato": "Xavier Hervas",
+        "value": 13.33
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 247,
+        "candidato": "Xavier Hervas",
+        "value": 13.42
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 1009,
+        "candidato": "Xavier Hervas",
+        "value": 32.58
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 339,
+        "candidato": "Xavier Hervas",
+        "value": 38.00
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 82,
+        "candidato": "Xavier Hervas",
+        "value": 9.61
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 291,
+        "candidato": "Xavier Hervas",
+        "value": 40.30
+    },
+    {
+        "parroquia": "PUNZARA",
+        "id": 7530,
+        "votos": 110150,
+        "candidato": "Xavier Hervas",
+        "value": 34.05
+    }
+]

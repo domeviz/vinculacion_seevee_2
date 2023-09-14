@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.09
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    }
+]

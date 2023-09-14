@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 14,
+        "candidato": "Carlos Sagnay",
+        "value": 0.65
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 0.68
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 26,
+        "candidato": "Carlos Sagnay",
+        "value": 0.76
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 32,
+        "candidato": "Carlos Sagnay",
+        "value": 0.69
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 281,
+        "candidato": "Carlos Sagnay",
+        "value": 0.53
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 22,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    }
+]

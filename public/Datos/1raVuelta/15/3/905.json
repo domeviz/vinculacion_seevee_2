@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    }
+]

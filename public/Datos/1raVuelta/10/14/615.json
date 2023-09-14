@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ARAPICOS",
+        "id": 155,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "CUMANDA",
+        "id": 715,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    },
+    {
+        "parroquia": "16 DE AGOSTO",
+        "id": 1685,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SANGAY",
+        "id": 3420,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PALORA",
+        "id": 5760,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.59
+    }
+]

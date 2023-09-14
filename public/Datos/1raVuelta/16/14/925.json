@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN JACINTO DE WAKAMBEIS",
+        "id": 710,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTIAGO DE PANANZA",
+        "id": 1785,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PAN DE AZUCAR",
+        "id": 2750,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN CARLOS DE LIMON",
+        "id": 3920,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN JUAN BOSCO",
+        "id": 6445,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.07
+    }
+]

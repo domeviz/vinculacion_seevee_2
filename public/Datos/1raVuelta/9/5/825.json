@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 23,
+        "candidato": "Ximena Peña",
+        "value": 1.15
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.48
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 419,
+        "candidato": "Ximena Peña",
+        "value": 2.00
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 71,
+        "candidato": "Ximena Peña",
+        "value": 2.84
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 70,
+        "candidato": "Ximena Peña",
+        "value": 2.92
+    }
+]

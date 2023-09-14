@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHOBO",
+        "id": 920,
+        "votos": 32,
+        "candidato": "Xavier Hervas",
+        "value": 2.99
+    },
+    {
+        "parroquia": "MARISCAL SUCRE HUAQUES",
+        "id": 2390,
+        "votos": 292,
+        "candidato": "Xavier Hervas",
+        "value": 9.38
+    },
+    {
+        "parroquia": "ROBERTO ASTUDILLO",
+        "id": 3235,
+        "votos": 498,
+        "candidato": "Xavier Hervas",
+        "value": 11.57
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 5660,
+        "votos": 11428,
+        "candidato": "Xavier Hervas",
+        "value": 11.31
+    }
+]

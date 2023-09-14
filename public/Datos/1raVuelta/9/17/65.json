@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 43,
+        "candidato": "Ximena Peña",
+        "value": 1.36
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 109,
+        "candidato": "Ximena Peña",
+        "value": 1.25
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 50,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 22,
+        "candidato": "Ximena Peña",
+        "value": 1.23
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 55,
+        "candidato": "Ximena Peña",
+        "value": 1.08
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 343,
+        "candidato": "Ximena Peña",
+        "value": 1.10
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 38,
+        "candidato": "Ximena Peña",
+        "value": 1.17
+    }
+]

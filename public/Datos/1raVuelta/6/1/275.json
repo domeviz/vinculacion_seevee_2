@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.55
+    },
+    {
+        "parroquia": "CHICAN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.15
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.39
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SAN CRISTÓBAL",
+        "id": 3375,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.66
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.55
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.30
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 0.47
+    }
+]

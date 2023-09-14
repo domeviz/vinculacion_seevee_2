@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 15,
+        "candidato": "Giovanny Andrade",
+        "value": 0.50
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.84
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 21,
+        "candidato": "Giovanny Andrade",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 37,
+        "candidato": "Giovanny Andrade",
+        "value": 0.37
+    }
+]

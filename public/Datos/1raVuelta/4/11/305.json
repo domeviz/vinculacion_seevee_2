@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 91,
+        "candidato": "Xavier Hervas",
+        "value": 13.83
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 88,
+        "candidato": "Xavier Hervas",
+        "value": 5.88
+    },
+    {
+        "parroquia": "EL TABLÓN",
+        "id": 1190,
+        "votos": 22,
+        "candidato": "Xavier Hervas",
+        "value": 4.53
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 36,
+        "candidato": "Xavier Hervas",
+        "value": 4.07
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 255,
+        "candidato": "Xavier Hervas",
+        "value": 15.66
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 103,
+        "candidato": "Xavier Hervas",
+        "value": 14.49
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 74,
+        "candidato": "Xavier Hervas",
+        "value": 3.95
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULUC",
+        "id": 3665,
+        "votos": 47,
+        "candidato": "Xavier Hervas",
+        "value": 7.29
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 78,
+        "candidato": "Xavier Hervas",
+        "value": 6.88
+    },
+    {
+        "parroquia": "URDANETA PAQUISHAPA",
+        "id": 4145,
+        "votos": 299,
+        "candidato": "Xavier Hervas",
+        "value": 13.37
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 999,
+        "candidato": "Xavier Hervas",
+        "value": 15.12
+    }
+]

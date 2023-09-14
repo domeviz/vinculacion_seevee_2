@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "COJITAMBO",
+        "id": 585,
+        "votos": 640,
+        "candidato": "Andrés Arauz",
+        "value": 49.31
+    },
+    {
+        "parroquia": "GUAPÁN",
+        "id": 1445,
+        "votos": 819,
+        "candidato": "Andrés Arauz",
+        "value": 26.01
+    },
+    {
+        "parroquia": "JAVIER LOYOLA / CHUQUIPATA",
+        "id": 1825,
+        "votos": 1500,
+        "candidato": "Andrés Arauz",
+        "value": 54.95
+    },
+    {
+        "parroquia": "LUIS CORDERO",
+        "id": 2220,
+        "votos": 447,
+        "candidato": "Andrés Arauz",
+        "value": 42.57
+    },
+    {
+        "parroquia": "PINDILIG",
+        "id": 2885,
+        "votos": 267,
+        "candidato": "Andrés Arauz",
+        "value": 45.33
+    },
+    {
+        "parroquia": "RIVERA",
+        "id": 3210,
+        "votos": 280,
+        "candidato": "Andrés Arauz",
+        "value": 54.37
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 3575,
+        "votos": 643,
+        "candidato": "Andrés Arauz",
+        "value": 50.16
+    },
+    {
+        "parroquia": "TADAY",
+        "id": 3945,
+        "votos": 264,
+        "candidato": "Andrés Arauz",
+        "value": 51.46
+    },
+    {
+        "parroquia": "AZOGUES",
+        "id": 5065,
+        "votos": 5274,
+        "candidato": "Andrés Arauz",
+        "value": 27.66
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5950,
+        "votos": 142,
+        "candidato": "Andrés Arauz",
+        "value": 29.89
+    },
+    {
+        "parroquia": "BORRERO",
+        "id": 6790,
+        "votos": 606,
+        "candidato": "Andrés Arauz",
+        "value": 32.86
+    },
+    {
+        "parroquia": "AURELIO BAYAS MARTÍNEZ",
+        "id": 6845,
+        "votos": 665,
+        "candidato": "Andrés Arauz",
+        "value": 40.25
+    }
+]

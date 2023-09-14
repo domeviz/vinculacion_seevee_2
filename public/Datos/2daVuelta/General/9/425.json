@@ -1,0 +1,38 @@
+[
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 5775,
+        "votos1": 1703,
+        "fill": "#EF8A62",
+        "votos2": 4072,
+        "porcentaje1": 29.49,
+        "porcentaje2": 70.51
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 23337,
+        "votos1": 8188,
+        "fill": "#EF8A62",
+        "votos2": 15149,
+        "porcentaje1": 35.09,
+        "porcentaje2": 64.91
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "LA PUNTILLA(SATELITE)",
+        "id": 7445,
+        "votos": 19675,
+        "votos1": 18156,
+        "fill": "#045A8D",
+        "votos2": 1519,
+        "porcentaje1": 92.28,
+        "porcentaje2": 7.72
+    }
+]

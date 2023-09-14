@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CRUZPAMBA BUSTAMANTE",
+        "id": 695,
+        "votos": 101,
+        "candidato": "Xavier Hervas",
+        "value": 14.85
+    },
+    {
+        "parroquia": "TNTE M.RODRIGUEZ LOAYZA",
+        "id": 1495,
+        "votos": 60,
+        "candidato": "Xavier Hervas",
+        "value": 17.05
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3255,
+        "votos": 234,
+        "candidato": "Xavier Hervas",
+        "value": 16.17
+    },
+    {
+        "parroquia": "SAN JUAN DE POZUL",
+        "id": 3535,
+        "votos": 235,
+        "candidato": "Xavier Hervas",
+        "value": 14.62
+    },
+    {
+        "parroquia": "CELICA",
+        "id": 5195,
+        "votos": 1101,
+        "candidato": "Xavier Hervas",
+        "value": 26.62
+    }
+]

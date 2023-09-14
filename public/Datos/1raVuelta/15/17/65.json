@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 62,
+        "candidato": "Giovanny Andrade",
+        "value": 0.71
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 16,
+        "candidato": "Giovanny Andrade",
+        "value": 0.35
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.10
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 43,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MEMBRILLO",
+        "id": 240,
+        "votos": 22,
+        "candidato": "Gustavo Larrea",
+        "value": 0.92
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3110,
+        "votos": 37,
+        "candidato": "Gustavo Larrea",
+        "value": 1.34
+    },
+    {
+        "parroquia": "CALCETA",
+        "id": 5150,
+        "votos": 168,
+        "candidato": "Gustavo Larrea",
+        "value": 0.77
+    }
+]

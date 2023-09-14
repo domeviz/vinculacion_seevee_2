@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 10,
+        "candidato": "Gerson Almeida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 56,
+        "candidato": "Gerson Almeida",
+        "value": 1.26
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 47,
+        "candidato": "Gerson Almeida",
+        "value": 1.06
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 23,
+        "candidato": "Gerson Almeida",
+        "value": 0.52
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 12,
+        "candidato": "Gerson Almeida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 251,
+        "candidato": "Gerson Almeida",
+        "value": 1.07
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COTOGCHOA",
+        "id": 680,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 3230,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANGOLQUI",
+        "id": 5965,
+        "votos": 81,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 6600,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "SAN PEDRO DE TABOADA",
+        "id": 6605,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "FAJARDO",
+        "id": 7535,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    }
+]

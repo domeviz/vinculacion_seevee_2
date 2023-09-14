@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 0.44
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 113,
+        "candidato": "Gustavo Larrea",
+        "value": 0.46
+    }
+]

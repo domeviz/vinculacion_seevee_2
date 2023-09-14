@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 1.44
+    },
+    {
+        "parroquia": "ATAHUALPA CAMARONES",
+        "id": 200,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.90
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 34,
+        "candidato": "Isidro Romero",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.77
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 1.06
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.73
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.84
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 1.70
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.92
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PEÃ\u2018AS",
+        "id": 4595,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.85
+    },
+    {
+        "parroquia": "VALDÉZ LIMONES",
+        "id": 6205,
+        "votos": 17,
+        "candidato": "Isidro Romero",
+        "value": 0.43
+    }
+]

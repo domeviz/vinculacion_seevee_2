@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.54
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 0,
+        "candidato": "Isidro Romero",
+        "value": 0.00
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.56
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.87
+    },
+    {
+        "parroquia": "MONTALVO ANDOAS",
+        "id": 2450,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.54
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 1.04
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.65
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.29
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.06
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 14,
+        "candidato": "Isidro Romero",
+        "value": 0.67
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 0,
+        "candidato": "Isidro Romero",
+        "value": 0.00
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 0.61
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 167,
+        "candidato": "Isidro Romero",
+        "value": 0.67
+    }
+]

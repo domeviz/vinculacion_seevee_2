@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.85
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 17,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    }
+]

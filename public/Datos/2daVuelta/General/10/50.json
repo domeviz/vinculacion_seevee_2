@@ -1,0 +1,50 @@
+[
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "CHUGA",
+        "id": 955,
+        "votos": 717,
+        "votos1": 249,
+        "votos2": 468,
+        "fill": "#EF8A62",
+        "porcentaje1": 34.73,
+        "porcentaje2": 65.27
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "MARIANO ACOSTA",
+        "id": 2380,
+        "votos": 937,
+        "votos1": 296,
+        "votos2": 641,
+        "fill": "#EF8A62",
+        "porcentaje1": 31.59,
+        "porcentaje2": 68.41
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+        "id": 3415,
+        "votos": 682,
+        "votos1": 209,
+        "votos2": 473,
+        "fill": "#EF8A62",
+        "porcentaje1": 30.65,
+        "porcentaje2": 69.35
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "PIMAMPIRO",
+        "id": 5750,
+        "votos": 6392,
+        "votos1": 2953,
+        "votos2": 3439,
+        "fill": "#EF8A62",
+        "porcentaje1": 46.2,
+        "porcentaje2": 53.8
+    }
+]

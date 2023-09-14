@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    }
+]

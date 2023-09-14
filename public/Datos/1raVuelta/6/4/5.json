@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN",
+        "id": 1125,
+        "votos": 27,
+        "candidato": "Isidro Romero",
+        "value": 1.90
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 18,
+        "candidato": "Isidro Romero",
+        "value": 1.19
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.36
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 39,
+        "candidato": "Isidro Romero",
+        "value": 0.69
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 26,
+        "candidato": "Isidro Romero",
+        "value": 2.67
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 1.09
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 1.09
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 1.54
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 1.41
+    },
+    {
+        "parroquia": "GONZÁLEZ SUÁREZ",
+        "id": 5415,
+        "votos": 162,
+        "candidato": "Isidro Romero",
+        "value": 0.94
+    },
+    {
+        "parroquia": "TULCÁN",
+        "id": 6165,
+        "votos": 204,
+        "candidato": "Isidro Romero",
+        "value": 0.93
+    }
+]

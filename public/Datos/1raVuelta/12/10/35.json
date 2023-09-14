@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 22,
+        "candidato": "Cesar Montufar",
+        "value": 0.56
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 32,
+        "candidato": "Cesar Montufar",
+        "value": 0.73
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 22,
+        "candidato": "Cesar Montufar",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 3,
+        "candidato": "Cesar Montufar",
+        "value": 1.12
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 37,
+        "candidato": "Cesar Montufar",
+        "value": 0.71
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 35,
+        "candidato": "Cesar Montufar",
+        "value": 0.71
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 44,
+        "candidato": "Cesar Montufar",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 21,
+        "candidato": "Cesar Montufar",
+        "value": 0.64
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 6,
+        "candidato": "Cesar Montufar",
+        "value": 0.54
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 275,
+        "candidato": "Cesar Montufar",
+        "value": 0.77
+    }
+]

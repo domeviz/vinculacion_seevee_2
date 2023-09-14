@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "27 DE ABRIL LA NARANJA",
+        "id": 4460,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.07
+    }
+]

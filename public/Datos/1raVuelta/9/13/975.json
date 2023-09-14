@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 29,
+        "candidato": "Ximena Peña",
+        "value": 1.42
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 81,
+        "candidato": "Ximena Peña",
+        "value": 2.74
+    },
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 196,
+        "candidato": "Ximena Peña",
+        "value": 2.22
+    }
+]

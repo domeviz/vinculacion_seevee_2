@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLIVAR",
+        "id": 355,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.51
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.85
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.62
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN JOSE DE CHAMANGA",
+        "id": 3470,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 0.30
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 27,
+        "candidato": "Carlos Sagnay",
+        "value": 0.89
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 48,
+        "candidato": "Carlos Sagnay",
+        "value": 0.45
+    },
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 70,
+        "candidato": "Carlos Sagnay",
+        "value": 0.80
+    }
+]

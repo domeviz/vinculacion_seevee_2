@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.44
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.09
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.72
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.35
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.59
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 24,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.42
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.14
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 136,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.71
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 19,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.05
+    }
+]

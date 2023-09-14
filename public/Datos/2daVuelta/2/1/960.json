@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 527,
+        "candidato": "Andrés Arauz",
+        "value": 72.49
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 668,
+        "candidato": "Andrés Arauz",
+        "value": 65.75
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 18,
+        "candidato": "Giovanny Andrade",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 13,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 12,
+        "candidato": "Giovanny Andrade",
+        "value": 0.39
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 29,
+        "candidato": "Giovanny Andrade",
+        "value": 0.53
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 20,
+        "candidato": "Giovanny Andrade",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 21,
+        "candidato": "Giovanny Andrade",
+        "value": 0.39
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 24,
+        "candidato": "Giovanny Andrade",
+        "value": 0.55
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 58,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 127,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    }
+]

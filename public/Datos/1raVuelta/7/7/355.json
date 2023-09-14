@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 20,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.23
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 21,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.92
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.24
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.97
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.95
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.07
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 338,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.96
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.27
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 0,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.00
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.00
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 15,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.91
+    }
+]

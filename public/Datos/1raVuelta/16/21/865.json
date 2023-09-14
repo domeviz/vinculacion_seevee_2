@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.04
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.55
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    }
+]

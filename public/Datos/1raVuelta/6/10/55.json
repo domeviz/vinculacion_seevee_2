@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.97
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.69
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.64
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.52
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 0.97
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 44,
+        "candidato": "Isidro Romero",
+        "value": 0.98
+    }
+]

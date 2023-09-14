@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 972,
+        "candidato": "Yaku Pérez",
+        "value": 78.39
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 648,
+        "candidato": "Yaku Pérez",
+        "value": 67.43
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 888,
+        "candidato": "Yaku Pérez",
+        "value": 50.95
+    }
+]

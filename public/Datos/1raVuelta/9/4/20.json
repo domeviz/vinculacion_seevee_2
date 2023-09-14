@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMAÑO",
+        "id": 1835,
+        "votos": 51,
+        "candidato": "Ximena Peña",
+        "value": 4.60
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 24,
+        "candidato": "Ximena Peña",
+        "value": 2.87
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 107,
+        "candidato": "Ximena Peña",
+        "value": 5.48
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 64,
+        "candidato": "Ximena Peña",
+        "value": 1.48
+    }
+]

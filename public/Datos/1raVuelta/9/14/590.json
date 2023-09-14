@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI  9 DE OCTUBRE",
+        "id": 65,
+        "votos": 1,
+        "candidato": "Ximena Peña",
+        "value": 0.29
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 0.85
+    },
+    {
+        "parroquia": "GRAL. PROAÑO",
+        "id": 1345,
+        "votos": 12,
+        "candidato": "Ximena Peña",
+        "value": 0.94
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 12,
+        "candidato": "Ximena Peña",
+        "value": 1.10
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 37,
+        "candidato": "Ximena Peña",
+        "value": 0.54
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.99
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.70
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 87,
+        "candidato": "Ximena Peña",
+        "value": 0.66
+    }
+]

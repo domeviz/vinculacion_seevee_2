@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 18,
+        "candidato": "Gerson Almeida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.50
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 15,
+        "candidato": "Gerson Almeida",
+        "value": 1.19
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 74,
+        "candidato": "Gerson Almeida",
+        "value": 2.62
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 44,
+        "candidato": "Gerson Almeida",
+        "value": 1.82
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 61,
+        "candidato": "Gerson Almeida",
+        "value": 1.01
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 437,
+        "candidato": "Gerson Almeida",
+        "value": 1.2
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 46,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.82
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2130,
+        "votos": 26,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.73
+    },
+    {
+        "parroquia": "SUA (BOCANA)",
+        "id": 3880,
+        "votos": 19,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.90
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 45,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.96
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 89,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.83
+    }
+]

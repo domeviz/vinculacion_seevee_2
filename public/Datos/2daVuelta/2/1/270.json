@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCIÓN",
+        "id": 175,
+        "votos": 461,
+        "candidato": "Andrés Arauz",
+        "value": 40.62
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 138,
+        "candidato": "Andrés Arauz",
+        "value": 58.97
+    },
+    {
+        "parroquia": "GIRÓN",
+        "id": 5395,
+        "votos": 1140,
+        "candidato": "Andrés Arauz",
+        "value": 33.68
+    }
+]

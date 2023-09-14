@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.15
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.11
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.45
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.24
+    }
+]

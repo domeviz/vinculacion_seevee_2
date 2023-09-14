@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.11
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.12
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.38
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.81
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.89
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.11
+    }
+]

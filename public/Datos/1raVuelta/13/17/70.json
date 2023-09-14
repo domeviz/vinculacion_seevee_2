@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA TANDAPI",
+        "id": 650,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 20,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 24,
+        "candidato": "Gustavo Larrea",
+        "value": 0.36
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 59,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    }
+]

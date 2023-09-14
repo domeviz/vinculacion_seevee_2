@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 977,
+        "candidato": "Guillermo Lasso",
+        "value": 56.05
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 1768,
+        "candidato": "Guillermo Lasso",
+        "value": 45.63
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 1050,
+        "candidato": "Guillermo Lasso",
+        "value": 71.19
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 472,
+        "candidato": "Guillermo Lasso",
+        "value": 46.55
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 1010,
+        "candidato": "Guillermo Lasso",
+        "value": 54.48
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 2919,
+        "candidato": "Guillermo Lasso",
+        "value": 41.53
+    },
+    {
+        "parroquia": "PUJILÍ",
+        "id": 5820,
+        "votos": 12538,
+        "candidato": "Guillermo Lasso",
+        "value": 66.54
+    }
+]

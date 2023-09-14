@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 309,
+        "candidato": "Xavier Hervas",
+        "value": 13.19
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 257,
+        "candidato": "Xavier Hervas",
+        "value": 14.63
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 32,
+        "candidato": "Xavier Hervas",
+        "value": 3.70
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 180,
+        "candidato": "Xavier Hervas",
+        "value": 8.47
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 131,
+        "candidato": "Xavier Hervas",
+        "value": 9.97
+    },
+    {
+        "parroquia": "UNIÓN MILAGREÑA",
+        "id": 1965,
+        "votos": 187,
+        "candidato": "Xavier Hervas",
+        "value": 9.51
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 10,
+        "candidato": "Xavier Hervas",
+        "value": 1.49
+    },
+    {
+        "parroquia": "SAN SEBASTIÁN DE COCA",
+        "id": 3660,
+        "votos": 278,
+        "candidato": "Xavier Hervas",
+        "value": 10.70
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 3199,
+        "candidato": "Xavier Hervas",
+        "value": 23.95
+    }
+]

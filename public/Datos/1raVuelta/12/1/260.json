@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 68,
+        "candidato": "Cesar Montufar",
+        "value": 0.43
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 7,
+        "candidato": "Cesar Montufar",
+        "value": 0.17
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 8,
+        "candidato": "Cesar Montufar",
+        "value": 1.10
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 4,
+        "candidato": "Cesar Montufar",
+        "value": 0.25
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 13,
+        "candidato": "Cesar Montufar",
+        "value": 0.50
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 13,
+        "candidato": "Cesar Montufar",
+        "value": 0.48
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 22,
+        "candidato": "Cesar Montufar",
+        "value": 0.51
+    },
+    {
+        "parroquia": "MULTI  NULTI",
+        "id": 2570,
+        "votos": 13,
+        "candidato": "Cesar Montufar",
+        "value": 0.37
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 4,
+        "candidato": "Cesar Montufar",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 11,
+        "candidato": "Cesar Montufar",
+        "value": 0.35
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 7,
+        "candidato": "Cesar Montufar",
+        "value": 0.18
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 51,
+        "candidato": "Cesar Montufar",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 21,
+        "candidato": "Cesar Montufar",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 18,
+        "candidato": "Cesar Montufar",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 39,
+        "candidato": "Cesar Montufar",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 10,
+        "candidato": "Cesar Montufar",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 22,
+        "candidato": "Cesar Montufar",
+        "value": 0.33
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 20,
+        "candidato": "Cesar Montufar",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 14,
+        "candidato": "Cesar Montufar",
+        "value": 0.31
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 44,
+        "candidato": "Cesar Montufar",
+        "value": 0.38
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 8,
+        "candidato": "Cesar Montufar",
+        "value": 0.27
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 1201,
+        "candidato": "Cesar Montufar",
+        "value": 0.56
+    }
+]

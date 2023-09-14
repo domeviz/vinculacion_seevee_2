@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.92
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 1.75
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 2.09
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 51,
+        "candidato": "Ximena Peña",
+        "value": 0.80
+    }
+]

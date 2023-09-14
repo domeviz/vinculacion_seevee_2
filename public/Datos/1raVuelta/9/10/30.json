@@ -1,0 +1,59 @@
+[
+    {
+        "parroquia": "AMBUQUI CHOTA",
+        "id": 100,
+        "votos": 80,
+        "candidato": "Ximena Peña",
+        "value": 2.41
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 44,
+        "candidato": "Ximena Peña",
+        "value": 1.77
+    },
+    {
+        "parroquia": "CAROLINA  GUALLUPI",
+        "id": 530,
+        "votos": 38,
+        "candidato": "Ximena Peña",
+        "value": 2.47
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 113,
+        "candidato": "Ximena Peña",
+        "value": 2.20
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 80,
+        "candidato": "Ximena Peña",
+        "value": 4.07
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 29,
+        "candidato": "Ximena Peña",
+        "value": 2.51
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 123,
+        "candidato": "Ximena Peña",
+        "value": 1.13
+    },
+    {
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 981,
+        "candidato": "Ximena Peña",
+        "value": 1.04
+    }
+
+]

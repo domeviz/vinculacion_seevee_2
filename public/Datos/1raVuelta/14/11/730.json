@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PINDAL FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    }
+]

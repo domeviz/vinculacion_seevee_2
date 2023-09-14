@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 29,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.27
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 100,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.32
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 74,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.27
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 58,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.88
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 143,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.50
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 108,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.96
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 91,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.46
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 129,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.06
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 147,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.21
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 157,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.92
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 101,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.32
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 639,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.77
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 1378,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.05
+    }
+]

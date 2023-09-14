@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 35,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    }
+]

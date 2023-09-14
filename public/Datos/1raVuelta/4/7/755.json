@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 155,
+        "candidato": "Xavier Hervas",
+        "value": 34.44
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 133,
+        "candidato": "Xavier Hervas",
+        "value": 21.42
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 129,
+        "candidato": "Xavier Hervas",
+        "value": 19.08
+    },
+    {
+        "parroquia": "LA VICTORIA LAS LAJAS",
+        "id": 6335,
+        "votos": 441,
+        "candidato": "Xavier Hervas",
+        "value": 23.94
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 64,
+        "candidato": "Xavier Hervas",
+        "value": 13.97
+    }
+]

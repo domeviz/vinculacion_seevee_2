@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

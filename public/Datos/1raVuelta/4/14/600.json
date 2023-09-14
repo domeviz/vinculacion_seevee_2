@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "INDANZA",
+        "id": 1720,
+        "votos": 170,
+        "candidato": "Xavier Hervas",
+        "value": 25.68
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CONCHAY",
+        "id": 3250,
+        "votos": 54,
+        "candidato": "Xavier Hervas",
+        "value": 17.14
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3320,
+        "votos": 86,
+        "candidato": "Xavier Hervas",
+        "value": 11.10
+    },
+    {
+        "parroquia": "SANTA SUSANA DE CHIVIAZA",
+        "id": 3760,
+        "votos": 83,
+        "candidato": "Xavier Hervas",
+        "value": 16.31
+    },
+    {
+        "parroquia": "YUNGANZA EL ROSARIO",
+        "id": 4305,
+        "votos": 70,
+        "candidato": "Xavier Hervas",
+        "value": 10.67
+    },
+    {
+        "parroquia": "GRAL. LEONIDAS PLAZA",
+        "id": 5390,
+        "votos": 1051,
+        "candidato": "Xavier Hervas",
+        "value": 37.15
+    }
+]

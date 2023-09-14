@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 36,
+        "candidato": "Andrés Arauz",
+        "value": 12.41
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 185,
+        "candidato": "Andrés Arauz",
+        "value": 19.39
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 51,
+        "candidato": "Andrés Arauz",
+        "value": 24.40
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 57,
+        "candidato": "Andrés Arauz",
+        "value": 8.14
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 65,
+        "candidato": "Andrés Arauz",
+        "value": 12.06
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 101,
+        "candidato": "Andrés Arauz",
+        "value": 8.42
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 250,
+        "candidato": "Andrés Arauz",
+        "value": 13.21
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "parroquia": "CRUZPAMBA BUSTAMANTE",
+        "id": 695,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.44
+    },
+    {
+        "parroquia": "TNTE M.RODRIGUEZ LOAYZA",
+        "id": 1495,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3255,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.90
+    },
+    {
+        "parroquia": "SAN JUAN DE POZUL",
+        "id": 3535,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.75
+    },
+    {
+        "parroquia": "CELICA",
+        "id": 5195,
+        "votos": 24,
+        "candidato": "Isidro Romero",
+        "value": 0.58
+    }
+]

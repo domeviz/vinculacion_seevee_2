@@ -1,0 +1,26 @@
+[
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 410,
+        "votos1": 230,
+        "fill": "#045A8D",
+        "votos2": 180,
+        "porcentaje1": 56.10,
+        "porcentaje2": 43.90
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 3658,
+        "votos1": 2032,
+        "fill": "#045A8D",
+        "votos2": 1626,
+        "porcentaje1": 55.55,
+        "porcentaje2": 44.45
+    }
+]

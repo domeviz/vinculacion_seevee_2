@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 41,
+        "candidato": "Gerson Almeida",
+        "value": 1.39
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 159,
+        "candidato": "Gerson Almeida",
+        "value": 1.65
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 337,
+        "candidato": "Gerson Almeida",
+        "value": 4.81
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 134,
+        "candidato": "Gerson Almeida",
+        "value": 1.59
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 2169,
+        "candidato": "Gerson Almeida",
+        "value": 3.32
+    }
+]

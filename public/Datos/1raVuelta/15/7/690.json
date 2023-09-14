@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 12,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    }
+]

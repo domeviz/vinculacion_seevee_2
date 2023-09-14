@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 67,
+        "candidato": "Guillermo Celi",
+        "value": 1.33
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 1.21
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 53,
+        "candidato": "Guillermo Celi",
+        "value": 2.12
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 362,
+        "candidato": "Guillermo Celi",
+        "value": 1.47
+    }
+]

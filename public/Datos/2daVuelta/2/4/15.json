@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GOALTAL / LAS JUNTAS",
+        "id": 1150,
+        "votos": 261,
+        "candidato": "Andrés Arauz",
+        "value": 47.80
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 1132,
+        "candidato": "Andrés Arauz",
+        "value": 46.66
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 904,
+        "candidato": "Andrés Arauz",
+        "value": 48.16
+    },
+    {
+        "parroquia": "EL ÁNGEL",
+        "id": 5295,
+        "votos": 1036,
+        "candidato": "Andrés Arauz",
+        "value": 32.59
+    },
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 306,
+        "candidato": "Andrés Arauz",
+        "value": 34.19
+    }
+]

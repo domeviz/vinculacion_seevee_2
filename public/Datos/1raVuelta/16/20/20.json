@@ -1,0 +1,20 @@
+[
+    {
+        "id": 800,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "id": 805,
+        "votos": 20,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "id": 810,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.07
+    }
+]

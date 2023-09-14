@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 25,
+        "candidato": "Gustavo Larrea",
+        "value": 0.73
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 32,
+        "candidato": "Gustavo Larrea",
+        "value": 0.69
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 372,
+        "candidato": "Gustavo Larrea",
+        "value": 0.70
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 64,
+        "candidato": "Gustavo Larrea",
+        "value": 0.30
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.69
+    }
+]

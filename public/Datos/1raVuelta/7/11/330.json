@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.80
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.63
+    },
+    {
+        "parroquia": "EL LIMO MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 15,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.11
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.30
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.32
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 37,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.63
+    }
+]

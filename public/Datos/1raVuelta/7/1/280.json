@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.02
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.49
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.56
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.27
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.81
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 54,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.72
+    }
+]

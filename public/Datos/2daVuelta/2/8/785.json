@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 3502,
+        "candidato": "Andrés Arauz",
+        "value": 58.92
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 2130,
+        "votos": 984,
+        "candidato": "Andrés Arauz",
+        "value": 59.85
+    },
+    {
+        "parroquia": "SÚA / BOCANA",
+        "id": 3880,
+        "votos": 1536,
+        "candidato": "Andrés Arauz",
+        "value": 68.45
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 3191,
+        "candidato": "Andrés Arauz",
+        "value": 63.64
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 6332,
+        "candidato": "Andrés Arauz",
+        "value": 56.77
+    }
+]

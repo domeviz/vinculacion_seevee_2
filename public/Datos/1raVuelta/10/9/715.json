@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.84
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 169,
+        "candidato": "Guillermo Celi",
+        "value": 0.69
+    }
+]

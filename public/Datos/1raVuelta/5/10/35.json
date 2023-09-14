@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 248,
+        "candidato": "Pedro Freile",
+        "value": 6.28
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 100,
+        "candidato": "Pedro Freile",
+        "value": 2.29
+    },
+    {
+        "parroquia": "GONZAÁLEZ SUÁREZ",
+        "id": 1360,
+        "votos": 180,
+        "candidato": "Pedro Freile",
+        "value": 4.38
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 1.49
+    },
+    {
+        "parroquia": "SAN JOSÉ DE QUICHINCHE",
+        "id": 3490,
+        "votos": 147,
+        "candidato": "Pedro Freile",
+        "value": 2.84
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMÁN",
+        "id": 3525,
+        "votos": 228,
+        "candidato": "Pedro Freile",
+        "value": 4.62
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 262,
+        "candidato": "Pedro Freile",
+        "value": 3.94
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 29,
+        "candidato": "Pedro Freile",
+        "value": 0.88
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 25,
+        "candidato": "Pedro Freile",
+        "value": 2.26
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 1864,
+        "candidato": "Pedro Freile",
+        "value": 5.24
+    }
+]

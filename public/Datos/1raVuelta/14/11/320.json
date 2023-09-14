@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.55
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 75,
+        "candidato": "Carlos Sagnay",
+        "value": 0.76
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

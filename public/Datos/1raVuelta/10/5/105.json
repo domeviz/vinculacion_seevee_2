@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 22,
+        "candidato": "Guillermo Celi",
+        "value": 0.81
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.54
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 26,
+        "candidato": "Guillermo Celi",
+        "value": 1.45
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.48
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 0.88
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 56,
+        "candidato": "Guillermo Celi",
+        "value": 0.63
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 323,
+        "candidato": "Guillermo Celi",
+        "value": 1.32
+    }
+]

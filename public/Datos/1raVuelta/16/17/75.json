@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2025,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.43
+    },
+    {
+        "parroquia": "MALCHINGUI",
+        "id": 2330,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "TOCACHI",
+        "id": 4045,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "TUPIGACHI",
+        "id": 4090,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "TABACUNDO",
+        "id": 6145,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    }
+]

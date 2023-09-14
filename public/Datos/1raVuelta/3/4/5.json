@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN",
+        "id": 1125,
+        "votos": 430,
+        "candidato": "Yaku Pérez",
+        "value": 30.22
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 624,
+        "candidato": "Yaku Pérez",
+        "value": 41.19
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 305,
+        "candidato": "Yaku Pérez",
+        "value": 21.69
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 1575,
+        "candidato": "Yaku Pérez",
+        "value": 27.93
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 255,
+        "candidato": "Yaku Pérez",
+        "value": 26.23
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 122,
+        "candidato": "Yaku Pérez",
+        "value": 22.22
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 41,
+        "candidato": "Yaku Pérez",
+        "value": 8.91
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 425,
+        "candidato": "Yaku Pérez",
+        "value": 26.22
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 119,
+        "candidato": "Yaku Pérez",
+        "value": 15.24
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 2251,
+        "candidato": "Yaku Pérez",
+        "value": 13.00
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 3149,
+        "candidato": "Yaku Pérez",
+        "value": 14.34
+    }
+]

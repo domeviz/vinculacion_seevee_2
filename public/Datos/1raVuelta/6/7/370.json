@@ -1,0 +1,63 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 1.10
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 2.18
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 17,
+        "candidato": "Isidro Romero",
+        "value": 2.17
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 1.18
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 2.12
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 1.37
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 100,
+        "candidato": "Isidro Romero",
+        "value": 0.83
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.90
+    }
+]

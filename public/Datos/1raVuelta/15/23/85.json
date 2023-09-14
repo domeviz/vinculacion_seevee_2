@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 13,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 15,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 22,
+        "candidato": "Giovanny Andrade",
+        "value": 0.33
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 17,
+        "candidato": "Giovanny Andrade",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.35
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 18,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 58,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 65,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 88,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 85,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 58,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.06
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 1319,
+        "candidato": "Guillermo Lasso",
+        "value": 57.65
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 4151,
+        "candidato": "Guillermo Lasso",
+        "value": 73.65
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 3827,
+        "candidato": "Guillermo Lasso",
+        "value": 73.64
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 1181,
+        "candidato": "Guillermo Lasso",
+        "value": 78.01
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 1362,
+        "candidato": "Guillermo Lasso",
+        "value": 73.30
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 1016,
+        "candidato": "Guillermo Lasso",
+        "value": 76.28
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 4086,
+        "candidato": "Guillermo Lasso",
+        "value": 77.14
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 8286,
+        "candidato": "Guillermo Lasso",
+        "value": 75.73
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 2416,
+        "candidato": "Guillermo Lasso",
+        "value": 74.80
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 1435,
+        "candidato": "Guillermo Lasso",
+        "value": 70.97
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 1498,
+        "candidato": "Guillermo Lasso",
+        "value": 56.55
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 6431,
+        "candidato": "Guillermo Lasso",
+        "value": 76.60
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 2875,
+        "candidato": "Guillermo Lasso",
+        "value": 68.94
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 2726,
+        "candidato": "Guillermo Lasso",
+        "value": 63.09
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 3797,
+        "candidato": "Guillermo Lasso",
+        "value": 76.46
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 723,
+        "candidato": "Guillermo Lasso",
+        "value": 65.19
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 6244,
+        "candidato": "Guillermo Lasso",
+        "value": 73.52
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 2553,
+        "candidato": "Guillermo Lasso",
+        "value": 67.90
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 89905,
+        "candidato": "Guillermo Lasso",
+        "value": 78.20
+    }
+]

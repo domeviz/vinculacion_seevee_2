@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 21,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.51
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    }
+]

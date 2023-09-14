@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "COJITAMBO",
+        "id": 585,
+        "votos": 206,
+        "candidato": "Xavier Hervas",
+        "value": 10.46
+    },
+    {
+        "parroquia": "GUAPÁN",
+        "id": 1445,
+        "votos": 667,
+        "candidato": "Xavier Hervas",
+        "value": 15.13
+    },
+    {
+        "parroquia": "JAVIER LOYOLA CHUQUIPATA",
+        "id": 1825,
+        "votos": 517,
+        "candidato": "Xavier Hervas",
+        "value": 13.67
+    },
+    {
+        "parroquia": "LUIS CORDERO",
+        "id": 2220,
+        "votos": 225,
+        "candidato": "Xavier Hervas",
+        "value": 12.58
+    },
+    {
+        "parroquia": "PINDILIG",
+        "id": 2885,
+        "votos": 49,
+        "candidato": "Xavier Hervas",
+        "value": 4.68
+    },
+    {
+        "parroquia": "RIVERA",
+        "id": 3210,
+        "votos": 15,
+        "candidato": "Xavier Hervas",
+        "value": 1.50
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 3575,
+        "votos": 230,
+        "candidato": "Xavier Hervas",
+        "value": 11.65
+    },
+    {
+        "parroquia": "TADAY",
+        "id": 3945,
+        "votos": 64,
+        "candidato": "Xavier Hervas",
+        "value": 6.97
+    },
+    {
+        "parroquia": "AZOGUES",
+        "id": 5065,
+        "votos": 4793,
+        "candidato": "Xavier Hervas",
+        "value": 20.90
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5950,
+        "votos": 89,
+        "candidato": "Xavier Hervas",
+        "value": 15.84
+    },
+    {
+        "parroquia": "BORRERO",
+        "id": 6790,
+        "votos": 459,
+        "candidato": "Xavier Hervas",
+        "value": 18.85
+    },
+    {
+        "parroquia": "AURELIO BAYAS MARTINEZ",
+        "id": 6845,
+        "votos": 333,
+        "candidato": "Xavier Hervas",
+        "value": 14.19
+    }
+]

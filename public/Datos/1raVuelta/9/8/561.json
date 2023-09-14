@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 72,
+        "candidato": "Ximena Peña",
+        "value": 4.39
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 80,
+        "candidato": "Ximena Peña",
+        "value": 5.18
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 91,
+        "candidato": "Ximena Peña",
+        "value": 3.81
+    },
+    {
+        "parroquia": "MONTALVO HORQUETA",
+        "id": 2445,
+        "votos": 100,
+        "candidato": "Ximena Peña",
+        "value": 4.48
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 66,
+        "candidato": "Ximena Peña",
+        "value": 2.10
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 67,
+        "candidato": "Ximena Peña",
+        "value": 1.91
+    }
+]

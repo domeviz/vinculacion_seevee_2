@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CHICAN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.49
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.14
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.10
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.16
+    }
+]

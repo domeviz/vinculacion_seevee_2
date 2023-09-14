@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 22,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 45,
+        "candidato": "Pedro Freile",
+        "value": 2.51
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.64
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 1.27
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 43,
+        "candidato": "Pedro Freile",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PUJILÍ",
+        "id": 5820,
+        "votos": 734,
+        "candidato": "Pedro Freile",
+        "value": 3.01
+    }
+]

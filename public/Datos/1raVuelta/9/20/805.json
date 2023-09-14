@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.52
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 1.42
+    },
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 56,
+        "candidato": "Ximena Peña",
+        "value": 0.79
+    }
+]

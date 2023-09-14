@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.06
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 30,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 53,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 237,
+        "candidato": "Andrés Arauz",
+        "value": 18.54
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 111,
+        "candidato": "Andrés Arauz",
+        "value": 17.68
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 130,
+        "candidato": "Andrés Arauz",
+        "value": 5.11
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 1587,
+        "candidato": "Andrés Arauz",
+        "value": 12.62
+    }
+]

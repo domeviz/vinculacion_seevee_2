@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 3160,
+        "candidato": "Andrés Arauz",
+        "value": 19.84
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 498,
+        "candidato": "Andrés Arauz",
+        "value": 12.25
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 192,
+        "candidato": "Andrés Arauz",
+        "value": 26.52
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 296,
+        "candidato": "Andrés Arauz",
+        "value": 18.77
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 393,
+        "candidato": "Andrés Arauz",
+        "value": 15.08
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 532,
+        "candidato": "Andrés Arauz",
+        "value": 19.63
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 1588,
+        "candidato": "Andrés Arauz",
+        "value": 37.09
+    },
+    {
+        "parroquia": "MULTI NULTI",
+        "id": 2570,
+        "votos": 555,
+        "candidato": "Andrés Arauz",
+        "value": 15.81
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 318,
+        "candidato": "Andrés Arauz",
+        "value": 27.09
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 539,
+        "candidato": "Andrés Arauz",
+        "value": 17.05
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 709,
+        "candidato": "Andrés Arauz",
+        "value": 18.05
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 2620,
+        "candidato": "Andrés Arauz",
+        "value": 21.42
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 1237,
+        "candidato": "Andrés Arauz",
+        "value": 19.81
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 655,
+        "candidato": "Andrés Arauz",
+        "value": 17.41
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 1669,
+        "candidato": "Andrés Arauz",
+        "value": 20.98
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 695,
+        "candidato": "Andrés Arauz",
+        "value": 30.09
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 1198,
+        "candidato": "Andrés Arauz",
+        "value": 17.89
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 985,
+        "candidato": "Andrés Arauz",
+        "value": 15.32
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 827,
+        "candidato": "Andrés Arauz",
+        "value": 18.49
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 2069,
+        "candidato": "Andrés Arauz",
+        "value": 17.83
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 482,
+        "candidato": "Andrés Arauz",
+        "value": 16.16
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 38813,
+        "candidato": "Andrés Arauz",
+        "value": 18.988
+    }
+]

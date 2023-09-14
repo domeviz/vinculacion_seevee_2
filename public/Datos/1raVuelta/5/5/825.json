@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 25,
+        "candidato": "Pedro Freile",
+        "value": 1.25
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 0.83
+    },
+    {
+        "parroquia": "LA MANÁ",
+        "id": 6535,
+        "votos": 278,
+        "candidato": "Pedro Freile",
+        "value": 1.33
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 20,
+        "candidato": "Pedro Freile",
+        "value": 0.84
+    }
+]

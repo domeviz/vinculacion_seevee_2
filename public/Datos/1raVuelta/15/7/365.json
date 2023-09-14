@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 70950,
+        "votos": 153,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    }
+]

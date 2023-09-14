@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COTOGCHOA",
+        "id": 680,
+        "votos": 34,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.77
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 3230,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.88
+    },
+    {
+        "parroquia": "SANGOLQUI",
+        "id": 5965,
+        "votos": 475,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.98
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 6600,
+        "votos": 64,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SAN PEDRO DE TABOADA",
+        "id": 6605,
+        "votos": 53,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.97
+    },
+    {
+        "parroquia": "FAJARDO",
+        "id": 7535,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.56
+    }
+]

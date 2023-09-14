@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 0.78
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 24,
+        "candidato": "Ximena Peña",
+        "value": 2.47
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 83,
+        "candidato": "Ximena Peña",
+        "value": 0.71
+    }
+]

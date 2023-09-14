@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCIÓN",
+        "id": 170,
+        "votos": 304,
+        "candidato": "Andrés Arauz",
+        "value": 25.25
+    },
+    {
+        "parroquia": "MAGDALENA / CHAPACOTO",
+        "id": 2315,
+        "votos": 492,
+        "candidato": "Andrés Arauz",
+        "value": 33.45
+    },
+    {
+        "parroquia": "SAN SEBASTIÁN",
+        "id": 3655,
+        "votos": 106,
+        "candidato": "Andrés Arauz",
+        "value": 22.13
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 302,
+        "candidato": "Andrés Arauz",
+        "value": 31.69
+    },
+    {
+        "parroquia": "SAN JOSÉ DE CHIMBO",
+        "id": 5975,
+        "votos": 767,
+        "candidato": "Andrés Arauz",
+        "value": 18.61
+    }
+]

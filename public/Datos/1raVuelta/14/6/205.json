@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.82
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 46,
+        "candidato": "Carlos Sagnay",
+        "value": 0.43
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.60
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 27,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 29,
+        "candidato": "Carlos Sagnay",
+        "value": 0.47
+    }
+]

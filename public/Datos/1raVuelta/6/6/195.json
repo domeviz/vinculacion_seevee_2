@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 21,
+        "candidato": "Isidro Romero",
+        "value": 0.92
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 27,
+        "candidato": "Isidro Romero",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 27,
+        "candidato": "Isidro Romero",
+        "value": 1.92
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 39,
+        "candidato": "Isidro Romero",
+        "value": 1.26
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 37,
+        "candidato": "Isidro Romero",
+        "value": 0.91
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 54,
+        "candidato": "Isidro Romero",
+        "value": 0.98
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 22,
+        "candidato": "Isidro Romero",
+        "value": 0.60
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 22,
+        "candidato": "Isidro Romero",
+        "value": 0.52
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 22,
+        "candidato": "Isidro Romero",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 26,
+        "candidato": "Isidro Romero",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 64,
+        "candidato": "Isidro Romero",
+        "value": 1.47
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 380,
+        "candidato": "Isidro Romero",
+        "value": 1.05
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 5630,
+        "votos": 304,
+        "candidato": "Isidro Romero",
+        "value": 1.27
+    },
+    {
+        "parroquia": "VELASCO",
+        "id": 6220,
+        "votos": 314,
+        "candidato": "Isidro Romero",
+        "value": 1.25
+    },
+    {
+        "parroquia": "VELOZ",
+        "id": 6230,
+        "votos": 207,
+        "candidato": "Isidro Romero",
+        "value": 1.29
+    },
+    {
+        "parroquia": "YARUQUIES",
+        "id": 6290,
+        "votos": 50,
+        "candidato": "Isidro Romero",
+        "value": 1.18
+    }
+]

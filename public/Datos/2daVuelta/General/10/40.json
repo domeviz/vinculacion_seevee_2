@@ -1,0 +1,122 @@
+[
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 1143,
+        "votos1": 500,
+        "votos2": 643,
+        "fill": "#EF8A62",
+        "porcentaje1": 43.74,
+        "porcentaje2": 56.26
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "GARCIA MORENO LLURIMAGUA",
+        "id": 1310,
+        "votos": 4870,
+        "votos1": 1741,
+        "votos2": 3129,
+        "fill": "#EF8A62",
+        "porcentaje1": 35.75,
+        "porcentaje2": 64.25
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 2740,
+        "votos1": 1119,
+        "votos2": 1621,
+        "fill": "#EF8A62",
+        "porcentaje1": 40.84,
+        "porcentaje2": 59.16
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 993,
+        "votos1": 482,
+        "votos2": 511,
+        "fill": "#EF8A62",
+        "porcentaje1": 48.54,
+        "porcentaje2": 51.46
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 360,
+        "votos1": 156,
+        "votos2": 204,
+        "fill": "#EF8A62",
+        "porcentaje1": 43.33,
+        "porcentaje2": 56.67
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 4030,
+        "votos1": 2281,
+        "votos2": 1749,
+        "fill": "#045A8D",
+        "porcentaje1": 56.6,
+        "porcentaje2": 43.4
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 1016,
+        "votos1": 461,
+        "votos2": 555,
+        "fill": "#EF8A62",
+        "porcentaje1": 45.37,
+        "porcentaje2": 54.63
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 350,
+        "votos1": 197,
+        "votos2": 153,
+        "fill": "#045A8D",
+        "porcentaje1": 56.29,
+        "porcentaje2": 43.71
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAGRARIO",
+        "id": 5910,
+        "votos": 6296,
+        "votos1": 3557,
+        "votos2": 2739,
+        "fill": "#045A8D",
+        "porcentaje1": 56.5,
+        "porcentaje2": 43.5
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 9801,
+        "votos1": 5505,
+        "votos2": 4296,
+        "fill": "#045A8D",
+        "porcentaje1": 56.16,
+        "porcentaje2": 43.83
+    }
+]

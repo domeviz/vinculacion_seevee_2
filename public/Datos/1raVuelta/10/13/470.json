@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 225,
+        "candidato": "Guillermo Celi",
+        "value": 5.19
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 20,
+        "candidato": "Guillermo Celi",
+        "value": 0.91
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 101,
+        "candidato": "Guillermo Celi",
+        "value": 3.15
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 54,
+        "candidato": "Guillermo Celi",
+        "value": 1.69
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 688,
+        "candidato": "Guillermo Celi",
+        "value": 4.36
+    }
+]

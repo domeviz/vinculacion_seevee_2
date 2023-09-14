@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JESUS MARIA",
+        "id": 1830,
+        "votos": 38,
+        "candidato": "Gerson Almeida",
+        "value": 1.89
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 3370,
+        "votos": 46,
+        "candidato": "Gerson Almeida",
+        "value": 2.16
+    },
+    {
+        "parroquia": "SANTA ROSA DE FLANDES",
+        "id": 3740,
+        "votos": 50,
+        "candidato": "Gerson Almeida",
+        "value": 3.25
+    },
+    {
+        "parroquia": "TAURA",
+        "id": 3990,
+        "votos": 90,
+        "candidato": "Gerson Almeida",
+        "value": 2.17
+    },
+    {
+        "parroquia": "NARANJAL",
+        "id": 5675,
+        "votos": 1625,
+        "candidato": "Gerson Almeida",
+        "value": 5.11
+    }
+]

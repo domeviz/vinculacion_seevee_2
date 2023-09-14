@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 2885,
+        "candidato": "Andrés Arauz",
+        "value": 44.21
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 190,
+        "candidato": "Andrés Arauz",
+        "value": 38.15
+    },
+    {
+        "parroquia": "RAMÓN CAMPAÑA",
+        "id": 3155,
+        "votos": 247,
+        "candidato": "Andrés Arauz",
+        "value": 33.84
+    },
+    {
+        "parroquia": "EL CORAZÓN",
+        "id": 5305,
+        "votos": 1190,
+        "candidato": "Andrés Arauz",
+        "value": 32.84
+    }
+]

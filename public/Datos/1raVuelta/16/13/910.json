@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 24,
+        "candidato": "Paúl Carrasco",
+        "value": 0.48
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.56
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 83,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    }
+]

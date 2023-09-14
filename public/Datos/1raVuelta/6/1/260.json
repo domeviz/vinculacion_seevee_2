@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 79,
+        "candidato": "Isidro Romero",
+        "value": 0.50
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.55
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.51
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 0.77
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 17,
+        "candidato": "Isidro Romero",
+        "value": 0.63
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 30,
+        "candidato": "Isidro Romero",
+        "value": 0.70
+    },
+    {
+        "parroquia": "MULTI NULTI",
+        "id": 2570,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.34
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.51
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 14,
+        "candidato": "Isidro Romero",
+        "value": 0.44
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 17,
+        "candidato": "Isidro Romero",
+        "value": 0.43
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 83,
+        "candidato": "Isidro Romero",
+        "value": 0.68
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 21,
+        "candidato": "Isidro Romero",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 48,
+        "candidato": "Isidro Romero",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 32,
+        "candidato": "Isidro Romero",
+        "value": 0.48
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 23,
+        "candidato": "Isidro Romero",
+        "value": 0.36
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 0.36
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 47,
+        "candidato": "Isidro Romero",
+        "value": 0.40
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.17
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 1273,
+        "candidato": "Isidro Romero",
+        "value": 0.61
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.44
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.87
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.36
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 43,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO CONE",
+        "id": 4275,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 32,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

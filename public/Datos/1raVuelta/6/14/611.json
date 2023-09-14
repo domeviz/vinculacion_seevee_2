@@ -1,0 +1,21 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+       "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.21
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.23
+    }
+]

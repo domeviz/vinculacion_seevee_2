@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 34,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 26,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    }
+]

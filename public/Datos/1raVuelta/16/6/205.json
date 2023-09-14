@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 53,
+        "candidato": "Paúl Carrasco",
+        "value": 0.50
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.68
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 21,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 33,
+        "candidato": "Paúl Carrasco",
+        "value": 0.53
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJÓN Y CAAMAÑO",
+        "id": 1835,
+        "votos": 192,
+        "candidato": "Xavier Hervas",
+        "value": 17.31
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 153,
+        "candidato": "Xavier Hervas",
+        "value": 18.32
+    },
+    {
+        "parroquia": "LA CONCEPCIÓN",
+        "id": 2010,
+        "votos": 183,
+        "candidato": "Xavier Hervas",
+        "value": 9.38
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 1307,
+        "candidato": "Xavier Hervas",
+        "value": 30.31
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ZURMI",
+        "id": 1675,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 4570,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.43
+    },
+    {
+        "parroquia": "NANKAIS",
+        "id": 4655,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.63
+    },
+    {
+        "parroquia": "GUAYZIMI",
+        "id": 5520,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.05
+    }
+]

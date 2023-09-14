@@ -1,0 +1,47 @@
+[
+    {
+        "parroquia": "COPAL",
+        "id": 645,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "CHUPIANZA",
+        "id": 970,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN FCO. DE CHINIMBIMI",
+        "id": 1365,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.52
+    },
+    {
+        "parroquia": "PATUCA",
+        "id": 2795,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SAN LUIS DEL ACHO",
+        "id": 3565,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 1.52
+    },
+    {
+        "parroquia": "TAYUZA",
+        "id": 4115,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "MÉNDEZ",
+        "id": 5645,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.22
+    }
+]

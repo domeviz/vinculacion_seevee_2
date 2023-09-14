@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

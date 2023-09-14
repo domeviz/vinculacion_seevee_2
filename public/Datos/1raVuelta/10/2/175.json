@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 19,
+        "candidato": "Guillermo Celi",
+        "value": 0.89
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 23,
+        "candidato": "Guillermo Celi",
+        "value": 1.62
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 50,
+        "candidato": "Guillermo Celi",
+        "value": 1.51
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 1.67
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 1.43
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 1.66
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 62,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    }
+]

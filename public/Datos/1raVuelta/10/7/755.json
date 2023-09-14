@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.44
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    },
+    {
+        "parroquia": "LA VICTORIA LAS LAJAS",
+        "id": 6335,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.11
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    }
+]

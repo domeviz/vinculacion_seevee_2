@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 232,
+        "candidato": "Guillermo Lasso",
+        "value": 6.07
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 106,
+        "candidato": "Guillermo Lasso",
+        "value": 7.53
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 57,
+        "candidato": "Guillermo Lasso",
+        "value": 4.51
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 145,
+        "candidato": "Guillermo Lasso",
+        "value": 5.13
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 182,
+        "candidato": "Guillermo Lasso",
+        "value": 15.44
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 271,
+        "candidato": "Guillermo Lasso",
+        "value": 11.24
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 193,
+        "candidato": "Guillermo Lasso",
+        "value": 15.55
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 208,
+        "candidato": "Guillermo Lasso",
+        "value": 3.43
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 6095,
+        "candidato": "Guillermo Lasso",
+        "value": 17.24
+    }
+]

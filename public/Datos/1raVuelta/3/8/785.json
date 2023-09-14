@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 502,
+        "candidato": "Yaku Pérez",
+        "value": 8.90
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2130,
+        "votos": 138,
+        "candidato": "Yaku Pérez",
+        "value": 9.20
+    },
+    {
+        "parroquia": "SUABOCANA",
+        "id": 3880,
+        "votos": 147,
+        "candidato": "Yaku Pérez",
+        "value": 6.97
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 332,
+        "candidato": "Yaku Pérez",
+        "value": 7.11
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 937,
+        "candidato": "Yaku Pérez",
+        "value": 8.74
+    }
+]

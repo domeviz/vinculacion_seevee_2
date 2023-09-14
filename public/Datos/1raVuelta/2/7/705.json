@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 152,
+        "candidato": "Andrés Arauz",
+        "value": 16.54
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 180,
+        "candidato": "Andrés Arauz",
+        "value": 50.42
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 117,
+        "candidato": "Andrés Arauz",
+        "value": 19.24
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 68,
+        "candidato": "Andrés Arauz",
+        "value": 22.74
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 53,
+        "candidato": "Andrés Arauz",
+        "value": 21.03
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 328,
+        "candidato": "Andrés Arauz",
+        "value": 17.78
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 403,
+        "candidato": "Lucio Gutiérrez",
+        "value": 13.33
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 319,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.96
+    },
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 388,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.41
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.19
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 22,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.53
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 40,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.11
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.04
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 50,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.68
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.58
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.92
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 76,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.25
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 159,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.01
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 297,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.06
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 305,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.04
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS",
+        "id": 5600,
+        "votos": 39,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.64
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 106,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.82
+    }
+]

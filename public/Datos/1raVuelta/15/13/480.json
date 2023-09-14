@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 15,
+        "candidato": "Giovanny Andrade",
+        "value": 0.50
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 16,
+        "candidato": "Giovanny Andrade",
+        "value": 0.47
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 16,
+        "candidato": "Giovanny Andrade",
+        "value": 0.65
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 21,
+        "candidato": "Giovanny Andrade",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+     {
+        "parroquia": "CHONE",
+        "id": 5052,
+        "votos": 115,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    }
+]

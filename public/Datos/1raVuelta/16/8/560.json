@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.46
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.36
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 39,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 64,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 64,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS  ",
+        "id": 5600,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 27,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

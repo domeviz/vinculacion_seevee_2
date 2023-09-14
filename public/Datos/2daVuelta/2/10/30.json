@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "AMBUQUÍ CHOTA",
+        "id": 100,
+        "votos": 2431,
+        "candidato": "Andrés Arauz",
+        "value": 70.48
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 1280,
+        "candidato": "Andrés Arauz",
+        "value": 56.29
+    },
+    {
+        "parroquia": "CAROLINA GUALLUPÍ",
+        "id": 530,
+        "votos": 973,
+        "candidato": "Andrés Arauz",
+        "value": 64.52
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 2443,
+        "candidato": "Andrés Arauz",
+        "value": 55.65
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 1172,
+        "candidato": "Andrés Arauz",
+        "value": 55.78
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 837,
+        "candidato": "Andrés Arauz",
+        "value": 70.75
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 4190,
+        "candidato": "Andrés Arauz",
+        "value": 41.08
+    },
+    {
+        "parroquia": "CARANQUI",
+        "id": 5165,
+        "votos": 3076,
+        "candidato": "Andrés Arauz",
+        "value": 33.38
+    },
+    {
+        "parroquia": "GUAYAQUIL DE ALPACHACA",
+        "id": 5440,
+        "votos": 2652,
+        "candidato": "Andrés Arauz",
+        "value": 43.81
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5915,
+        "votos": 12587,
+        "candidato": "Andrés Arauz",
+        "value": 34.62
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5960,
+        "votos": 11168,
+        "candidato": "Andrés Arauz",
+        "value": 31.00
+    },
+    {
+        "parroquia": "LA DOLOROSA DEL PRIORATO",
+        "id": 6780,
+        "votos": 796,
+        "candidato": "Andrés Arauz",
+        "value": 41.09
+    },
+    {
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 30279,
+        "candidato": "Andrés Arauz",
+        "value": 33.79
+    }
+]

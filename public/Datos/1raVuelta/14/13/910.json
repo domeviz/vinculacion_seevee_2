@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.40
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.68
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 98,
+        "candidato": "Carlos Sagnay",
+        "value": 0.40
+    }
+]

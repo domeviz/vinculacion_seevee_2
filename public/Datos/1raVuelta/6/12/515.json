@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 67,
+        "candidato": "Isidro Romero",
+        "value": 2.27
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 166,
+        "candidato": "Isidro Romero",
+        "value": 1.72
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 375,
+        "candidato": "Isidro Romero",
+        "value": 5.35
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 173,
+        "candidato": "Isidro Romero",
+        "value": 2.06
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 2155,
+        "candidato": "Isidro Romero",
+        "value": 3.29
+    }
+]

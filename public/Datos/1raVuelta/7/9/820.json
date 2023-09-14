@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ELOY ALFARO DURAN",
+        "id": 6525,
+        "votos": 1032,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.02
+    },
+    {
+        "parroquia": "EL RECREO",
+        "id": 7455,
+        "votos": 273,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.09
+    },
+    {
+        "parroquia": "DIVINO NINIO",
+        "id": 7515,
+        "votos": 243,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.59
+    }
+]

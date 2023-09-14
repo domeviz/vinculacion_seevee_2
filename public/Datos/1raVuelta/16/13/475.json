@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 24,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 27,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 28,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    }
+]

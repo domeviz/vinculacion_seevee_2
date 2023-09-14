@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AMBUQUI CHOTA",
+        "id": 100,
+        "votos": 368,
+        "candidato": "Guillermo Lasso",
+        "value": 11.08
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 284,
+        "candidato": "Guillermo Lasso",
+        "value": 11.43
+    },
+    {
+        "parroquia": "CAROLINA  GUALLUPI",
+        "id": 530,
+        "votos": 173,
+        "candidato": "Guillermo Lasso",
+        "value": 11.26
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 516,
+        "candidato": "Guillermo Lasso",
+        "value": 10.06
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 272,
+        "candidato": "Guillermo Lasso",
+        "value": 13.85
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 112,
+        "candidato": "Guillermo Lasso",
+        "value": 9.68
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 1989,
+        "candidato": "Guillermo Lasso",
+        "value": 18.22
+    },
+    {
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 22271,
+        "candidato": "Guillermo Lasso",
+        "value": 23.72
+    }
+]

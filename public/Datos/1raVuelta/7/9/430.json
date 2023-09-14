@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 442,
+        "candidato": "Lucio Gutiérrez",
+        "value": 10.22
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 958,
+        "candidato": "Lucio Gutiérrez",
+        "value": 17.96
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 254,
+        "candidato": "Lucio Gutiérrez",
+        "value": 9.95
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 27,
+        "candidato": "Lucio Gutiérrez",
+        "value": 9.85
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 66,
+        "candidato": "Lucio Gutiérrez",
+        "value": 13.20
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 2711,
+        "candidato": "Lucio Gutiérrez",
+        "value": 12.18
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 10.19
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 14.29
+    }
+]

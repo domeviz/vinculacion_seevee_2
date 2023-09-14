@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 15,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.14
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.70
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 17,
+        "candidato": "Guillermo Celi",
+        "value": 0.77
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.13
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.32
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 70950,
+        "votos": 172,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    }
+]

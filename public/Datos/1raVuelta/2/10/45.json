@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 316,
+        "candidato": "Andrés Arauz",
+        "value": 34.13
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 782,
+        "candidato": "Andrés Arauz",
+        "value": 21.83
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 536,
+        "candidato": "Andrés Arauz",
+        "value": 25.94
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 2081,
+        "candidato": "Andrés Arauz",
+        "value": 32.58
+    },
+    {
+        "parroquia": "ANDRADE MARIN LOURDES",
+        "id": 5025,
+        "votos": 853,
+        "candidato": "Andrés Arauz",
+        "value": 27.64
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 2658,
+        "candidato": "Andrés Arauz",
+        "value": 20.92
+    }
+]

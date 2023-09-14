@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.47
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.94
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.74
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    }
+]

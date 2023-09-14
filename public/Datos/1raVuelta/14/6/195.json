@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 30,
+        "candidato": "Carlos Sagnay",
+        "value": 1.32
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 12,
+        "candidato": "Carlos Sagnay",
+        "value": 0.28
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.64
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 22,
+        "candidato": "Carlos Sagnay",
+        "value": 0.71
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 23,
+        "candidato": "Carlos Sagnay",
+        "value": 0.42
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 0.51
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.38
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 12,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 18,
+        "candidato": "Carlos Sagnay",
+        "value": 0.41
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 33,
+        "candidato": "Carlos Sagnay",
+        "value": 0.09
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 163,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CHICANA",
+        "id": 985,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "LOS ENCUENTROS",
+        "id": 2240,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.47
+    },
+    {
+        "parroquia": "YANZATZA",
+        "id": 6295,
+        "votos": 27,
+        "candidato": "Paúl Carrasco",
+        "value": 0.31
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 217,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.98
+    },
+    {
+        "parroquia": "SAMBORONDON",
+        "id": 5925,
+        "votos": 1150,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.17
+    },
+    {
+        "parroquia": "LA PUNTILLA (SATELITE)",
+        "id": 7445,
+        "votos": 58,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.29
+    }
+]

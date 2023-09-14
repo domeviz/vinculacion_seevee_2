@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.59
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.39
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 223,
+        "candidato": "Pedro Freile",
+        "value": 0.83
+    }
+]

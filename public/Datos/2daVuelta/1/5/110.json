@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUÍN",
+        "id": 135,
+        "votos": 1037,
+        "candidato": "Guillermo Lasso",
+        "value": 72.11
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 1608,
+        "candidato": "Guillermo Lasso",
+        "value": 57.26
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 1814,
+        "candidato": "Guillermo Lasso",
+        "value": 68.66
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 2284,
+        "candidato": "Guillermo Lasso",
+        "value": 69.40
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 1012,
+        "candidato": "Guillermo Lasso",
+        "value": 63.69
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 11867,
+        "candidato": "Guillermo Lasso",
+        "value": 66.90
+    }
+]

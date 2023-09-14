@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "BENITEZ PACHANLICA",
+        "id": 335,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 0.88
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 365,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 0.53
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 21,
+        "candidato": "Ximena Peña",
+        "value": 1.69
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 27,
+        "candidato": "Ximena Peña",
+        "value": 1.78
+    },
+    {
+        "parroquia": "EL ROSARIO RUMICHACA",
+        "id": 1185,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.40
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 22,
+        "candidato": "Ximena Peña",
+        "value": 1.04
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 66,
+        "candidato": "Ximena Peña",
+        "value": 1.35
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 28,
+        "candidato": "Ximena Peña",
+        "value": 0.76
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 146,
+        "candidato": "Ximena Peña",
+        "value": 0.80
+    },
+    {
+        "parroquia": "PELILEO GRANDE R. MINO",
+        "id": 5900,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.73
+    }
+]

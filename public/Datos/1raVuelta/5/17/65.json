@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCÁZUBI",
+        "id": 165,
+        "votos": 105,
+        "candidato": "Pedro Freile",
+        "value": 3.32
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 94,
+        "candidato": "Pedro Freile",
+        "value": 1.08
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 83,
+        "candidato": "Pedro Freile",
+        "value": 1.81
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 27,
+        "candidato": "Pedro Freile",
+        "value": 1.50
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 56,
+        "candidato": "Pedro Freile",
+        "value": 2.32
+    },
+    {
+        "parroquia": "SAN JOSÉ DE AYORA",
+        "id": 4620,
+        "votos": 156,
+        "candidato": "Pedro Freile",
+        "value": 3.06
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 1141,
+        "candidato": "Pedro Freile",
+        "value": 3.67
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 95,
+        "candidato": "Pedro Freile",
+        "value": 2.92
+    }
+]

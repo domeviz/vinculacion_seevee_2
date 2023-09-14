@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.26
+    }
+]

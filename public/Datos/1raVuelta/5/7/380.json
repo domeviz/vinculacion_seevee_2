@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 1.08
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 18,
+        "candidato": "Pedro Freile",
+        "value": 0.48
+    },
+    {
+        "parroquia": "RÍO BONITO",
+        "id": 2050,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.36
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 18,
+        "candidato": "Pedro Freile",
+        "value": 0.89
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 184,
+        "candidato": "Pedro Freile",
+        "value": 0.83
+    }
+]

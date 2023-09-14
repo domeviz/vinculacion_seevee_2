@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 1.35
+    },
+    {
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 33,
+        "candidato": "Ximena Peña",
+        "value": 0.87
+    }
+]

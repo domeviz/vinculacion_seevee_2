@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CUYABENO",
+        "id": 760,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.29
+    },
+    {
+        "parroquia": "AGUAS NEGRAS",
+        "id": 1555,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    },
+    {
+        "parroquia": "TARAPOA",
+        "id": 6765,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    }
+]

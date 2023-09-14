@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 46,
+        "candidato": "Xavier Hervas",
+        "value": 5.23
+    },
+    {
+        "parroquia": "GUANAZÁN",
+        "id": 1420,
+        "votos": 56,
+        "candidato": "Xavier Hervas",
+        "value": 3.48
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 278,
+        "candidato": "Xavier Hervas",
+        "value": 36.06
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 453,
+        "candidato": "Xavier Hervas",
+        "value": 36.30
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 286,
+        "candidato": "Xavier Hervas",
+        "value": 42.50
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 260,
+        "candidato": "Xavier Hervas",
+        "value": 44.75
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 260,
+        "candidato": "Xavier Hervas",
+        "value": 50.00
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 356,
+        "candidato": "Xavier Hervas",
+        "value": 57.79
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 228,
+        "candidato": "Xavier Hervas",
+        "value": 45.69
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 3078,
+        "candidato": "Xavier Hervas",
+        "value": 40.18
+    }
+]

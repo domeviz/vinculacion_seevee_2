@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 78,
+        "candidato": "Xavier Hervas",
+        "value": 7.41
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 176,
+        "candidato": "Xavier Hervas",
+        "value": 13.54
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 49,
+        "candidato": "Xavier Hervas",
+        "value": 9.21
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 73,
+        "candidato": "Xavier Hervas",
+        "value": 13.42
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 2422,
+        "candidato": "Xavier Hervas",
+        "value": 24.48
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 344,
+        "candidato": "Xavier Hervas",
+        "value": 18.90
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 99,
+        "candidato": "Xavier Hervas",
+        "value": 21.34
+    }
+]

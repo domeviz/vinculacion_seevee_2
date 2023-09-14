@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAAMAÃ\u2018O",
+        "id": 1835,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.45
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.36
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.09
+    }
+]

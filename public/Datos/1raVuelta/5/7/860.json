@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 1.35
+    },
+    {
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 65,
+        "candidato": "Pedro Freile",
+        "value": 1.72
+    }
+]

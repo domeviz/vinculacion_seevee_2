@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.30
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 56,
+        "candidato": "Carlos Sagnay",
+        "value": 0.28
+    }
+]

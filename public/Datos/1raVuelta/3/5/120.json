@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 3392,
+        "candidato": "Yaku Pérez",
+        "value": 46.33
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 391,
+        "candidato": "Yaku Pérez",
+        "value": 63.37
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 659,
+        "candidato": "Yaku Pérez",
+        "value": 66.90
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 2606,
+        "candidato": "Yaku Pérez",
+        "value": 58.39
+    }
+]

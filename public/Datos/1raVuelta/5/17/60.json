@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASÍ",
+        "id": 30,
+        "votos": 526,
+        "candidato": "Pedro Freile",
+        "value": 4.13
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 1128,
+        "candidato": "Pedro Freile",
+        "value": 5.89
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 48,
+        "candidato": "Pedro Freile",
+        "value": 4.24
+    },
+    {
+        "parroquia": "CALACALÍ",
+        "id": 430,
+        "votos": 84,
+        "candidato": "Pedro Freile",
+        "value": 2.62
+    },
+    {
+        "parroquia": "CALDERÓN",
+        "id": 440,
+        "votos": 4816,
+        "candidato": "Pedro Freile",
+        "value": 5.22
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 2670,
+        "candidato": "Pedro Freile",
+        "value": 4.83
+    },
+    {
+        "parroquia": "CUMBAYÁ",
+        "id": 725,
+        "votos": 724,
+        "candidato": "Pedro Freile",
+        "value": 2.91
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 16,
+        "candidato": "Pedro Freile",
+        "value": 3.19
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 195,
+        "candidato": "Pedro Freile",
+        "value": 3.96
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 16,
+        "candidato": "Pedro Freile",
+        "value": 1.37
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 98,
+        "candidato": "Pedro Freile",
+        "value": 4.44
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 382,
+        "candidato": "Pedro Freile",
+        "value": 3.83
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 185,
+        "candidato": "Pedro Freile",
+        "value": 4.03
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 368,
+        "candidato": "Pedro Freile",
+        "value": 5.70
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 42,
+        "candidato": "Pedro Freile",
+        "value": 2.88
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 52,
+        "candidato": "Pedro Freile",
+        "value": 3.41
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 76,
+        "candidato": "Pedro Freile",
+        "value": 4.02
+    },
+    {
+        "parroquia": "NAYÓN",
+        "id": 2540,
+        "votos": 342,
+        "candidato": "Pedro Freile",
+        "value": 4.54
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 1.66
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 49,
+        "candidato": "Pedro Freile",
+        "value": 1.81
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 4.36
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 432,
+        "candidato": "Pedro Freile",
+        "value": 3.96
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 385,
+        "candidato": "Pedro Freile",
+        "value": 3.03
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 893,
+        "candidato": "Pedro Freile",
+        "value": 4.12
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 109,
+        "candidato": "Pedro Freile",
+        "value": 2.73
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 388,
+        "candidato": "Pedro Freile",
+        "value": 4.30
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 503,
+        "candidato": "Pedro Freile",
+        "value": 4.39
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 1103,
+        "candidato": "Pedro Freile",
+        "value": 5.21
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 126,
+        "candidato": "Pedro Freile",
+        "value": 3.04
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 68,
+        "candidato": "Pedro Freile",
+        "value": 3.92
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 1448,
+        "candidato": "Pedro Freile",
+        "value": 4.02
+    },
+    {
+        "parroquia": "YARUQUÍ",
+        "id": 4290,
+        "votos": 526,
+        "candidato": "Pedro Freile",
+        "value": 4.12
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 240,
+        "candidato": "Pedro Freile",
+        "value": 6.50
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 60751,
+        "candidato": "Pedro Freile",
+        "value": 4.65
+    }
+]

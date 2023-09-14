@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "votos": 2130,
+        "candidato": "Paúl Carrasco",
+        "value": 0.49
+    },
+    {
+        "id": 2,
+        "votos": 217,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "id": 3,
+        "votos": 180,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "id": 4,
+        "votos": 190,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "id": 5,
+        "votos": 778,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "id": 6,
+        "votos": 834,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "id": 7,
+        "votos": 586,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "id": 8,
+        "votos": 672,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "id": 9,
+        "votos": 4083,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "id": 10,
+        "votos": 543,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "id": 11,
+        "votos": 549,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "id": 12,
+        "votos": 859,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "id": 13,
+        "votos": 2040,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "id": 14,
+        "votos": 96,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "id": 15,
+        "votos": 88,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "id": 16,
+        "votos": 99,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "id": 17,
+        "votos": 3253,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "id": 18,
+        "votos": 797,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "id": 19,
+        "votos": 162,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "id": 20,
+        "votos": 30,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "id": 21,
+        "votos": 161,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "id": 22,
+        "votos": 191,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "id": 23,
+        "votos": 570,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "id": 24,
+        "votos": 473,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "PROVINCIA": "EUROPA ASIA Y OCEANIA",
+        "id": 26,
+        "votos": 174,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "PROVINCIA": "EE.UU Y CANADA",
+        "id": 27,
+        "votos": 38,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "PROVINCIA": "AMERICA LATINA Y EL CARIBE",
+        "id": 28,
+        "votos": 16,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

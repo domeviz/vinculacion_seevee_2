@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 91,
+        "candidato": "Giovanny Andrade",
+        "value": 0.37
+    }
+]

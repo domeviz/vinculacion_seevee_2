@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AMBUQUI CHOTA",
+        "id": 100,
+        "votos": 14,
+        "candidato": "Cesar Montufar",
+        "value": 0.42
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 36,
+        "candidato": "Cesar Montufar",
+        "value": 1.45
+    },
+    {
+        "parroquia": "CAROLINA GUALLUPI",
+        "id": 530,
+        "votos": 8,
+        "candidato": "Cesar Montufar",
+        "value": 0.52
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 60,
+        "candidato": "Cesar Montufar",
+        "value": 1.17
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 20,
+        "candidato": "Cesar Montufar",
+        "value": 1.02
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 5,
+        "candidato": "Cesar Montufar",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 107,
+        "candidato": "Cesar Montufar",
+        "value": 0.98
+    },
+    {
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 959,
+        "candidato": "Cesar Montufar",
+        "value": 1.02
+    }
+]

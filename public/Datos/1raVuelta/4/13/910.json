@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMÍES",
+        "id": 580,
+        "votos": 292,
+        "candidato": "Xavier Hervas",
+        "value": 5.81
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 113,
+        "candidato": "Xavier Hervas",
+        "value": 7.60
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 90,
+        "candidato": "Xavier Hervas",
+        "value": 3.60
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 2047,
+        "candidato": "Xavier Hervas",
+        "value": 8.30
+    }
+]

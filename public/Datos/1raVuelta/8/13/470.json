@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 116,
+        "candidato": "Gerson Almeida",
+        "value": 2.67
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 0.77
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 42,
+        "candidato": "Gerson Almeida",
+        "value": 1.31
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 28,
+        "candidato": "Gerson Almeida",
+        "value": 0.88
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 133,
+        "candidato": "Gerson Almeida",
+        "value": 0.84
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 37,
+        "candidato": "Isidro Romero",
+        "value": 0.82
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 0.57
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 48,
+        "candidato": "Isidro Romero",
+        "value": 0.76
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 1.56
+    },
+    {
+        "parroquia": "MULALÓ",
+        "id": 2480,
+        "votos": 45,
+        "candidato": "Isidro Romero",
+        "value": 0.77
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 1.10
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 18,
+        "candidato": "Isidro Romero",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 62,
+        "candidato": "Isidro Romero",
+        "value": 0.88
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 47,
+        "candidato": "Isidro Romero",
+        "value": 0.55
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 45,
+        "candidato": "Isidro Romero",
+        "value": 0.62
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 730,
+        "candidato": "Isidro Romero",
+        "value": 1.09
+    }
+]

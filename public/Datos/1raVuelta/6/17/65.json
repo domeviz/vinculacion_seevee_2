@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 39,
+        "candidato": "Isidro Romero",
+        "value": 0.45
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 0.44
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.28
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 23,
+        "candidato": "Isidro Romero",
+        "value": 0.45
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 242,
+        "candidato": "Isidro Romero",
+        "value": 0.78
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 0.49
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.07
+    }
+]

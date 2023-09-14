@@ -1,0 +1,35 @@
+[
+    {
+        "parroquia": "HUASAGA WAMPUIK",
+        "id": 595,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.10
+    },
+    {
+        "parroquia": "TUTINENTZA",
+        "id": 1205,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.04
+    },
+    {
+        "parroquia": "MACUMA",
+        "id": 2285,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PUMPUENTSA",
+        "id": 4575,
+       "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "TAISHA",
+        "id": 6700,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.09
+    }
+]

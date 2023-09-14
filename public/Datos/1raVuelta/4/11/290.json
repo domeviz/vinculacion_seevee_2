@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 333,
+        "candidato": "Xavier Hervas",
+        "value": 17.49
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 68,
+        "candidato": "Xavier Hervas",
+        "value": 26.88
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 346,
+        "candidato": "Xavier Hervas",
+        "value": 31.14
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 52,
+        "candidato": "Xavier Hervas",
+        "value": 16.30
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 4719,
+        "candidato": "Xavier Hervas",
+        "value": 30.56
+    },
+    {
+        "parroquia": "SAN JOSÉ",
+        "id": 6825,
+        "votos": 288,
+        "candidato": "Xavier Hervas",
+        "value": 35.12
+    }
+]

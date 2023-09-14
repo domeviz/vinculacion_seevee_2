@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.97
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA VICTORIA LAS LAJAS",
+        "id": 6335,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.60
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.22
+    }
+]

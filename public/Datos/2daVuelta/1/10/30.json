@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "AMBUQUI CHOTA",
+        "id": 100,
+        "votos": 1018,
+        "candidato": "Guillermo Lasso",
+        "value": 29.52
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 994,
+        "candidato": "Guillermo Lasso",
+        "value": 43.71
+    },
+    {
+        "parroquia": "CAROLINA GUALLUPI",
+        "id": 530,
+        "votos": 535,
+        "candidato": "Guillermo Lasso",
+        "value": 35.48
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 1947,
+        "candidato": "Guillermo Lasso",
+        "value": 44.35
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 929,
+        "candidato": "Guillermo Lasso",
+        "value": 44.22
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 346,
+        "candidato": "Guillermo Lasso",
+        "value": 29.25
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 6010,
+        "candidato": "Guillermo Lasso",
+        "value": 58.92
+    },
+    {
+        "parroquia": "CARANQUI",
+        "id": 5165,
+        "votos": 6139,
+        "candidato": "Guillermo Lasso",
+        "value": 66.62
+    },
+    {
+        "parroquia": "GUAYAQUIL DE ALPACHACA",
+        "id": 5440,
+        "votos": 3402,
+        "candidato": "Guillermo Lasso",
+        "value": 56.19
+    },
+    {
+        "parroquia": "SAGRARIO",
+        "id": 5915,
+        "votos": 23772,
+        "candidato": "Guillermo Lasso",
+        "value": 65.38
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5960,
+        "votos": 24856,
+        "candidato": "Guillermo Lasso",
+        "value": 69.00
+    },
+    {
+        "parroquia": "LA DOLOROSA DEL PRIORATO",
+        "id": 6780,
+        "votos": 1141,
+        "candidato": "Guillermo Lasso",
+        "value": 58.91
+    },
+    {
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 59310,
+        "candidato": "Guillermo Lasso",
+        "value": 66.20
+    }
+]

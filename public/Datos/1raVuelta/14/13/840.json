@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 35,
+        "candidato": "Carlos Sagnay",
+        "value": 1.29
+    },
+    {
+        "parroquia": "PICHINCHA /GERMUD",
+        "id": 6550,
+        "votos": 46,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    }
+]

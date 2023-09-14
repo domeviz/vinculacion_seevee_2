@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.16
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.15
+    },
+    {
+        "parroquia": "LA VICTORIA LAS LAJAS",
+        "id": 6335,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.44
+    }
+]

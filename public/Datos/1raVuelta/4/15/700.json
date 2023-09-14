@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COTUNDO",
+        "id": 685,
+        "votos": 199,
+        "candidato": "Xavier Hervas",
+        "value": 4.83
+    },
+    {
+        "parroquia": "SAN PABLO DE USHPAYACU",
+        "id": 3605,
+        "votos": 50,
+        "candidato": "Xavier Hervas",
+        "value": 2.27
+    },
+    {
+        "parroquia": "HATUN SUMAKU",
+        "id": 4630,
+        "votos": 21,
+        "candidato": "Xavier Hervas",
+        "value": 1.41
+    },
+    {
+        "parroquia": "ARCHIDONA",
+        "id": 5070,
+        "votos": 1089,
+        "candidato": "Xavier Hervas",
+        "value": 10.85
+    }
+]

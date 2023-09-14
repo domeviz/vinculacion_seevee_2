@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    }
+]

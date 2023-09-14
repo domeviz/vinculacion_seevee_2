@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULÁN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 63,
+        "candidato": "Xavier Hervas",
+        "value": 8.64
+    },
+    {
+        "parroquia": "CHICÁN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 108,
+        "candidato": "Xavier Hervas",
+        "value": 7.97
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 71,
+        "candidato": "Xavier Hervas",
+        "value": 9.13
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 19,
+        "candidato": "Xavier Hervas",
+        "value": 4.59
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 123,
+        "candidato": "Xavier Hervas",
+        "value": 10.07
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 42,
+        "candidato": "Xavier Hervas",
+        "value": 5.80
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 81,
+        "candidato": "Xavier Hervas",
+        "value": 8.01
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 1140,
+        "candidato": "Xavier Hervas",
+        "value": 11.55
+    }
+]

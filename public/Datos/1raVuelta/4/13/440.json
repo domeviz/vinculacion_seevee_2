@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDÓN CALDERÓN",
+        "id": 10,
+        "votos": 1107,
+        "candidato": "Xavier Hervas",
+        "value": 12.34
+    },
+    {
+        "parroquia": "ALHAJUELA BAJO GRANDE",
+        "id": 50,
+        "votos": 236,
+        "candidato": "Xavier Hervas",
+        "value": 7.65
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 827,
+        "candidato": "Xavier Hervas",
+        "value": 10.65
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 96,
+        "candidato": "Xavier Hervas",
+        "value": 6.70
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 161,
+        "candidato": "Xavier Hervas",
+        "value": 7.06
+    },
+    {
+        "parroquia": "RÍO CHICO",
+        "id": 3185,
+        "votos": 732,
+        "candidato": "Xavier Hervas",
+        "value": 9.92
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 465,
+        "candidato": "Xavier Hervas",
+        "value": 8.59
+    },
+    {
+        "parroquia": "ANDRÉS DE VERA",
+        "id": 5030,
+        "votos": 8125,
+        "candidato": "Xavier Hervas",
+        "value": 16.79
+    },
+    {
+        "parroquia": "COLÓN",
+        "id": 5265,
+        "votos": 1334,
+        "candidato": "Xavier Hervas",
+        "value": 11.06
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 3697,
+        "candidato": "Xavier Hervas",
+        "value": 14.76
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 3146,
+        "candidato": "Xavier Hervas",
+        "value": 15.59
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 956,
+        "candidato": "Xavier Hervas",
+        "value": 7.20
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 645,
+        "candidato": "Xavier Hervas",
+        "value": 12.29
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 998,
+        "candidato": "Xavier Hervas",
+        "value": 13.85
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 912,
+        "candidato": "Xavier Hervas",
+        "value": 17.03
+    },
+    {
+        "parroquia": "SIMÓN BOLÍVAR",
+        "id": 6910,
+        "votos": 414,
+        "candidato": "Xavier Hervas",
+        "value": 15.10
+    }
+]

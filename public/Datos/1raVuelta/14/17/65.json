@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 62,
+        "candidato": "Carlos Sagnay",
+        "value": 1.96
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 41,
+        "candidato": "Carlos Sagnay",
+        "value": 0.47
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.06
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 15,
+        "candidato": "Carlos Sagnay",
+        "value": 0.29
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 25,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    }
+]

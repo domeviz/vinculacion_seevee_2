@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.23
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 1.38
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.78
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 1.10
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 44,
+        "candidato": "Gerson Almeida",
+        "value": 0.75
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    }
+]

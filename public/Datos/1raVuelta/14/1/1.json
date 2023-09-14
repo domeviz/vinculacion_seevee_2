@@ -1,0 +1,92 @@
+[
+    {
+        "id": 260,
+        "votos": 354,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    },
+    {
+        "id": 265,
+        "votos": 50,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "id": 270,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "id": 275,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "id": 280,
+        "votos": 30,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "id": 285,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "id": 555,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    },
+    {
+        "id": 556,
+        "votos": 23,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "id": 780,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.04
+    },
+    {
+        "id": 855,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    },
+    {
+        "id": 885,
+        "votos": 22,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "id": 915,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "id": 955,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "id": 960,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "id": 990,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.16
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 37,
+        "candidato": "Gustavo Larrea",
+        "value": 0.29
+    }
+]

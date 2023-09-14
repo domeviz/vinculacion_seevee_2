@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 925,
+        "candidato": "Andrés Arauz",
+        "value": 57.92
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 544,
+        "candidato": "Andrés Arauz",
+        "value": 52.97
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 1052,
+        "candidato": "Andrés Arauz",
+        "value": 50.87
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 634,
+        "candidato": "Andrés Arauz",
+        "value": 49.88
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 1771,
+        "candidato": "Andrés Arauz",
+        "value": 53.63
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 1026,
+        "candidato": "Andrés Arauz",
+        "value": 59.62
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 1587,
+        "candidato": "Andrés Arauz",
+        "value": 59.44
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 3343,
+        "candidato": "Andrés Arauz",
+        "value": 51.70
+    },
+    {
+        "parroquia": "BARTOLOMÉ RUIZ",
+        "id": 5205,
+        "votos": 7893,
+        "candidato": "Andrés Arauz",
+        "value": 48.61
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 12403,
+        "candidato": "Andrés Arauz",
+        "value": 42.37
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 13747,
+        "candidato": "Andrés Arauz",
+        "value": 44.73
+    },
+    {
+        "parroquia": "LUIS TELLO / LAS PALMAS ",
+        "id": 5600,
+        "votos": 2966,
+        "candidato": "Andrés Arauz",
+        "value": 47.58
+    },
+    {
+        "parroquia": "SIMÓN PLATA TORRES",
+        "id": 6905,
+        "votos": 6775,
+        "candidato": "Andrés Arauz",
+        "value": 50.57
+    }
+]

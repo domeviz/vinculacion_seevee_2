@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDÓN CALDERÓN LA UNIÓN",
+        "id": 15,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 1.05
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 92,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    }
+]

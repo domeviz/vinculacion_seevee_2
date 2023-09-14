@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    }
+]

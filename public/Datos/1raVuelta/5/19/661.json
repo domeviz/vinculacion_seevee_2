@@ -1,0 +1,35 @@
+[
+    {
+        "parroquia": "EL PORVENIR DEL CARMEN",
+        "id": 1240,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LA CANELA",
+        "id": 2170,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "VALLADOLID",
+        "id": 4195,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.81
+    },
+    {
+        "parroquia": "SAN FRANCISCO DEL VERGEL",
+        "id": 4505,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PALANDA",
+        "id": 6740,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 0.72
+    }
+]

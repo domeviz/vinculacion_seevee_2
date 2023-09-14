@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCIÓN",
+        "id": 170,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.53
+    },
+    {
+        "parroquia": "MAGDALENA CHAPACOTO",
+        "id": 2315,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 0.91
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.18
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.75
+    },
+    {
+        "parroquia": "SAN JOSÉ DE CHIMBO",
+        "id": 5975,
+        "votos": 48,
+        "candidato": "Isidro Romero",
+        "value": 1.09
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE CHANCAMA",
+        "id": 700,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.54
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 29,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "MALIMPIA GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 21,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 81,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    }
+]

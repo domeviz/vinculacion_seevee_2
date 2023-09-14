@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 12,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 28,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    }
+]

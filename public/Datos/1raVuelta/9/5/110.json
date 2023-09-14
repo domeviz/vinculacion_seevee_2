@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 13,
+        "candidato": "Ximena Peña",
+        "value": 0.76
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 87,
+        "candidato": "Ximena Peña",
+        "value": 1.96
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 50,
+        "candidato": "Ximena Peña",
+        "value": 1.13
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 56,
+        "candidato": "Ximena Peña",
+        "value": 1.27
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 26,
+        "candidato": "Ximena Peña",
+        "value": 1.29
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 219,
+        "candidato": "Ximena Peña",
+        "value": 0.94
+    }
+]

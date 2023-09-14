@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 65,
+        "candidato": "Pedro Freile",
+        "value": 0.50
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 40,
+        "candidato": "Pedro Freile",
+        "value": 0.61
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 47,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 16,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    }
+]

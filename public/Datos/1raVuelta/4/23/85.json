@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUÍN",
+        "id": 75,
+        "votos": 855,
+        "candidato": "Xavier Hervas",
+        "value": 15.41
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 704,
+        "candidato": "Xavier Hervas",
+        "value": 15.04
+    },
+    {
+        "parroquia": "LUZ DE AMÉRICA",
+        "id": 1755,
+        "votos": 691,
+        "candidato": "Xavier Hervas",
+        "value": 15.65
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 724,
+        "candidato": "Xavier Hervas",
+        "value": 11.00
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 538,
+        "candidato": "Xavier Hervas",
+        "value": 17.07
+    },
+    {
+        "parroquia": "SANTA MARÍA DEL TOACHI",
+        "id": 2045,
+        "votos": 218,
+        "candidato": "Xavier Hervas",
+        "value": 8.40
+    },
+    {
+        "parroquia": "PUERTO LIMÓN",
+        "id": 4440,
+        "votos": 672,
+        "candidato": "Xavier Hervas",
+        "value": 11.21
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACÓN",
+        "id": 5730,
+        "votos": 4809,
+        "candidato": "Xavier Hervas",
+        "value": 17.40
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 7791,
+        "candidato": "Xavier Hervas",
+        "value": 19.35
+    },
+    {
+        "parroquia": "RÍO VERDE",
+        "id": 5865,
+        "votos": 8746,
+        "candidato": "Xavier Hervas",
+        "value": 18.62
+    },
+    {
+        "parroquia": "RÍO TOACHI",
+        "id": 5870,
+        "votos": 1056,
+        "candidato": "Xavier Hervas",
+        "value": 15.54
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 9193,
+        "candidato": "Xavier Hervas",
+        "value": 19.44
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 6071,
+        "candidato": "Xavier Hervas",
+        "value": 19.37
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 1434,
+        "candidato": "Xavier Hervas",
+        "value": 23.20
+    }
+]

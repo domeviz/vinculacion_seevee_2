@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN ",
+        "id": 1125,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 16,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.41
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 1.09
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 25,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.06
+    }
+]

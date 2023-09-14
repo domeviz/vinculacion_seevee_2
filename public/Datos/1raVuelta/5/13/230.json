@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.53
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.59
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 79,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    }
+]

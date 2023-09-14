@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.41
+    }
+]

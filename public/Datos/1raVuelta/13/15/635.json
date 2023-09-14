@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.50
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.07
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    }
+]

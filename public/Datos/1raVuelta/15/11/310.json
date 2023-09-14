@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.48
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.34
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.09
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 18,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    }
+]

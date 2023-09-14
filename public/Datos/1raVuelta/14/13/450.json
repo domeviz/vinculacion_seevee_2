@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.49
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 45,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 80,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 70,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 58,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    }
+]

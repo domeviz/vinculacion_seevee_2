@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 507,
+        "candidato": "Andrés Arauz",
+        "value": 57.09
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 590,
+        "candidato": "Andrés Arauz",
+        "value": 52.63
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 371,
+        "candidato": "Andrés Arauz",
+        "value": 47.02
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 297,
+        "candidato": "Andrés Arauz",
+        "value": 32.78
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 231,
+        "candidato": "Andrés Arauz",
+        "value": 49.36
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 143,
+        "candidato": "Andrés Arauz",
+        "value": 29.92
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 3378,
+        "candidato": "Andrés Arauz",
+        "value": 28.21
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 10,
+        "candidato": "Andrés Arauz",
+        "value": 11.36
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 44,
+        "candidato": "Andrés Arauz",
+        "value": 20.28
+    }
+]

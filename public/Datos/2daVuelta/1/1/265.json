@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 163,
+        "candidato": "Guillermo Lasso",
+        "value": 30.87
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 84,
+        "candidato": "Guillermo Lasso",
+        "value": 45.90
+    },
+    {
+        "parroquia": "JADÁN",
+        "id": 1805,
+        "votos": 659,
+        "candidato": "Guillermo Lasso",
+        "value": 42.16
+    },
+    {
+        "parroquia": "MARIANO MORENO / CALLASAY",
+        "id": 2385,
+        "votos": 259,
+        "candidato": "Guillermo Lasso",
+        "value": 43.68
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 134,
+        "candidato": "Guillermo Lasso",
+        "value": 42.27
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 346,
+        "candidato": "Guillermo Lasso",
+        "value": 25.86
+    },
+    {
+        "parroquia": "SIMÓN BOLÍVAR",
+        "id": 3780,
+        "votos": 102,
+        "candidato": "Guillermo Lasso",
+        "value": 37.23
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 423,
+        "candidato": "Guillermo Lasso",
+        "value": 42.05
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 5202,
+        "candidato": "Guillermo Lasso",
+        "value": 52.48
+    }
+]

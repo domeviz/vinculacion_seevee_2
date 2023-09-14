@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.06
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 21,
+        "candidato": "Carlos Sagnay",
+        "value": 0.47
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 14,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.05
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 37,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    }
+]

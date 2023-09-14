@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 863,
+        "candidato": "Guillermo Lasso",
+        "value": 47.16
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 2134,
+        "candidato": "Guillermo Lasso",
+        "value": 70.59
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 878,
+        "candidato": "Guillermo Lasso",
+        "value": 72.20
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 887,
+        "candidato": "Guillermo Lasso",
+        "value": 32.23
+    },
+    {
+        "parroquia": "LICÁN",
+        "id": 2160,
+        "votos": 2631,
+        "candidato": "Guillermo Lasso",
+        "value": 76.28
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 1790,
+        "candidato": "Guillermo Lasso",
+        "value": 36.74
+    },
+    {
+        "parroquia": "PUNGALÁ",
+        "id": 3035,
+        "votos": 1504,
+        "candidato": "Guillermo Lasso",
+        "value": 54.18
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 1635,
+        "candidato": "Guillermo Lasso",
+        "value": 50.06
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 2216,
+        "candidato": "Guillermo Lasso",
+        "value": 76.33
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 2572,
+        "candidato": "Guillermo Lasso",
+        "value": 68.50
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 2332,
+        "candidato": "Guillermo Lasso",
+        "value": 68.61
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 27259,
+        "candidato": "Guillermo Lasso",
+        "value": 78.71
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 52864,
+        "candidato": "Guillermo Lasso",
+        "value": 78.69
+    }
+]

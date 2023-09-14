@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 18,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.69
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.50
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 20,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.67
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 30,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.90
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.47
+    },
+    {
+        "parroquia": "27 DE ABRIL LA NARANJA",
+        "id": 4460,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.07
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 69,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.41
+    }
+]

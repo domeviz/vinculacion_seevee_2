@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "CHONTAMARCA",
+        "id": 935,
+        "votos": 266,
+        "candidato": "Andrés Arauz",
+        "value": 14.31
+    },
+    {
+        "parroquia": "CHOROCOPTE",
+        "id": 950,
+        "votos": 214,
+        "candidato": "Andrés Arauz",
+        "value": 16.24
+    },
+    {
+        "parroquia": "GRAL.MORALES SOCARTE",
+        "id": 1335,
+        "votos": 180,
+        "candidato": "Andrés Arauz",
+        "value": 15.05
+    },
+    {
+        "parroquia": "GUALLETURO",
+        "id": 1410,
+        "votos": 234,
+        "candidato": "Andrés Arauz",
+        "value": 15.04
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1605,
+        "votos": 565,
+        "candidato": "Andrés Arauz",
+        "value": 21.22
+    },
+    {
+        "parroquia": "INGAPIRCA",
+        "id": 1725,
+        "votos": 735,
+        "candidato": "Andrés Arauz",
+        "value": 19.40
+    },
+    {
+        "parroquia": "VENTURA",
+        "id": 1775,
+        "votos": 132,
+        "candidato": "Andrés Arauz",
+        "value": 26.61
+    },
+    {
+        "parroquia": "DUCUR",
+        "id": 1895,
+        "votos": 385,
+        "candidato": "Andrés Arauz",
+        "value": 23.77
+    },
+    {
+        "parroquia": "JUNCAL",
+        "id": 1900,
+        "votos": 142,
+        "candidato": "Andrés Arauz",
+        "value": 15.35
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3305,
+        "votos": 361,
+        "candidato": "Andrés Arauz",
+        "value": 32.15
+    },
+    {
+        "parroquia": "ZHUD",
+        "id": 4345,
+        "votos": 166,
+        "candidato": "Andrés Arauz",
+        "value": 17.15
+    },
+    {
+        "parroquia": "CAÑAR",
+        "id": 5160,
+        "votos": 2329,
+        "candidato": "Andrés Arauz",
+        "value": 16.57
+    }
+]

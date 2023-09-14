@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ZAPOTAL",
+        "id": 4330,
+        "votos": 25,
+        "candidato": "Carlos Sagnay",
+        "value": 0.55
+    },
+    {
+        "parroquia": "LOS ANGELES",
+        "id": 4585,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.45
+    },
+    {
+        "parroquia": "CHACARITA",
+        "id": 4590,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "VENTANAS",
+        "id": 6235,
+        "votos": 204,
+        "candidato": "Carlos Sagnay",
+        "value": 0.62
+    },
+    {
+        "parroquia": "10-nov",
+        "id": 7480,
+        "votos": 24,
+        "candidato": "Carlos Sagnay",
+        "value": 1.84
+    }
+]

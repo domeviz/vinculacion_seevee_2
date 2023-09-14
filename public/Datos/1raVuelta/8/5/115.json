@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.31
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 26,
+        "candidato": "Gerson Almeida",
+        "value": 1.02
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 81,
+        "candidato": "Gerson Almeida",
+        "value": 0.64
+    }
+]

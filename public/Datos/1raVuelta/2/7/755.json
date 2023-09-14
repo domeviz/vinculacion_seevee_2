@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 106,
+        "candidato": "Andrés Arauz",
+        "value": 23.56
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 158,
+        "candidato": "Andrés Arauz",
+        "value": 25.44
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 255,
+        "candidato": "Andrés Arauz",
+        "value": 37.72
+    },
+    {
+        "parroquia": "LA VICTORIA LAS LAJAS",
+        "id": 6335,
+        "votos": 534,
+        "candidato": "Andrés Arauz",
+        "value": 28.99
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 133,
+        "candidato": "Andrés Arauz",
+        "value": 29.04
+    }
+]

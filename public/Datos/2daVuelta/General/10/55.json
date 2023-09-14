@@ -1,0 +1,74 @@
+[
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 1064,
+        "votos1": 566,
+        "votos2": 498,
+        "fill": "#045A8D",
+        "porcentaje1": 53.2,
+        "porcentaje2": 46.8
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 850,
+        "votos1": 544,
+        "votos2": 306,
+        "fill": "#045A8D",
+        "porcentaje1": 64.0,
+        "porcentaje2": 36.0
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 1261,
+        "votos1": 472,
+        "votos2": 789,
+        "fill": "#EF8A62",
+        "porcentaje1": 37.43,
+        "porcentaje2": 62.57
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 1646,
+        "votos1": 689,
+        "votos2": 957,
+        "fill": "#EF8A62",
+        "porcentaje1": 41.86,
+        "porcentaje2": 58.14
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 941,
+        "votos1": 384,
+        "votos2": 557,
+        "fill": "#EF8A62",
+        "porcentaje1": 40.81,
+        "porcentaje2": 59.19
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 4177,
+        "votos1": 1848,
+        "votos2": 2329,
+        "fill": "#EF8A62",
+        "porcentaje1": 44.24,
+        "porcentaje2": 55.76
+    }
+]

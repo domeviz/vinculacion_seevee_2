@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 16,
+        "candidato": "Paúl Carrasco",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 24,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    }
+]

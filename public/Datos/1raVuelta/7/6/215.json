@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ACHUPALLAS",
+        "id": 20,
+        "votos": 53,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.07
+    },
+    {
+        "parroquia": "GUASUNTOS",
+        "id": 1465,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.96
+    },
+    {
+        "parroquia": "HUIGRA",
+        "id": 1660,
+        "votos": 19,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.84
+    },
+    {
+        "parroquia": "MULTITUD",
+        "id": 2485,
+        "votos": 48,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.91
+    },
+    {
+        "parroquia": "PISTISHI",
+        "id": 2905,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.78
+    },
+    {
+        "parroquia": "PUMALLACTA",
+        "id": 3025,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.98
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 3820,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.85
+    },
+    {
+        "parroquia": "SIBAMBE",
+        "id": 3845,
+        "votos": 86,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.81
+    },
+    {
+        "parroquia": "TIXAN",
+        "id": 4030,
+        "votos": 66,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.14
+    },
+    {
+        "parroquia": "ALAUSI",
+        "id": 5010,
+        "votos": 115,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.56
+    }
+]

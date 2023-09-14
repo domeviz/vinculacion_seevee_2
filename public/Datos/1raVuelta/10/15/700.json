@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COTUNDO",
+        "id": 685,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SAN PABLO DE USHPAYACU",
+        "id": 3605,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 0.82
+    },
+    {
+        "parroquia": "HATUN SUMAKU",
+        "id": 4630,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    },
+    {
+        "parroquia": "ARCHIDONA",
+        "id": 5070,
+        "votos": 57,
+        "candidato": "Guillermo Celi",
+        "value": 0.57
+    }
+]

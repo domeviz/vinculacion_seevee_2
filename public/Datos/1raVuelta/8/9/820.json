@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ELOY ALFARO DURAN",
+        "id": 6525,
+        "votos": 3302,
+        "candidato": "Gerson Almeida",
+        "value": 3.27
+    },
+    {
+        "parroquia": "EL RECREO",
+        "id": 7455,
+        "votos": 1152,
+        "candidato": "Gerson Almeida",
+        "value": 4.59
+    },
+    {
+        "parroquia": "DIVINO NINIO",
+        "id": 7515,
+        "votos": 571,
+        "candidato": "Gerson Almeida",
+        "value": 3.73
+    }
+]

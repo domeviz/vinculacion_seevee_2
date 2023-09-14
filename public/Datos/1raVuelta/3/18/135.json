@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 1306,
+        "candidato": "Yaku Pérez",
+        "value": 44.91
+    },
+    {
+        "parroquia": "ATAHUALPA  CHIPZALATA",
+        "id": 190,
+        "votos": 1575,
+        "candidato": "Yaku Pérez",
+        "value": 25.46
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 2306,
+        "candidato": "Yaku Pérez",
+        "value": 38.43
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 868,
+        "candidato": "Yaku Pérez",
+        "value": 50.44
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 1125,
+        "candidato": "Yaku Pérez",
+        "value": 44.29
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 806,
+        "candidato": "Yaku Pérez",
+        "value": 45.64
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 1661,
+        "candidato": "Yaku Pérez",
+        "value": 28.01
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 4883,
+        "candidato": "Yaku Pérez",
+        "value": 37.24
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 2986,
+        "candidato": "Yaku Pérez",
+        "value": 59.97
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 605,
+        "candidato": "Yaku Pérez",
+        "value": 26.90
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 2695,
+        "candidato": "Yaku Pérez",
+        "value": 65.37
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 3601,
+        "candidato": "Yaku Pérez",
+        "value": 36.77
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 5951,
+        "candidato": "Yaku Pérez",
+        "value": 77.67
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 3572,
+        "candidato": "Yaku Pérez",
+        "value": 56.12
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 1834,
+        "candidato": "Yaku Pérez",
+        "value": 32.33
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 931,
+        "candidato": "Yaku Pérez",
+        "value": 59.45
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 5310,
+        "candidato": "Yaku Pérez",
+        "value": 47.01
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 1451,
+        "candidato": "Yaku Pérez",
+        "value": 33.04
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 17904,
+        "candidato": "Yaku Pérez",
+        "value": 15.06
+    }
+]

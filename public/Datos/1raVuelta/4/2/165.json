@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 382,
+        "candidato": "Xavier Hervas",
+        "value": 10.00
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 65,
+        "candidato": "Xavier Hervas",
+        "value": 4.62
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 39,
+        "candidato": "Xavier Hervas",
+        "value": 3.08
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 211,
+        "candidato": "Xavier Hervas",
+        "value": 7.47
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 79,
+        "candidato": "Xavier Hervas",
+        "value": 6.70
+    },
+    {
+        "parroquia": "SAN SIMÓN",
+        "id": 3670,
+        "votos": 208,
+        "candidato": "Xavier Hervas",
+        "value": 8.63
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 128,
+        "candidato": "Xavier Hervas",
+        "value": 10.31
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 111,
+        "candidato": "Xavier Hervas",
+        "value": 1.83
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 10882,
+        "candidato": "Xavier Hervas",
+        "value": 14.89
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 14,
+        "candidato": "Cesar Montufar",
+        "value": 1.17
+    },
+    {
+        "parroquia": "GARCIA MORENO LLURIMAGUA",
+        "id": 1310,
+        "votos": 22,
+        "candidato": "Cesar Montufar",
+        "value": 0.45
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 33,
+        "candidato": "Cesar Montufar",
+        "value": 1.01
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 6,
+        "candidato": "Cesar Montufar",
+        "value": 0.59
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 0,
+        "candidato": "Cesar Montufar",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 44,
+        "candidato": "Cesar Montufar",
+        "value": 0.97
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 9,
+        "candidato": "Cesar Montufar",
+        "value": 0.72
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 2,
+        "candidato": "Cesar Montufar",
+        "value": 0.59
+    },
+    {
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 130,
+        "candidato": "Cesar Montufar",
+        "value": 1.13
+    }
+]

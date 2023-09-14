@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 88,
+        "candidato": "Xavier Hervas",
+        "value": 17.67
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 114,
+        "candidato": "Xavier Hervas",
+        "value": 15.47
+    },
+    {
+        "parroquia": "EL LIMO MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 213,
+        "candidato": "Xavier Hervas",
+        "value": 15.71
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 177,
+        "candidato": "Xavier Hervas",
+        "value": 23.02
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 80,
+        "candidato": "Xavier Hervas",
+        "value": 10.54
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 1786,
+        "candidato": "Xavier Hervas",
+        "value": 30.46
+    }
+]

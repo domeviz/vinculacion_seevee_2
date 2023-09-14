@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 37,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

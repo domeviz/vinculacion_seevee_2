@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CANOA",
+        "id": 470,
+        "votos": 45,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.67
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6785,
+        "votos": 81,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.75
+    }
+]

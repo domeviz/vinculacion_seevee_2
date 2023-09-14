@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 175,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.07
+    },
+    {
+        "parroquia": "SAN GERARDO",
+        "id": 885,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GIRON",
+        "id": 5395,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 32,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.74
+    }
+]

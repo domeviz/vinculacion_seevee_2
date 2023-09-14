@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 77,
+        "candidato": "Guillermo Celi",
+        "value": 2.57
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 36,
+        "candidato": "Guillermo Celi",
+        "value": 2.16
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 229,
+        "candidato": "Guillermo Celi",
+        "value": 6.39
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 575,
+        "candidato": "Guillermo Celi",
+        "value": 5.76
+    }
+]

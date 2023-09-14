@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 178,
+        "candidato": "Yaku Pérez",
+        "value": 10.85
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 267,
+        "candidato": "Yaku Pérez",
+        "value": 17.30
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 165,
+        "candidato": "Yaku Pérez",
+        "value": 6.90
+    },
+    {
+        "parroquia": "MONTALVO  HORQUETA",
+        "id": 2445,
+        "votos": 243,
+        "candidato": "Yaku Pérez",
+        "value": 10.88
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 244,
+        "candidato": "Yaku Pérez",
+        "value": 7.76
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 263,
+        "candidato": "Yaku Pérez",
+        "value": 7.48
+    }
+]

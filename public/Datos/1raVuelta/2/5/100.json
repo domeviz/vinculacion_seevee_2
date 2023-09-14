@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 589,
+        "candidato": "Andrés Arauz",
+        "value": 13.13
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 417,
+        "candidato": "Andrés Arauz",
+        "value": 11.84
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 1121,
+        "candidato": "Andrés Arauz",
+        "value": 17.73
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 140,
+        "candidato": "Andrés Arauz",
+        "value": 10.94
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 805,
+        "candidato": "Andrés Arauz",
+        "value": 13.70
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 261,
+        "candidato": "Andrés Arauz",
+        "value": 17.95
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 382,
+        "candidato": "Andrés Arauz",
+        "value": 9.38
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 1133,
+        "candidato": "Andrés Arauz",
+        "value": 16.02
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 1298,
+        "candidato": "Andrés Arauz",
+        "value": 15.26
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 1215,
+        "candidato": "Andrés Arauz",
+        "value": 16.72
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 8640,
+        "candidato": "Andrés Arauz",
+        "value": 12.00
+    }
+]

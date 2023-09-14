@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 99,
+        "candidato": "Ximena Peña",
+        "value": 0.78
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 203,
+        "candidato": "Ximena Peña",
+        "value": 1.06
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 0.71
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 0.78
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 917,
+        "candidato": "Ximena Peña",
+        "value": 0.99
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 411,
+        "candidato": "Ximena Peña",
+        "value": 0.74
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 150,
+        "candidato": "Ximena Peña",
+        "value": 0.60
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.40
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 57,
+        "candidato": "Ximena Peña",
+        "value": 1.16
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 19,
+        "candidato": "Ximena Peña",
+        "value": 1.63
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 24,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 106,
+        "candidato": "Ximena Peña",
+        "value": 1.06
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 58,
+        "candidato": "Ximena Peña",
+        "value": 1.26
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 71,
+        "candidato": "Ximena Peña",
+        "value": 1.10
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 23,
+        "candidato": "Ximena Peña",
+        "value": 1.58
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.64
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 30,
+        "candidato": "Ximena Peña",
+        "value": 1.59
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 73,
+        "candidato": "Ximena Peña",
+        "value": 0.97
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 0.78
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 38,
+        "candidato": "Ximena Peña",
+        "value": 1.40
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.36
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 174,
+        "candidato": "Ximena Peña",
+        "value": 1.60
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 178,
+        "candidato": "Ximena Peña",
+        "value": 1.40
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 142,
+        "candidato": "Ximena Peña",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 64,
+        "candidato": "Ximena Peña",
+        "value": 1.60
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 110,
+        "candidato": "Ximena Peña",
+        "value": 1.22
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 125,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 203,
+        "candidato": "Ximena Peña",
+        "value": 0.96
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 53,
+        "candidato": "Ximena Peña",
+        "value": 1.28
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 0.63
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 373,
+        "candidato": "Ximena Peña",
+        "value": 1.03
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 192,
+        "candidato": "Ximena Peña",
+        "value": 1.50
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 35,
+        "candidato": "Ximena Peña",
+        "value": 0.95
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 10910,
+        "candidato": "Ximena Peña",
+        "value": 0.84
+    }
+]

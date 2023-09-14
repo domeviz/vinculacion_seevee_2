@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 129,
+        "candidato": "Xavier Hervas",
+        "value": 32.01
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 80,
+        "candidato": "Xavier Hervas",
+        "value": 20.67
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 121,
+        "candidato": "Xavier Hervas",
+        "value": 24.90
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 629,
+        "candidato": "Xavier Hervas",
+        "value": 43.83
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 62,
+        "candidato": "Xavier Hervas",
+        "value": 30.39
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 524,
+        "candidato": "Xavier Hervas",
+        "value": 34.14
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.99
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 158,
+        "candidato": "Isidro Romero",
+        "value": 1.48
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 0.86
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 104,
+        "candidato": "Isidro Romero",
+        "value": 1.36
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 60,
+        "candidato": "Isidro Romero",
+        "value": 0.97
+    }
+]

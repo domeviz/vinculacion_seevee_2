@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 35,
+        "candidato": "Cesar Montufar",
+        "value": 0.78
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 26,
+        "candidato": "Cesar Montufar",
+        "value": 0.74
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 45,
+        "candidato": "Cesar Montufar",
+        "value": 0.71
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 10,
+        "candidato": "Cesar Montufar",
+        "value": 0.78
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 34,
+        "candidato": "Cesar Montufar",
+        "value": 0.58
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 15,
+        "candidato": "Cesar Montufar",
+        "value": 1.03
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 23,
+        "candidato": "Cesar Montufar",
+        "value": 0.56
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 58,
+        "candidato": "Cesar Montufar",
+        "value": 0.82
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 65,
+        "candidato": "Cesar Montufar",
+        "value": 0.76
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 32,
+        "candidato": "Cesar Montufar",
+        "value": 0.44
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 869,
+        "candidato": "Cesar Montufar",
+        "value": 1.21
+    }
+]

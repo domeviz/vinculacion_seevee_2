@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TOMAS DE BERLANGA",
+        "id": 4165,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 2.61
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 0.87
+    }
+]

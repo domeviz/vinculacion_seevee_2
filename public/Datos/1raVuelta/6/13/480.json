@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 44,
+        "candidato": "Isidro Romero",
+        "value": 2.02
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 1.52
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 72,
+        "candidato": "Isidro Romero",
+        "value": 2.13
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 49,
+        "candidato": "Isidro Romero",
+        "value": 1.99
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 79,
+        "candidato": "Isidro Romero",
+        "value": 2.24
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 105,
+        "candidato": "Isidro Romero",
+        "value": 2.15
+    },
+      {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 1301,
+        "candidato": "Isidro Romero",
+        "value": 2.49
+    }
+]

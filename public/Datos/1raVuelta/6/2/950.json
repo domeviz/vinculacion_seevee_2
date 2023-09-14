@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LAS NAVES",
+        "id": 6470,
+        "votos": 32,
+        "candidato": "Isidro Romero",
+        "value": 0.75
+    },
+    {
+        "parroquia": "LAS MERCEDES",
+        "id": 6475,
+        "votos": 22,
+        "candidato": "Isidro Romero",
+        "value": 3.45
+    }
+]

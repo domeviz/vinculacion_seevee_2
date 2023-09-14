@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COCHAPATA",
+        "id": 575,
+        "votos": 32,
+        "candidato": "Guillermo Lasso",
+        "value": 2.10
+    },
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1175,
+        "votos": 22,
+        "candidato": "Guillermo Lasso",
+        "value": 2.38
+    },
+    {
+        "parroquia": "NIEVES",
+        "id": 2550,
+        "votos": 20,
+        "candidato": "Guillermo Lasso",
+        "value": 2.27
+    },
+    {
+        "parroquia": "NABON",
+        "id": 6595,
+        "votos": 181,
+        "candidato": "Guillermo Lasso",
+        "value": 2.78
+    }
+]

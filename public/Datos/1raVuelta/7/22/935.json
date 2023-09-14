@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 191,
+        "candidato": "Lucio Gutiérrez",
+        "value": 7.30
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 31,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.82
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 129,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.54
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 324,
+        "candidato": "Lucio Gutiérrez",
+        "value": 11.42
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 197,
+        "candidato": "Lucio Gutiérrez",
+        "value": 13.00
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 262,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.84
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 55,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.27
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 85,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.85
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 65,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.03
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 105,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.29
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 208,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.32
+    }
+]

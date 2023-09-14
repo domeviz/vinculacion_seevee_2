@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 773,
+        "candidato": "Andrés Arauz",
+        "value": 45.31
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 552,
+        "candidato": "Andrés Arauz",
+        "value": 34.35
+    },
+    {
+        "parroquia": "LA MANÁ",
+        "id": 6535,
+        "votos": 11804,
+        "candidato": "Andrés Arauz",
+        "value": 59.37
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 1698,
+        "candidato": "Andrés Arauz",
+        "value": 72.50
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 1666,
+        "candidato": "Andrés Arauz",
+        "value": 70.71
+    }
+]

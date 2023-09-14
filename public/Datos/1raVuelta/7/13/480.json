@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 31,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.43
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 53,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.75
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 39,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.15
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 41,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.67
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 67,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.90
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 51,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.04
+    },
+      {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 474,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.91
+    }
+]

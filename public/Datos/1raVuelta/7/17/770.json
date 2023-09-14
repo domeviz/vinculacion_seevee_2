@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MINDO",
+        "id": 2410,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.45
+    },
+    {
+        "parroquia": "S. MIGUEL DE LOS BANCOS",
+        "id": 6350,
+        "votos": 102,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.54
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 19,
+        "candidato": "Paúl Carrasco",
+        "value": 0.31
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.43
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 21,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 27,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.58
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 30,
+        "candidato": "Paúl Carrasco",
+        "value": 0.31
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.04
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 16,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 19,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.83
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 26,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 282,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    }
+]

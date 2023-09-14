@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 40,
+        "candidato": "Ximena Peña",
+        "value": 2.80
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 41,
+        "candidato": "Ximena Peña",
+        "value": 4.71
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 82,
+        "candidato": "Ximena Peña",
+        "value": 4.32
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 52,
+        "candidato": "Ximena Peña",
+        "value": 4.62
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 98,
+        "candidato": "Ximena Peña",
+        "value": 3.30
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 65,
+        "candidato": "Ximena Peña",
+        "value": 4.47
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 70,
+        "candidato": "Ximena Peña",
+        "value": 2.80
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 144,
+        "candidato": "Ximena Peña",
+        "value": 2.36
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 263,
+        "candidato": "Ximena Peña",
+        "value": 1.67
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 460,
+        "candidato": "Ximena Peña",
+        "value": 1.64
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 455,
+        "candidato": "Ximena Peña",
+        "value": 1.54
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS  ",
+        "id": 5600,
+        "votos": 73,
+        "candidato": "Ximena Peña",
+        "value": 1.21
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 289,
+        "candidato": "Ximena Peña",
+        "value": 2.23
+    }
+]

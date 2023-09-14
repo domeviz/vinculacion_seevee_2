@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 1520,
+        "votos": 311,
+        "candidato": "Andrés Arauz",
+        "value": 45.60
+    },
+    {
+        "parroquia": "HUACA",
+        "id": 6665,
+        "votos": 1237,
+        "candidato": "Andrés Arauz",
+        "value": 31.21
+    }
+]

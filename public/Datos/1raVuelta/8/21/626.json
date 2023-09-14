@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CUYABENO",
+        "id": 760,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.29
+    },
+    {
+        "parroquia": "AGUAS NEGRAS",
+        "id": 1555,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.10
+    },
+    {
+        "parroquia": "TARAPOA",
+        "id": 6765,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.31
+    }
+]

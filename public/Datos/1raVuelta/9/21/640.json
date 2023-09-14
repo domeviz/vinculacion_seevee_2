@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 17,
+        "candidato": "Ximena Peña",
+        "value": 1.48
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 1,
+        "candidato": "Ximena Peña",
+        "value": 0.79
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 1.25
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.58
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO / GUADAL",
+        "id": 70,
+        "votos": 360,
+        "candidato": "Andrés Arauz",
+        "value": 54.63
+    },
+    {
+        "parroquia": "ANCÓN / PALMA REAL",
+        "id": 110,
+        "votos": 749,
+        "candidato": "Andrés Arauz",
+        "value": 78.68
+    },
+    {
+        "parroquia": "CALDERÓN",
+        "id": 435,
+        "votos": 248,
+        "candidato": "Andrés Arauz",
+        "value": 71.26
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 627,
+        "candidato": "Andrés Arauz",
+        "value": 74.55
+    },
+    {
+        "parroquia": "5 DE JUNIO / HUIMBI",
+        "id": 570,
+        "votos": 142,
+        "candidato": "Andrés Arauz",
+        "value": 80.68
+    },
+    {
+        "parroquia": "CONCEPCIÓN",
+        "id": 620,
+        "votos": 674,
+        "candidato": "Andrés Arauz",
+        "value": 75.31
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 616,
+        "candidato": "Andrés Arauz",
+        "value": 88.25
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABÍ",
+        "id": 3455,
+        "votos": 289,
+        "candidato": "Andrés Arauz",
+        "value": 69.30
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 655,
+        "candidato": "Andrés Arauz",
+        "value": 75.37
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 630,
+        "candidato": "Andrés Arauz",
+        "value": 66.95
+    },
+    {
+        "parroquia": "TULULBÍ /RICAURTE",
+        "id": 4075,
+        "votos": 790,
+        "candidato": "Andrés Arauz",
+        "value": 62.30
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 384,
+        "candidato": "Andrés Arauz",
+        "value": 68.94
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 8952,
+        "candidato": "Andrés Arauz",
+        "value": 71.03
+    }
+]

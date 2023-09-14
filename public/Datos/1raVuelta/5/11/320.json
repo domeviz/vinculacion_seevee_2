@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 1.23
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 1.08
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.56
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.74
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 134,
+        "candidato": "Pedro Freile",
+        "value": 1.35
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 1.72
+    }
+]

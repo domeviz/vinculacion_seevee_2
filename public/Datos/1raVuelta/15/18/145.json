@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BAQUERIZO MORENO",
+        "id": 295,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EMILIO MARIA TERAN",
+        "id": 1210,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    },
+    {
+        "parroquia": "MARCOS ESPINEL",
+        "id": 2375,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "PRESIDENTE URBINA",
+        "id": 2945,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3300,
+        "votos": 24,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SAN JOSE DE POALO",
+        "id": 3485,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    },
+    {
+        "parroquia": "SAN MIGUELITO",
+        "id": 3585,
+        "votos": 15,
+        "candidato": "Giovanny Andrade",
+        "value": 0.46
+    },
+    {
+        "parroquia": "CIUDAD NUEVA",
+        "id": 5225,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.10
+    },
+    {
+        "parroquia": "PILLARO",
+        "id": 5785,
+        "votos": 20,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    }
+]

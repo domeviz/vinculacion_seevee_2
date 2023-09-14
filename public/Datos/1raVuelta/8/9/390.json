@@ -1,0 +1,38 @@
+[
+    
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 22,
+        "candidato": "Gerson Almeida",
+        "value": 0.95
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 283,
+        "candidato": "Gerson Almeida",
+        "value": 2.03
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 222,
+        "candidato": "Gerson Almeida",
+        "value": 3.89
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 60,
+        "candidato": "Gerson Almeida",
+        "value": 0.92
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 48344,
+        "candidato": "Gerson Almeida",
+        "value": 3.10
+    }
+]

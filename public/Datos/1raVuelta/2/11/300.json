@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 130,
+        "candidato": "Andrés Arauz",
+        "value": 8.71
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 216,
+        "candidato": "Andrés Arauz",
+        "value": 24.16
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 314,
+        "candidato": "Andrés Arauz",
+        "value": 27.84
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 162,
+        "candidato": "Andrés Arauz",
+        "value": 18.71
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 67,
+        "candidato": "Andrés Arauz",
+        "value": 8.02
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 660,
+        "candidato": "Andrés Arauz",
+        "value": 14.92
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 164,
+        "candidato": "Andrés Arauz",
+        "value": 5.50
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 138,
+        "candidato": "Andrés Arauz",
+        "value": 15.33
+    },
+    {
+        "parroquia": "TAQUIL  MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 345,
+        "candidato": "Andrés Arauz",
+        "value": 18.75
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 767,
+        "candidato": "Andrés Arauz",
+        "value": 24.77
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 125,
+        "candidato": "Andrés Arauz",
+        "value": 14.01
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 132,
+        "candidato": "Andrés Arauz",
+        "value": 15.47
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 112,
+        "candidato": "Andrés Arauz",
+        "value": 15.51
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 15970,
+        "candidato": "Andrés Arauz",
+        "value": 13.28
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 0.52
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 19,
+        "candidato": "Ximena Peña",
+        "value": 1.34
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 29,
+        "candidato": "Ximena Peña",
+        "value": 0.88
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 1.75
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 1.25
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 73,
+        "candidato": "Ximena Peña",
+        "value": 0.83
+    }
+]

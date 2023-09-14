@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 22,
+        "candidato": "Giovanny Andrade",
+        "value": 0.53
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 16,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    }
+]

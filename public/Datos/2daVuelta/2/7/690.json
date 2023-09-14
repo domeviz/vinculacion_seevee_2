@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 133,
+        "candidato": "Andrés Arauz",
+        "value": 39.70
+    },
+    {
+        "parroquia": "SALATÍ",
+        "id": 3275,
+        "votos": 170,
+        "candidato": "Andrés Arauz",
+        "value": 32.95
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 128,
+        "candidato": "Andrés Arauz",
+        "value": 32.24
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 1946,
+        "candidato": "Andrés Arauz",
+        "value": 30.00
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CRUZPAMBA BUSTAMANTE",
+        "id": 695,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.15
+    },
+    {
+        "parroquia": "TNTE M.RODRIGUEZ LOAYZA",
+        "id": 1495,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3255,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SAN JUAN DE POZUL",
+        "id": 3535,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.81
+    },
+    {
+        "parroquia": "CELICA",
+        "id": 5195,
+        "votos": 27,
+        "candidato": "Pedro Freile",
+        "value": 0.65
+    }
+]

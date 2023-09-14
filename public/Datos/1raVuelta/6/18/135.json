@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 32,
+        "candidato": "Isidro Romero",
+        "value": 1.10
+    },
+    {
+        "parroquia": "ATAHUALPA \/CHIPZALATA",
+        "id": 190,
+        "votos": 83,
+        "candidato": "Isidro Romero",
+        "value": 1.34
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 59,
+        "candidato": "Isidro Romero",
+        "value": 0.98
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 1.16
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 19,
+        "candidato": "Isidro Romero",
+        "value": 0.75
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 33,
+        "candidato": "Isidro Romero",
+        "value": 1.87
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 67,
+        "candidato": "Isidro Romero",
+        "value": 1.13
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 124,
+        "candidato": "Isidro Romero",
+        "value": 0.95
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 38,
+        "candidato": "Isidro Romero",
+        "value": 0.76
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 37,
+        "candidato": "Isidro Romero",
+        "value": 1.65
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 37,
+        "candidato": "Isidro Romero",
+        "value": 0.90
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 114,
+        "candidato": "Isidro Romero",
+        "value": 1.16
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 53,
+        "candidato": "Isidro Romero",
+        "value": 0.69
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 72,
+        "candidato": "Isidro Romero",
+        "value": 1.13
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 89,
+        "candidato": "Isidro Romero",
+        "value": 1.57
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.83
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 120,
+        "candidato": "Isidro Romero",
+        "value": 1.06
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 43,
+        "candidato": "Isidro Romero",
+        "value": 0.98
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 1394,
+        "candidato": "Isidro Romero",
+        "value": 1.17
+    }
+]

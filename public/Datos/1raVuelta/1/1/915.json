@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA UNION",
+        "id": 1535,
+        "votos": 23,
+        "candidato": "Guillermo Lasso",
+        "value": 3.63
+    },
+    {
+        "parroquia": "SAN MARTIN DE PUZHIO",
+        "id": 1575,
+        "votos": 11,
+        "candidato": "Guillermo Lasso",
+        "value": 2.56
+    },
+    {
+        "parroquia": "LUIS GALARZA O. (DELEGSOL)",
+        "id": 1585,
+        "votos": 8,
+        "candidato": "Guillermo Lasso",
+        "value": 1.43
+    },
+    {
+        "parroquia": "PRINCIPAL",
+        "id": 2950,
+        "votos": 16,
+        "candidato": "Guillermo Lasso",
+        "value": 2.22
+    },
+    {
+        "parroquia": "CHORDELEG",
+        "id": 6435,
+        "votos": 433,
+        "candidato": "Guillermo Lasso",
+        "value": 9.22
+    }
+]

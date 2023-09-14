@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.29
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 114,
+        "candidato": "Carlos Sagnay",
+        "value": 0.39
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.55
+    },
+    {
+        "parroquia": "COLORADO",
+        "id": 7490,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.37
+    },
+    {
+        "parroquia": "LEONIDAS PROAÑO",
+        "id": 7495,
+        "votos": 23,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "GENERAL ELOY ALFARO DELGA",
+        "id": 7500,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    }
+]

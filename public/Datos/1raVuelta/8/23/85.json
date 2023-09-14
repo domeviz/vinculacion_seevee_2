@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 19,
+        "candidato": "Gerson Almeida",
+        "value": 0.34
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 22,
+        "candidato": "Gerson Almeida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 32,
+        "candidato": "Gerson Almeida",
+        "value": 0.72
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 65,
+        "candidato": "Gerson Almeida",
+        "value": 0.99
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 15,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 41,
+        "candidato": "Gerson Almeida",
+        "value": 0.68
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 418,
+        "candidato": "Gerson Almeida",
+        "value": 1.51
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 541,
+        "candidato": "Gerson Almeida",
+        "value": 1.34
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 639,
+        "candidato": "Gerson Almeida",
+        "value": 1.36
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 88,
+        "candidato": "Gerson Almeida",
+        "value": 1.30
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 512,
+        "candidato": "Gerson Almeida",
+        "value": 1.08
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 327,
+        "candidato": "Gerson Almeida",
+        "value": 1.04
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 81,
+        "candidato": "Gerson Almeida",
+        "value": 1.31
+    }
+]

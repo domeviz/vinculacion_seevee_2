@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 21,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.77
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.14
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 51,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.82
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 173,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.16
+    }
+]

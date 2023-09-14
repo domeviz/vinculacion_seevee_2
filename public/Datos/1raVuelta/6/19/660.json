@@ -1,0 +1,38 @@
+[
+    {
+        "parroquia": "CHITO",
+        "id": 915,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "EL CHORRO",
+        "id": 1145,
+      "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "LA CHONTA",
+        "id": 2015,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 1.31
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 2110,
+      "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "PUCAPAMBA",
+        "id": 2955,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.68
+    },
+    {
+        "parroquia": "ZUMBA",
+        "id": 6315,
+        "votos": 14,
+        "candidato": "Isidro Romero",
+        "value": 0.35
+    }
+]

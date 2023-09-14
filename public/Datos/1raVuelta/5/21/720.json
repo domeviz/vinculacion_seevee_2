@@ -1,0 +1,42 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 0.89
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 0.74
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.35
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+       "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 157,
+        "candidato": "Pedro Freile",
+        "value": 0.85
+    }
+]

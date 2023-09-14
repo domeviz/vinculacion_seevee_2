@@ -1,0 +1,38 @@
+[
+    
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 2399,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    }
+]

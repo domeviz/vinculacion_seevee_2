@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.82
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 37,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 42,
+        "candidato": "Guillermo Celi",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 29,
+        "candidato": "Guillermo Celi",
+        "value": 0.47
+    }
+]

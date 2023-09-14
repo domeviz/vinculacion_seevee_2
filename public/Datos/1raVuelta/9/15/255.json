@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.65
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 1,
+        "candidato": "Ximena Peña",
+        "value": 0.44
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.54
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 0.39
+    }
+]

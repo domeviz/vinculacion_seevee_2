@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    }
+]

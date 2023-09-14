@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 164,
+        "candidato": "Gerson Almeida",
+        "value": 5.64
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 105,
+        "candidato": "Gerson Almeida",
+        "value": 1.70
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 114,
+        "candidato": "Gerson Almeida",
+        "value": 1.90
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 21,
+        "candidato": "Gerson Almeida",
+        "value": 1.22
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 72,
+        "candidato": "Gerson Almeida",
+        "value": 2.83
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 15,
+        "candidato": "Gerson Almeida",
+        "value": 0.85
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 84,
+        "candidato": "Gerson Almeida",
+        "value": 1.42
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 157,
+        "candidato": "Gerson Almeida",
+        "value": 1.20
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 138,
+        "candidato": "Gerson Almeida",
+        "value": 2.77
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 20,
+        "candidato": "Gerson Almeida",
+        "value": 0.89
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 100,
+        "candidato": "Gerson Almeida",
+        "value": 2.43
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 126,
+        "candidato": "Gerson Almeida",
+        "value": 1.29
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 230,
+        "candidato": "Gerson Almeida",
+        "value": 3.00
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 277,
+        "candidato": "Gerson Almeida",
+        "value": 4.35
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 52,
+        "candidato": "Gerson Almeida",
+        "value": 0.92
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 52,
+        "candidato": "Gerson Almeida",
+        "value": 3.32
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 304,
+        "candidato": "Gerson Almeida",
+        "value": 2.69
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 62,
+        "candidato": "Gerson Almeida",
+        "value": 1.41
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 1687,
+        "candidato": "Gerson Almeida",
+        "value": 1.42
+    }
+]

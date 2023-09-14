@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COTOGCHOA",
+        "id": 680,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 3230,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANGOLQUI",
+        "id": 5965,
+        "votos": 48,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 6600,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SAN PEDRO DE TABOADA",
+        "id": 6605,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "FAJARDO",
+        "id": 7535,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

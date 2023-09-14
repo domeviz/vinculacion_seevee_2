@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 18,
+        "candidato": "Gustavo Larrea",
+        "value": 0.60
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 0.66
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 32,
+        "candidato": "Gustavo Larrea",
+        "value": 0.89
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 43,
+        "candidato": "Gustavo Larrea",
+        "value": 0.43
+    }
+]

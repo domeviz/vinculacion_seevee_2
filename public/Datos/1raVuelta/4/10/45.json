@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 147,
+        "candidato": "Xavier Hervas",
+        "value": 15.87
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 648,
+        "candidato": "Xavier Hervas",
+        "value": 18.09
+    },
+    {
+        "parroquia": "SAN JOSÉ DE CHALTURA",
+        "id": 3465,
+        "votos": 432,
+        "candidato": "Xavier Hervas",
+        "value": 20.91
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 892,
+        "candidato": "Xavier Hervas",
+        "value": 13.97
+    },
+    {
+        "parroquia": "ANDRADE MARÍN LOURDES",
+        "id": 5025,
+        "votos": 575,
+        "candidato": "Xavier Hervas",
+        "value": 18.63
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 2839,
+        "candidato": "Xavier Hervas",
+        "value": 22.34
+    }
+]

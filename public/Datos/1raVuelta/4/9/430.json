@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 253,
+        "candidato": "Xavier Hervas",
+        "value": 5.85
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 144,
+        "candidato": "Xavier Hervas",
+        "value": 2.70
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 104,
+        "candidato": "Xavier Hervas",
+        "value": 4.07
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 28,
+        "candidato": "Xavier Hervas",
+        "value": 10.22
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 21,
+        "candidato": "Xavier Hervas",
+        "value": 4.20
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 1598,
+        "candidato": "Xavier Hervas",
+        "value": 7.18
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 6,
+        "candidato": "Xavier Hervas",
+        "value": 5.56
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 7,
+        "candidato": "Xavier Hervas",
+        "value": 7.69
+    }
+]

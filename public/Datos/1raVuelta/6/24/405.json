@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 166,
+        "candidato": "Isidro Romero",
+        "value": 2.39
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 266,
+        "candidato": "Isidro Romero",
+        "value": 2.15
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 339,
+        "candidato": "Isidro Romero",
+        "value": 2.51
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 81,
+        "candidato": "Isidro Romero",
+        "value": 4.96
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 61,
+        "candidato": "Isidro Romero",
+        "value": 3.29
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 114,
+        "candidato": "Isidro Romero",
+        "value": 3.61
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 85,
+        "candidato": "Isidro Romero",
+        "value": 2.12
+    }
+]

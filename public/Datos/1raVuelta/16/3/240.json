@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "CHONTAMARCA",
+        "id": 935,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "CHOROCOPTE",
+        "id": 950,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GRAL.MORALES SOCARTE",
+        "id": 1335,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "GUALLETURO",
+        "id": 1410,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1605,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "INGAPIRCA",
+        "id": 1725,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "VENTURA",
+        "id": 1775,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "DUCUR",
+        "id": 1895,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.06
+    },
+    {
+        "parroquia": "JUNCAL",
+        "id": 1900,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3305,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    },
+    {
+        "parroquia": "ZHUD",
+        "id": 4345,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CAÑAR",
+        "id": 5160,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    }
+]

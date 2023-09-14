@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SEVILLA",
+        "id": 1095,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SANTA ROSA DE SUCUMBIOS",
+        "id": 3750,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.19
+    },
+    {
+        "parroquia": "NUEVA TRONCAL",
+        "id": 4740,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.48
+    },
+    {
+        "parroquia": "EL DORADO DE CASCALES",
+        "id": 6325,
+        "votos": 24,
+        "candidato": "Isidro Romero",
+        "value": 0.71
+    }
+]

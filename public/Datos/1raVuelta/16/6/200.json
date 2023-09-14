@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.53
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 37,
+        "candidato": "Paúl Carrasco",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN GERARDO PAQUICAHUAN",
+        "id": 3425,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    },
+    {
+        "parroquia": "GUANO",
+        "id": 60750,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 45,
+        "candidato": "Giovanny Andrade",
+        "value": 0.59
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO CONE",
+        "id": 4275,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 46,
+        "candidato": "Giovanny Andrade",
+        "value": 0.25
+    }
+]

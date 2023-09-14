@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 1075,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.67
+    },
+    {
+        "parroquia": "EL PARAISO",
+        "id": 1080,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.97
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 1100,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.89
+    },
+    {
+        "parroquia": "LA VICTORIA LAS LAJAS",
+        "id": 6335,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.49
+    },
+    {
+        "parroquia": "PLATANILLOS",
+        "id": 6950,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.22
+    }
+]

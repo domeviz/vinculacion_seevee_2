@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASÍ",
+        "id": 30,
+        "votos": 4363,
+        "candidato": "Andrés Arauz",
+        "value": 35.78
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 7444,
+        "candidato": "Andrés Arauz",
+        "value": 44.54
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 379,
+        "candidato": "Andrés Arauz",
+        "value": 35.62
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 1143,
+        "candidato": "Andrés Arauz",
+        "value": 39.45
+    },
+    {
+        "parroquia": "CALDERÓN",
+        "id": 440,
+        "votos": 35549,
+        "candidato": "Andrés Arauz",
+        "value": 40.15
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 15655,
+        "candidato": "Andrés Arauz",
+        "value": 28.92
+    },
+    {
+        "parroquia": "CUMBAYÁ",
+        "id": 725,
+        "votos": 4870,
+        "candidato": "Andrés Arauz",
+        "value": 20.00
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 152,
+        "candidato": "Andrés Arauz",
+        "value": 35.93
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 2277,
+        "candidato": "Andrés Arauz",
+        "value": 51.35
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 510,
+        "candidato": "Andrés Arauz",
+        "value": 48.66
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 907,
+        "candidato": "Andrés Arauz",
+        "value": 44.09
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 4604,
+        "candidato": "Andrés Arauz",
+        "value": 49.68
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 2068,
+        "candidato": "Andrés Arauz",
+        "value": 49.19
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 2292,
+        "candidato": "Andrés Arauz",
+        "value": 39.88
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 645,
+        "candidato": "Andrés Arauz",
+        "value": 48.57
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 652,
+        "candidato": "Andrés Arauz",
+        "value": 43.35
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 703,
+        "candidato": "Andrés Arauz",
+        "value": 38.46
+    },
+    {
+        "parroquia": "NAYÓN",
+        "id": 2540,
+        "votos": 1756,
+        "candidato": "Andrés Arauz",
+        "value": 24.79
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 353,
+        "candidato": "Andrés Arauz",
+        "value": 39.01
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 971,
+        "candidato": "Andrés Arauz",
+        "value": 40.92
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 164,
+        "candidato": "Andrés Arauz",
+        "value": 32.16
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 4410,
+        "candidato": "Andrés Arauz",
+        "value": 44.08
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 5398,
+        "candidato": "Andrés Arauz",
+        "value": 49.49
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 6537,
+        "candidato": "Andrés Arauz",
+        "value": 30.92
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 1600,
+        "candidato": "Andrés Arauz",
+        "value": 46.20
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 3656,
+        "candidato": "Andrés Arauz",
+        "value": 42.67
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 5125,
+        "candidato": "Andrés Arauz",
+        "value": 50.09
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 7845,
+        "candidato": "Andrés Arauz",
+        "value": 39.85
+    },
+    {
+        "parroquia": "SAN JOSÉ DE MINAS",
+        "id": 3475,
+        "votos": 1575,
+        "candidato": "Andrés Arauz",
+        "value": 45.35
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 602,
+        "candidato": "Andrés Arauz",
+        "value": 37.18
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 11720,
+        "candidato": "Andrés Arauz",
+        "value": 33.60
+    },
+    {
+        "parroquia": "YARUQUÍ",
+        "id": 4290,
+        "votos": 5343,
+        "candidato": "Andrés Arauz",
+        "value": 46.21
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 1160,
+        "candidato": "Andrés Arauz",
+        "value": 36.14
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 421086,
+        "candidato": "Andrés Arauz",
+        "value": 34.73
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHITO",
+        "id": 915,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.25
+    },
+    {
+        "parroquia": "EL CHORRO",
+        "id": 1145,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA CHONTA",
+        "id": 2015,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 3.06
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 2110,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUCAPAMBA",
+        "id": 2955,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ZUMBA",
+        "id": 6315,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.27
+    }
+]

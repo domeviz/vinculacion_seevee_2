@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    }
+]

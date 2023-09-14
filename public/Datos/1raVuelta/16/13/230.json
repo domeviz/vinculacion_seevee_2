@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.45
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 49,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    }
+]

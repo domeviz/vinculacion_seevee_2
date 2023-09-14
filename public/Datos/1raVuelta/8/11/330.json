@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.60
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "EL LIMO MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.44
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.39
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.40
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 22,
+        "candidato": "Gerson Almeida",
+        "value": 0.38
+    }
+]

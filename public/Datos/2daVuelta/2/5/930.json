@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 213,
+        "candidato": "Andrés Arauz",
+        "value": 49.65
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 2026,
+        "candidato": "Andrés Arauz",
+        "value": 62.86
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 938,
+        "candidato": "Andrés Arauz",
+        "value": 65.09
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 543,
+        "candidato": "Andrés Arauz",
+        "value": 56.80
+    },
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 2604,
+        "candidato": "Andrés Arauz",
+        "value": 54.63
+    }
+]

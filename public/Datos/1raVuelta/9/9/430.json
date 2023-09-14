@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 104,
+        "candidato": "Ximena Peña",
+        "value": 2.40
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 166,
+        "candidato": "Ximena Peña",
+        "value": 3.11
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 97,
+        "candidato": "Ximena Peña",
+        "value": 3.80
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 557,
+        "candidato": "Ximena Peña",
+        "value": 2.50
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 2.78
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 0,
+        "candidato": "Ximena Peña",
+        "fill": "#ced4da"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LA TINGUE",
+        "id": 2120,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 1.66
+    },
+    {
+        "parroquia": "OLMEDO",
+        "id": 6730,
+        "votos": 21,
+        "candidato": "Isidro Romero",
+        "value": 0.76
+    }
+]

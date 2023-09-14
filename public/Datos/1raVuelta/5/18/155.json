@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LOS ÁNDES",
+        "id": 2210,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 1.36
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 3885,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.72
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 4110,
+        "votos": 12,
+        "candidato": "Pedro Freile",
+        "value": 1.26
+    },
+    {
+        "parroquia": "PATATE",
+        "id": 5830,
+        "votos": 145,
+        "candidato": "Pedro Freile",
+        "value": 2.53
+    }
+]

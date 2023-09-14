@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 36,
+        "candidato": "Guillermo Celi",
+        "value": 0.65
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 27,
+        "candidato": "Guillermo Celi",
+        "value": 0.58
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 35,
+        "candidato": "Guillermo Celi",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 56,
+        "candidato": "Guillermo Celi",
+        "value": 0.85
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 24,
+        "candidato": "Guillermo Celi",
+        "value": 0.76
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 21,
+        "candidato": "Guillermo Celi",
+        "value": 0.81
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 61,
+        "candidato": "Guillermo Celi",
+        "value": 1.02
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 251,
+        "candidato": "Guillermo Celi",
+        "value": 0.91
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 352,
+        "candidato": "Guillermo Celi",
+        "value": 0.87
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 418,
+        "candidato": "Guillermo Celi",
+        "value": 0.89
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 48,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 359,
+        "candidato": "Guillermo Celi",
+        "value": 0.76
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 251,
+        "candidato": "Guillermo Celi",
+        "value": 0.80
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 61,
+        "candidato": "Guillermo Celi",
+        "value": 0.99
+    }
+]

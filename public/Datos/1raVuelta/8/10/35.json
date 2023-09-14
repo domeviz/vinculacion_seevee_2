@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 40,
+        "candidato": "Gerson Almeida",
+        "value": 1.01
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 76,
+        "candidato": "Gerson Almeida",
+        "value": 1.74
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 14,
+        "candidato": "Gerson Almeida",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 1.49
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 25,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 39,
+        "candidato": "Gerson Almeida",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 25,
+        "candidato": "Gerson Almeida",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 36,
+        "candidato": "Gerson Almeida",
+        "value": 1.10
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 10,
+        "candidato": "Gerson Almeida",
+        "value": 0.90
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 213,
+        "candidato": "Gerson Almeida",
+        "value": 0.59
+    }
+]

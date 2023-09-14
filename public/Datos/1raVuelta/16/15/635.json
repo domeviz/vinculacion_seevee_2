@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.49
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.07
+    }
+]

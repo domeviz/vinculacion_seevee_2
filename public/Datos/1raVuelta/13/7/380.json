@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.15
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 67,
+        "candidato": "Gustavo Larrea",
+        "value": 0.30
+    }
+]

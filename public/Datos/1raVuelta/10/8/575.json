@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE CHANCAMA",
+        "id": 700,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 0.65
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.58
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 62,
+        "candidato": "Guillermo Celi",
+        "value": 0.56
+    },
+    {
+        "parroquia": "MALIMPIA GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 41,
+        "candidato": "Guillermo Celi",
+        "value": 0.56
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 40,
+        "candidato": "Guillermo Celi",
+        "value": 0.97
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 266,
+        "candidato": "Guillermo Celi",
+        "value": 0.72
+    }
+]

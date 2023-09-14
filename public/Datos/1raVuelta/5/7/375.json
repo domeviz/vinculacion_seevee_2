@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.55
+    },
+    {
+        "parroquia": "CARCABÓN",
+        "id": 1695,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.64
+    },
+    {
+        "parroquia": "LA CUCA",
+        "id": 4650,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.19
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 92,
+        "candidato": "Pedro Freile",
+        "value": 0.66
+    }
+]

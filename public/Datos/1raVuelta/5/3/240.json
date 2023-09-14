@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "CHONTAMARCA",
+        "id": 935,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CHOROCOPTE",
+        "id": 950,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.38
+    },
+    {
+        "parroquia": "GRAL.MORALES SOCARTE",
+        "id": 1335,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.42
+    },
+    {
+        "parroquia": "GUALLETURO",
+        "id": 1410,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.51
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1605,
+        "votos": 25,
+        "candidato": "Pedro Freile",
+        "value": 0.94
+    },
+    {
+        "parroquia": "INGAPIRCA",
+        "id": 1725,
+        "votos": 18,
+        "candidato": "Pedro Freile",
+        "value": 0.48
+    },
+    {
+        "parroquia": "VENTURA",
+        "id": 1775,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 1.81
+    },
+    {
+        "parroquia": "DUCUR",
+        "id": 1895,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.80
+    },
+    {
+        "parroquia": "JUNCAL",
+        "id": 1900,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3305,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.45
+    },
+    {
+        "parroquia": "ZHUD",
+        "id": 4345,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CAÑAR",
+        "id": 5160,
+        "votos": 229,
+        "candidato": "Pedro Freile",
+        "value": 1.63
+    }
+]

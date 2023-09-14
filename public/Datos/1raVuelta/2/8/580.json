@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO GUADAL",
+        "id": 70,
+        "votos": 261,
+        "candidato": "Andrés Arauz",
+        "value": 45.23
+    },
+    {
+        "parroquia": "ANCON PALMA REAL",
+        "id": 110,
+        "votos": 535,
+        "candidato": "Andrés Arauz",
+        "value": 64.46
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 218,
+        "candidato": "Andrés Arauz",
+        "value": 61.93
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 507,
+        "candidato": "Andrés Arauz",
+        "value": 63.93
+    },
+    {
+        "parroquia": "5 DE JUNIO HUIMBI",
+        "id": 570,
+        "votos": 109,
+        "candidato": "Andrés Arauz",
+        "value": 64.50
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 522,
+        "candidato": "Andrés Arauz",
+        "value": 64.76
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 471,
+        "candidato": "Andrés Arauz",
+        "value": 75.60
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 229,
+        "candidato": "Andrés Arauz",
+        "value": 58.42
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 548,
+        "candidato": "Andrés Arauz",
+        "value": 67.16
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 461,
+        "candidato": "Andrés Arauz",
+        "value": 51.45
+    },
+    {
+        "parroquia": "TULULBI  RICAURTE",
+        "id": 4075,
+        "votos": 446,
+        "candidato": "Andrés Arauz",
+        "value": 42.08
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 314,
+        "candidato": "Andrés Arauz",
+        "value": 63.05
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 6877,
+        "candidato": "Andrés Arauz",
+        "value": 57.94
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.14
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 42,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.00
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.27
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 29,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.18
+    },
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 175,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.97
+    }
+]

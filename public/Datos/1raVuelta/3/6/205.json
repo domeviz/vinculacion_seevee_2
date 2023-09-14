@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 324,
+        "candidato": "Yaku Pérez",
+        "value": 53.38
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 6333,
+        "candidato": "Yaku Pérez",
+        "value": 59.28
+    },
+    {
+        "parroquia": "JUAN DE VELASCO  PONGOR",
+        "id": 1865,
+        "votos": 1112,
+        "candidato": "Yaku Pérez",
+        "value": 59.56
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 509,
+        "candidato": "Yaku Pérez",
+        "value": 38.30
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 4120,
+        "candidato": "Yaku Pérez",
+        "value": 53.91
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 3932,
+        "candidato": "Yaku Pérez",
+        "value": 63.40
+    }
+]

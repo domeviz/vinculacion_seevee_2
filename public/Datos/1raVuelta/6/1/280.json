@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.25
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.30
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.56
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.72
+    },
+    {
+        "parroquia": "SAN BARTOLOMÉ",
+        "id": 3360,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SAN JOSÉ DE RARANGA",
+        "id": 3495,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.75
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 33,
+        "candidato": "Isidro Romero",
+        "value": 0.44
+    }
+]

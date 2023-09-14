@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.10
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 34,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.04
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    }
+]

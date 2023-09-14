@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.76
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.63
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.19
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.25
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.95
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.19
+    }
+]

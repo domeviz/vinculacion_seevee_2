@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 1.00
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.05
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 22,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    }
+]

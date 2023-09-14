@@ -1,0 +1,461 @@
+[
+    {
+        "id": "11",
+        "candidato": "Paúl Carrasco",
+        "votos": 1,
+        "value": "(0.13%)",
+        "aux": "votos"
+    },
+    {
+        "id": "31",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "41",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "51",
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.17%)",
+        "aux": "votos"
+    },
+    {
+        "id": "101",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "141",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "171",
+        "votos": 133,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.26%)",
+        "aux": "votos"
+    },
+    {
+        "id": "191",
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.22%)",
+        "aux": "votos"
+    },
+    {
+        "id": "201",
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.04%)",
+        "aux": "votos"
+    },
+    {
+        "id": "231",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "251",
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": "(1.25%)",
+        "aux": "votos"
+    },
+    {
+        "id": "261",
+        "votos": 34,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.21%)",
+        "aux": "votos"
+    },
+    {
+        "id": "271",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "301",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "361",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "371",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "381",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "411",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "451",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "81",
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.06%)",
+        "aux": "votos"
+    },
+    {
+        "id": "181",
+        "votos": 37,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.17%)",
+        "aux": "votos"
+    },
+    {
+        "id": "21",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "61",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "71",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "91",
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.14%)",
+        "aux": "votos"
+    },
+    {
+        "id": "111",
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.48%)",
+        "aux": "votos"
+    },
+    {
+        "id": "121",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "131",
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.23%)",
+        "aux": "votos"
+    },
+    {
+        "id": "161",
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": "(3.33%)",
+        "aux": "votos"
+    },
+    {
+        "id": "211",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "221",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "281",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "312",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "321",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "331",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "341",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "351",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "391",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "401",
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": "(0.25%)",
+        "aux": "votos"
+    },
+    {
+        "id": "441",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "EC",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "YE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "VN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "UA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "TH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "CZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PS",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "OM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "NO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "ME",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "RO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MN",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MY",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LU",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LT",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LB",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LV",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "LA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KW",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KG",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JO",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "JE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "IQ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "FI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "PH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "EE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SI",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AE",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "DK",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "HR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KP",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "KH",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AZ",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AM",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "SA",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AL",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "AF",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "MD",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "GR",
+        "fill": "#ced4da"
+    },
+    {
+        "id": "BY",
+        "fill": "#ced4da"
+    }
+
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BAQUERIZO MORENO",
+        "id": 295,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EMILIO MARIA TERAN",
+        "id": 1210,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 1.17
+    },
+    {
+        "parroquia": "MARCOS ESPINEL",
+        "id": 2375,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.41
+    },
+    {
+        "parroquia": "PRESIDENTE URBINA",
+        "id": 2945,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3300,
+        "votos": 206,
+        "candidato": "Gerson Almeida",
+        "value": 2.68
+    },
+    {
+        "parroquia": "SAN JOSE DE POALO",
+        "id": 3485,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SAN MIGUELITO",
+        "id": 3585,
+        "votos": 20,
+        "candidato": "Gerson Almeida",
+        "value": 0.62
+    },
+    {
+        "parroquia": "CIUDAD NUEVA",
+        "id": 5225,
+        "votos": 15,
+        "candidato": "Gerson Almeida",
+        "value": 1.45
+    },
+    {
+        "parroquia": "PILLARO",
+        "id": 5785,
+        "votos": 77,
+        "candidato": "Gerson Almeida",
+        "value": 0.74
+    }
+]

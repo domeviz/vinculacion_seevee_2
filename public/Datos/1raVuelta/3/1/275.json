@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 377,
+        "candidato": "Yaku Pérez",
+        "value": 51.71
+    },
+    {
+        "parroquia": "CHICAN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 948,
+        "candidato": "Yaku Pérez",
+        "value": 69.96
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 494,
+        "candidato": "Yaku Pérez",
+        "value": 63.50
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 261,
+        "candidato": "Yaku Pérez",
+        "value": 63.04
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 709,
+        "candidato": "Yaku Pérez",
+        "value": 58.07
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 403,
+        "candidato": "Yaku Pérez",
+        "value": 55.66
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 680,
+        "candidato": "Yaku Pérez",
+        "value": 67.26
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 5306,
+        "candidato": "Yaku Pérez",
+        "value": 53.78
+    }
+]

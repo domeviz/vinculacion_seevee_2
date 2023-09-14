@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 453,
+        "candidato": "Xavier Hervas",
+        "value": 8.03
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 2130,
+        "votos": 54,
+        "candidato": "Xavier Hervas",
+        "value": 3.60
+    },
+    {
+        "parroquia": "SUABOCANA",
+        "id": 3880,
+        "votos": 117,
+        "candidato": "Xavier Hervas",
+        "value": 5.55
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 462,
+        "candidato": "Xavier Hervas",
+        "value": 9.89
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 1085,
+        "candidato": "Xavier Hervas",
+        "value": 10.12
+    }
+]

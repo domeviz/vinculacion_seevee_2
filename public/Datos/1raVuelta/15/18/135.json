@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 17,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 19,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.09
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 27,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 24,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 19,
+        "candidato": "Giovanny Andrade",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 41,
+        "candidato": "Giovanny Andrade",
+        "value": 0.36
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.14
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 145,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    }
+]

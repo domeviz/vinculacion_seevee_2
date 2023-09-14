@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "EL RETIRO",
+        "id": 255,
+        "votos": 36,
+        "candidato": "Ximena Peña",
+        "value": 1.86
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 5565,
+        "votos": 699,
+        "candidato": "Ximena Peña",
+        "value": 1.49
+    },
+    {
+        "parroquia": "MACHALA",
+        "id": 5625,
+        "votos": 664,
+        "candidato": "Ximena Peña",
+        "value": 1.53
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 5805,
+        "votos": 353,
+        "candidato": "Ximena Peña",
+        "value": 2.14
+    },
+    {
+        "parroquia": "9 DE MAYO",
+        "id": 6490,
+        "votos": 71,
+        "candidato": "Ximena Peña",
+        "value": 1.81
+    },
+    {
+        "parroquia": "EL CAMBIO",
+        "id": 6795,
+        "votos": 144,
+        "candidato": "Ximena Peña",
+        "value": 2.51
+    },
+    {
+        "parroquia": "JUBONES",
+        "id": 7505,
+        "votos": 27,
+        "candidato": "Ximena Peña",
+        "value": 2.14
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 7510,
+        "votos": 552,
+        "candidato": "Ximena Peña",
+        "value": 1.61
+    }
+]

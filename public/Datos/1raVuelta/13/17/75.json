@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2025,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "MALCHINGUI",
+        "id": 2330,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "TOCACHI",
+        "id": 4045,
+        "votos": 10,
+        "candidato": "Gustavo Larrea",
+        "value": 0.95
+    },
+    {
+        "parroquia": "TUPIGACHI",
+        "id": 4090,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.07
+    },
+    {
+        "parroquia": "TABACUNDO",
+        "id": 6145,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    }
+]

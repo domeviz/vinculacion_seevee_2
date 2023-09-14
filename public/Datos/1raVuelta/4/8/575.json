@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE CHANCAMA",
+        "id": 700,
+        "votos": 105,
+        "candidato": "Xavier Hervas",
+        "value": 5.65
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 32,
+        "candidato": "Xavier Hervas",
+        "value": 3.71
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 1530,
+        "votos": 1457,
+        "candidato": "Xavier Hervas",
+        "value": 13.12
+    },
+    {
+        "parroquia": "MALIMPIA GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 367,
+        "candidato": "Xavier Hervas",
+        "value": 4.98
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 250,
+        "candidato": "Xavier Hervas",
+        "value": 6.05
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 5520,
+        "candidato": "Xavier Hervas",
+        "value": 14.90
+    }
+]

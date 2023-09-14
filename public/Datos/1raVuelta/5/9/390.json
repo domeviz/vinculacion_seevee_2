@@ -1,0 +1,38 @@
+[
+   
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 32,
+        "candidato": "Pedro Freile",
+        "value": 1.38
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 128,
+        "candidato": "Pedro Freile",
+        "value": 0.92
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 37,
+        "candidato": "Pedro Freile",
+        "value": 0.65
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 50,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 15422,
+        "candidato": "Pedro Freile",
+        "value": 0.97
+    }
+]

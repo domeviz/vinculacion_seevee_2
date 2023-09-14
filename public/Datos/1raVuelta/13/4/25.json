@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.57
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.30
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.16
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    }
+]

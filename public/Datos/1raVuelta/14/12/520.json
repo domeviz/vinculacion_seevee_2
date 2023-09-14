@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 37,
+        "candidato": "Carlos Sagnay",
+        "value": 0.98
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 29,
+        "candidato": "Carlos Sagnay",
+        "value": 0.69
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 105,
+        "candidato": "Carlos Sagnay",
+        "value": 0.72
+    }
+]

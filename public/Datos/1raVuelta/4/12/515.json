@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 111,
+        "candidato": "Xavier Hervas",
+        "value": 3.76
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 720,
+        "candidato": "Xavier Hervas",
+        "value": 7.46
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 1525,
+        "votos": 572,
+        "candidato": "Xavier Hervas",
+        "value": 8.17
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 285,
+        "candidato": "Xavier Hervas",
+        "value": 3.39
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 7777,
+        "candidato": "Xavier Hervas",
+        "value": 11.89
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLÍVAR",
+        "id": 355,
+        "votos": 22,
+        "candidato": "Xavier Hervas",
+        "value": 3.09
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 23,
+        "candidato": "Xavier Hervas",
+        "value": 2.36
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 24,
+        "candidato": "Xavier Hervas",
+        "value": 2.92
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 25,
+        "candidato": "Xavier Hervas",
+        "value": 5.24
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 20,
+        "candidato": "Xavier Hervas",
+        "value": 2.65
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 61,
+        "candidato": "Xavier Hervas",
+        "value": 4.18
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 84,
+        "candidato": "Xavier Hervas",
+        "value": 3.03
+    },
+    {
+        "parroquia": "SAN JOSÉ DE CHAMANGA",
+        "id": 3470,
+        "votos": 83,
+        "candidato": "Xavier Hervas",
+        "value": 3.26
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 627,
+        "candidato": "Xavier Hervas",
+        "value": 9.91
+    }
+]

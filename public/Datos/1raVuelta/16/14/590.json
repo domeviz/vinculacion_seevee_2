@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI 9 DE OCTUBRE",
+        "id": 65,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "GRAL. PROAÑO",
+        "id": 1345,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.42
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 20,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    }
+]

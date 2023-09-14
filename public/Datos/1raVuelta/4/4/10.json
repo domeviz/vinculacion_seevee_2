@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 137,
+        "candidato": "Xavier Hervas",
+        "value": 20.48
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 451,
+        "candidato": "Xavier Hervas",
+        "value": 24.71
+    },
+    {
+        "parroquia": "CHITÁN DE NAVARRETES",
+        "id": 910,
+        "votos": 94,
+        "candidato": "Xavier Hervas",
+        "value": 21.41
+    },
+    {
+        "parroquia": "FERNÁNDEZ SALVADOR",
+        "id": 1270,
+        "votos": 131,
+        "candidato": "Xavier Hervas",
+        "value": 19.79
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 537,
+        "candidato": "Xavier Hervas",
+        "value": 27.52
+    },
+    {
+        "parroquia": "GONZÁLEZ SUÁREZ",
+        "id": 5405,
+        "votos": 1746,
+        "candidato": "Xavier Hervas",
+        "value": 26.80
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 1739,
+        "candidato": "Xavier Hervas",
+        "value": 26.35
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 2039,
+        "candidato": "Yaku Pérez",
+        "value": 53.39
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 951,
+        "candidato": "Yaku Pérez",
+        "value": 67.59
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 919,
+        "candidato": "Yaku Pérez",
+        "value": 72.65
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 1810,
+        "candidato": "Yaku Pérez",
+        "value": 64.05
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 666,
+        "candidato": "Yaku Pérez",
+        "value": 56.49
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 1400,
+        "candidato": "Yaku Pérez",
+        "value": 58.07
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 586,
+        "candidato": "Yaku Pérez",
+        "value": 47.22
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 3813,
+        "candidato": "Yaku Pérez",
+        "value": 62.86
+    },
+     {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 19084,
+        "candidato": "Yaku Pérez",
+        "value": 46.81
+    }
+]

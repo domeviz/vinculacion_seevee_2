@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ZAPOTAL",
+        "id": 4330,
+        "votos": 206,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.56
+    },
+    {
+        "parroquia": "LOS ANGELES",
+        "id": 4585,
+        "votos": 63,
+        "candidato": "Lucio Gutiérrez",
+        "value": 7.11
+    },
+    {
+        "parroquia": "CHACARITA",
+        "id": 4590,
+        "votos": 52,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.96
+    },
+    {
+        "parroquia": "VENTANAS",
+        "id": 6235,
+        "votos": 1494,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.55
+    },
+    {
+        "parroquia": "10-nov",
+        "id": 7480,
+        "votos": 42,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.22
+    }
+]

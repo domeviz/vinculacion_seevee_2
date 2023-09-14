@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 12,
+        "candidato": "Gerson Almeida",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.62
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 10,
+        "candidato": "Gerson Almeida",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 44,
+        "candidato": "Gerson Almeida",
+        "value": 0.98
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 29,
+        "candidato": "Ximena Peña",
+        "value": 1.27
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 59,
+        "candidato": "Ximena Peña",
+        "value": 1.37
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 20,
+        "candidato": "Ximena Peña",
+        "value": 1.43
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 69,
+        "candidato": "Ximena Peña",
+        "value": 2.23
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 43,
+        "candidato": "Ximena Peña",
+        "value": 1.05
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 129,
+        "candidato": "Ximena Peña",
+        "value": 2.34
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 59,
+        "candidato": "Ximena Peña",
+        "value": 1.60
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 65,
+        "candidato": "Ximena Peña",
+        "value": 1.54
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 45,
+        "candidato": "Ximena Peña",
+        "value": 1.29
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 65,
+        "candidato": "Ximena Peña",
+        "value": 1.21
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 49,
+        "candidato": "Ximena Peña",
+        "value": 1.13
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 273,
+        "candidato": "Ximena Peña",
+        "value": 0.76
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 468,
+        "candidato": "Ximena Peña",
+        "value": 0.74
+    }
+]

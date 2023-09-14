@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 49,
+        "candidato": "Andrés Arauz",
+        "value": 8.07
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 2668,
+        "candidato": "Andrés Arauz",
+        "value": 24.97
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 419,
+        "candidato": "Andrés Arauz",
+        "value": 22.44
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 548,
+        "candidato": "Andrés Arauz",
+        "value": 41.23
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 1787,
+        "candidato": "Andrés Arauz",
+        "value": 23.38
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 1102,
+        "candidato": "Andrés Arauz",
+        "value": 17.77
+    }
+]

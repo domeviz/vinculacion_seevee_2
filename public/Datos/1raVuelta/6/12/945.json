@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PATRICIA PILAR",
+        "id": 150,
+        "votos": 388,
+        "candidato": "Isidro Romero",
+        "value": 5.65
+    },
+    {
+        "parroquia": "SN JACINTO DE BUENA FE",
+        "id": 6465,
+        "votos": 3854,
+        "candidato": "Isidro Romero",
+        "value": 11.72
+    }
+]

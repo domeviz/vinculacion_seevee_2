@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHITO",
+        "id": 915,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.38
+    },
+    {
+        "parroquia": "EL CHORRO",
+        "id": 1145,
+        "votos": 2,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.74
+    },
+    {
+        "parroquia": "LA CHONTA",
+        "id": 2015,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.75
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 2110,
+        "votos": 0,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.00
+    },
+    {
+        "parroquia": "PUCAPAMBA",
+        "id": 2955,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.68
+    },
+    {
+        "parroquia": "ZUMBA",
+        "id": 6315,
+        "votos": 33,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.82
+    }
+]

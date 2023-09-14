@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHUGA",
+        "id": 955,
+        "votos": 74,
+        "candidato": "Xavier Hervas",
+        "value": 9.46
+    },
+    {
+        "parroquia": "MARIANO ACOSTA",
+        "id": 2380,
+        "votos": 137,
+        "candidato": "Xavier Hervas",
+        "value": 12.29
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+        "id": 3415,
+        "votos": 99,
+        "candidato": "Xavier Hervas",
+        "value": 13.69
+    },
+    {
+        "parroquia": "PIMAMPIRO",
+        "id": 5750,
+        "votos": 1199,
+        "candidato": "Xavier Hervas",
+        "value": 17.45
+    }
+]

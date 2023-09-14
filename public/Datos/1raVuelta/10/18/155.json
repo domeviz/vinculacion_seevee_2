@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2210,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.12
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 3885,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.33
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 4110,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.10
+    },
+    {
+        "parroquia": "PATATE",
+        "id": 5830,
+        "votos": 24,
+        "candidato": "Guillermo Celi",
+        "value": 0.42
+    }
+]

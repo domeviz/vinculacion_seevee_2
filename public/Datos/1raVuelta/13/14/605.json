@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COPAL",
+        "id": 645,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CHUPIANZA",
+        "id": 970,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN FCO. DE CHINIMBIMI",
+        "id": 1365,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PATUCA",
+        "id": 2795,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN LUIS DEL ACHO",
+        "id": 3565,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TAYUZA",
+        "id": 4115,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "MENDEZ",
+        "id": 5645,
+        "votos": 25,
+        "candidato": "Gustavo Larrea",
+        "value": 1.11
+    }
+]

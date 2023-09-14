@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN ",
+        "id": 1125,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.28
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 1.19
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.36
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 22,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.62
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.18
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.87
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.56
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 1.02
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 67,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 80,
+        "candidato": "Guillermo Celi",
+        "value": 0.36
+    }
+]

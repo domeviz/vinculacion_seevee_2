@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 43,
+        "candidato": "Gerson Almeida",
+        "value": 1.97
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 633,
+        "candidato": "Gerson Almeida",
+        "value": 3.22
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 377,
+        "candidato": "Gerson Almeida",
+        "value": 4.29
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 116,
+        "candidato": "Gerson Almeida",
+        "value": 3.29
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 411,
+        "candidato": "Gerson Almeida",
+        "value": 2.22
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 31,
+        "candidato": "Gerson Almeida",
+        "value": 1.56
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 60,
+        "candidato": "Gerson Almeida",
+        "value": 3.61
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 1223,
+        "candidato": "Gerson Almeida",
+        "value": 3.17
+    }
+]

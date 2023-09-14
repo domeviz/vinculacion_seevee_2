@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 35,
+        "candidato": "Xavier Hervas",
+        "value": 5.93
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 228,
+        "candidato": "Xavier Hervas",
+        "value": 15.12
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 192,
+        "candidato": "Xavier Hervas",
+        "value": 12.16
+    }
+]

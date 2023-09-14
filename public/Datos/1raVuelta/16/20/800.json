@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1220,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ISLA SANTA MARIA",
+        "id": 4415,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PTO. BAQUERIZO MORENO",
+        "id": 6510,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    }
+]

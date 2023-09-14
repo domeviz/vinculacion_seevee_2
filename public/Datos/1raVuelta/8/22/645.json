@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "DAYUMA",
+        "id": 1235,
+        "votos": 47,
+        "candidato": "Gerson Almeida",
+        "value": 0.88
+    },
+    {
+        "parroquia": "TARACOA",
+        "id": 1245,
+        "votos": 13,
+        "candidato": "Gerson Almeida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "EL DORADO",
+        "id": 1560,
+        "votos": 15,
+        "candidato": "Gerson Almeida",
+        "value": 0.82
+    },
+    {
+        "parroquia": "INES ARANGO",
+        "id": 1565,
+        "votos": 20,
+        "candidato": "Gerson Almeida",
+        "value": 0.99
+    },
+    {
+        "parroquia": "EL EDEN",
+        "id": 1590,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.46
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1810,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.70
+    },
+    {
+        "parroquia": "LA BELLEZA",
+        "id": 1820,
+        "votos": 24,
+        "candidato": "Gerson Almeida",
+        "value": 0.87
+    },
+    {
+        "parroquia": "SAN LUIS DE ARMENIA",
+        "id": 1935,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.25
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 1940,
+        "votos": 14,
+        "candidato": "Gerson Almeida",
+        "value": 0.76
+    },
+    {
+        "parroquia": "SAN JOSE DE GUAYUSA",
+        "id": 1945,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.80
+    },
+    {
+        "parroquia": "ALEJANDRO LABAKA",
+        "id": 1995,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.28
+    },
+    {
+        "parroquia": "EL COCA",
+        "id": 5815,
+        "votos": 574,
+        "candidato": "Gerson Almeida",
+        "value": 2.01
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MONTERREY",
+        "id": 4635,
+        "votos": 65,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.07
+    },
+    {
+        "parroquia": "LA VILLEGAS",
+        "id": 4640,
+        "votos": 26,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.38
+    },
+    {
+        "parroquia": "PLAN PILOTO",
+        "id": 4645,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.17
+    },
+    {
+        "parroquia": "LA CONCORDIA",
+        "id": 7520,
+        "votos": 338,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.32
+    }
+]

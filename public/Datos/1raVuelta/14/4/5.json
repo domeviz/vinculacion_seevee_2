@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN",
+        "id": 1125,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.28
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 4.13
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 31,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 21,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    }
+]

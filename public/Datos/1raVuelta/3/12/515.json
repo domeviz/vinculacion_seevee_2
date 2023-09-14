@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 252,
+        "candidato": "Yaku Pérez",
+        "value": 8.53
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 1586,
+        "candidato": "Yaku Pérez",
+        "value": 16.44
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 908,
+        "candidato": "Yaku Pérez",
+        "value": 12.97
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 690,
+        "candidato": "Yaku Pérez",
+        "value": 8.21
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 9893,
+        "candidato": "Yaku Pérez",
+        "value": 15.12
+    }
+]

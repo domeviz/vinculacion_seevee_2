@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.07
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 29,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.04
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.91
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 18,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.57
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 19,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.53
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.42
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 44,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.32
+    }
+]

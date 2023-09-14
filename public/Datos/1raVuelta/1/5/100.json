@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 416,
+        "candidato": "Guillermo Lasso",
+        "value": 9.27
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 359,
+        "candidato": "Guillermo Lasso",
+        "value": 10.19
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 573,
+        "candidato": "Guillermo Lasso",
+        "value": 9.06
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 173,
+        "candidato": "Guillermo Lasso",
+        "value": 13.52
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 429,
+        "candidato": "Guillermo Lasso",
+        "value": 7.30
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 175,
+        "candidato": "Guillermo Lasso",
+        "value": 12.04
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 288,
+        "candidato": "Guillermo Lasso",
+        "value": 7.07
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 356,
+        "candidato": "Guillermo Lasso",
+        "value": 5.03
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 778,
+        "candidato": "Guillermo Lasso",
+        "value": 9.15
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 539,
+        "candidato": "Guillermo Lasso",
+        "value": 7.42
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 13364,
+        "candidato": "Guillermo Lasso",
+        "value": 17.53
+    }
+]

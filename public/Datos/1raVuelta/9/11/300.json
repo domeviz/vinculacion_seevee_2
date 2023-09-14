@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.34
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 13,
+        "candidato": "Ximena Peña",
+        "value": 1.45
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 1.42
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.46
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.36
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 62,
+        "candidato": "Ximena Peña",
+        "value": 1.40
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 13,
+        "candidato": "Ximena Peña",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.56
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 20,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 27,
+        "candidato": "Ximena Peña",
+        "value": 0.87
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 13,
+        "candidato": "Ximena Peña",
+        "value": 1.46
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 12,
+        "candidato": "Ximena Peña",
+        "value": 1.41
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 1.25
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 546,
+        "candidato": "Ximena Peña",
+        "value": 0.45
+    }
+]

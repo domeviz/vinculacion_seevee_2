@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.56
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 80,
+        "candidato": "Pedro Freile",
+        "value": 0.66
+    }
+]

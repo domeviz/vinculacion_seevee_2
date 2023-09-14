@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.05
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 10,
+        "candidato": "Gustavo Larrea",
+        "value": 0.44
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 73,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 150,
+        "candidato": "Gustavo Larrea",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 209,
+        "candidato": "Gustavo Larrea",
+        "value": 0.42
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 77,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    }
+]

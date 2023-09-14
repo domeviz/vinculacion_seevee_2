@@ -1,0 +1,361 @@
+[
+   {
+      "id_tabla":11,
+      "prov_tabla":"ALEMANIA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":45,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":21,
+      "prov_tabla":"ARGENTINA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":51,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":31,
+      "prov_tabla":"AUSTRALIA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":42,
+      "porc_mas":46,
+      "porc_fem":53
+   },
+   {
+      "id_tabla":41,
+      "prov_tabla":"AUSTRIA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":33,
+      "porc_mas":37,
+      "porc_fem":62
+   },
+   {
+      "id_tabla":51,
+      "prov_tabla":"BELGICA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":59,
+      "porc_mas":38,
+      "porc_fem":61
+   },
+   {
+      "id_tabla":61,
+      "prov_tabla":"BOLIVIA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":51,
+      "porc_mas":47,
+      "porc_fem":52
+   },
+   {
+      "id_tabla":71,
+      "prov_tabla":"BRASIL",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":37,
+      "porc_mas":55,
+      "porc_fem":44
+   },
+   {
+      "id_tabla":81,
+      "prov_tabla":"CANADA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":46,
+      "porc_mas":50,
+      "porc_fem":49
+   },
+   {
+      "id_tabla":91,
+      "prov_tabla":"COLOMBIA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":37,
+      "porc_mas":55,
+      "porc_fem":45
+   },
+   {
+      "id_tabla":101,
+      "prov_tabla":"COREA (SUR) REPUBLICA DE",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":52,
+      "porc_mas":33,
+      "porc_fem":66
+   },
+   {
+      "id_tabla":111,
+      "prov_tabla":"COSTA RICA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":61,
+      "porc_mas":47,
+      "porc_fem":52
+   },
+   {
+      "id_tabla":121,
+      "prov_tabla":"CUBA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":45,
+      "porc_mas":60,
+      "porc_fem":40
+   },
+   {
+      "id_tabla":131,
+      "prov_tabla":"CHILE",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":39,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":141,
+      "prov_tabla":"CHINA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":59,
+      "porc_mas":59,
+      "porc_fem":40
+   },
+   {
+      "id_tabla":161,
+      "prov_tabla":"EL SALVADOR",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":60,
+      "porc_mas":61,
+      "porc_fem":38
+   },
+   {
+      "id_tabla":171,
+      "prov_tabla":"ESPAÑA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":48,
+      "porc_mas":49,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":181,
+      "prov_tabla":"ESTADOS UNIDOS DE AMERICA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":35,
+      "porc_mas":63,
+      "porc_fem":36
+   },
+   {
+      "id_tabla":191,
+      "prov_tabla":"FRANCIA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":41,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":201,
+      "prov_tabla":"REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":59,
+      "porc_mas":55,
+      "porc_fem":44
+   },
+   {
+      "id_tabla":211,
+      "prov_tabla":"GUATEMALA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":71,
+      "porc_mas":41,
+      "porc_fem":58
+   },
+   {
+      "id_tabla":221,
+      "prov_tabla":"HONDURAS",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":65,
+      "porc_mas":50,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":231,
+      "prov_tabla":"HUNGRIA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":33,
+      "porc_mas":52,
+      "porc_fem":47
+   },
+   {
+      "id_tabla":251,
+      "prov_tabla":"ISRAEL",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":43,
+      "porc_mas":34,
+      "porc_fem":65
+   },
+   {
+      "id_tabla":261,
+      "prov_tabla":"ITALIA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":44,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":271,
+      "prov_tabla":"JAPON",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":51,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":281,
+      "prov_tabla":"MEXICO",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":60,
+      "porc_mas":49,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":301,
+      "prov_tabla":"PAISES BAJOS (HOLANDA)",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":40,
+      "porc_mas":36,
+      "porc_fem":64
+   },
+   {
+      "id_tabla":312,
+      "prov_tabla":"PANAMA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":65,
+      "porc_mas":53,
+      "porc_fem":46
+   },
+   {
+      "id_tabla":321,
+      "prov_tabla":"PARAGUAY",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":70,
+      "porc_mas":53,
+      "porc_fem":46
+   },
+   {
+      "id_tabla":331,
+      "prov_tabla":"PERU",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":68,
+      "porc_mas":45,
+      "porc_fem":54
+   },
+   {
+      "id_tabla":341,
+      "prov_tabla":"EGIPTO",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":100,
+      "porc_mas":25,
+      "porc_fem":75
+   },
+   {
+      "id_tabla":351,
+      "prov_tabla":"REPUBLICA DOMINICANA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":43,
+      "porc_mas":49,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":361,
+      "prov_tabla":"SUECIA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":55,
+      "porc_mas":57,
+      "porc_fem":42
+   },
+   {
+      "id_tabla":371,
+      "prov_tabla":"SUIZA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":49,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":381,
+      "prov_tabla":"FEDERACION DE RUSIA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":40,
+      "porc_mas":71,
+      "porc_fem":28
+   },
+   {
+      "id_tabla":391,
+      "prov_tabla":"URUGUAY",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":38,
+      "porc_mas":43,
+      "porc_fem":56
+   },
+   {
+      "id_tabla":401,
+      "prov_tabla":"VENEZUELA",
+      "candidato_tabla":"ARAUZ GALARZA ANDRES DAVID",
+      "partido_pol":"1-5 UNIÓN POR LA ESPERANZA",
+      "porcentaje":48,
+      "porc_mas":46,
+      "porc_fem":53
+   },
+   {
+      "id_tabla":411,
+      "prov_tabla":"INDONESIA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":100,
+      "porc_mas":100
+   },
+   {
+      "id_tabla":441,
+      "prov_tabla":"SUDAFRICA",
+      "candidato_tabla":"LASSO MENDOZA GUILLERMO ALBERTO SANTIAGO",
+      "partido_pol":"ALIANZA CREO 21 PSC 6",
+      "porcentaje":100,
+      "porc_mas":50,
+      "porc_fem":50
+   },
+   {
+      "id_tabla":451,
+      "prov_tabla":"TURQUIA",
+      "candidato_tabla":"HERVAS MORA  MARCELO XAVIER",
+      "partido_pol":"PARTIDO IZQUIERDA DEMOCRÁTICA",
+      "porcentaje":44,
+      "porc_mas":25,
+      "porc_fem":75
+   }
+]

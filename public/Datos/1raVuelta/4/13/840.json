@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIÁN",
+        "id": 1060,
+        "votos": 121,
+        "candidato": "Xavier Hervas",
+        "value": 3.86
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 85,
+        "candidato": "Xavier Hervas",
+        "value": 3.12
+    },
+    {
+        "parroquia": "PICHINCHA GERMUD",
+        "id": 6550,
+        "votos": 732,
+        "candidato": "Xavier Hervas",
+        "value": 5.44
+    }
+]

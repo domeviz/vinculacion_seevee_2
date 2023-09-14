@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 26,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    }
+]

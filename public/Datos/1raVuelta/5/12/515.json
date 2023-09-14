@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 20,
+        "candidato": "Pedro Freile",
+        "value": 0.68
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 55,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 1525,
+        "votos": 40,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 34,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 494,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    }
+]

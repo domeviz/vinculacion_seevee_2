@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COTUNDO",
+        "id": 685,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SAN PABLO DE USHPAYACU",
+        "id": 3605,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 0.59
+    },
+    {
+        "parroquia": "HATUN SUMAKU",
+        "id": 4630,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    },
+    {
+        "parroquia": "ARCHIDONA",
+        "id": 5070,
+        "votos": 24,
+        "candidato": "Gustavo Larrea",
+        "value": 0.24
+    }
+]

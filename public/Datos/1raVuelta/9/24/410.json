@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 65,
+        "candidato": "Ximena Peña",
+        "value": 2.98
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 951,
+        "candidato": "Ximena Peña",
+        "value": 4.84
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 441,
+        "candidato": "Ximena Peña",
+        "value": 5.02
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 85,
+        "candidato": "Ximena Peña",
+        "value": 2.41
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 724,
+        "candidato": "Ximena Peña",
+        "value": 3.90
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 80,
+        "candidato": "Ximena Peña",
+        "value": 4.03
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.51
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 934,
+        "candidato": "Ximena Peña",
+        "value": 2.42
+    }
+]

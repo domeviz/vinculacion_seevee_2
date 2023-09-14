@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN ",
+        "id": 1125,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 12,
+        "candidato": "paúl Carrasco",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 2,
+        "candidato": "paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 16,
+        "candidato": "paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 6,
+        "candidato": "paúl Carrasco",
+        "value": 0.62
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 0,
+        "candidato": "paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 1,
+        "candidato": "paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 6,
+        "candidato": "paúl Carrasco",
+        "value": 0.37
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 1,
+        "candidato": "paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 19,
+        "candidato": "paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 37,
+        "candidato": "paúl Carrasco",
+        "value": 0.17
+    }
+]

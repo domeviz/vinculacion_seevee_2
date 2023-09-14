@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.28
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.40
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    }
+]

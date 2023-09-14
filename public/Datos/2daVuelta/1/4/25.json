@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 332,
+        "candidato": "Guillermo Lasso",
+        "value": 31.95
+    },
+    {
+        "parroquia": "GARCÍA MORENO",
+        "id": 1315,
+        "votos": 602,
+        "candidato": "Guillermo Lasso",
+        "value": 60.75
+    },
+    {
+        "parroquia": "LOS ÁNDES",
+        "id": 2205,
+        "votos": 370,
+        "candidato": "Guillermo Lasso",
+        "value": 29.51
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 446,
+        "candidato": "Guillermo Lasso",
+        "value": 41.30
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 272,
+        "candidato": "Guillermo Lasso",
+        "value": 21.48
+    },
+    {
+        "parroquia": "BOLÍVAR",
+        "id": 6520,
+        "votos": 1691,
+        "candidato": "Guillermo Lasso",
+        "value": 56.54
+    }
+]

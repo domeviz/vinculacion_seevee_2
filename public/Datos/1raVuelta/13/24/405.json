@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 12,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 49,
+        "candidato": "Gustavo Larrea",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 38,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.37
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    }
+]

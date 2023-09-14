@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 65,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.53
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 150,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.90
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 163,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.80
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 87,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.13
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 77,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.55
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 45,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.99
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 38,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.47
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 770,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.02
+    }
+]

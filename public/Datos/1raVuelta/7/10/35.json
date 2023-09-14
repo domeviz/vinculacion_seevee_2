@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 30,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.76
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 46,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.05
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 37,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.90
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.24
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 46,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.89
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 43,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.87
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 67,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.01
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.52
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 19,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.72
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 301,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.84
+    }
+]

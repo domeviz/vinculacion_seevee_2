@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 76,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.88
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 46,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.98
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 59,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.55
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 50,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.81
+    },
+    {
+        "parroquia": "MONTALVO ANDOAS",
+        "id": 2450,
+        "votos": 70,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.71
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 21,
+        "candidato": "Lucio Gutiérrez",
+        "value": 7.27
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.65
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.01
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 23,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.41
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 98,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.72
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 44,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.70
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 75,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.60
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 92,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.80
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 811,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.26
+    }
+]

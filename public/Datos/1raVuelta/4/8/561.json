@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 36,
+        "candidato": "Xavier Hervas",
+        "value": 2.20
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 37,
+        "candidato": "Xavier Hervas",
+        "value": 2.40
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 85,
+        "candidato": "Xavier Hervas",
+        "value": 3.56
+    },
+    {
+        "parroquia": "MONTALVO HORQUETA",
+        "id": 2445,
+        "votos": 71,
+        "candidato": "Xavier Hervas",
+        "value": 3.18
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 92,
+        "candidato": "Xavier Hervas",
+        "value": 2.93
+    },
+    {
+        "parroquia": "RÍO VERDE",
+        "id": 6720,
+        "votos": 148,
+        "candidato": "Xavier Hervas",
+        "value": 4.21
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 242,
+        "candidato": "Ximena Peña",
+        "value": 3.49
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 365,
+        "candidato": "Ximena Peña",
+        "value": 2.95
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 355,
+        "candidato": "Ximena Peña",
+        "value": 2.63
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 0.98
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 58,
+        "candidato": "Ximena Peña",
+        "value": 3.13
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 41,
+        "candidato": "Ximena Peña",
+        "value": 1.30
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 137,
+        "candidato": "Ximena Peña",
+        "value": 3.42
+    }
+]

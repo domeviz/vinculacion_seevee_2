@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN",
+        "id": 1125,
+        "votos": 336,
+        "candidato": "Xavier Hervas",
+        "value": 23.61
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 145,
+        "candidato": "Xavier Hervas",
+        "value": 9.57
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 367,
+        "candidato": "Xavier Hervas",
+        "value": 26.10
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 1537,
+        "candidato": "Xavier Hervas",
+        "value": 27.25
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 200,
+        "candidato": "Xavier Hervas",
+        "value": 20.58
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 147,
+        "candidato": "Xavier Hervas",
+        "value": 26.78
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 59,
+        "candidato": "Xavier Hervas",
+        "value": 12.83
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 322,
+        "candidato": "Xavier Hervas",
+        "value": 19.86
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 315,
+        "candidato": "Xavier Hervas",
+        "value": 40.33
+    },
+    {
+        "parroquia": "GONZÁLEZ SUAREZ",
+        "id": 5415,
+        "votos": 5959,
+        "candidato": "Xavier Hervas",
+        "value": 34.41
+    },
+    {
+        "parroquia": "TULCÁN",
+        "id": 6165,
+        "votos": 7958,
+        "candidato": "Xavier Hervas",
+        "value": 36.24
+    }
+]

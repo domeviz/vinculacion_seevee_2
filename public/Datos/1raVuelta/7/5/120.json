@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 258,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.52
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 18,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.92
+    },
+    {
+        "parroquia": "RAMON CAMPANIA",
+        "id": 3155,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.91
+    },
+    {
+        "parroquia": "EL CORAZON",
+        "id": 5305,
+        "votos": 75,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.68
+    }
+]

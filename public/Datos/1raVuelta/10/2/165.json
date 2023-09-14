@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 40,
+        "candidato": "Guillermo Celi",
+        "value": 1.05
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 25,
+        "candidato": "Guillermo Celi",
+        "value": 1.78
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 1.11
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 19,
+        "candidato": "Guillermo Celi",
+        "value": 1.61
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 41,
+        "candidato": "Guillermo Celi",
+        "value": 1.70
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.81
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 87,
+        "candidato": "Guillermo Celi",
+        "value": 1.43
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 319,
+        "candidato": "Guillermo Celi",
+        "value": 0.82
+    }
+]

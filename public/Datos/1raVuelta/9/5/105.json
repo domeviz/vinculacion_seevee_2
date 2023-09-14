@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 0.92
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 70,
+        "candidato": "Ximena Peña",
+        "value": 1.26
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 22,
+        "candidato": "Ximena Peña",
+        "value": 1.23
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 1.28
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 17,
+        "candidato": "Ximena Peña",
+        "value": 0.83
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 97,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 345,
+        "candidato": "Ximena Peña",
+        "value": 1.41
+    }
+]

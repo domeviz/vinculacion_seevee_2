@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.56
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN JOSÉ",
+        "id": 4530,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.33
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.38
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 20,
+        "candidato": "Pedro Freile",
+        "value": 1.09
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 32,
+        "candidato": "Pedro Freile",
+        "value": 0.75
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 12,
+        "candidato": "Pedro Freile",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.33
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.67
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.37
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 446,
+        "candidato": "Pedro Freile",
+        "value": 1.17
+    }
+]

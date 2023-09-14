@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 180,
+        "candidato": "Xavier Hervas",
+        "value": 17.53
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 216,
+        "candidato": "Xavier Hervas",
+        "value": 20.63
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 205,
+        "candidato": "Xavier Hervas",
+        "value": 15.23
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 289,
+        "candidato": "Xavier Hervas",
+        "value": 24.33
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 180,
+        "candidato": "Xavier Hervas",
+        "value": 14.73
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 6520,
+        "votos": 920,
+        "candidato": "Xavier Hervas",
+        "value": 27.25
+    }
+]

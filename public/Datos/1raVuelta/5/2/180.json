@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSÉ DE TAMBO",
+        "id": 3500,
+        "votos": 29,
+        "candidato": "Pedro Freile",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 78,
+        "candidato": "Pedro Freile",
+        "value": 1.02
+    }
+]

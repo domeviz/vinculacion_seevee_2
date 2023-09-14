@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN RAFAEL DE SHARUG",
+        "id": 1690,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUCARA",
+        "id": 5690,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    }
+]

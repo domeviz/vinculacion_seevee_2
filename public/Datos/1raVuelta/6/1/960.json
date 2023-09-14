@@ -1,0 +1,14 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.25
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "fill":"#EF8A62"
+    }
+]

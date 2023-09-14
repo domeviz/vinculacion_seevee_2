@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 1.33
+    },
+    {
+        "parroquia": "CHANTILÍN",
+        "id": 830,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 3.82
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SAQUISILÍ",
+        "id": 6070,
+        "votos": 229,
+        "candidato": "Pedro Freile",
+        "value": 1.82
+    }
+]

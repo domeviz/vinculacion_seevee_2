@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.08
+    },
+    {
+        "parroquia": "GARCIA MORENO   LLURIMAGUA",
+        "id": 1310,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.48
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 24,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    }
+]

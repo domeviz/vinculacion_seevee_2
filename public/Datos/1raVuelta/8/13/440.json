@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 35,
+        "candidato": "Gerson Almeida",
+        "value": 0.39
+    },
+    {
+        "parroquia": "ALHAJUELA BAJO GRANDE",
+        "id": 50,
+        "votos": 18,
+        "candidato": "Gerson Almeida",
+        "value": 0.58
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 63,
+        "candidato": "Gerson Almeida",
+        "value": 0.81
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.49
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 0.74
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 35,
+        "candidato": "Gerson Almeida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 24,
+        "candidato": "Gerson Almeida",
+        "value": 0.44
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 825,
+        "candidato": "Gerson Almeida",
+        "value": 1.70
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 83,
+        "candidato": "Gerson Almeida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 332,
+        "candidato": "Gerson Almeida",
+        "value": 1.33
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 219,
+        "candidato": "Gerson Almeida",
+        "value": 1.09
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 140,
+        "candidato": "Gerson Almeida",
+        "value": 1.05
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 78,
+        "candidato": "Gerson Almeida",
+        "value": 1.49
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 127,
+        "candidato": "Gerson Almeida",
+        "value": 1.76
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 41,
+        "candidato": "Gerson Almeida",
+        "value": 0.77
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 0.62
+    }
+]

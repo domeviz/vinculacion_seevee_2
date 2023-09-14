@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 19,
+        "candidato": "Guillermo Celi",
+        "value": 1.01
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 25,
+        "candidato": "Guillermo Celi",
+        "value": 1.10
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 634,
+        "candidato": "Guillermo Celi",
+        "value": 2.85
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 1817,
+        "candidato": "Guillermo Celi",
+        "value": 3.61
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 34,
+        "candidato": "Guillermo Celi",
+        "value": 1.23
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 1663,
+        "candidato": "Guillermo Celi",
+        "value": 3.33
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 637,
+        "candidato": "Guillermo Celi",
+        "value": 2.86
+    }
+]

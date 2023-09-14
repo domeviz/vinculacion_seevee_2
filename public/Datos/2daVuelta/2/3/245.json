@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JERUSALÉN",
+        "id": 1085,
+        "votos": 140,
+        "candidato": "Andrés Arauz",
+        "value": 53.85
+    },
+    {
+        "parroquia": "NAZÓN",
+        "id": 2545,
+        "votos": 390,
+        "candidato": "Andrés Arauz",
+        "value": 38.24
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 168,
+        "candidato": "Andrés Arauz",
+        "value": 36.60
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 122,
+        "candidato": "Andrés Arauz",
+        "value": 53.98
+    },
+    {
+        "parroquia": "BIBLIÁN",
+        "id": 5115,
+        "votos": 2238,
+        "candidato": "Andrés Arauz",
+        "value": 38.89
+    }
+]

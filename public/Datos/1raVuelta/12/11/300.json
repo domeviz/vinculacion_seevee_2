@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 6,
+        "candidato": "Cesar Montufar",
+        "value": 0.40
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 3,
+        "candidato": "Cesar Montufar",
+        "value": 0.34
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 4,
+        "candidato": "Cesar Montufar",
+        "value": 0.35
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 4,
+        "candidato": "Cesar Montufar",
+        "value": 0.46
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 4,
+        "candidato": "Cesar Montufar",
+        "value": 0.48
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 33,
+        "candidato": "Cesar Montufar",
+        "value": 0.75
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 3,
+        "candidato": "Cesar Montufar",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 6,
+        "candidato": "Cesar Montufar",
+        "value": 0.67
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 7,
+        "candidato": "Cesar Montufar",
+        "value": 0.38
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 21,
+        "candidato": "Cesar Montufar",
+        "value": 0.68
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 6,
+        "candidato": "Cesar Montufar",
+        "value": 0.67
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 9,
+        "candidato": "Cesar Montufar",
+        "value": 1.06
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 2,
+        "candidato": "Cesar Montufar",
+        "value": 0.28
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 837,
+        "candidato": "Cesar Montufar",
+        "value": 0.69
+    }
+]

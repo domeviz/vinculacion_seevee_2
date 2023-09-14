@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 45,
+        "candidato": "Isidro Romero",
+        "value": 1.98
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 331,
+        "candidato": "Isidro Romero",
+        "value": 1.49
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 944,
+        "candidato": "Isidro Romero",
+        "value": 1.88
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 32,
+        "candidato": "Isidro Romero",
+        "value": 1.16
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 765,
+        "candidato": "Isidro Romero",
+        "value": 1.53
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 289,
+        "candidato": "Isidro Romero",
+        "value": 1.30
+    }
+]

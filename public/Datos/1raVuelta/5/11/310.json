@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.93
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.80
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 1.01
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.66
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.71
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.66
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 113,
+        "candidato": "Pedro Freile",
+        "value": 1.42
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 1.28
+    }
+]

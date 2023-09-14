@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MORASPUNGO",
+        "id": 2460,
+        "votos": 34,
+        "candidato": "Pedro Freile",
+        "value": 0.46
+    },
+    {
+        "parroquia": "PINLLOPATA",
+        "id": 2890,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.32
+    },
+    {
+        "parroquia": "RAMON CAMPAÑA",
+        "id": 3155,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.91
+    },
+    {
+        "parroquia": "EL CORAZÓN",
+        "id": 5305,
+        "votos": 29,
+        "candidato": "Pedro Freile",
+        "value": 0.65
+    }
+]

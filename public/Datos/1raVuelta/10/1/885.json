@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COCHAPATA",
+        "id": 575,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.13
+    },
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1175,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.54
+    },
+    {
+        "parroquia": "NIEVES",
+        "id": 2550,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NABON",
+        "id": 6595,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 60,
+        "candidato": "Guillermo Celi",
+        "value": 0.86
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 356,
+        "candidato": "Guillermo Celi",
+        "value": 0.77
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 147,
+        "candidato": "Guillermo Celi",
+        "value": 0.72
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 31,
+        "candidato": "Guillermo Celi",
+        "value": 0.78
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 95,
+        "candidato": "Guillermo Celi",
+        "value": 0.99
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 21,
+        "candidato": "Guillermo Celi",
+        "value": 0.59
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 50,
+        "candidato": "Guillermo Celi",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 73,
+        "candidato": "Guillermo Celi",
+        "value": 1.20
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 31,
+        "candidato": "Guillermo Celi",
+        "value": 0.79
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 35,
+        "candidato": "Guillermo Celi",
+        "value": 0.84
+    }
+]

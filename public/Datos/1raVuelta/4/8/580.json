@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO GUADAL",
+        "id": 70,
+        "votos": 34,
+        "candidato": "Xavier Hervas",
+        "value": 5.89
+    },
+    {
+        "parroquia": "ANCÓN PALMA REAL",
+        "id": 110,
+        "votos": 12,
+        "candidato": "Xavier Hervas",
+        "value": 1.45
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 17,
+        "candidato": "Xavier Hervas",
+        "value": 4.83
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 29,
+        "candidato": "Xavier Hervas",
+        "value": 3.66
+    },
+    {
+        "parroquia": "5 DE JUNIO HUIMBI",
+        "id": 570,
+        "votos": 4,
+        "candidato": "Xavier Hervas",
+        "value": 2.37
+    },
+    {
+        "parroquia": "CONCEPCIÓN",
+        "id": 620,
+        "votos": 19,
+        "candidato": "Xavier Hervas",
+        "value": 2.36
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 11,
+        "candidato": "Xavier Hervas",
+        "value": 1.77
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 5,
+        "candidato": "Xavier Hervas",
+        "value": 1.28
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 22,
+        "candidato": "Xavier Hervas",
+        "value": 2.70
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 37,
+        "candidato": "Xavier Hervas",
+        "value": 4.13
+    },
+    {
+        "parroquia": "TULULBI RICAURTE",
+        "id": 4075,
+        "votos": 26,
+        "candidato": "Xavier Hervas",
+        "value": 2.45
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 5,
+        "candidato": "Xavier Hervas",
+        "value": 1.00
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 675,
+        "candidato": "Xavier Hervas",
+        "value": 5.69
+    }
+]

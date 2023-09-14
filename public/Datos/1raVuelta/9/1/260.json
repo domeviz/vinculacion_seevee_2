@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 149,
+        "candidato": "Ximena Peña",
+        "value": 0.94
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 27,
+        "candidato": "Ximena Peña",
+        "value": 0.66
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 20,
+        "candidato": "Ximena Peña",
+        "value": 2.76
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 18,
+        "candidato": "Ximena Peña",
+        "value": 1.14
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 29,
+        "candidato": "Ximena Peña",
+        "value": 1.11
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 37,
+        "candidato": "Ximena Peña",
+        "value": 1.37
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 71,
+        "candidato": "Ximena Peña",
+        "value": 1.66
+    },
+    {
+        "parroquia": "MULTI NULTI",
+        "id": 2570,
+        "votos": 38,
+        "candidato": "Ximena Peña",
+        "value": 1.08
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 22,
+        "candidato": "Ximena Peña",
+        "value": 1.87
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 53,
+        "candidato": "Ximena Peña",
+        "value": 1.68
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 44,
+        "candidato": "Ximena Peña",
+        "value": 1.12
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 155,
+        "candidato": "Ximena Peña",
+        "value": 1.27
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 53,
+        "candidato": "Ximena Peña",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 35,
+        "candidato": "Ximena Peña",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 106,
+        "candidato": "Ximena Peña",
+        "value": 1.33
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 41,
+        "candidato": "Ximena Peña",
+        "value": 1.77
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 134,
+        "candidato": "Ximena Peña",
+        "value": 2.00
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 69,
+        "candidato": "Ximena Peña",
+        "value": 1.07
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 60,
+        "candidato": "Ximena Peña",
+        "value": 1.34
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 108,
+        "candidato": "Ximena Peña",
+        "value": 0.93
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 48,
+        "candidato": "Ximena Peña",
+        "value": 1.61
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 1677,
+        "candidato": "Ximena Peña",
+        "value": 0.79
+    }
+]

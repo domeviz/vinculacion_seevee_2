@@ -1,0 +1,14 @@
+[
+    {
+        "parroquia": "TOMÁS DE BERLANGA",
+        "id": 4165,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.73
+    }
+]

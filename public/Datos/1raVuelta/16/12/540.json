@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 66,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 24,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.03
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    }
+]

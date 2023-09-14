@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 43,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.62
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.28
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 121,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 57,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 14,
+        "candidato": "Carlos Sagnay",
+        "value": 0.06
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.51
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 15,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 79,
+        "candidato": "Carlos Sagnay",
+        "value": 1.22
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.52
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.49
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 24,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 27,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 0.09
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.28
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 15,
+        "candidato": "Carlos Sagnay",
+        "value": 0.17
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 38,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.06
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 51,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 24,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 1913,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    }
+]

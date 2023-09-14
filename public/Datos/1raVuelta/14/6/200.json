@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.24
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.45
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 25,
+        "candidato": "Carlos Sagnay",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN GERARDO PAQUICAHUAN",
+        "id": 3425,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "GUANO",
+        "id": 60750,
+        "votos": 26,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    }
+]

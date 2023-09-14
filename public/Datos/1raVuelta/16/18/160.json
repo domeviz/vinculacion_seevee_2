@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 25,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

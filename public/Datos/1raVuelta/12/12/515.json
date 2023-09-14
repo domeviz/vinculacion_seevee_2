@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 17,
+        "candidato": "César Montúfar",
+        "value": 0.58
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 40,
+        "candidato": "César Montúfar",
+        "value": 0.41
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 31,
+        "candidato": "César Montúfar",
+        "value": 0.44
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 26,
+        "candidato": "César Montúfar",
+        "value": 0.31
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 219,
+        "candidato": "César Montúfar",
+        "value": 0.33
+    }
+]

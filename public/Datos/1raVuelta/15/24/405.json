@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 37,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 32,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 15,
+        "candidato": "Giovanny Andrade",
+        "value": 0.37
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.32
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 67,
+        "candidato": "Isidro Romero",
+        "value": 0.53
+    }
+]

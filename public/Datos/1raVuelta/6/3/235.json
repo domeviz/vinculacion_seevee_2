@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "COJITAMBO",
+        "id": 585,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.66
+    },
+    {
+        "parroquia": "GUAPAN",
+        "id": 1445,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 0.34
+    },
+    {
+        "parroquia": "JAVIER LOYOLA CHUQUIPATA",
+        "id": 1825,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LUIS CORDERO",
+        "id": 2220,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PINDILIG",
+        "id": 2885,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.29
+    },
+    {
+        "parroquia": "RIVERA",
+        "id": 3210,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 3575,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 0.51
+    },
+    {
+        "parroquia": "TADAY",
+        "id": 3945,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.11
+    },
+    {
+        "parroquia": "AZOGUES",
+        "id": 5065,
+        "votos": 127,
+        "candidato": "Isidro Romero",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5950,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.36
+    },
+    {
+        "parroquia": "BORRERO",
+        "id": 6790,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.37
+    },
+    {
+        "parroquia": "AURELIO BAYAS MARTINEZ",
+        "id": 6845,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 0.85
+    }
+]

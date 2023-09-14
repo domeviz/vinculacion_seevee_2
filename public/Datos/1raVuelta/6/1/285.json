@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDÓN CALDERÓN LA UNIÓN",
+        "id": 15,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 36,
+        "candidato": "Isidro Romero",
+        "value": 0.38
+    }
+]

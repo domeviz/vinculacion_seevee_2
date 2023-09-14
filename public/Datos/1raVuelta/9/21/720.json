@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 26,
+        "candidato": "Ximena Peña",
+        "value": 1.02
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 39,
+        "candidato": "Ximena Peña",
+        "value": 1.54
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 2.00
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 28,
+        "candidato": "Ximena Peña",
+        "value": 1.43
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 186,
+        "candidato": "Ximena Peña",
+        "value": 1.01
+    }
+]

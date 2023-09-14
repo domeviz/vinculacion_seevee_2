@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SUSUDEL",
+        "id": 1540,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.86
+    },
+    {
+        "parroquia": "OÑA",
+        "id": 6360,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.05
+    }
+]

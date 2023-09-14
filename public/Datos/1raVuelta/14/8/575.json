@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE CHANCAMA",
+        "id": 700,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.91
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 1.28
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 54,
+        "candidato": "Carlos Sagnay",
+        "value": 0.49
+    },
+    {
+        "parroquia": "MALIMPIA GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 58,
+        "candidato": "Carlos Sagnay",
+        "value": 0.79
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 28,
+        "candidato": "Carlos Sagnay",
+        "value": 0.68
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 231,
+        "candidato": "Carlos Sagnay",
+        "value": 0.62
+    }
+]

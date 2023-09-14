@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN Gerson",
+        "id": 415,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.13
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 8,
+        "candidato": "Gerson Almeida",
+        "value": 0.46
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.12
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.05
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.68
+    },
+    {
+        "parroquia": "UNION MILAGRENIA",
+        "id": 1965,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.25
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 25,
+        "candidato": "Gerson Almeida",
+        "value": 0.96
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 105,
+        "candidato": "Gerson Almeida",
+        "value": 0.79
+    }
+]

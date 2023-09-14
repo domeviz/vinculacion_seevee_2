@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.98
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 42,
+        "candidato": "Isidro Romero",
+        "value": 2.47
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 146,
+        "candidato": "Isidro Romero",
+        "value": 1.06
+    }
+]

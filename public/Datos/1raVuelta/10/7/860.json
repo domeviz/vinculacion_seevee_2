@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.24
+    }
+]

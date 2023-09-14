@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MONTERREY",
+        "id": 4635,
+        "votos": 297,
+        "candidato": "Xavier Hervas",
+        "value": 9.46
+    },
+    {
+        "parroquia": "LA VILLEGAS",
+        "id": 4640,
+        "votos": 256,
+        "candidato": "Xavier Hervas",
+        "value": 13.55
+    },
+    {
+        "parroquia": "PLAN PILOTO",
+        "id": 4645,
+        "votos": 113,
+        "candidato": "Xavier Hervas",
+        "value": 12.01
+    },
+    {
+        "parroquia": "LA CONCORDIA",
+        "id": 7520,
+        "votos": 4420,
+        "candidato": "Xavier Hervas",
+        "value": 17.26
+    }
+]

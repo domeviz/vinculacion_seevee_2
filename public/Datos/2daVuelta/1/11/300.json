@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 842,
+        "candidato": "Guillermo Lasso",
+        "value": 76.55
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 468,
+        "candidato": "Guillermo Lasso",
+        "value": 58.14
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 563,
+        "candidato": "Guillermo Lasso",
+        "value": 54.98
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 537,
+        "candidato": "Guillermo Lasso",
+        "value": 64.16
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 595,
+        "candidato": "Guillermo Lasso",
+        "value": 83.22
+    },
+    {
+        "parroquia": "MALACATOS / VALLADOLID",
+        "id": 2325,
+        "votos": 2825,
+        "candidato": "Guillermo Lasso",
+        "value": 70.78
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 1095,
+        "candidato": "Guillermo Lasso",
+        "value": 77.83
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 442,
+        "candidato": "Guillermo Lasso",
+        "value": 66.87
+    },
+    {
+        "parroquia": "TAQUIL  / MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 1016,
+        "candidato": "Guillermo Lasso",
+        "value": 65.51
+    },
+    {
+        "parroquia": "VILCABAMBA / VICTORIA",
+        "id": 4235,
+        "votos": 1686,
+        "candidato": "Guillermo Lasso",
+        "value": 61.42
+    },
+    {
+        "parroquia": "YANGANA  /  ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 604,
+        "candidato": "Guillermo Lasso",
+        "value": 72.16
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 440,
+        "candidato": "Guillermo Lasso",
+        "value": 63.77
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 459,
+        "candidato": "Guillermo Lasso",
+        "value": 72.06
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 87533,
+        "candidato": "Guillermo Lasso",
+        "value": 77.55
+    }
+]

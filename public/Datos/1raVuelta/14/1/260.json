@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 12,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 37,
+        "candidato": "Carlos Sagnay",
+        "value": 1.37
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "MULTI NULTI",
+        "id": 2570,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.17
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.09
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 12,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.06
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.05
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.07
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 12,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.03
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 196,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    }
+]

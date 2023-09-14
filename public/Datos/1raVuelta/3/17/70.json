@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 2198,
+        "candidato": "Yaku Pérez",
+        "value": 36.40
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 1674,
+        "candidato": "Yaku Pérez",
+        "value": 39.15
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA TANDAPI",
+        "id": 650,
+        "votos": 554,
+        "candidato": "Yaku Pérez",
+        "value": 34.73
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 3406,
+        "candidato": "Yaku Pérez",
+        "value": 34.81
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 456,
+        "candidato": "Yaku Pérez",
+        "value": 45.69
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 2153,
+        "candidato": "Yaku Pérez",
+        "value": 32.60
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 667,
+        "candidato": "Yaku Pérez",
+        "value": 24.53
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 8068,
+        "candidato": "Yaku Pérez",
+        "value": 34.77
+    }
+]

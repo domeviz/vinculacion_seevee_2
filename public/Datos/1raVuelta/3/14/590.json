@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI  9 DE OCTUBRE",
+        "id": 65,
+        "votos": 179,
+        "candidato": "Yaku Pérez",
+        "value": 51.29
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 807,
+        "candidato": "Yaku Pérez",
+        "value": 68.51
+    },
+    {
+        "parroquia": "GRAL. PROAÑO",
+        "id": 1345,
+        "votos": 426,
+        "candidato": "Yaku Pérez",
+        "value": 33.54
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 486,
+        "candidato": "Yaku Pérez",
+        "value": 44.71
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 265,
+        "candidato": "Yaku Pérez",
+        "value": 40.40
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 4243,
+        "candidato": "Yaku Pérez",
+        "value": 62.15
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 100,
+        "candidato": "Yaku Pérez",
+        "value": 49.26
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 345,
+        "candidato": "Yaku Pérez",
+        "value": 47.98
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 3562,
+        "candidato": "Yaku Pérez",
+        "value": 26.86
+    }
+]

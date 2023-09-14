@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 12,
+        "candidato": "Giovanny Andrade",
+        "value": 0.33
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 101,
+        "candidato": "Giovanny Andrade",
+        "value": 1.31
+    }
+]

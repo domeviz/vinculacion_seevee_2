@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "COJITAMBO",
+        "id": 585,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.10
+    },
+    {
+        "parroquia": "GUAPAN",
+        "id": 1445,
+        "votos": 15,
+        "candidato": "Guillermo Celi",
+        "value": 0.34
+    },
+    {
+        "parroquia": "JAVIER LOYOLA CHUQUIPATA",
+        "id": 1825,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    },
+    {
+        "parroquia": "LUIS CORDERO",
+        "id": 2220,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.11
+    },
+    {
+        "parroquia": "PINDILIG",
+        "id": 2885,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.10
+    },
+    {
+        "parroquia": "RIVERA",
+        "id": 3210,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 3575,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "TADAY",
+        "id": 3945,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "AZOGUES",
+        "id": 5065,
+        "votos": 63,
+        "candidato": "Guillermo Celi",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 5950,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.18
+    },
+    {
+        "parroquia": "BORRERO",
+        "id": 6790,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    },
+    {
+        "parroquia": "AURELIO BAYAS MARTINEZ",
+        "id": 6845,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.17
+    }
+]

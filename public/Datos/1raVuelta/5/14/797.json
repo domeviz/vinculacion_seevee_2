@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSÉ DE MORONA",
+        "id": 1295,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 6890,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.23
+    }
+]

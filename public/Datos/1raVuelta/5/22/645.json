@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "DAYUMA",
+        "id": 1235,
+        "votos": 47,
+        "candidato": "Pedro Freile",
+        "value": 0.88
+    },
+    {
+        "parroquia": "TARACOA",
+        "id": 1245,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.80
+    },
+    {
+        "parroquia": "EL DORADO",
+        "id": 1560,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    },
+    {
+        "parroquia": "INES ARANGO",
+        "id": 1565,
+        "votos": 23,
+        "candidato": "Pedro Freile",
+        "value": 1.13
+    },
+    {
+        "parroquia": "EL EDÉN",
+        "id": 1590,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.69
+    },
+    {
+        "parroquia": "GARCÍA MORENO",
+        "id": 1810,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.60
+    },
+    {
+        "parroquia": "LA BELLEZA",
+        "id": 1820,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SAN LUIS DE ARMENIA",
+        "id": 1935,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.63
+    },
+    {
+        "parroquia": "NUEVO PARAÍSO",
+        "id": 1940,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.81
+    },
+    {
+        "parroquia": "SAN JOSE DE GUAYUSA",
+        "id": 1945,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.36
+    },
+    {
+        "parroquia": "ALEJANDRO LABAKA",
+        "id": 1995,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.83
+    },
+    {
+        "parroquia": "EL COCA",
+        "id": 5815,
+        "votos": 425,
+        "candidato": "Pedro Freile",
+        "value": 1.49
+    }
+]

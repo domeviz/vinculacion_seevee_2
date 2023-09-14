@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 1265,
+        "candidato": "Andrés Arauz",
+        "value": 60.93
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 17033,
+        "candidato": "Andrés Arauz",
+        "value": 58.62
+    },
+    {
+        "parroquia": "ANIBAL SAN Andrés",
+        "id": 7460,
+        "votos": 1237,
+        "candidato": "Andrés Arauz",
+        "value": 61.51
+    },
+    {
+        "parroquia": "COLORADO",
+        "id": 7490,
+        "votos": 782,
+        "candidato": "Andrés Arauz",
+        "value": 58.53
+    },
+    {
+        "parroquia": "LEONIDAS PROAÃ\u2018O",
+        "id": 7495,
+        "votos": 6141,
+        "candidato": "Andrés Arauz",
+        "value": 71.31
+    },
+    {
+        "parroquia": "GENERAL ELOY ALFARO DELGA",
+        "id": 7500,
+        "votos": 1116,
+        "candidato": "Andrés Arauz",
+        "value": 66.35
+    }
+]

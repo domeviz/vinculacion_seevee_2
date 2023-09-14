@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO (GUADAL)",
+        "id": 70,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.73
+    },
+    {
+        "parroquia": "ANCON (PALMA REAL)",
+        "id": 110,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.08
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.85
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.01
+    },
+    {
+        "parroquia": "5 DE JUNIO (HUIMBI)",
+        "id": 570,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.87
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.28
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.61
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.56
+    },
+    {
+        "parroquia": "TULULBI (RICAURTE)",
+        "id": 4075,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.47
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.21
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 97,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.82
+    }
+]

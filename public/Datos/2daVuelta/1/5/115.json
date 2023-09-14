@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 571,
+        "candidato": "Guillermo Lasso",
+        "value": 61.20
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 360,
+        "candidato": "Guillermo Lasso",
+        "value": 68.57
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 1374,
+        "candidato": "Guillermo Lasso",
+        "value": 82.97
+    },
+    {
+        "parroquia": "SAQUISILÍ",
+        "id": 6070,
+        "votos": 6796,
+        "candidato": "Guillermo Lasso",
+        "value": 73.38
+    }
+]

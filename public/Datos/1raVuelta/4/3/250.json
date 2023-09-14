@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 302,
+        "candidato": "Xavier Hervas",
+        "value": 11.96
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 305,
+        "candidato": "Xavier Hervas",
+        "value": 9.16
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 4295,
+        "candidato": "Xavier Hervas",
+        "value": 15.92
+    }
+]

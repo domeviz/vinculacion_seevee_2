@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 0.86
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 0.56
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.41
+    }
+]

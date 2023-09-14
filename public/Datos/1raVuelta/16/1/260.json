@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 65,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.55
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.70
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 39,
+        "candidato": "Paúl Carrasco",
+        "value": 1.50
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 25,
+        "candidato": "Paúl Carrasco",
+        "value": 0.92
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "MULTI NULTI",
+        "id": 2570,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.51
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 12,
+        "candidato": "Paúl Carrasco",
+        "value": 1.02
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.57
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.46
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 83,
+        "candidato": "Paúl Carrasco",
+        "value": 0.68
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 31,
+        "candidato": "Paúl Carrasco",
+        "value": 0.50
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 56,
+        "candidato": "Paúl Carrasco",
+        "value": 0.70
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 73,
+        "candidato": "Paúl Carrasco",
+        "value": 1.09
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 38,
+        "candidato": "Paúl Carrasco",
+        "value": 0.59
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 26,
+        "candidato": "Paúl Carrasco",
+        "value": 0.58
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 41,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.44
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 938,
+        "candidato": "Paúl Carrasco",
+        "value": 0.42
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 1743,
+        "candidato": "Andrés Arauz",
+        "value": 71.52
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 2661,
+        "candidato": "Andrés Arauz",
+        "value": 80.69
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 14427,
+        "candidato": "Andrés Arauz",
+        "value": 61.61
+    }
+]

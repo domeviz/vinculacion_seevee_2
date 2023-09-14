@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 31,
+        "candidato": "Isidro Romero",
+        "value": 1.52
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 78,
+        "candidato": "Isidro Romero",
+        "value": 2.64
+    },
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 97,
+        "candidato": "Isidro Romero",
+        "value": 1.10
+    }
+]

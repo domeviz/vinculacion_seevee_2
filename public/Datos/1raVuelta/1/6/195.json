@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 113,
+        "candidato": "Guillermo Lasso",
+        "value": 4.96
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 382,
+        "candidato": "Guillermo Lasso",
+        "value": 8.86
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 134,
+        "candidato": "Guillermo Lasso",
+        "value": 9.55
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 95,
+        "candidato": "Guillermo Lasso",
+        "value": 3.07
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 424,
+        "candidato": "Guillermo Lasso",
+        "value": 10.39
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 289,
+        "candidato": "Guillermo Lasso",
+        "value": 5.25
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 181,
+        "candidato": "Guillermo Lasso",
+        "value": 4.90
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 184,
+        "candidato": "Guillermo Lasso",
+        "value": 4.36
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 323,
+        "candidato": "Guillermo Lasso",
+        "value": 9.24
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 353,
+        "candidato": "Guillermo Lasso",
+        "value": 6.56
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 523,
+        "candidato": "Guillermo Lasso",
+        "value": 12.03
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 10063,
+        "candidato": "Guillermo Lasso",
+        "value": 27.91
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 18415,
+        "candidato": "Guillermo Lasso",
+        "value": 23.51
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 88,
+        "candidato": "Xavier Hervas",
+        "value": 3.23
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 76,
+        "candidato": "Xavier Hervas",
+        "value": 1.37
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 217,
+        "candidato": "Xavier Hervas",
+        "value": 12.10
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 76,
+        "candidato": "Xavier Hervas",
+        "value": 6.09
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 250,
+        "candidato": "Xavier Hervas",
+        "value": 12.17
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 182,
+        "candidato": "Xavier Hervas",
+        "value": 2.04
+    },
+    {
+        "parroquia": "PUJILÍ",
+        "id": 5820,
+        "votos": 3124,
+        "candidato": "Xavier Hervas",
+        "value": 12.79
+    }
+]

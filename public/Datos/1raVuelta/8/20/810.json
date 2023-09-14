@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TOMAS DE BERLANGA",
+        "id": 4165,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.65
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 25,
+        "candidato": "Gerson Almeida",
+        "value": 1.81
+    }
+]

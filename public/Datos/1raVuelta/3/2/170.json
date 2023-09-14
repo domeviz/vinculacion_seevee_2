@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 803,
+        "candidato": "Yaku Pérez",
+        "value": 53.04
+    },
+    {
+        "parroquia": "MAGDALENA CHAPACOTO",
+        "id": 2315,
+        "votos": 825,
+        "candidato": "Yaku Pérez",
+        "value": 47.01
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 270,
+        "candidato": "Yaku Pérez",
+        "value": 48.30
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 677,
+        "candidato": "Yaku Pérez",
+        "value": 56.14
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 1465,
+        "candidato": "Yaku Pérez",
+        "value": 33.32
+    }
+]

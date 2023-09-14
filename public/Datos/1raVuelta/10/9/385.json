@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUAYAS PUERTO NUEVO",
+        "id": 1470,
+        "votos": 29,
+        "candidato": "Guillermo Celi",
+        "value": 0.79
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1640,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 0.58
+    },
+    {
+        "parroquia": "VELASCO IBARRA",
+        "id": 6225,
+        "votos": 249,
+        "candidato": "Guillermo Celi",
+        "value": 0.61
+    }
+]

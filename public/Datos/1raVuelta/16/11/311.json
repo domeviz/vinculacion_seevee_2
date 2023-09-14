@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LA TINGUE",
+        "id": 2120,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "OLMEDO",
+        "id": 6730,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    }
+]

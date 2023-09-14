@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 16,
+        "candidato": "Paúl Carrasco",
+        "value": 0.36
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 16,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 23,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 20,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 19,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 260,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    }
+]

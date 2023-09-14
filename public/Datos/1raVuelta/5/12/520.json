@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 29,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 0.45
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 105,
+        "candidato": "Pedro Freile",
+        "value": 0.72
+    }
+]

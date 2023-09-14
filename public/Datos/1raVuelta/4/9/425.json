@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TARIFA",
+        "id": 3975,
+        "votos": 288,
+        "candidato": "Xavier Hervas",
+        "value": 5.28
+    },
+    {
+        "parroquia": "SAMBORONDÓN",
+        "id": 5925,
+        "votos": 1082,
+        "candidato": "Xavier Hervas",
+        "value": 4.87
+    },
+    {
+        "parroquia": "LA PUNTILLA(SATÉLITE)",
+        "id": 7445,
+        "votos": 431,
+        "candidato": "Xavier Hervas",
+        "value": 2.18
+    }
+]

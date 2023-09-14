@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 44,
+        "candidato": "Isidro Romero",
+        "value": 2.02
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 261,
+        "candidato": "Isidro Romero",
+        "value": 1.33
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 186,
+        "candidato": "Isidro Romero",
+        "value": 2.12
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 95,
+        "candidato": "Isidro Romero",
+        "value": 2.70
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 324,
+        "candidato": "Isidro Romero",
+        "value": 1.75
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3915,
+        "votos": 42,
+        "candidato": "Isidro Romero",
+        "value": 2.12
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 47,
+        "candidato": "Isidro Romero",
+        "value": 2.83
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 1008,
+        "candidato": "Isidro Romero",
+        "value": 2.61
+    }
+]

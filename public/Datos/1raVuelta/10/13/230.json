@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 17,
+        "candidato": "Guillermo Celi",
+        "value": 1.28
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 34,
+        "candidato": "Guillermo Celi",
+        "value": 2.00
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 155,
+        "candidato": "Guillermo Celi",
+        "value": 1.12
+    }
+]

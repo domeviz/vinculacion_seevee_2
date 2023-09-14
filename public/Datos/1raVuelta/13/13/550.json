@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.29
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 12,
+        "candidato": "Gustavo Larrea",
+        "value": 0.40
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 96,
+        "candidato": "Gustavo Larrea",
+        "value": 0.48
+    }
+]

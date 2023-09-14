@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.96
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 26,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.80
+    }
+]

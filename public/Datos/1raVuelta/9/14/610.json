@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 180,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.51
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESUS",
+        "id": 1140,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.78
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 19,
+        "candidato": "Ximena Peña",
+        "value": 1.05
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 52,
+        "candidato": "Ximena Peña",
+        "value": 0.65
+    }
+]

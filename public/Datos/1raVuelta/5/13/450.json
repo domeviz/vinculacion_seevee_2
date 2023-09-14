@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 18,
+        "candidato": "Pedro Freile",
+        "value": 0.79
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 260,
+        "candidato": "Pedro Freile",
+        "value": 1.17
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 466,
+        "candidato": "Pedro Freile",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 0.69
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 479,
+        "candidato": "Pedro Freile",
+        "value": 0.96
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 199,
+        "candidato": "Pedro Freile",
+        "value": 0.89
+    }
+]

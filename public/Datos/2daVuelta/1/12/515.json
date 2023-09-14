@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 846,
+        "candidato": "Guillermo Lasso",
+        "value": 25.54
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 3440,
+        "candidato": "Guillermo Lasso",
+        "value": 34.39
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 2668,
+        "candidato": "Guillermo Lasso",
+        "value": 36.97
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 1885,
+        "candidato": "Guillermo Lasso",
+        "value": 20.80
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 35325,
+        "candidato": "Guillermo Lasso",
+        "value": 52.91
+    }
+]

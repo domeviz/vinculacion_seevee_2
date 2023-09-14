@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "SANTA FE DE GALAN",
+        "id": 40,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN JOSE DEL CHAZO",
+        "id": 45,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "VALPARAISO",
+        "id": 410,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 1.04
+    },
+    {
+        "parroquia": "GUANANDO",
+        "id": 1415,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.26
+    },
+    {
+        "parroquia": "ILAPO",
+        "id": 1705,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.52
+    },
+    {
+        "parroquia": "LA PROVIDENCIA",
+        "id": 2080,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3295,
+        "votos": 50,
+        "candidato": "Guillermo Celi",
+        "value": 0.61
+    },
+    {
+        "parroquia": "SAN GERARDO PAQUICAHUAN",
+        "id": 3425,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SAN ISIDRO DE PATULU",
+        "id": 3450,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.23
+    },
+    {
+        "parroquia": "GUANO",
+        "id": 60750,
+        "votos": 56,
+        "candidato": "Guillermo Celi",
+        "value": 0.52
+    }
+]

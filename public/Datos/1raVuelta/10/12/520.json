@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUARE",
+        "id": 1460,
+        "votos": 28,
+        "candidato": "Guillermo Celi",
+        "value": 0.74
+    },
+    {
+        "parroquia": "ISLA DE BEJUCAL",
+        "id": 1740,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 0.43
+    },
+    {
+        "parroquia": "BABA",
+        "id": 5085,
+        "votos": 97,
+        "candidato": "Guillermo Celi",
+        "value": 0.67
+    }
+]

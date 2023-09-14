@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 285,
+        "candidato": "Andrés Arauz",
+        "value": 29.41
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 225,
+        "candidato": "Andrés Arauz",
+        "value": 22.70
+    },
+    {
+        "parroquia": "FÁTIMA",
+        "id": 1260,
+        "votos": 262,
+        "candidato": "Andrés Arauz",
+        "value": 25.99
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 332,
+        "candidato": "Andrés Arauz",
+        "value": 38.88
+    },
+    {
+        "parroquia": "MONTALVO ANDOAS",
+        "id": 2450,
+        "votos": 363,
+        "candidato": "Andrés Arauz",
+        "value": 39.24
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 60,
+        "candidato": "Andrés Arauz",
+        "value": 21.43
+    },
+    {
+        "parroquia": "RÍO CORRIENTES",
+        "id": 3180,
+        "votos": 104,
+        "candidato": "Andrés Arauz",
+        "value": 73.24
+    },
+    {
+        "parroquia": "RÍO TIGRE",
+        "id": 3195,
+        "votos": 109,
+        "candidato": "Andrés Arauz",
+        "value": 49.55
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 722,
+        "candidato": "Andrés Arauz",
+        "value": 72.71
+    },
+    {
+        "parroquia": "TÁRQUI",
+        "id": 3985,
+        "votos": 480,
+        "candidato": "Andrés Arauz",
+        "value": 24.69
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 230,
+        "candidato": "Andrés Arauz",
+        "value": 34.48
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 332,
+        "candidato": "Andrés Arauz",
+        "value": 22.59
+    },
+    {
+        "parroquia": "SIMÓN BOLÍVAR",
+        "id": 4510,
+        "votos": 574,
+        "candidato": "Andrés Arauz",
+        "value": 21.43
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 5226,
+        "candidato": "Andrés Arauz",
+        "value": 22.61
+    }
+]

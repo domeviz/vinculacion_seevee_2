@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 190,
+        "candidato": "Xavier Hervas",
+        "value": 9.33
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 205,
+        "candidato": "Xavier Hervas",
+        "value": 6.94
+    },
+    {
+        "parroquia": "PUERTO LÓPEZ",
+        "id": 6575,
+        "votos": 900,
+        "candidato": "Xavier Hervas",
+        "value": 10.17
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 20,
+        "candidato": "Ximena Peña",
+        "value": 1.23
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 17,
+        "candidato": "Ximena Peña",
+        "value": 1.56
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 21,
+        "candidato": "Ximena Peña",
+        "value": 5.08
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 2.12
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 15,
+        "candidato": "Ximena Peña",
+        "value": 1.82
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 46,
+        "candidato": "Ximena Peña",
+        "value": 3.13
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 21,
+        "candidato": "Ximena Peña",
+        "value": 1.87
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 508,
+        "candidato": "Ximena Peña",
+        "value": 1.45
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 1.69
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 1,
+        "candidato": "Ximena Peña",
+        "value": 0.85
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 1.74
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 2.04
+    }
+]

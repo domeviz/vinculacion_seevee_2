@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 716,
+        "candidato": "Andrés Arauz",
+        "value": 50.07
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 367,
+        "candidato": "Andrés Arauz",
+        "value": 42.18
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 605,
+        "candidato": "Andrés Arauz",
+        "value": 31.84
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 389,
+        "candidato": "Andrés Arauz",
+        "value": 34.58
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 1291,
+        "candidato": "Andrés Arauz",
+        "value": 43.41
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 683,
+        "candidato": "Andrés Arauz",
+        "value": 47.01
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 1301,
+        "candidato": "Andrés Arauz",
+        "value": 52.06
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 2454,
+        "candidato": "Andrés Arauz",
+        "value": 40.26
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 6255,
+        "candidato": "Andrés Arauz",
+        "value": 39.76
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 9481,
+        "candidato": "Andrés Arauz",
+        "value": 33.81
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 10553,
+        "candidato": "Andrés Arauz",
+        "value": 35.83
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS",
+        "id": 5600,
+        "votos": 2316,
+        "candidato": "Andrés Arauz",
+        "value": 38.24
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 5079,
+        "candidato": "Andrés Arauz",
+        "value": 39.23
+    }
+]

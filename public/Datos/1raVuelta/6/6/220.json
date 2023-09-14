@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.61
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 1.41
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.38
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.48
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 0.54
+    }
+]

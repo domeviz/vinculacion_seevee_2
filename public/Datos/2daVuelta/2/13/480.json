@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 1569,
+        "candidato": "Andrés Arauz",
+        "value": 61.53
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 2044,
+        "candidato": "Andrés Arauz",
+        "value": 60.15
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 2357,
+        "candidato": "Andrés Arauz",
+        "value": 61.38
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 1600,
+        "candidato": "Andrés Arauz",
+        "value": 54.20
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 2161,
+        "candidato": "Andrés Arauz",
+        "value": 53.80
+    },
+    {
+        "parroquia": "SAN ANTONIO / DEL PELUDO",
+        "id": 3350,
+        "votos": 3804,
+        "candidato": "Andrés Arauz",
+        "value": 72.32
+    },
+       {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 29013,
+        "candidato": "Andrés Arauz",
+        "value": 52.74
+    }
+]

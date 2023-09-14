@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 532,
+        "candidato": "Andrés Arauz",
+        "value": 50.09
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 545,
+        "candidato": "Andrés Arauz",
+        "value": 54.50
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 236,
+        "candidato": "Andrés Arauz",
+        "value": 43.30
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 268,
+        "candidato": "Andrés Arauz",
+        "value": 25.89
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 367,
+        "candidato": "Andrés Arauz",
+        "value": 41.47
+    },
+    {
+        "parroquia": "27 DE ABRIL LA NARANJA",
+        "id": 4460,
+        "votos": 250,
+        "candidato": "Andrés Arauz",
+        "value": 22.34
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 938,
+        "candidato": "Andrés Arauz",
+        "value": 32.80
+    }
+]

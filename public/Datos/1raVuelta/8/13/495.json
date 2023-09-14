@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 47,
+        "candidato": "Gerson Almeida",
+        "value": 1.43
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 55,
+        "candidato": "Gerson Almeida",
+        "value": 1.15
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 47,
+        "candidato": "Gerson Almeida",
+        "value": 1.64
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 15,
+        "candidato": "Gerson Almeida",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 161,
+        "candidato": "Gerson Almeida",
+        "value": 1.35
+    }
+]

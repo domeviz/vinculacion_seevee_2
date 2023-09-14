@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 1.09
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.80
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 53,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    }
+]

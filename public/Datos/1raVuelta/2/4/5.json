@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO\/EL PUN\/",
+        "id": 1125,
+        "votos": 297,
+        "candidato": "Andrés Arauz",
+        "value": 20.87
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 250,
+        "candidato": "Andrés Arauz",
+        "value": 16.50
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 420,
+        "candidato": "Andrés Arauz",
+        "value": 29.87
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 803,
+        "candidato": "Andrés Arauz",
+        "value": 14.24
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 221,
+        "candidato": "Andrés Arauz",
+        "value": 22.74
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 92,
+        "candidato": "Andrés Arauz",
+        "value": 16.76
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 236,
+        "candidato": "Andrés Arauz",
+        "value": 51.30
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 325,
+        "candidato": "Andrés Arauz",
+        "value": 20.05
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 100,
+        "candidato": "Andrés Arauz",
+        "value": 12.80
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 2714,
+        "candidato": "Andrés Arauz",
+        "value": 15.67
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 3039,
+        "candidato": "Andrés Arauz",
+        "value": 13.84
+    }
+]

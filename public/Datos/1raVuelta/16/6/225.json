@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 1.03
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 1618,
+        "candidato": "Andrés Arauz",
+        "value": 34.03
+    },
+    {
+        "parroquia": "ALOASÍ",
+        "id": 60,
+        "votos": 1172,
+        "candidato": "Andrés Arauz",
+        "value": 36.03
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA TANDAPI",
+        "id": 650,
+        "votos": 684,
+        "candidato": "Andrés Arauz",
+        "value": 47.20
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 4198,
+        "candidato": "Andrés Arauz",
+        "value": 52.06
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 279,
+        "candidato": "Andrés Arauz",
+        "value": 41.70
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 2094,
+        "candidato": "Andrés Arauz",
+        "value": 39.06
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 764,
+        "candidato": "Andrés Arauz",
+        "value": 30.93
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 6117,
+        "candidato": "Andrés Arauz",
+        "value": 32.20
+    }
+]

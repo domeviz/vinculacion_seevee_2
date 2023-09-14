@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 41,
+        "candidato": "Giovanny Andrade",
+        "value": 1.07
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.64
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 14,
+        "candidato": "Giovanny Andrade",
+        "value": 0.50
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 53,
+        "candidato": "Giovanny Andrade",
+        "value": 0.87
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 124,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    }
+]

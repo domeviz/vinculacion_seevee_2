@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "BENÍTEZ PACHANLICA",
+        "id": 335,
+        "votos": 355,
+        "candidato": "Andrés Arauz",
+        "value": 25.65
+    },
+    {
+        "parroquia": "BOLÍVAR",
+        "id": 365,
+        "votos": 245,
+        "candidato": "Andrés Arauz",
+        "value": 16.13
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 425,
+        "candidato": "Andrés Arauz",
+        "value": 37.71
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 369,
+        "candidato": "Andrés Arauz",
+        "value": 31.65
+    },
+    {
+        "parroquia": "EL ROSARIO RUMICHACA",
+        "id": 1185,
+        "votos": 502,
+        "candidato": "Andrés Arauz",
+        "value": 36.30
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 461,
+        "candidato": "Andrés Arauz",
+        "value": 24.25
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 904,
+        "candidato": "Andrés Arauz",
+        "value": 20.93
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 663,
+        "candidato": "Andrés Arauz",
+        "value": 34.59
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 3540,
+        "candidato": "Andrés Arauz",
+        "value": 21.57
+    },
+    {
+        "parroquia": "PELILEO GRANDE R. MINO",
+        "id": 5900,
+        "votos": 130,
+        "candidato": "Andrés Arauz",
+        "value": 17.81
+    }
+]

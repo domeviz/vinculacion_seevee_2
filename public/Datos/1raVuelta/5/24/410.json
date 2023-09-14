@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 205,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 1.19
+    },
+    {
+        "parroquia": "COLONCHE",
+        "id": 605,
+        "votos": 129,
+        "candidato": "Pedro Freile",
+        "value": 0.66
+    },
+    {
+        "parroquia": "CHANDUY",
+        "id": 820,
+        "votos": 85,
+        "candidato": "Pedro Freile",
+        "value": 0.97
+    },
+    {
+        "parroquia": "SAN JOSE DE ANCON",
+        "id": 1300,
+        "votos": 37,
+        "candidato": "Pedro Freile",
+        "value": 1.05
+    },
+    {
+        "parroquia": "MANGLARALTO",
+        "id": 2355,
+        "votos": 176,
+        "candidato": "Pedro Freile",
+        "value": 0.95
+    },
+    {
+        "parroquia": "SIMÓN BOLÍVAR",
+        "id": 3915,
+        "votos": 25,
+        "candidato": "Pedro Freile",
+        "value": 1.26
+    },
+    {
+        "parroquia": "BALLENITA",
+        "id": 5130,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 1.27
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 6040,
+        "votos": 458,
+        "candidato": "Pedro Freile",
+        "value": 1.19
+    }
+]

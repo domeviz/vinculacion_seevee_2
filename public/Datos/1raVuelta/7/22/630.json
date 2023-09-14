@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.62
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.22
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 41,
+        "candidato": "Lucio Gutiérrez",
+        "value": 9.95
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.42
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.42
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 7485,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.63
+    }
+]

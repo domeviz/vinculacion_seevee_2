@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 933,
+        "candidato": "Guillermo Lasso",
+        "value": 54.69
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 1055,
+        "candidato": "Guillermo Lasso",
+        "value": 65.65
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 8077,
+        "candidato": "Guillermo Lasso",
+        "value": 40.63
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 644,
+        "candidato": "Guillermo Lasso",
+        "value": 27.50
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 690,
+        "candidato": "Guillermo Lasso",
+        "value": 29.29
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 79,
+        "candidato": "Gerson Almeida",
+        "value": 3.67
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 57,
+        "candidato": "Gerson Almeida",
+        "value": 2.03
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 87,
+        "candidato": "Gerson Almeida",
+        "value": 2.53
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 79,
+        "candidato": "Gerson Almeida",
+        "value": 1.69
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 1509,
+        "candidato": "Gerson Almeida",
+        "value": 2.83
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 443,
+        "candidato": "Gerson Almeida",
+        "value": 2.09
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 2.08
+    }
+]

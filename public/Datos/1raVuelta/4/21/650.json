@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 24,
+        "candidato": "Xavier Hervas",
+        "value": 2.57
+    },
+    {
+        "parroquia": "PUERTO BOLÍVAR",
+        "id": 3005,
+        "votos": 3,
+        "candidato": "Xavier Hervas",
+        "value": 3.95
+    },
+    {
+        "parroquia": "PUERTO RODRÍGUEZ",
+        "id": 3020,
+        "votos": 3,
+        "candidato": "Xavier Hervas",
+        "value": 2.29
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 25,
+        "candidato": "Xavier Hervas",
+        "value": 4.10
+    },
+    {
+        "parroquia": "SANSAHUARI",
+        "id": 4745,
+        "votos": 71,
+        "candidato": "Xavier Hervas",
+        "value": 5.63
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 141,
+        "candidato": "Xavier Hervas",
+        "value": 7.59
+    }
+]

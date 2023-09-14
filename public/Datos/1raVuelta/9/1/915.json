@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA UNION",
+        "id": 1535,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.95
+    },
+    {
+        "parroquia": "SAN MARTIN DE PUZHIO",
+        "id": 1575,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.93
+    },
+    {
+        "parroquia": "LUIS GALARZA O. (DELEGSOL)",
+        "id": 1585,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 1.25
+    },
+    {
+        "parroquia": "PRINCIPAL",
+        "id": 2950,
+        "votos": 18,
+        "candidato": "Ximena Peña",
+        "value": 2.50
+    },
+    {
+        "parroquia": "CHORDELEG",
+        "id": 6435,
+        "votos": 32,
+        "candidato": "Ximena Peña",
+        "value": 0.68
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 171,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.34
+    },
+    {
+        "parroquia": "AMAGUANIA",
+        "id": 80,
+        "votos": 293,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.53
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 32,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.82
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 67,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.09
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 841,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.91
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 471,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.85
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 125,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.50
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.59
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 66,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.34
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 22,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.88
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 59,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.67
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 138,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.38
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 72,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.57
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 67,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.04
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 36,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.47
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 15,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.98
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.90
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 136,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.81
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 21,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.05
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 73,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.70
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.36
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 226,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.07
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 194,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.53
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 202,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.93
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 66,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.65
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 100,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.11
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 231,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.02
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 244,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.15
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 187,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.52
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 26,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.50
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 397,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.10
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 201,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.57
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 52,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.41
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 16333,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.25
+    }
+]

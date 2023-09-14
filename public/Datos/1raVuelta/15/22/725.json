@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.06
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.09
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.51
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.08
+    }
+]

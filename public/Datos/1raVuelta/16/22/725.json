@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.47
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 35,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    }
+]

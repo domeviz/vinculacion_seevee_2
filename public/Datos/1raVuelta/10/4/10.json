@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.49
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.10
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    }
+]

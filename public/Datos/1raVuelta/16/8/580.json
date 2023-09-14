@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO GUADAL",
+        "id": 70,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.69
+    },
+    {
+        "parroquia": "ANCON PALMA REAL",
+        "id": 110,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.60
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "5 DE JUNIO HUIMBI",
+        "id": 570,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "TULULBI  RICAURTE",
+        "id": 4075,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 24,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    }
+]

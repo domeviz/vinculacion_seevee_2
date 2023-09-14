@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 51,
+        "candidato": "Gerson Almeida",
+        "value": 3.13
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 1.01
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "value": 0.00
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 21,
+        "candidato": "Gerson Almeida",
+        "value": 1.78
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 41,
+        "candidato": "Gerson Almeida",
+        "value": 4.98
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.34
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.80
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 653,
+        "candidato": "Gerson Almeida",
+        "value": 1.86
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.21
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 4.27
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 1.00
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 2.17
+    }
+]

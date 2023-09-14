@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "DAYUMA",
+        "id": 1235,
+        "votos": 15,
+        "candidato": "Guillermo Celi",
+        "value": 0.28
+    },
+    {
+        "parroquia": "TARACOA",
+        "id": 1245,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.16
+    },
+    {
+        "parroquia": "EL DORADO",
+        "id": 1560,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.27
+    },
+    {
+        "parroquia": "INES ARANGO",
+        "id": 1565,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    },
+    {
+        "parroquia": "EL EDEN",
+        "id": 1590,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.69
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1810,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.50
+    },
+    {
+        "parroquia": "LA BELLEZA",
+        "id": 1820,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SAN LUIS DE ARMENIA",
+        "id": 1935,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.19
+    },
+    {
+        "parroquia": "NUEVO PARAISO",
+        "id": 1940,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN JOSE DE GUAYUSA",
+        "id": 1945,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.29
+    },
+    {
+        "parroquia": "ALEJANDRO LABAKA",
+        "id": 1995,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.83
+    },
+    {
+        "parroquia": "EL COCA",
+        "id": 5815,
+        "votos": 61,
+        "candidato": "Guillermo Celi",
+        "value": 0.21
+    }
+]

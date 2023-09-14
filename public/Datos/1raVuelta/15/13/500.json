@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SANTA MARIA",
+        "id": 3632,
+        "votos": 36,
+        "candidato": "Giovanny Andrade",
+        "value": 0.67
+    },
+    {
+        "parroquia": "EL PARAISO LA 14",
+        "id": 3635,
+        "votos": 37,
+        "candidato": "Giovanny Andrade",
+        "value": 0.61
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 141,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.10
+    }
+]

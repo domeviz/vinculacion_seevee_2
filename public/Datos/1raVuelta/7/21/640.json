@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.22
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.79
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.75
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 15,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.92
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.45
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "parroquia": "ACHUPALLAS",
+        "id": 20,
+        "votos": 36,
+        "candidato": "Isidro Romero",
+        "value": 0.73
+    },
+    {
+        "parroquia": "GUASUNTOS",
+        "id": 1465,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 1.17
+    },
+    {
+        "parroquia": "HUIGRA",
+        "id": 1660,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 1.46
+    },
+    {
+        "parroquia": "MULTITUD",
+        "id": 2485,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.12
+    },
+    {
+        "parroquia": "PISTISHI",
+        "id": 2905,
+       "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "PUMALLACTA",
+        "id": 3025,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 3820,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.53
+    },
+    {
+        "parroquia": "SIBAMBE",
+        "id": 3845,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 0.74
+    },
+    {
+        "parroquia": "TIXAN",
+        "id": 4030,
+        "votos": 41,
+        "candidato": "Isidro Romero",
+        "value": 0.71
+    },
+    {
+        "parroquia": "ALAUSI",
+        "id": 5010,
+        "votos": 55,
+        "candidato": "Isidro Romero",
+        "value": 0.74
+    }
+]

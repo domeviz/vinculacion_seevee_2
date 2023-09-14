@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2025,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 0.71
+    },
+    {
+        "parroquia": "MALCHINGUI",
+        "id": 2330,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 0.68
+    },
+    {
+        "parroquia": "TOCACHI",
+        "id": 4045,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 0.95
+    },
+    {
+        "parroquia": "TUPIGACHI",
+        "id": 4090,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.25
+    },
+    {
+        "parroquia": "TABACUNDO",
+        "id": 6145,
+        "votos": 64,
+        "candidato": "Isidro Romero",
+        "value": 0.52
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 139,
+        "candidato": "Andrés Arauz",
+        "value": 21.12
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 216,
+        "candidato": "Andrés Arauz",
+        "value": 14.43
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 90,
+        "candidato": "Andrés Arauz",
+        "value": 18.52
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 219,
+        "candidato": "Andrés Arauz",
+        "value": 24.77
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 357,
+        "candidato": "Andrés Arauz",
+        "value": 21.93
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 172,
+        "candidato": "Andrés Arauz",
+        "value": 24.19
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 210,
+        "candidato": "Andrés Arauz",
+        "value": 11.20
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULUC",
+        "id": 3665,
+        "votos": 183,
+        "candidato": "Andrés Arauz",
+        "value": 28.37
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 214,
+        "candidato": "Andrés Arauz",
+        "value": 18.89
+    },
+    {
+        "parroquia": "URDANETA PAQUISHAPA",
+        "id": 4145,
+        "votos": 539,
+        "candidato": "Andrés Arauz",
+        "value": 24.11
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 745,
+        "candidato": "Andrés Arauz",
+        "value": 11.28
+    }
+]

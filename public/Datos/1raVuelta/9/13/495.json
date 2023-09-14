@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 102,
+        "candidato": "Ximena Peña",
+        "value": 3.11
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 180,
+        "candidato": "Ximena Peña",
+        "value": 3.75
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 148,
+        "candidato": "Ximena Peña",
+        "value": 5.15
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 105,
+        "candidato": "Ximena Peña",
+        "value": 4.62
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 314,
+        "candidato": "Ximena Peña",
+        "value": 2.63
+    }
+]

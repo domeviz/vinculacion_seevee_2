@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.46
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    }
+]

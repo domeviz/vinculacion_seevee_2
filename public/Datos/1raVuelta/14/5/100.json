@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.17
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 122,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    }
+]

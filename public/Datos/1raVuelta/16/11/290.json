@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 28,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.49
+    }
+]

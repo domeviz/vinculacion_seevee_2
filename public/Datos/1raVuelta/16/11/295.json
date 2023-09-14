@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONES",
+        "id": 280,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GARZAREAL",
+        "id": 290,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "MANGAHURCO",
+        "id": 550,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "BOLASPAMBA",
+        "id": 2000,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "PALETILLAS",
+        "id": 2710,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "CAZADEROS",
+        "id": 4605,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ZAPOTILLO",
+        "id": 6320,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    }
+]

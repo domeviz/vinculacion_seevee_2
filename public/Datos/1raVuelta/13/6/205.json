@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 48,
+        "candidato": "Gustavo Larrea",
+        "value": 0.45
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 39,
+        "candidato": "Gustavo Larrea",
+        "value": 2.09
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 12,
+        "candidato": "Gustavo Larrea",
+        "value": 0.90
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 41,
+        "candidato": "Gustavo Larrea",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 30,
+        "candidato": "Gustavo Larrea",
+        "value": 0.48
+    }
+]

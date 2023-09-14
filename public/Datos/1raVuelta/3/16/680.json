@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 586,
+        "candidato": "Yaku Pérez",
+        "value": 53.03
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 577,
+        "candidato": "Yaku Pérez",
+        "value": 49.91
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 365,
+        "candidato": "Yaku Pérez",
+        "value": 34.34
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 490,
+        "candidato": "Yaku Pérez",
+        "value": 47.16
+    },
+    {
+        "parroquia": "MONTALVO ANDOAS",
+        "id": 2450,
+        "votos": 1123,
+        "candidato": "Yaku Pérez",
+        "value": 75.57
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 129,
+        "candidato": "Yaku Pérez",
+        "value": 44.64
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 67,
+        "candidato": "Yaku Pérez",
+        "value": 43.79
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 179,
+        "candidato": "Yaku Pérez",
+        "value": 52.80
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 1265,
+        "candidato": "Yaku Pérez",
+        "value": 77.28
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 948,
+        "candidato": "Yaku Pérez",
+        "value": 45.69
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 344,
+        "candidato": "Yaku Pérez",
+        "value": 44.56
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 606,
+        "candidato": "Yaku Pérez",
+        "value": 37.13
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 2333,
+        "candidato": "Yaku Pérez",
+        "value": 71.08
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 7139,
+        "candidato": "Yaku Pérez",
+        "value": 28.70
+    }
+]

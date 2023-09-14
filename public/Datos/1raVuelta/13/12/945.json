@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PATRICIA PILAR",
+        "id": 150,
+        "votos": 20,
+        "candidato": "Gustavo Larrea",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SN JACINTO DE BUENA FE",
+        "id": 6465,
+        "votos": 71,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    }
+]

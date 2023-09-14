@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.54
+    },
+    {
+        "parroquia": "EL LIMO MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.44
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.26
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.26
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 22,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 42,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 76,
+        "candidato": "Gustavo Larrea",
+        "value": 0.40
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 262,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 192,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 55,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.80
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 19,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.36
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 59,
+        "candidato": "Gustavo Larrea",
+        "value": 0.59
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 22,
+        "candidato": "Gustavo Larrea",
+        "value": 0.48
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.23
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 0.76
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 21,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 21,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 41,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 117,
+        "candidato": "Gustavo Larrea",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.40
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 23,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 36,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 123,
+        "candidato": "Gustavo Larrea",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 0.27
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.06
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 214,
+        "candidato": "Gustavo Larrea",
+        "value": 0.59
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 43,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 3793,
+        "candidato": "Gustavo Larrea",
+        "value": 0.29
+    }
+]

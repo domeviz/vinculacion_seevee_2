@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    }
+]

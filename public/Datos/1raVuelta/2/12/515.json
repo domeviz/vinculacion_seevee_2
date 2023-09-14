@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 1659,
+        "candidato": "Andrés Arauz",
+        "value": 56.18
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 4786,
+        "candidato": "Andrés Arauz",
+        "value": 49.60
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 3103,
+        "candidato": "Andrés Arauz",
+        "value": 44.31
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 5469,
+        "candidato": "Andrés Arauz",
+        "value": 65.04
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 23018,
+        "candidato": "Andrés Arauz",
+        "value": 35.19
+    }
+]

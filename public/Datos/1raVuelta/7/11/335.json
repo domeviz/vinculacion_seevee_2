@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA LA LIBERTAD",
+        "id": 825,
+        "votos": 25,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.81
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 44,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.00
+    },
+    {
+        "parroquia": "PURUNUMA EGUIGUREN",
+        "id": 3045,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.36
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.31
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 26,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.08
+    }
+]

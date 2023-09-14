@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 707,
+        "candidato": "Andrés Arauz",
+        "value": 68.05
+    },
+    {
+        "parroquia": "GARCÍA MORENO",
+        "id": 1315,
+        "votos": 389,
+        "candidato": "Andrés Arauz",
+        "value": 39.25
+    },
+    {
+        "parroquia": "LOS ANDES",
+        "id": 2205,
+        "votos": 884,
+        "candidato": "Andrés Arauz",
+        "value": 70.49
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 634,
+        "candidato": "Andrés Arauz",
+        "value": 58.70
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 994,
+        "candidato": "Andrés Arauz",
+        "value": 78.52
+    },
+    {
+        "parroquia": "BOLÍVAR",
+        "id": 6520,
+        "votos": 1300,
+        "candidato": "Andrés Arauz",
+        "value": 43.46
+    }
+]

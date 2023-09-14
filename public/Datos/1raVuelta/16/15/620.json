@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.05
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 16,
+        "candidato": "Paúl Carrasco",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 18,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYÓN DE SAN FRANCISCO",
+        "id": 1170,
+        "votos": 40,
+        "candidato": "Pedro Freile",
+        "value": 3.49
+    },
+    {
+        "parroquia": "LA SOFÍA",
+        "id": 2095,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.79
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.94
+    },
+    {
+        "parroquia": "SANTA BÁRBARA",
+        "id": 3690,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.39
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.91
+    }
+]

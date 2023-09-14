@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 67,
+        "candidato": "Xavier Hervas",
+        "value": 11.04
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 311,
+        "candidato": "Xavier Hervas",
+        "value": 2.91
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 45,
+        "candidato": "Xavier Hervas",
+        "value": 2.41
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 43,
+        "candidato": "Xavier Hervas",
+        "value": 3.24
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 532,
+        "candidato": "Xavier Hervas",
+        "value": 6.96
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 275,
+        "candidato": "Xavier Hervas",
+        "value": 4.43
+    }
+]

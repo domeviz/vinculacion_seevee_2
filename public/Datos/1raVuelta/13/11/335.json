@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA LA LIBERTAD",
+        "id": 825,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "PURUNUMA EGUIGUREN",
+        "id": 3045,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.65
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    }
+]

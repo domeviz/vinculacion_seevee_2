@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.51
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 33,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 22,
+        "candidato": "Pedro Freile",
+        "value": 0.90
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.31
+    },
+      {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 332,
+        "candidato": "Pedro Freile",
+        "value": 0.63
+    }
+]

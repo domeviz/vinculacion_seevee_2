@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 21,
+        "candidato": "Cesar Montufar",
+        "value": 0.55
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 9,
+        "candidato": "Cesar Montufar",
+        "value": 0.64
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 6,
+        "candidato": "Cesar Montufar",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 10,
+        "candidato": "Cesar Montufar",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 9,
+        "candidato": "Cesar Montufar",
+        "value": 0.76
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 12,
+        "candidato": "Cesar Montufar",
+        "value": 0.50
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 9,
+        "candidato": "Cesar Montufar",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 52,
+        "candidato": "Cesar Montufar",
+        "value": 0.86
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 273,
+        "candidato": "Cesar Montufar",
+        "value": 0.73
+    }
+]

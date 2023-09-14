@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "EL CARMELO EL PUN S",
+        "id": 1125,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.35
+    },
+    {
+        "parroquia": "EL CHICAL",
+        "id": 1195,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SANTA MARTHA DE CUBA",
+        "id": 1765,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.21
+    },
+    {
+        "parroquia": "JULIO ANDRADE",
+        "id": 1885,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 0.30
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2340,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.51
+    },
+    {
+        "parroquia": "PIOTER",
+        "id": 2900,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "value": 0.00
+    },
+    {
+        "parroquia": "TOBAR DONOSO",
+        "id": 4040,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.65
+    },
+    {
+        "parroquia": "TUFIÑO",
+        "id": 4070,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.06
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4130,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.90
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5415,
+        "votos": 103,
+        "candidato": "Gerson Almeida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "TULCAN",
+        "id": 6165,
+        "votos": 120,
+        "candidato": "Gerson Almeida",
+        "value": 0.55
+    }
+]

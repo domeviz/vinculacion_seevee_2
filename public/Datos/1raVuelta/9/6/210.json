@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "CEBADAS",
+        "id": 555,
+        "votos": 72,
+        "candidato": "Ximena Peña",
+        "value": 1.44
+    },
+    {
+        "parroquia": "PALMIRA",
+        "id": 2730,
+        "votos": 100,
+        "candidato": "Ximena Peña",
+        "value": 1.41
+    },
+    {
+        "parroquia": "GUAMOTE",
+        "id": 5430,
+        "votos": 227,
+        "candidato": "Ximena Peña",
+        "value": 1.46
+    }
+]

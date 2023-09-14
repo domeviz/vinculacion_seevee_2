@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.55
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.58
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "MONTALVO HORQUETA",
+        "id": 2445,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    }
+]

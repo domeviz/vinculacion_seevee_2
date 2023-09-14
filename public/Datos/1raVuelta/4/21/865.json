@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL REVENTADOR",
+        "id": 230,
+        "votos": 117,
+        "candidato": "Xavier Hervas",
+        "value": 14.00
+    },
+    {
+        "parroquia": "GONZALO PIZARRO",
+        "id": 1090,
+        "votos": 150,
+        "candidato": "Xavier Hervas",
+        "value": 6.60
+    },
+    {
+        "parroquia": "PUERTO LIBRE",
+        "id": 3615,
+        "votos": 40,
+        "candidato": "Xavier Hervas",
+        "value": 5.51
+    },
+    {
+        "parroquia": "LUMBAQUI",
+        "id": 6300,
+        "votos": 341,
+        "candidato": "Xavier Hervas",
+        "value": 15.16
+    }
+]

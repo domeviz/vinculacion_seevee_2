@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 37,
+        "candidato": "Pedro Freile",
+        "value": 2.98
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 20,
+        "candidato": "Pedro Freile",
+        "value": 1.73
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 1.67
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 40,
+        "candidato": "Pedro Freile",
+        "value": 2.32
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 47,
+        "candidato": "Pedro Freile",
+        "value": 4.58
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 125,
+        "candidato": "Pedro Freile",
+        "value": 2.79
+    }
+]

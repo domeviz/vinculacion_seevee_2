@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE CHANCAMA",
+        "id": 700,
+        "votos": 12,
+        "candidato": "Giovanny Andrade",
+        "value": 0.65
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.70
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 35,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    },
+    {
+        "parroquia": "MALIMPIA GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 32,
+        "candidato": "Giovanny Andrade",
+        "value": 0.43
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 21,
+        "candidato": "Giovanny Andrade",
+        "value": 0.51
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 170,
+        "candidato": "Giovanny Andrade",
+        "value": 0.46
+    }
+]

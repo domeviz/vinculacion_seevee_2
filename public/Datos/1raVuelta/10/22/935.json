@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.04
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.49
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.13
+    }
+]

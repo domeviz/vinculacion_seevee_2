@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.37
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.84
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.53
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.44
+    },
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 22,
+        "candidato": "Isidro Romero",
+        "value": 0.82
+    }
+]

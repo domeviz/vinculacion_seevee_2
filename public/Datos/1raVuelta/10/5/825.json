@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.50
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 172,
+        "candidato": "Guillermo Celi",
+        "value": 0.82
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 13,
+        "candidato": "Guillermo Celi",
+        "value": 0.52
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 23,
+        "candidato": "Guillermo Celi",
+        "value": 0.96
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.47
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.53
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.36
+    },
+    {
+        "parroquia": "MALACATOS/VALLADOLID",
+        "id": 2325,
+        "votos": 15,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos":  136,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    }
+]

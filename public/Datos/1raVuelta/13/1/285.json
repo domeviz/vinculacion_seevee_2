@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON LA UNION",
+        "id": 15,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.46
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 45,
+        "candidato": "Gustavo Larrea",
+        "value": 0.48
+    }
+]

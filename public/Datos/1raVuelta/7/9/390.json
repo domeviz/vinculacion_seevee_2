@@ -1,0 +1,38 @@
+[
+    
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 26,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.12
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 101,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.72
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 86,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.51
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 65,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.99
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 13871,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.19
+    }
+]

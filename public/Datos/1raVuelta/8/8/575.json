@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE CHANCAMA",
+        "id": 700,
+        "votos": 43,
+        "candidato": "Gerson Almeida",
+        "value": 2.31
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 1.04
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 101,
+        "candidato": "Gerson Almeida",
+        "value": 0.91
+    },
+    {
+        "parroquia": "MALIMPIA GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 109,
+        "candidato": "Gerson Almeida",
+        "value": 1.48
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 49,
+        "candidato": "Gerson Almeida",
+        "value": 1.19
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 477,
+        "candidato": "Gerson Almeida",
+        "value": 1.29
+    }
+]

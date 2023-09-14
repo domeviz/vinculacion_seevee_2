@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BAQUERIZO MORENO",
+        "id": 295,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 2.03
+    },
+    {
+        "parroquia": "EMILIO MARIA TERAN",
+        "id": 1210,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.21
+    },
+    {
+        "parroquia": "MARCOS ESPINEL",
+        "id": 2375,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 1.03
+    },
+    {
+        "parroquia": "PRESIDENTE URBINA",
+        "id": 2945,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 1.17
+    },
+    {
+        "parroquia": "SAN ANDRES",
+        "id": 3300,
+        "votos": 51,
+        "candidato": "Isidro Romero",
+        "value": 0.66
+    },
+    {
+        "parroquia": "SAN JOSE DE POALO",
+        "id": 3485,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SAN MIGUELITO",
+        "id": 3585,
+        "votos": 24,
+        "candidato": "Isidro Romero",
+        "value": 0.74
+    },
+    {
+        "parroquia": "CIUDAD NUEVA",
+        "id": 5225,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.58
+    },
+    {
+        "parroquia": "PILLARO",
+        "id": 5785,
+        "votos": 94,
+        "candidato": "Isidro Romero",
+        "value": 0.91
+    }
+]

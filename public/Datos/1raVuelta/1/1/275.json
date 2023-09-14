@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 42,
+        "candidato": "Guillermo Lasso",
+        "value": 5.76
+    },
+    {
+        "parroquia": "CHICAN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 45,
+        "candidato": "Guillermo Lasso",
+        "value": 3.32
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 29,
+        "candidato": "Guillermo Lasso",
+        "value": 3.73
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 20,
+        "candidato": "Guillermo Lasso",
+        "value": 4.83
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 62,
+        "candidato": "Guillermo Lasso",
+        "value": 5.08
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 16,
+        "candidato": "Guillermo Lasso",
+        "value": 2.21
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 34,
+        "candidato": "Guillermo Lasso",
+        "value": 3.36
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 740,
+        "candidato": "Guillermo Lasso",
+        "value": 7.50
+    }
+]

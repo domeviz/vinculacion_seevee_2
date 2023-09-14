@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CANOA",
+        "id": 470,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6785,
+        "votos": 22,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    }
+]

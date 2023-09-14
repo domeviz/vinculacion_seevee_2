@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 29,
+        "candidato": "Guillermo Celi",
+        "value": 2.27
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 1.75
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 113,
+        "candidato": "Guillermo Celi",
+        "value": 4.44
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 140,
+        "candidato": "Guillermo Celi",
+        "value": 1.11
+    }
+]

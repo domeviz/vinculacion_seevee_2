@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 51,
+        "candidato": "Ximena Peña",
+        "value": 2.02
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 63,
+        "candidato": "Ximena Peña",
+        "value": 1.89
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 344,
+        "candidato": "Ximena Peña",
+        "value": 1.27
+    }
+]

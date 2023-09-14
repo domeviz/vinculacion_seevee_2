@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "parroquia": "AUGUSTO N MARTINEZ",
+        "id": 210,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 42,
+        "candidato": "Carlos Sagnay",
+        "value": 1.65
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 25,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.04
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3355,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 26,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 77,
+        "candidato": "Carlos Sagnay",
+        "value": 1.75
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 152,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    }
+]

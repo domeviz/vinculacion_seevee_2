@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "AMERICA  LA CERA",
+        "id": 105,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.43
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 47,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "DR. MIGUEL MORAN LUCIO",
+        "id": 7465,
+        "votos": 12,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "MANUEL INOCENCIO PARRALES",
+        "id": 7470,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN LORENZO DE JIPIJAPA",
+        "id": 7475,
+        "votos": 24,
+        "candidato": "Paúl Carrasco",
+        "value": 0.42
+    }
+]

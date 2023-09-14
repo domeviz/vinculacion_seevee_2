@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 3567,
+        "candidato": "Guillermo Lasso",
+        "value": 28.02
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 2466,
+        "candidato": "Guillermo Lasso",
+        "value": 12.87
+    },
+    {
+        "parroquia": "ATAHUALPA  HABASPAMBA",
+        "id": 195,
+        "votos": 149,
+        "candidato": "Guillermo Lasso",
+        "value": 13.15
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 544,
+        "candidato": "Guillermo Lasso",
+        "value": 16.97
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 18575,
+        "candidato": "Guillermo Lasso",
+        "value": 20.15
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 19069,
+        "candidato": "Guillermo Lasso",
+        "value": 34.47
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 14413,
+        "candidato": "Guillermo Lasso",
+        "value": 57.89
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 43,
+        "candidato": "Guillermo Lasso",
+        "value": 8.57
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 584,
+        "candidato": "Guillermo Lasso",
+        "value": 11.87
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 127,
+        "candidato": "Guillermo Lasso",
+        "value": 10.87
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 338,
+        "candidato": "Guillermo Lasso",
+        "value": 15.32
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 1344,
+        "candidato": "Guillermo Lasso",
+        "value": 13.48
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 718,
+        "candidato": "Guillermo Lasso",
+        "value": 15.64
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 968,
+        "candidato": "Guillermo Lasso",
+        "value": 15.00
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 204,
+        "candidato": "Guillermo Lasso",
+        "value": 14.01
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 226,
+        "candidato": "Guillermo Lasso",
+        "value": 14.80
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 315,
+        "candidato": "Guillermo Lasso",
+        "value": 16.66
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 2441,
+        "candidato": "Guillermo Lasso",
+        "value": 32.41
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 185,
+        "candidato": "Guillermo Lasso",
+        "value": 18.08
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 251,
+        "candidato": "Guillermo Lasso",
+        "value": 9.27
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 94,
+        "candidato": "Guillermo Lasso",
+        "value": 17.09
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 1617,
+        "candidato": "Guillermo Lasso",
+        "value": 14.83
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 1301,
+        "candidato": "Guillermo Lasso",
+        "value": 10.23
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 6820,
+        "candidato": "Guillermo Lasso",
+        "value": 31.47
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 429,
+        "candidato": "Guillermo Lasso",
+        "value": 10.73
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 2220,
+        "candidato": "Guillermo Lasso",
+        "value": 24.59
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 1257,
+        "candidato": "Guillermo Lasso",
+        "value": 10.98
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 4343,
+        "candidato": "Guillermo Lasso",
+        "value": 20.51
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 395,
+        "candidato": "Guillermo Lasso",
+        "value": 9.54
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 406,
+        "candidato": "Guillermo Lasso",
+        "value": 23.43
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 10698,
+        "candidato": "Guillermo Lasso",
+        "value": 29.67
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 1726,
+        "candidato": "Guillermo Lasso",
+        "value": 13.51
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 597,
+        "candidato": "Guillermo Lasso",
+        "value": 16.17
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 342595,
+        "candidato": "Guillermo Lasso",
+        "value": 26.24
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE MORONA",
+        "id": 1295,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 6890,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 594,
+        "candidato": "Guillermo Lasso",
+        "value": 18.09
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 803,
+        "candidato": "Guillermo Lasso",
+        "value": 16.75
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 375,
+        "candidato": "Guillermo Lasso",
+        "value": 13.06
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 257,
+        "candidato": "Guillermo Lasso",
+        "value": 11.31
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 1976,
+        "candidato": "Guillermo Lasso",
+        "value": 16.57
+    }
+]

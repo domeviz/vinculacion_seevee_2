@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.23
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 27,
+        "candidato": "Guillermo Celi",
+        "value": 0.61
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 23,
+        "candidato": "Guillermo Celi",
+        "value": 0.52
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 93,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 14,
+        "candidato": "Gustavo Larrea",
+        "value": 0.98
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 12,
+        "candidato": "Gustavo Larrea",
+        "value": 1.38
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 32,
+        "candidato": "Gustavo Larrea",
+        "value": 1.68
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 60,
+        "candidato": "Gustavo Larrea",
+        "value": 5.33
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 61,
+        "candidato": "Gustavo Larrea",
+        "value": 2.05
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 22,
+        "candidato": "Gustavo Larrea",
+        "value": 1.51
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 23,
+        "candidato": "Gustavo Larrea",
+        "value": 0.92
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 82,
+        "candidato": "Gustavo Larrea",
+        "value": 1.35
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 196,
+        "candidato": "Gustavo Larrea",
+        "value": 1.25
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 399,
+        "candidato": "Gustavo Larrea",
+        "value": 1.42
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 397,
+        "candidato": "Gustavo Larrea",
+        "value": 1.35
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS",
+        "id": 5600,
+        "votos": 33,
+        "candidato": "Gustavo Larrea",
+        "value": 0.54
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 139,
+        "candidato": "Gustavo Larrea",
+        "value": 1.07
+    }
+]

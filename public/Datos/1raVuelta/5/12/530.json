@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "PUERTO PECHICHE",
+        "id": 3015,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3510,
+        "votos": 50,
+        "candidato": "Pedro Freile",
+        "value": 0.46
+    },
+    {
+        "parroquia": "PUEBLO VIEJO",
+        "id": 5800,
+        "votos": 61,
+        "candidato": "Pedro Freile",
+        "value": 0.69
+    }
+]

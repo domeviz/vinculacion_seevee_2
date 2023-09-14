@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.61
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.48
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    }
+]

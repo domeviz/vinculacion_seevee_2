@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "EL INGENIO",
+        "id": 160,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.22
+    },
+    {
+        "parroquia": "MARCABELI",
+        "id": 6570,
+        "votos": 39,
+        "candidato": "Isidro Romero",
+        "value": 1.03
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 54,
+        "candidato": "Ximena Peña",
+        "value": 2.51
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 79,
+        "candidato": "Ximena Peña",
+        "value": 2.81
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 98,
+        "candidato": "Ximena Peña",
+        "value": 2.85
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 123,
+        "candidato": "Ximena Peña",
+        "value": 2.63
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 1276,
+        "candidato": "Ximena Peña",
+        "value": 2.40
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 111,
+        "candidato": "Ximena Peña",
+        "value": 0.52
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 2.78
+    }
+]

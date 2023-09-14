@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 264,
+        "candidato": "Yaku Pérez",
+        "value": 30.00
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 702,
+        "candidato": "Yaku Pérez",
+        "value": 43.63
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 139,
+        "candidato": "Yaku Pérez",
+        "value": 18.03
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 111,
+        "candidato": "Yaku Pérez",
+        "value": 8.89
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 77,
+        "candidato": "Yaku Pérez",
+        "value": 11.44
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 104,
+        "candidato": "Yaku Pérez",
+        "value": 17.90
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 59,
+        "candidato": "Yaku Pérez",
+        "value": 11.35
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 33,
+        "candidato": "Yaku Pérez",
+        "value": 5.36
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 42,
+        "candidato": "Yaku Pérez",
+        "value": 8.42
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 610,
+        "candidato": "Yaku Pérez",
+        "value": 7.96
+    }
+]

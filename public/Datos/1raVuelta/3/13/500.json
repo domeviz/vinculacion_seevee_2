@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 144,
+        "candidato": "Yaku Pérez",
+        "value": 12.66
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 285,
+        "candidato": "Yaku Pérez",
+        "value": 16.03
+    },
+    {
+        "parroquia": "SANTA MARIA",
+        "id": 3632,
+        "votos": 335,
+        "candidato": "Yaku Pérez",
+        "value": 6.23
+    },
+    {
+        "parroquia": "EL PARAISO   LA 14",
+        "id": 3635,
+        "votos": 509,
+        "candidato": "Yaku Pérez",
+        "value": 8.34
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 5624,
+        "candidato": "Yaku Pérez",
+        "value": 12.08
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 257,
+        "candidato": "Yaku Pérez",
+        "value": 12.77
+    }
+]

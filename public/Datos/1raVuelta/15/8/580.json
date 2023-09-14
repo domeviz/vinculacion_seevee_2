@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO GUADAL",
+        "id": 70,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.87
+    },
+    {
+        "parroquia": "ANCON PALMA REAL",
+        "id": 110,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.36
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.25
+    },
+    {
+        "parroquia": "5 DE JUNIO HUIMBI",
+        "id": 570,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.25
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.45
+    },
+    {
+        "parroquia": "TULULBI RICAURTE",
+        "id": 4075,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.47
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 59,
+        "candidato": "Giovanny Andrade",
+        "value": 0.50
+    }
+]

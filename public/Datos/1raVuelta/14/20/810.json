@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TOMAS DE BERLANGA",
+        "id": 4165,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.07
+    }
+]

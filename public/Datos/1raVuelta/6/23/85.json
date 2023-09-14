@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "ALLURIQUIN",
+        "id": 75,
+        "votos": 76,
+        "candidato": "Isidro Romero",
+        "value": 1.37
+    },
+    {
+        "parroquia": "VALLE HERMOSO",
+        "id": 305,
+        "votos": 85,
+        "candidato": "Isidro Romero",
+        "value": 1.82
+    },
+    {
+        "parroquia": "LUZ DE AMERICA",
+        "id": 1755,
+        "votos": 110,
+        "candidato": "Isidro Romero",
+        "value": 2.49
+    },
+    {
+        "parroquia": "SAN JACINTO DEL BUA",
+        "id": 1970,
+        "votos": 136,
+        "candidato": "Isidro Romero",
+        "value": 2.07
+    },
+    {
+        "parroquia": "EL ESFUERZO",
+        "id": 1990,
+        "votos": 44,
+        "candidato": "Isidro Romero",
+        "value": 1.40
+    },
+    {
+        "parroquia": "SANTA MARIA DEL TOACHI",
+        "id": 2045,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 1.77
+    },
+    {
+        "parroquia": "PUERTO LIMON",
+        "id": 4440,
+        "votos": 164,
+        "candidato": "Isidro Romero",
+        "value": 2.74
+    },
+    {
+        "parroquia": "ABRAHAM CALAZACON",
+        "id": 5730,
+        "votos": 469,
+        "candidato": "Isidro Romero",
+        "value": 1.70
+    },
+    {
+        "parroquia": "BOMBOLI",
+        "id": 5860,
+        "votos": 653,
+        "candidato": "Isidro Romero",
+        "value": 1.62
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 5865,
+        "votos": 810,
+        "candidato": "Isidro Romero",
+        "value": 1.72
+    },
+    {
+        "parroquia": "RIO TOACHI",
+        "id": 5870,
+        "votos": 117,
+        "candidato": "Isidro Romero",
+        "value": 1.72
+    },
+    {
+        "parroquia": "SANTO DOMINGO",
+        "id": 6065,
+        "votos": 781,
+        "candidato": "Isidro Romero",
+        "value": 1.65
+    },
+    {
+        "parroquia": "CHIGUILPE",
+        "id": 6175,
+        "votos": 522,
+        "candidato": "Isidro Romero",
+        "value": 1.67
+    },
+    {
+        "parroquia": "ZARACAY",
+        "id": 6180,
+        "votos": 90,
+        "candidato": "Isidro Romero",
+        "value": 1.46
+    }
+]

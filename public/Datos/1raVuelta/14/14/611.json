@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "PINGUILI",
+        "id": 4555,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "MOCHA",
+        "id": 6560,
+        "votos": 12,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SUSUDEL",
+        "id": 1540,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "OÑA",
+        "id": 6360,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.05
+    }
+]

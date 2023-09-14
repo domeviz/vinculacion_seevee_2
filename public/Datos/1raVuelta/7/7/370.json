@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.34
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.61
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 10,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.27
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 2,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.23
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 27,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.23
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.00
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.45
+    }
+]

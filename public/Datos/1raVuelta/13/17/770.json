@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MINDO",
+        "id": 2410,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "S. MIGUEL DE LOS BANCOS",
+        "id": 6350,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    }
+]

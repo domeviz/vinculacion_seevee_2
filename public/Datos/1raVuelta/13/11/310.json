@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CANGONAMA",
+        "id": 485,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 545,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 1.16
+    },
+    {
+        "parroquia": "CASANGA",
+        "id": 995,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.16
+    },
+    {
+        "parroquia": "YAMANA",
+        "id": 1000,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    },
+    {
+        "parroquia": "GUACHANAMA",
+        "id": 1380,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    },
+    {
+        "parroquia": "LAURO GUERRERO",
+        "id": 2140,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.40
+    },
+    {
+        "parroquia": "ORIANGA",
+        "id": 2630,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.09
+    },
+    {
+        "parroquia": "CATACOCHA",
+        "id": 5180,
+        "votos": 22,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "LOURDES",
+        "id": 5595,
+        "votos": 43,
+        "candidato": "Gustavo Larrea",
+        "value": 6.90
+    }
+]

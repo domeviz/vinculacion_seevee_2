@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 1650,
+        "votos": 15,
+        "candidato": "Ximena Peña",
+        "value": 1.90
+    },
+    {
+        "parroquia": "EL PAN",
+        "id": 6485,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 0.86
+    }
+]

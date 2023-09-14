@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 17,
+        "candidato": "Gustavo Larrea",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.09
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.37
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 25,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    }
+]

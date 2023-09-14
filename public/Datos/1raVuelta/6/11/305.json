@@ -1,0 +1,75 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.61
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.40
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.34
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.80
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULUC",
+        "id": 3665,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.62
+    },
+    {
+        "parroquia": "URDANETA PAQUISHAPA",
+        "id": 4145,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 27,
+        "candidato": "Isidro Romero",
+        "value": 0.41
+    }
+]

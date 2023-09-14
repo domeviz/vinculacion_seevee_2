@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 23,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 0.80
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.81
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.38
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.53
+    },
+    {
+        "parroquia": "UNIÓN MILAGREÑA",
+        "id": 1965,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.51
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN SEBASTIÁN DE COCA",
+        "id": 3660,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 1.00
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 155,
+        "candidato": "Pedro Freile",
+        "value": 1.16
+    }
+]

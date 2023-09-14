@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "SAN JACINTO DE WAKAMBEIS",
+        "id": 710,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 1.47
+    },
+    {
+        "parroquia": "SANTIAGO DE PANANZA",
+        "id": 1785,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.75
+    },
+    {
+        "parroquia": "PAN DE AZUCAR",
+        "id": 2750,
+        "votos": 1,
+        "candidato": "Ximena Peña",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN CARLOS DE LIMON",
+        "id": 3920,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SAN JUAN BOSCO",
+        "id": 6445,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.41
+    }
+]

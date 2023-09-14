@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 40,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 51,
+        "candidato": "Ximena Peña",
+        "value": 0.66
+    }
+]

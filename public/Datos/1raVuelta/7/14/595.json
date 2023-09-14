@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 0,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.00
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.53
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 33,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.24
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.93
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.18
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.10
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.22
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.67
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 66,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.12
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.45
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 138,
+        "candidato": "Andrés Arauz",
+        "value": 17.58
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 537,
+        "candidato": "Andrés Arauz",
+        "value": 26.43
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 267,
+        "candidato": "Andrés Arauz",
+        "value": 37.19
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 475,
+        "candidato": "Andrés Arauz",
+        "value": 26.26
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 531,
+        "candidato": "Andrés Arauz",
+        "value": 25.37
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 101,
+        "candidato": "Andrés Arauz",
+        "value": 8.47
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 1976,
+        "candidato": "Andrés Arauz",
+        "value": 26.29
+    }
+]

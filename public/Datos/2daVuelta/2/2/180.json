@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSÉ DE TAMBO",
+        "id": 3500,
+        "votos": 1255,
+        "candidato": "Andrés Arauz",
+        "value": 36.18
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 2058,
+        "candidato": "Andrés Arauz",
+        "value": 32.64
+    }
+]

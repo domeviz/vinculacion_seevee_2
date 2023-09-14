@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 32,
+        "candidato": "Carlos Sagnay",
+        "value": 0.46
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 41,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 37,
+        "candidato": "Carlos Sagnay",
+        "value": 0.27
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 21,
+        "candidato": "Carlos Sagnay",
+        "value": 0.52
+    }
+]

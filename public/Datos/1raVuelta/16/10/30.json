@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AMBUQUI CHOTA",
+        "id": 100,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 12,
+        "candidato": "Paúl Carrasco",
+        "value": 0.48
+    },
+    {
+        "parroquia": "CAROLINA GUALLUPI",
+        "id": 530,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.07
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 13,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 21,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 163,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    }
+]

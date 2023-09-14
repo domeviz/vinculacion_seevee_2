@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CANCHAGUA",
+        "id": 465,
+        "votos": 22,
+        "candidato": "Ximena Peña",
+        "value": 1.72
+    },
+    {
+        "parroquia": "CHANTILIN",
+        "id": 830,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.96
+    },
+    {
+        "parroquia": "COCHAPAMBA",
+        "id": 990,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SAQUISILI",
+        "id": 6070,
+        "votos": 91,
+        "candidato": "Ximena Peña",
+        "value": 0.72
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.53
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.13
+    }
+]

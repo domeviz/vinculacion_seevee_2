@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 981,
+        "candidato": "Guillermo Lasso",
+        "value": 38.47
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 1354,
+        "candidato": "Guillermo Lasso",
+        "value": 39.85
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 1483,
+        "candidato": "Guillermo Lasso",
+        "value": 38.62
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 1352,
+        "candidato": "Guillermo Lasso",
+        "value": 45.80
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 1856,
+        "candidato": "Guillermo Lasso",
+        "value": 46.20
+    },
+    {
+        "parroquia": "SAN ANTONIO  /  DEL PELUDO",
+        "id": 3350,
+        "votos": 1456,
+        "candidato": "Guillermo Lasso",
+        "value": 27.68
+    },
+       {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos":25956,
+        "candidato": "Guillermo Lasso",
+        "value": 47.18
+    }
+]

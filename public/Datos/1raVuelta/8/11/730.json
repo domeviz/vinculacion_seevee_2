@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.32
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PINDAL FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.13
+    }
+]

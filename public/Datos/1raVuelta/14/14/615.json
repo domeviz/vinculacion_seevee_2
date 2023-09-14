@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ARAPICOS",
+        "id": 155,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CUMANDA",
+        "id": 715,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.50
+    },
+    {
+        "parroquia": "16 DE AGOSTO",
+        "id": 1685,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SANGAY",
+        "id": 3420,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PALORA",
+        "id": 5760,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    }
+]

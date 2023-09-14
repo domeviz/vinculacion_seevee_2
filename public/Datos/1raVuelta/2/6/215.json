@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ACHUPALLAS",
+        "id": 20,
+        "votos": 1999,
+        "candidato": "Andrés Arauz",
+        "value": 40.33
+    },
+    {
+        "parroquia": "GUASUNTOS",
+        "id": 1465,
+        "votos": 235,
+        "candidato": "Andrés Arauz",
+        "value": 25.00
+    },
+    {
+        "parroquia": "HUIGRA",
+        "id": 1660,
+        "votos": 376,
+        "candidato": "Andrés Arauz",
+        "value": 36.50
+    },
+    {
+        "parroquia": "MULTITUD",
+        "id": 2485,
+        "votos": 262,
+        "candidato": "Andrés Arauz",
+        "value": 32.27
+    },
+    {
+        "parroquia": "PISTISHI",
+        "id": 2905,
+        "votos": 96,
+        "candidato": "Andrés Arauz",
+        "value": 42.67
+    },
+    {
+        "parroquia": "PUMALLACTA",
+        "id": 3025,
+        "votos": 119,
+        "candidato": "Andrés Arauz",
+        "value": 32.25
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 3820,
+        "votos": 165,
+        "candidato": "Andrés Arauz",
+        "value": 43.65
+    },
+    {
+        "parroquia": "SIBAMBE",
+        "id": 3845,
+        "votos": 209,
+        "candidato": "Andrés Arauz",
+        "value": 14.11
+    },
+    {
+        "parroquia": "TIXAN",
+        "id": 4030,
+        "votos": 818,
+        "candidato": "Andrés Arauz",
+        "value": 14.09
+    },
+    {
+        "parroquia": "ALAUSI",
+        "id": 5010,
+        "votos": 1545,
+        "candidato": "Andrés Arauz",
+        "value": 20.92
+    }
+]

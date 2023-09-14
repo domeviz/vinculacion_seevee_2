@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    }
+]

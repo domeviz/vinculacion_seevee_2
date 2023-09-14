@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CURTINCAPAC",
+        "id": 740,
+        "votos": 90,
+        "candidato": "Xavier Hervas",
+        "value": 27.61
+    },
+    {
+        "parroquia": "SALATI",
+        "id": 3275,
+        "votos": 218,
+        "candidato": "Xavier Hervas",
+        "value": 38.05
+    },
+    {
+        "parroquia": "MORALES",
+        "id": 4520,
+        "votos": 153,
+        "candidato": "Xavier Hervas",
+        "value": 39.95
+    },
+    {
+        "parroquia": "PORTOVELO",
+        "id": 5850,
+        "votos": 2904,
+        "candidato": "Xavier Hervas",
+        "value": 45.34
+    }
+]

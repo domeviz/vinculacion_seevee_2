@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 76,
+        "candidato": "Ximena Peña",
+        "value": 3.25
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 295,
+        "candidato": "Ximena Peña",
+        "value": 2.43
+    }
+]

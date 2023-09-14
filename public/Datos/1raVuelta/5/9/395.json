@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 22,
+        "candidato": "Pedro Freile",
+        "value": 0.45
+    },
+    {
+        "parroquia": "VÍRGEN DE FÁTIMA",
+        "id": 1915,
+        "votos": 45,
+        "candidato": "Pedro Freile",
+        "value": 0.59
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO CONE",
+        "id": 4275,
+        "votos": 23,
+        "candidato": "Pedro Freile",
+        "value": 0.50
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 125,
+        "candidato": "Pedro Freile",
+        "value": 0.68
+    }
+]

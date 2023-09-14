@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 19,
+        "candidato": "Guillermo Celi",
+        "value": 0.83
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 20,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 24,
+        "candidato": "Guillermo Celi",
+        "value": 0.59
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 32,
+        "candidato": "Guillermo Celi",
+        "value": 0.58
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 20,
+        "candidato": "Guillermo Celi",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 27,
+        "candidato": "Guillermo Celi",
+        "value": 0.64
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 19,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 17,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 168,
+        "candidato": "Guillermo Celi",
+        "value": 0.47
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 325,
+        "candidato": "Guillermo Celi",
+        "value": 2.05
+    }
+]

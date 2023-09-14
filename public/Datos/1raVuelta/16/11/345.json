@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NUEVA FATIMA",
+        "id": 2575,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    }
+]

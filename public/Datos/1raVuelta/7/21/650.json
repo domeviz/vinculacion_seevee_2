@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.39
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 9.21
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.82
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 15,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.46
+    },
+    {
+        "parroquia": "SANSAHUARI",
+        "id": 4745,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.35
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.86
+    }
+]

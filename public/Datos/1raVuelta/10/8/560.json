@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 1.26
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 25,
+        "candidato": "Guillermo Celi",
+        "value": 1.32
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 21,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.96
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.56
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 53,
+        "candidato": "Guillermo Celi",
+        "value": 0.87
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 101,
+        "candidato": "Guillermo Celi",
+        "value": 0.64
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 357,
+        "candidato": "Guillermo Celi",
+        "value": 1.27
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 254,
+        "candidato": "Guillermo Celi",
+        "value": 0.86
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS  ",
+        "id": 5600,
+        "votos": 46,
+        "candidato": "Guillermo Celi",
+        "value": 0.76
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 98,
+        "candidato": "Guillermo Celi",
+        "value": 0.76
+    }
+]

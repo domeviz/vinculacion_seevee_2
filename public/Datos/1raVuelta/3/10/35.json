@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGASPEGUCHE",
+        "id": 1040,
+        "votos": 864,
+        "candidato": "Yaku Pérez",
+        "value": 21.87
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 1176,
+        "candidato": "Yaku Pérez",
+        "value": 26.96
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 1155,
+        "candidato": "Yaku Pérez",
+        "value": 28.10
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 113,
+        "candidato": "Yaku Pérez",
+        "value": 42.16
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 1978,
+        "candidato": "Yaku Pérez",
+        "value": 38.16
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 1550,
+        "candidato": "Yaku Pérez",
+        "value": 31.39
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 1890,
+        "candidato": "Yaku Pérez",
+        "value": 28.44
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 922,
+        "candidato": "Yaku Pérez",
+        "value": 28.12
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 485,
+        "candidato": "Yaku Pérez",
+        "value": 43.89
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 7503,
+        "candidato": "Yaku Pérez",
+        "value": 21.10
+    }
+]

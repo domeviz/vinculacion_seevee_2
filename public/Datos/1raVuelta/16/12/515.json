@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 28,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 107,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    }
+]

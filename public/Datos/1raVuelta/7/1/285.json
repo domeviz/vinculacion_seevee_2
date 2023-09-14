@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON LA UNION",
+        "id": 15,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.82
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 0,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.00
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 49,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.52
+    }
+]

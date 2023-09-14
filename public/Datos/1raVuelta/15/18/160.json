@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.93
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 31,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    }
+]

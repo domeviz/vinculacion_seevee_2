@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 171,
+        "candidato": "Guillermo Lasso",
+        "value": 53.94
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 97,
+        "candidato": "Guillermo Lasso",
+        "value": 45.12
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 119,
+        "candidato": "Guillermo Lasso",
+        "value": 27.11
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 247,
+        "candidato": "Guillermo Lasso",
+        "value": 58.12
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 1610,
+        "candidato": "Guillermo Lasso",
+        "value": 53.61
+    }
+]

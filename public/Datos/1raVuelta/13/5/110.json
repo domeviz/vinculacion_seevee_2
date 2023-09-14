@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUIN",
+        "id": 135,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.36
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 20,
+        "candidato": "Gustavo Larrea",
+        "value": 0.45
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 14,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 66,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    }
+]

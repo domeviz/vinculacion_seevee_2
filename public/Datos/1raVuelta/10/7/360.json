@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.23
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.44
+    },
+    {
+        "parroquia": "GUIZHAGUIÑA",
+        "id": 1425,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.52
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.56
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.17
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.80
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 19,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    }
+]

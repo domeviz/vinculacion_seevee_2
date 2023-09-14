@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 1.37
+    },
+    {
+        "parroquia": "CHICAN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 0.66
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 11,
+        "candidato": "Ximena Peña",
+        "value": 1.41
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.97
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 15,
+        "candidato": "Ximena Peña",
+        "value": 1.23
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 1.24
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.30
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 100,
+        "candidato": "Ximena Peña",
+        "value": 1.01
+    }
+]

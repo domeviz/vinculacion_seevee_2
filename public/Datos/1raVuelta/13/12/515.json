@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 0.88
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 84,
+        "candidato": "Gustavo Larrea",
+        "value": 0.87
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 39,
+        "candidato": "Gustavo Larrea",
+        "value": 0.56
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 42,
+        "candidato": "Gustavo Larrea",
+        "value": 0.50
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 354,
+        "candidato": "Gustavo Larrea",
+        "value": 0.54
+    }
+]

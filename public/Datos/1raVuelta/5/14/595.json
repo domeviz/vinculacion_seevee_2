@@ -1,0 +1,68 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.49
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.55
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.20
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 1.54
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.67
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 41,
+        "candidato": "Pedro Freile",
+        "value": 0.70
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 2.04
+    }
+]

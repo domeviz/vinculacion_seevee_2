@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 1342,
+        "candidato": "Andrés Arauz",
+        "value": 70.04
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 3127,
+        "candidato": "Andrés Arauz",
+        "value": 80.04
+    },
+    {
+        "parroquia": "RÍO BONITO",
+        "id": 2050,
+        "votos": 1996,
+        "candidato": "Andrés Arauz",
+        "value": 79.78
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 1617,
+        "candidato": "Andrés Arauz",
+        "value": 79.30
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 14792,
+        "candidato": "Andrés Arauz",
+        "value": 68.00
+    }
+]

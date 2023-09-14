@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CORDOVA TORAL",
+        "id": 1005,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.11
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "JADAN",
+        "id": 1805,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    },
+    {
+        "parroquia": "MARIANO MORENO CALLASAY",
+        "id": 2385,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.18
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.11
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 3780,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.24
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    }
+]

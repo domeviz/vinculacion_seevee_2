@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 26,
+        "candidato": "Xavier Hervas",
+        "value": 5.28
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 12,
+        "candidato": "Xavier Hervas",
+        "value": 3.38
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 36,
+        "candidato": "Xavier Hervas",
+        "value": 6.75
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 57,
+        "candidato": "Xavier Hervas",
+        "value": 9.12
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 384,
+        "candidato": "Xavier Hervas",
+        "value": 8.24
+    }
+]

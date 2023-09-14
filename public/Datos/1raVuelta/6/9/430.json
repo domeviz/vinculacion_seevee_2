@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 114,
+        "candidato": "Isidro Romero",
+        "value": 2.64
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 69,
+        "candidato": "Isidro Romero",
+        "value": 1.29
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 63,
+        "candidato": "Isidro Romero",
+        "value": 2.47
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 2.19
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 18,
+        "candidato": "Isidro Romero",
+        "value": 3.60
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 411,
+        "candidato": "Isidro Romero",
+        "value": 1.85
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 1.85
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 4.40
+    }
+]

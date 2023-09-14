@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 46,
+        "candidato": "Gustavo Larrea",
+        "value": 0.51
+    },
+    {
+        "parroquia": "ALHAJUELA BAJO GRANDE",
+        "id": 50,
+        "votos": 12,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.07
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 62,
+        "candidato": "Gustavo Larrea",
+        "value": 0.84
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 25,
+        "candidato": "Gustavo Larrea",
+        "value": 0.46
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 143,
+        "candidato": "Gustavo Larrea",
+        "value": 0.30
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 27,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 59,
+        "candidato": "Gustavo Larrea",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 43,
+        "candidato": "Gustavo Larrea",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 44,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.29
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 18,
+        "candidato": "Gustavo Larrea",
+        "value": 0.25
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 14,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    }
+]

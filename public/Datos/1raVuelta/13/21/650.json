@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SANSAHUARI",
+        "id": 4745,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.08
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.22
+    }
+]

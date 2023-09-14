@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "AMERICA LA CERA",
+        "id": 105,
+        "votos": 73,
+        "candidato": "Isidro Romero",
+        "value": 4.05
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 560,
+        "votos": 25,
+        "candidato": "Isidro Romero",
+        "value": 2.61
+    },
+    {
+        "parroquia": "EL ANEGADO",
+        "id": 1115,
+        "votos": 58,
+        "candidato": "Isidro Romero",
+        "value": 1.81
+    },
+    {
+        "parroquia": "JULCUY",
+        "id": 1880,
+        "votos": 21,
+        "candidato": "Isidro Romero",
+        "value": 1.71
+    },
+    {
+        "parroquia": "PEDRO PABLO GOMEZ",
+        "id": 2810,
+        "votos": 74,
+        "candidato": "Isidro Romero",
+        "value": 2.90
+    },
+    {
+        "parroquia": "PUERTO CAYO",
+        "id": 2990,
+        "votos": 52,
+        "candidato": "Isidro Romero",
+        "value": 2.48
+    },
+    {
+        "parroquia": "MEMBRILLAL",
+        "id": 4490,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 1.35
+    },
+    {
+        "parroquia": "JIPIJAPA",
+        "id": 5485,
+        "votos": 738,
+        "candidato": "Isidro Romero",
+        "value": 3.21
+    },
+    {
+        "parroquia": "DR. MIGUEL MORAN LUCIO",
+        "id": 7465,
+        "votos": 156,
+        "candidato": "Isidro Romero",
+        "value": 4.28
+    },
+    {
+        "parroquia": "MANUEL INOCENCIO PARRALES",
+        "id": 7470,
+        "votos": 68,
+        "candidato": "Isidro Romero",
+        "value": 3.46
+    },
+    {
+        "parroquia": "SAN LORENZO DE JIPIJAPA",
+        "id": 7475,
+        "votos": 220,
+        "candidato": "Isidro Romero",
+        "value": 3.88
+    }
+]

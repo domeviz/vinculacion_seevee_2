@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "votos": 11,
+        "candidato": "Xavier Hervas",
+        "value": 5.73
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 12,
+        "candidato": "Xavier Hervas",
+        "value": 6.35
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "votos": 80,
+        "candidato": "Xavier Hervas",
+        "value": 3.01
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "votos": 62,
+        "candidato": "Xavier Hervas",
+        "value": 17.13
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "votos": 100,
+        "candidato": "Xavier Hervas",
+        "value": 19.61
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "votos": 85,
+        "candidato": "Xavier Hervas",
+        "value": 18.64
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "votos": 39,
+        "candidato": "Xavier Hervas",
+        "value": 9.54
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "votos": 12,
+        "candidato": "Xavier Hervas",
+        "value": 8.05
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 1751,
+        "candidato": "Xavier Hervas",
+        "value": 29.73
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "votos": 50,
+        "candidato": "Xavier Hervas",
+        "value": 20.41
+    }
+]

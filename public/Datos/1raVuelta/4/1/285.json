@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDÓN CALDERON LA UNION",
+        "id": 15,
+        "votos": 231,
+        "candidato": "Xavier Hervas",
+        "value": 12.71
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 25,
+        "candidato": "Xavier Hervas",
+        "value": 2.28
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 21,
+        "candidato": "Xavier Hervas",
+        "value": 5.11
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 1073,
+        "candidato": "Xavier Hervas",
+        "value": 11.41
+    }
+]

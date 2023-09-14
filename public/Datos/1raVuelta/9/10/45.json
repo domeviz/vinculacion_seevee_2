@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 72,
+        "candidato": "Ximena Peña",
+        "value": 2.01
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 28,
+        "candidato": "Ximena Peña",
+        "value": 1.36
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 113,
+        "candidato": "Ximena Peña",
+        "value": 1.77
+    },
+    {
+        "parroquia": "ANDRADE MARIN LOURDES",
+        "id": 5025,
+        "votos": 48,
+        "candidato": "Ximena Peña",
+        "value": 1.56
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 189,
+        "candidato": "Ximena Peña",
+        "value": 1.49
+    }
+]

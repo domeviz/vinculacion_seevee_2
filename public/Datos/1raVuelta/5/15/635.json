@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COSANGA",
+        "id": 670,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 1.24
+    },
+    {
+        "parroquia": "CUYUJA",
+        "id": 765,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 2.07
+    },
+    {
+        "parroquia": "PAPALLACTA",
+        "id": 2770,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 2.26
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE BORJA",
+        "id": 3395,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 1.32
+    },
+    {
+        "parroquia": "SUMACO",
+        "id": 3890,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    },
+    {
+        "parroquia": "BAEZA",
+        "id": 5090,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 1.56
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 164,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.66
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 128,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.63
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 93,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.47
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 31,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.42
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 113,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.92
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 64,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.40
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 76,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.87
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 212,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.00
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 141,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.66
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 215,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.96
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 2006,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.17
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CHUMBLIN",
+        "id": 4560,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.82
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 6565,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    }
+]

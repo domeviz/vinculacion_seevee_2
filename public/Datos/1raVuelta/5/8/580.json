@@ -1,0 +1,91 @@
+[
+    {
+        "parroquia": "ALTO TAMBO GUADAL",
+        "id": 70,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.52
+    },
+    {
+        "parroquia": "ANCÓN PALMA REAL",
+        "id": 110,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.24
+    },
+    {
+        "parroquia": "CALDERÓN",
+        "id": 435,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.50
+    },
+    {
+        "parroquia": "5 DE JUNIO HUIMBI",
+        "id": 570,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.59
+    },
+    {
+        "parroquia": "CONCEPCIÓN",
+        "id": 620,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 1.24
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.96
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 1.02
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.25
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 1.00
+    },
+    {
+        "parroquia": "TULULBI RICAURTE",
+        "id": 4075,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.85
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 1.81
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 85,
+        "candidato": "Pedro Freile",
+        "value": 0.72
+    }
+]

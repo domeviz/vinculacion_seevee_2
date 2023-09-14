@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON LA UNION",
+        "id": 15,
+        "votos": 400,
+        "candidato": "Andrés Arauz",
+        "value": 22.00
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 230,
+        "candidato": "Andrés Arauz",
+        "value": 21.00
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 32,
+        "candidato": "Andrés Arauz",
+        "value": 7.79
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 1770,
+        "candidato": "Andrés Arauz",
+        "value": 18.83
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.26
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.23
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.13
+    },
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 19,
+        "candidato": "Isidro Romero",
+        "value": 0.45
+    }
+]

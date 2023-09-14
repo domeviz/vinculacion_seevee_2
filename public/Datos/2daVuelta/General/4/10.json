@@ -1,0 +1,86 @@
+[
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 524,
+        "votos1": 309,
+        "fill": "#045A8D",
+        "votos2": 215,
+        "porcentaje1": 58.97,
+        "porcentaje2": 41.03
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "CRISTOBAL COLÓN",
+        "id": 690,
+        "votos": 1502,
+        "votos1": 994,
+        "fill": "#045A8D",
+        "votos2": 508,
+        "porcentaje1": 66.18,
+        "porcentaje2": 33.82
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 363,
+        "votos1": 198,
+        "fill": "#045A8D",
+        "votos2": 165,
+        "porcentaje1": 54.55,
+        "porcentaje2": 45.45
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 551,
+        "votos1": 296,
+        "fill": "#045A8D",
+        "votos2": 255,
+        "porcentaje1": 53.72,
+        "porcentaje2": 46.28
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 1630,
+        "votos1": 992,
+        "fill": "#045A8D",
+        "votos2": 638,
+        "porcentaje1": 60.86,
+        "porcentaje2": 39.14
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "GONZÁLEZ SUÁREZ",
+        "id": 5405,
+        "votos": 5444,
+        "votos1": 3796,
+        "fill": "#045A8D",
+        "votos2": 1648,
+        "porcentaje1": 69.73,
+        "porcentaje2": 30.27
+    },
+    {
+        "candidato2": "Andrés Arauz",
+        "candidato1": "Guillermo Lasso",
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 5645,
+        "votos1": 3683,
+        "fill": "#045A8D",
+        "votos2": 1962,
+        "porcentaje1": 65.24,
+        "porcentaje2": 34.76
+    }
+]

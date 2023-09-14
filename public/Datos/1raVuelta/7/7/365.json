@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 33,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.85
+    },
+    {
+        "parroquia": "CANIAQUEMADA",
+        "id": 775,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.56
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 37,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.84
+    },
+    {
+        "parroquia": "LA PEANIA",
+        "id": 2075,
+        "votos": 21,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.95
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.06
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.71
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 70950,
+        "votos": 345,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.09
+    }
+]

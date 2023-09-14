@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ELOY ALFARO DURAN",
+        "id": 6525,
+        "votos": 857,
+        "candidato": "Guillermo Celi",
+        "value": 0.85
+    },
+    {
+        "parroquia": "EL RECREO",
+        "id": 7455,
+        "votos": 165,
+        "candidato": "Guillermo Celi",
+        "value": 0.66
+    },
+    {
+        "parroquia": "DIVINO NIÑO",
+        "id": 7515,
+        "votos": 130,
+        "candidato": "Guillermo Celi",
+        "value": 0.85
+    }
+]

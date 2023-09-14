@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 369,
+        "candidato": "Yaku Pérez",
+        "value": 7.51
+    },
+    {
+        "parroquia": "VIRGEN DE FATIMA",
+        "id": 1915,
+        "votos": 547,
+        "candidato": "Yaku Pérez",
+        "value": 7.16
+    },
+    {
+        "parroquia": "YAGUACHI VIEJOCONE",
+        "id": 4275,
+        "votos": 452,
+        "candidato": "Yaku Pérez",
+        "value": 9.86
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 1883,
+        "candidato": "Yaku Pérez",
+        "value": 10.31
+    }
+]

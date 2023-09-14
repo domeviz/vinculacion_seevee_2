@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "YANAYACU MOCHAPATA",
+        "id": 4310,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 1.22
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 4550,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.72
+    },
+    {
+        "parroquia": "QUERO",
+        "id": 5835,
+        "votos": 63,
+        "candidato": "Isidro Romero",
+        "value": 0.54
+    }
+]

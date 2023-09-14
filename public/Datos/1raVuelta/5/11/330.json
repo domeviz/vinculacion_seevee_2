@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL ARENAL",
+        "id": 270,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "CIANO",
+        "id": 565,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.41
+    },
+    {
+        "parroquia": "EL LIMO MARIANA DE JESUS",
+        "id": 1155,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.29
+    },
+    {
+        "parroquia": "MERCADILLO",
+        "id": 2405,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.65
+    },
+    {
+        "parroquia": "VICENTINO",
+        "id": 4210,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "ALAMOR",
+        "id": 5005,
+        "votos": 49,
+        "candidato": "Pedro Freile",
+        "value": 0.84
+    }
+]

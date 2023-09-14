@@ -1,0 +1,56 @@
+[
+    {
+        "parroquia": "AMAZONAS",
+        "id": 90,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "BERMEJOS",
+        "id": 340,
+        "votos": 0,
+        "candidato": "Isidro Romero",
+        "value": 0.00
+    },
+    {
+        "parroquia": "BOMBOIZA",
+        "id": 350,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "CHIGUINDA",
+        "id": 880,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "EL IDEAL",
+        "id": 1910,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "NUEVA TARQUI",
+        "id": 2565,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "ROSARIO",
+        "id": 3225,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CUYES",
+        "id": 3580,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "GUALAQUIZA",
+        "id": 5425,
+        "votos": 8,
+        "candidato": "Isidro Romero",
+        "value": 0.14
+    },
+    {
+        "parroquia": "MERCEDES MOLINA",
+        "id": 5655,
+        "fill": "#EF8A62"
+    }
+]

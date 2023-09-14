@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 23,
+        "candidato": "Giovanny Andrade",
+        "value": 0.53
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.36
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 12,
+        "candidato": "Giovanny Andrade",
+        "value": 0.37
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 19,
+        "candidato": "Giovanny Andrade",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 51,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    }
+]

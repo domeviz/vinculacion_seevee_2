@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.20
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.28
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.94
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 43,
+        "candidato": "Pedro Freile",
+        "value": 0.92
+    }
+]

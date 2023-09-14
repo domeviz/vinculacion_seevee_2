@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 442,
+        "candidato": "Yaku Pérez",
+        "value": 56.31
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 1245,
+        "candidato": "Yaku Pérez",
+        "value": 61.27
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 337,
+        "candidato": "Yaku Pérez",
+        "value": 46.94
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 1094,
+        "candidato": "Yaku Pérez",
+        "value": 60.48
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 1250,
+        "candidato": "Yaku Pérez",
+        "value": 59.72
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 978,
+        "candidato": "Yaku Pérez",
+        "value": 81.98
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 3545,
+        "candidato": "Yaku Pérez",
+        "value": 47.17
+    }
+]

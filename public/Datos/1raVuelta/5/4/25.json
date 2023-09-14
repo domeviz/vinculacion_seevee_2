@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 1055,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 1.46
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1315,
+        "votos": 59,
+        "candidato": "Pedro Freile",
+        "value": 5.64
+    },
+    {
+        "parroquia": "LOS ÁNDES",
+        "id": 2205,
+        "votos": 32,
+        "candidato": "Pedro Freile",
+        "value": 2.38
+    },
+    {
+        "parroquia": "MONTEOLIVO",
+        "id": 2455,
+        "votos": 29,
+        "candidato": "Pedro Freile",
+        "value": 2.44
+    },
+    {
+        "parroquia": "SAN VICENTE DE PUSIR",
+        "id": 3680,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 1.72
+    },
+    {
+        "parroquia": "BOLÍVAR",
+        "id": 6520,
+        "votos": 222,
+        "candidato": "Pedro Freile",
+        "value": 6.58
+    }
+]

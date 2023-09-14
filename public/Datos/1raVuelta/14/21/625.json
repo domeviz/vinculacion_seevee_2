@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.22
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 9,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.46
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 31,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    }
+]

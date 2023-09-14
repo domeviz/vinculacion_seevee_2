@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 1.01
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 1.34
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.44
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 1.04
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.60
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.67
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.38
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 0.52
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 1.23
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 1.52
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.14
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 105,
+        "candidato": "Isidro Romero",
+        "value": 0.73
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 158,
+        "candidato": "Isidro Romero",
+        "value": 0.74
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 327,
+        "candidato": "Isidro Romero",
+        "value": 0.71
+    },
+    {
+        "parroquia": "EL VALLE",
+        "id": 6210,
+        "votos": 190,
+        "candidato": "Isidro Romero",
+        "value": 0.69
+    },
+    {
+        "parroquia": "CARIGAN",
+        "id": 7525,
+        "votos": 28,
+        "candidato": "Isidro Romero",
+        "value": 0.65
+    },
+    {
+        "parroquia": "PUNZARA",
+        "id": 7530,
+        "votos": 50,
+        "candidato": "Isidro Romero",
+        "value": 0.76
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 858,
+        "candidato": "Isidro Romero",
+        "value": 0.71
+    }
+]

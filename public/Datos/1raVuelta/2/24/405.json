@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 4217,
+        "candidato": "Andrés Arauz",
+        "value": 60.81
+    },
+    {
+        "parroquia": "JOSE LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 4944,
+        "candidato": "Andrés Arauz",
+        "value": 39.95
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 4618,
+        "candidato": "Andrés Arauz",
+        "value": 34.18
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 538,
+        "candidato": "Andrés Arauz",
+        "value": 32.97
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 665,
+        "candidato": "Andrés Arauz",
+        "value": 35.87
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 1003,
+        "candidato": "Andrés Arauz",
+        "value": 31.79
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 1886,
+        "candidato": "Andrés Arauz",
+        "value": 47.02
+    }
+]

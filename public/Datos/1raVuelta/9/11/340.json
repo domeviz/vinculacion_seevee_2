@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 1.32
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 1.40
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 1.10
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 1.81
+    },
+    {
+        "parroquia": "27 DE ABRIL LA NARANJA",
+        "id": 4460,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 0.89
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 21,
+        "candidato": "Ximena Peña",
+        "value": 0.73
+    }
+]

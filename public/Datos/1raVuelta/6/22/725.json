@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 40,
+        "candidato": "Isidro Romero",
+        "value": 1.71
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 32,
+        "candidato": "Isidro Romero",
+        "value": 1.82
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.46
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 38,
+        "candidato": "Isidro Romero",
+        "value": 1.79
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 1.14
+    },
+    {
+        "parroquia": "UNION MILAGREÃ\u2018A",
+        "id": 1965,
+        "votos": 32,
+        "candidato": "Isidro Romero",
+        "value": 1.63
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 14,
+        "candidato": "Isidro Romero",
+        "value": 2.08
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 53,
+        "candidato": "Isidro Romero",
+        "value": 2.04
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 281,
+        "candidato": "Isidro Romero",
+        "value": 2.10
+    }
+]

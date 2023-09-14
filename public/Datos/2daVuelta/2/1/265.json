@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "DANIEL CÓRDOVA TORAL",
+        "id": 1005,
+        "votos": 365,
+        "candidato": "Andrés Arauz",
+        "value": 69.13
+    },
+    {
+        "parroquia": "LUIS CORDERO VEGA",
+        "id": 1760,
+        "votos": 99,
+        "candidato": "Andrés Arauz",
+        "value": 54.10
+    },
+    {
+        "parroquia": "JADÁN",
+        "id": 1805,
+        "votos": 904,
+        "candidato": "Andrés Arauz",
+        "value": 57.84
+    },
+    {
+        "parroquia": "MARIANO MORENO / CALLASAY",
+        "id": 2385,
+        "votos": 334,
+        "candidato": "Andrés Arauz",
+        "value": 56.32
+    },
+    {
+        "parroquia": "REMIGIO CRESPO TORAL",
+        "id": 3160,
+        "votos": 183,
+        "candidato": "Andrés Arauz",
+        "value": 57.73
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3505,
+        "votos": 992,
+        "candidato": "Andrés Arauz",
+        "value": 74.14
+    },
+    {
+        "parroquia": "SIMÓN BOLIVAR",
+        "id": 3780,
+        "votos": 172,
+        "candidato": "Andrés Arauz",
+        "value": 62.77
+    },
+    {
+        "parroquia": "ZHIDMAD",
+        "id": 4340,
+        "votos": 583,
+        "candidato": "Andrés Arauz",
+        "value": 57.95
+    },
+    {
+        "parroquia": "GUALACEO",
+        "id": 5420,
+        "votos": 4711,
+        "candidato": "Andrés Arauz",
+        "value": 47.52
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 114,
+        "candidato": "Pedro Freile",
+        "value": 3.92
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 305,
+        "candidato": "Pedro Freile",
+        "value": 4.93
+    },
+    {
+        "parroquia": "AUGUSTO N. MARTINEZ",
+        "id": 210,
+        "votos": 195,
+        "candidato": "Pedro Freile",
+        "value": 3.25
+    },
+    {
+        "parroquia": "CONSTANTINO FERNANDEZ",
+        "id": 635,
+        "votos": 34,
+        "candidato": "Pedro Freile",
+        "value": 1.98
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 69,
+        "candidato": "Pedro Freile",
+        "value": 2.72
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 40,
+        "candidato": "Pedro Freile",
+        "value": 2.27
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 273,
+        "candidato": "Pedro Freile",
+        "value": 4.60
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 526,
+        "candidato": "Pedro Freile",
+        "value": 4.01
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 104,
+        "candidato": "Pedro Freile",
+        "value": 2.09
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 103,
+        "candidato": "Pedro Freile",
+        "value": 4.58
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 64,
+        "candidato": "Pedro Freile",
+        "value": 1.55
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 448,
+        "candidato": "Pedro Freile",
+        "value": 4.58
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 69,
+        "candidato": "Pedro Freile",
+        "value": 0.90
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 161,
+        "candidato": "Pedro Freile",
+        "value": 2.53
+    },
+    {
+        "parroquia": "SAN BARTOLOMÉ",
+        "id": 3355,
+        "votos": 279,
+        "candidato": "Pedro Freile",
+        "value": 4.92
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 1.21
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 382,
+        "candidato": "Pedro Freile",
+        "value": 3.38
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 195,
+        "candidato": "Pedro Freile",
+        "value": 4.44
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 6400,
+        "candidato": "Pedro Freile",
+        "value": 5.38
+    }
+]

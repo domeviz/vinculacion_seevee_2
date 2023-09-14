@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LLIGUA",
+        "id": 2270,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    },
+    {
+        "parroquia": "RIO NEGRO",
+        "id": 3190,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 3200,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ULBA",
+        "id": 4135,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "BAÑOS",
+        "id": 5105,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    }
+]

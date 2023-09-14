@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 3,
+        "candidato": "Juan Velasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 6,
+        "candidato": "Juan Velasco",
+        "value": 0.67
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 6,
+        "candidato": "Juan Velasco",
+        "value": 0.53
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 4,
+        "candidato": "Juan Velasco",
+        "value": 0.46
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 2,
+        "candidato": "Juan Velasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 17,
+        "candidato": "Juan Velasco",
+        "value": 0.38
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 0,
+        "candidato": "Juan Velasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 3,
+        "candidato": "Juan Velasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 2,
+        "candidato": "Juan Velasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 12,
+        "candidato": "Juan Velasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 2,
+        "candidato": "Juan Velasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 4,
+        "candidato": "Juan Velasco",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 0,
+        "candidato": "Juan Velasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 42,
+        "candidato": "Juan Velasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 85,
+        "candidato": "Juan Velasco",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 212,
+        "candidato": "Juan Velasco",
+        "value": 0.46
+    },
+    {
+        "parroquia": "EL VALLE",
+        "id": 6210,
+        "votos": 112,
+        "candidato": "Juan Velasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CARIGAN",
+        "id": 7525,
+        "votos": 28,
+        "candidato": "Juan Velasco",
+        "value": 0.65
+    },
+    {
+        "parroquia": "PUNZARA",
+        "id": 7530,
+        "votos": 29,
+        "candidato": "Juan Velasco",
+        "value": 0.44
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 508,
+        "candidato": "Juan Velasco",
+        "value": 0.42
+    }
+]

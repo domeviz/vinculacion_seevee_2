@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 101,
+        "candidato": "Guillermo Lasso",
+        "value": 5.38
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 126,
+        "candidato": "Guillermo Lasso",
+        "value": 5.56
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 1971,
+        "candidato": "Guillermo Lasso",
+        "value": 8.85
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 9124,
+        "candidato": "Guillermo Lasso",
+        "value": 18.15
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 95,
+        "candidato": "Guillermo Lasso",
+        "value": 3.43
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 5075,
+        "candidato": "Guillermo Lasso",
+        "value": 10.18
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 1401,
+        "candidato": "Guillermo Lasso",
+        "value": 6.29
+    }
+]

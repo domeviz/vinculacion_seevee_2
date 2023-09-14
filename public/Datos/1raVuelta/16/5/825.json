@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 63,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.42
+    }
+]

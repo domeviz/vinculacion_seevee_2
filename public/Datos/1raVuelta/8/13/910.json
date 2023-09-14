@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 98,
+        "candidato": "Gerson Almeida",
+        "value": 1.95
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 23,
+        "candidato": "Gerson Almeida",
+        "value": 1.55
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 29,
+        "candidato": "Gerson Almeida",
+        "value": 1.16
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 580,
+        "candidato": "Gerson Almeida",
+        "value": 2.35
+    }
+]

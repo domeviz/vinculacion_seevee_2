@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 125,
+        "candidato": "Gustavo Larrea",
+        "value": 0.43
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRES",
+        "id": 7460,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "COLORADO",
+        "id": 7490,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.37
+    },
+    {
+        "parroquia": "LEONIDAS PROAÑO",
+        "id": 7495,
+        "votos": 34,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    },
+    {
+        "parroquia": "GENERAL ELOY ALFARO DELGA",
+        "id": 7500,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.12
+    }
+]

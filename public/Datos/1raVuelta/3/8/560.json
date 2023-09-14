@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 182,
+        "candidato": "Yaku Pérez",
+        "value": 12.73
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 117,
+        "candidato": "Yaku Pérez",
+        "value": 13.45
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 404,
+        "candidato": "Yaku Pérez",
+        "value": 21.26
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 264,
+        "candidato": "Yaku Pérez",
+        "value": 23.47
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 409,
+        "candidato": "Yaku Pérez",
+        "value": 13.75
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 182,
+        "candidato": "Yaku Pérez",
+        "value": 12.53
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 220,
+        "candidato": "Yaku Pérez",
+        "value": 8.80
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 688,
+        "candidato": "Yaku Pérez",
+        "value": 11.29
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 1705,
+        "candidato": "Yaku Pérez",
+        "value": 10.84
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 3432,
+        "candidato": "Yaku Pérez",
+        "value": 12.24
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 3307,
+        "candidato": "Yaku Pérez",
+        "value": 11.23
+    },
+    {
+        "parroquia": "LUIS TELLO  LAS PALMAS ",
+        "id": 5600,
+        "votos": 566,
+        "candidato": "Yaku Pérez",
+        "value": 9.34
+    },
+    {
+        "parroquia": "SIMON PLATA TORRES",
+        "id": 6905,
+        "votos": 1511,
+        "candidato": "Yaku Pérez",
+        "value": 11.67
+    }
+]

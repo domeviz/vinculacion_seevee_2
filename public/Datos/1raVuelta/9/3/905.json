@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.44
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 33,
+        "candidato": "Ximena Peña",
+        "value": 1.46
+    }
+]

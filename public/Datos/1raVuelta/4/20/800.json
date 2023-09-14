@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1220,
+        "votos": 46,
+        "candidato": "Xavier Hervas",
+        "value": 11.03
+    },
+    {
+        "parroquia": "ISLA SANTA MARÍA",
+        "id": 4415,
+        "votos": 12,
+        "candidato": "Xavier Hervas",
+        "value": 14.12
+    },
+    {
+        "parroquia": "PTO. BAQUERIZO MORENO",
+        "id": 6510,
+        "votos": 490,
+        "candidato": "Xavier Hervas",
+        "value": 12.61
+    }
+]

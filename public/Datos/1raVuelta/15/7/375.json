@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHACRAS",
+        "id": 805,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.11
+    },
+    {
+        "parroquia": "CARCABON",
+        "id": 1695,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PALMALES",
+        "id": 2715,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.70
+    },
+    {
+        "parroquia": "LA CUCA",
+        "id": 4650,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "ARENILLAS",
+        "id": 5040,
+        "votos": 37,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    }
+]

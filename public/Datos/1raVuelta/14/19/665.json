@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.43
+    },
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

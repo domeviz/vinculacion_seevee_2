@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 2.41
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 2.52
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 2.87
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 1.57
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 18,
+        "candidato": "Pedro Freile",
+        "value": 3.34
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 1.17
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 30,
+        "candidato": "Pedro Freile",
+        "value": 1.58
+    }
+]

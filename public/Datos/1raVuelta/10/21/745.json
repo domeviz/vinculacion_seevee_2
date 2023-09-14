@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "SEVILLA",
+        "id": 1095,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SANTA ROSA DE SUCUMBIOS",
+        "id": 3750,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    },
+    {
+        "parroquia": "NUEVA TRONCAL",
+        "id": 4740,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.64
+    },
+    {
+        "parroquia": "EL DORADO DE CASCALES",
+        "id": 6325,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.27
+    }
+]

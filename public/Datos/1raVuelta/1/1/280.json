@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 40,
+        "candidato": "Guillermo Lasso",
+        "value": 5.10
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 50,
+        "candidato": "Guillermo Lasso",
+        "value": 2.46
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 21,
+        "candidato": "Guillermo Lasso",
+        "value": 2.92
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 62,
+        "candidato": "Guillermo Lasso",
+        "value": 3.43
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 57,
+        "candidato": "Guillermo Lasso",
+        "value": 2.72
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 41,
+        "candidato": "Guillermo Lasso",
+        "value": 3.44
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 306,
+        "candidato": "Guillermo Lasso",
+        "value": 4.07
+    }
+]

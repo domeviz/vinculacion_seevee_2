@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYON DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

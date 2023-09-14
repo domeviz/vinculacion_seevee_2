@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ARAPICOS",
+        "id": 155,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.90
+    },
+    {
+        "parroquia": "CUMANDA",
+        "id": 715,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.75
+    },
+    {
+        "parroquia": "16 DE AGOSTO",
+        "id": 1685,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SANGAY",
+        "id": 3420,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.30
+    },
+    {
+        "parroquia": "PALORA",
+        "id": 5760,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 0.52
+    }
+]

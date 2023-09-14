@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMÍES",
+        "id": 580,
+        "votos": 35,
+        "candidato": "Pedro Freile",
+        "value": 0.70
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.20
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.60
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 105,
+        "candidato": "Pedro Freile",
+        "value": 0.43
+    }
+]

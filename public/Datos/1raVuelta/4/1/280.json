@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 109,
+        "candidato": "Xavier Hervas",
+        "value": 13.89
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 116,
+        "candidato": "Xavier Hervas",
+        "value": 5.71
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 56,
+        "candidato": "Xavier Hervas",
+        "value": 7.80
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 56,
+        "candidato": "Xavier Hervas",
+        "value": 3.10
+    },
+    {
+        "parroquia": "SAN BARTOLOMÉ",
+        "id": 3360,
+        "votos": 128,
+        "candidato": "Xavier Hervas",
+        "value": 6.12
+    },
+    {
+        "parroquia": "SAN JOSÉ DE RARANGA",
+        "id": 3495,
+        "votos": 15,
+        "candidato": "Xavier Hervas",
+        "value": 1.26
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 1288,
+        "candidato": "Xavier Hervas",
+        "value": 17.14
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "INDANZA",
+        "id": 1720,
+        "votos": 238,
+        "candidato": "Yaku Pérez",
+        "value": 35.95
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CONCHAY",
+        "id": 3250,
+        "votos": 117,
+        "candidato": "Yaku Pérez",
+        "value": 37.14
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3320,
+        "votos": 511,
+        "candidato": "Yaku Pérez",
+        "value": 65.94
+    },
+    {
+        "parroquia": "SANTA SUSANA DE CHIVIAZA",
+        "id": 3760,
+        "votos": 226,
+        "candidato": "Yaku Pérez",
+        "value": 44.40
+    },
+    {
+        "parroquia": "YUNGANZA EL ROSARIO",
+        "id": 4305,
+        "votos": 344,
+        "candidato": "Yaku Pérez",
+        "value": 52.44
+    },
+    {
+        "parroquia": "GRAL. LEONIDAS PLAZA",
+        "id": 5390,
+        "votos": 642,
+        "candidato": "Yaku Pérez",
+        "value": 22.69
+    }
+]

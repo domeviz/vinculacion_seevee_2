@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 164,
+        "candidato": "Ximena Peña",
+        "value": 5.55
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 337,
+        "candidato": "Ximena Peña",
+        "value": 3.49
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 365,
+        "candidato": "Ximena Peña",
+        "value": 5.21
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 290,
+        "candidato": "Ximena Peña",
+        "value": 3.45
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 1373,
+        "candidato": "Ximena Peña",
+        "value": 2.10
+    }
+]

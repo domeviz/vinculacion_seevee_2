@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 19,
+        "candidato": "Isidro Romero",
+        "value": 1.67
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 35,
+        "candidato": "Isidro Romero",
+        "value": 1.97
+    },
+    {
+        "parroquia": "SANTA MARIA",
+        "id": 3632,
+        "votos": 137,
+        "candidato": "Isidro Romero",
+        "value": 2.55
+    },
+    {
+        "parroquia": "EL PARAISO LA 14",
+        "id": 3635,
+        "votos": 160,
+        "candidato": "Isidro Romero",
+        "value": 2.62
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 937,
+        "candidato": "Isidro Romero",
+        "value": 2.01
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 2.29
+    }
+]

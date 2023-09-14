@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 478,
+        "candidato": "Andrés Arauz",
+        "value": 40.00
+    },
+    {
+        "parroquia": "GARCIA MORENO   LLURIMAGUA",
+        "id": 1310,
+        "votos": 2323,
+        "candidato": "Andrés Arauz",
+        "value": 47.87
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 1222,
+        "candidato": "Andrés Arauz",
+        "value": 37.47
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 409,
+        "candidato": "Andrés Arauz",
+        "value": 39.98
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 130,
+        "candidato": "Andrés Arauz",
+        "value": 33.94
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 1175,
+        "candidato": "Andrés Arauz",
+        "value": 25.88
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 392,
+        "candidato": "Andrés Arauz",
+        "value": 31.54
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 113,
+        "candidato": "Andrés Arauz",
+        "value": 33.53
+    },
+    {
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 3006,
+        "candidato": "Andrés Arauz",
+        "value": 26.30
+    }
+]

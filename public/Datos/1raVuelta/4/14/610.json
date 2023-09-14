@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ASUNCIÓN",
+        "id": 180,
+        "votos": 22,
+        "candidato": "Xavier Hervas",
+        "value": 1.86
+    },
+    {
+        "parroquia": "SANTA MARIANITA DE JESÚS",
+        "id": 1140,
+        "votos": 150,
+        "candidato": "Xavier Hervas",
+        "value": 29.41
+    },
+    {
+        "parroquia": "HUAMBI",
+        "id": 1635,
+        "votos": 192,
+        "candidato": "Xavier Hervas",
+        "value": 10.63
+    },
+    {
+        "parroquia": "SUCUA",
+        "id": 6110,
+        "votos": 2057,
+        "candidato": "Xavier Hervas",
+        "value": 25.73
+    }
+]

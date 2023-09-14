@@ -1,0 +1,38 @@
+[
+    
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 424,
+        "candidato": "Yaku Pérez",
+        "value": 18.25
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 1260,
+        "candidato": "Yaku Pérez",
+        "value": 9.03
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 217,
+        "candidato": "Yaku Pérez",
+        "value": 3.80
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 926,
+        "candidato": "Yaku Pérez",
+        "value": 14.15
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 107558,
+        "candidato": "Yaku Pérez",
+        "value": 8.03
+    }
+]

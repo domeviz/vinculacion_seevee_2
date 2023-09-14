@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 406,
+        "candidato": "Ximena Peña",
+        "value": 3.14
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 295,
+        "candidato": "Ximena Peña",
+        "value": 4.50
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 255,
+        "candidato": "Ximena Peña",
+        "value": 2.19
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 102,
+        "candidato": "Ximena Peña",
+        "value": 2.54
+    }
+]

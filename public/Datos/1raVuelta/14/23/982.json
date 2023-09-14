@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MONTERREY",
+        "id": 4635,
+        "votos": 15,
+        "candidato": "Carlos Sagnay",
+        "value": 0.48
+    },
+    {
+        "parroquia": "LA VILLEGAS",
+        "id": 4640,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PLAN PILOTO",
+        "id": 4645,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LA CONCORDIA",
+        "id": 7520,
+        "votos": 94,
+        "candidato": "Carlos Sagnay",
+        "value": 0.37
+    }
+]

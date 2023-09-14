@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "HUASAGA  WAMPUIK",
+        "id": 595,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TUTINENTZA",
+        "id": 1205,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.04
+    },
+    {
+        "parroquia": "MACUMA",
+        "id": 2285,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "PUMPUENTSA",
+        "id": 4575,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TAISHA",
+        "id": 6700,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.03
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 43,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    }
+]

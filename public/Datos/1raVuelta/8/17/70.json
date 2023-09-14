@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 29,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 13,
+        "candidato": "Gerson Almeida",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA TANDAPI",
+        "id": 650,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 115,
+        "candidato": "Gerson Almeida",
+        "value": 1.18
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.10
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 37,
+        "candidato": "Gerson Almeida",
+        "value": 0.56
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.26
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 168,
+        "candidato": "Gerson Almeida",
+        "value": 0.72
+    }
+]

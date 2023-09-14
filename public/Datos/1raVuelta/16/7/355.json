@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 52,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.38
+    }
+]

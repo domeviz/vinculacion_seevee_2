@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.37
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.68
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    },
+    {
+        "parroquia": "27 DE ABRIL LA NARANJA",
+        "id": 4460,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.09
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.07
+    }
+]

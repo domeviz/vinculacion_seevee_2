@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 415,
+        "votos": 816,
+        "candidato": "Yaku Pérez",
+        "value": 34.84
+    },
+    {
+        "parroquia": "ENOKANQUI",
+        "id": 490,
+        "votos": 640,
+        "candidato": "Yaku Pérez",
+        "value": 36.43
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 1950,
+        "votos": 475,
+        "candidato": "Yaku Pérez",
+        "value": 54.85
+    },
+    {
+        "parroquia": "TRES DE NOVIEMBRE",
+        "id": 1955,
+        "votos": 1008,
+        "candidato": "Yaku Pérez",
+        "value": 47.46
+    },
+    {
+        "parroquia": "LAGO SAN PEDRO",
+        "id": 1960,
+        "votos": 560,
+        "candidato": "Yaku Pérez",
+        "value": 42.62
+    },
+    {
+        "parroquia": "UNION MILAGREÑA",
+        "id": 1965,
+        "votos": 776,
+        "candidato": "Yaku Pérez",
+        "value": 39.47
+    },
+    {
+        "parroquia": "POMPEYA",
+        "id": 2930,
+        "votos": 320,
+        "candidato": "Yaku Pérez",
+        "value": 47.55
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE COCA",
+        "id": 3660,
+        "votos": 986,
+        "candidato": "Yaku Pérez",
+        "value": 37.95
+    },
+    {
+        "parroquia": "LA JOYA DE LOS SACHAS",
+        "id": 6200,
+        "votos": 3974,
+        "candidato": "Yaku Pérez",
+        "value": 29.75
+    }
+]

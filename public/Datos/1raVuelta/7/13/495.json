@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 247,
+        "candidato": "Lucio Gutiérrez",
+        "value": 7.52
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 241,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.03
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 79,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.75
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 109,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.80
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 447,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.75
+    }
+]

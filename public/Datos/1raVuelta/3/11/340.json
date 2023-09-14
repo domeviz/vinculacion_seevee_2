@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 241,
+        "candidato": "Yaku Pérez",
+        "value": 22.69
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 273,
+        "candidato": "Yaku Pérez",
+        "value": 27.30
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 175,
+        "candidato": "Yaku Pérez",
+        "value": 32.11
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 459,
+        "candidato": "Yaku Pérez",
+        "value": 44.35
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 283,
+        "candidato": "Yaku Pérez",
+        "value": 31.98
+    },
+    {
+        "parroquia": "27 DE ABRIL  LA NARANJA",
+        "id": 4460,
+        "votos": 665,
+        "candidato": "Yaku Pérez",
+        "value": 59.43
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 790,
+        "candidato": "Yaku Pérez",
+        "value": 27.62
+    }
+]

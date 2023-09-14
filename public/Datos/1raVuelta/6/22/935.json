@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 0.76
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.25
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 24,
+        "candidato": "Isidro Romero",
+        "value": 1.22
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 0.53
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.86
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 68,
+        "candidato": "Isidro Romero",
+        "value": 1.52
+    }
+]

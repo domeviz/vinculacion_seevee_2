@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "GRAL.PEDRO MONTERO",
+        "id": 1340,
+        "votos": 216,
+        "candidato": "Xavier Hervas",
+        "value": 4.40
+    },
+    {
+        "parroquia": "VÍRGEN DE FÁTIMA",
+        "id": 1915,
+        "votos": 472,
+        "candidato": "Xavier Hervas",
+        "value": 6.18
+    },
+    {
+        "parroquia": "YAGUACHI VIEJO CONE",
+        "id": 4275,
+        "votos": 165,
+        "candidato": "Xavier Hervas",
+        "value": 3.60
+    },
+    {
+        "parroquia": "YAGUACHI NUEVO",
+        "id": 6285,
+        "votos": 1112,
+        "candidato": "Xavier Hervas",
+        "value": 6.09
+    }
+]

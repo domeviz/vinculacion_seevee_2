@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "PALO QUEMADO",
+        "id": 815,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.76
+    },
+    {
+        "parroquia": "CHUGCHILAN",
+        "id": 960,
+        "votos": 25,
+        "candidato": "Guillermo Celi",
+        "value": 0.60
+    },
+    {
+        "parroquia": "ISINLIVI",
+        "id": 1735,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.55
+    },
+    {
+        "parroquia": "LAS PAMPAS",
+        "id": 2115,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SIGCHOS",
+        "id": 6450,
+        "votos": 22,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    }
+]

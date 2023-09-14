@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJON Y CAMAÑO",
+        "id": 1835,
+        "votos": 216,
+        "candidato": "Yaku Pérez",
+        "value": 19.48
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 74,
+        "candidato": "Yaku Pérez",
+        "value": 8.86
+    },
+    {
+        "parroquia": "LA CONCEPCION",
+        "id": 2010,
+        "votos": 210,
+        "candidato": "Yaku Pérez",
+        "value": 10.76
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 720,
+        "candidato": "Yaku Pérez",
+        "value": 16.70
+    }
+]

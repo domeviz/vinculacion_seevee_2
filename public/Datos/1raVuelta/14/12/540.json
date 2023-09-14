@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 4420,
+        "votos": 15,
+        "candidato": "Carlos Sagnay",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SAN CARLOS",
+        "id": 4425,
+        "votos": 38,
+        "candidato": "Carlos Sagnay",
+        "value": 0.54
+    },
+    {
+        "parroquia": "QUEVEDO",
+        "id": 5855,
+        "votos": 139,
+        "candidato": "Carlos Sagnay",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN CAMILO",
+        "id": 6115,
+        "votos": 52,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 6635,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "VENUS DEL RIO QUEVEDO",
+        "id": 6640,
+        "votos": 36,
+        "candidato": "Carlos Sagnay",
+        "value": 0.38
+    },
+    {
+        "parroquia": "NICOLAS INFANTE DIAZ",
+        "id": 6645,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "GUAYACAN",
+        "id": 6650,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "SIETE DE OCTUBRE",
+        "id": 6655,
+        "votos": 13,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "VIVA ALFARO",
+        "id": 6660,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "24 DE MAYO",
+        "id": 6690,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    }
+]

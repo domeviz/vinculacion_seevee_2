@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 43,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.70
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 28,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.84
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 326,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.21
+    }
+]

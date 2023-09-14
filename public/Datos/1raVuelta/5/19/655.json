@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 22,
+        "candidato": "Pedro Freile",
+        "value": 0.97
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 0.70
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.37
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.36
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 93,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    },
+    {
+        "parroquia": "EL LIMÓN",
+        "id": 6840,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 1.59
+    }
+]

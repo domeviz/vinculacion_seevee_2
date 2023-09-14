@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "CHICAN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.07
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.26
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.41
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.69
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 34,
+        "candidato": "Gustavo Larrea",
+        "value": 0.34
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "SUMAYPAMBA",
+        "id": 310,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.61
+    },
+    {
+        "parroquia": "EL PARAISO DE CELEN",
+        "id": 1165,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "EL TABLON",
+        "id": 1190,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LLUZHAPA",
+        "id": 2280,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.45
+    },
+    {
+        "parroquia": "MANU",
+        "id": 2360,
+        "votos": 22,
+        "candidato": "Paúl Carrasco",
+        "value": 1.35
+    },
+    {
+        "parroquia": "SAN ANTONIO DE CUMBE",
+        "id": 3340,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "SAN PABLO DE TENTA",
+        "id": 3600,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN SEBASTIAN DE YULUC",
+        "id": 3665,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.47
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3815,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "URDANETA PAQUISHAPA",
+        "id": 4145,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SARAGURO",
+        "id": 6075,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    }
+]

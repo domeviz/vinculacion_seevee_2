@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 12,
+        "candidato": "Pedro Freile",
+        "value": 0.84
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.92
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.79
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.80
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 16,
+        "candidato": "Pedro Freile",
+        "value": 0.54
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 0.68
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 52,
+        "candidato": "Pedro Freile",
+        "value": 0.85
+    },
+    {
+        "parroquia": "BARTOLOMÉ RUIZ",
+        "id": 5205,
+        "votos": 113,
+        "candidato": "Pedro Freile",
+        "value": 0.72
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 242,
+        "candidato": "Pedro Freile",
+        "value": 0.86
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 223,
+        "candidato": "Pedro Freile",
+        "value": 0.76
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS ",
+        "id": 5600,
+        "votos": 38,
+        "candidato": "Pedro Freile",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SIMÓN PLATA TORRES",
+        "id": 6905,
+        "votos": 120,
+        "candidato": "Pedro Freile",
+        "value": 0.93
+    }
+]

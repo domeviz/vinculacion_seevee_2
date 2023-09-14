@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CAMARONES",
+        "id": 450,
+        "votos": 23,
+        "candidato": "Isidro Romero",
+        "value": 1.61
+    },
+    {
+        "parroquia": "CRNL.CARLOS CONCHA TORRES",
+        "id": 655,
+        "votos": 14,
+        "candidato": "Isidro Romero",
+        "value": 1.61
+    },
+    {
+        "parroquia": "CHINCA",
+        "id": 895,
+        "votos": 27,
+        "candidato": "Isidro Romero",
+        "value": 1.42
+    },
+    {
+        "parroquia": "MAJUA",
+        "id": 2320,
+        "votos": 15,
+        "candidato": "Isidro Romero",
+        "value": 1.33
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 3570,
+        "votos": 38,
+        "candidato": "Isidro Romero",
+        "value": 1.28
+    },
+    {
+        "parroquia": "TABIAZO",
+        "id": 3930,
+        "votos": 17,
+        "candidato": "Isidro Romero",
+        "value": 1.17
+    },
+    {
+        "parroquia": "TACHINA",
+        "id": 3940,
+        "votos": 23,
+        "candidato": "Isidro Romero",
+        "value": 0.92
+    },
+    {
+        "parroquia": "VUELTA LARGA",
+        "id": 4240,
+        "votos": 76,
+        "candidato": "Isidro Romero",
+        "value": 1.25
+    },
+    {
+        "parroquia": "BARTOLOME RUIZ",
+        "id": 5205,
+        "votos": 258,
+        "candidato": "Isidro Romero",
+        "value": 1.64
+    },
+    {
+        "parroquia": "5 DE AGOSTO",
+        "id": 5210,
+        "votos": 455,
+        "candidato": "Isidro Romero",
+        "value": 1.62
+    },
+    {
+        "parroquia": "ESMERALDAS",
+        "id": 5335,
+        "votos": 478,
+        "candidato": "Isidro Romero",
+        "value": 1.62
+    },
+    {
+        "parroquia": "LUIS TELLO LAS PALMAS",
+        "id": 5600,
+        "votos": 88,
+        "candidato": "Isidro Romero",
+        "value": 1.45
+    },
+    {
+        "parroquia": "SIMÓN PLATA TORRES",
+        "id": 6905,
+        "votos": 178,
+        "candidato": "Isidro Romero",
+        "value": 1.37
+    }
+]

@@ -1,0 +1,38 @@
+[
+    
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 23,
+        "candidato": "Carlos Sagnay",
+        "value": 0.99
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 73,
+        "candidato": "Carlos Sagnay",
+        "value": 0.52
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 59,
+        "candidato": "Carlos Sagnay",
+        "value": 1.03
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 28,
+        "candidato": "Carlos Sagnay",
+        "value": 0.43
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 4083,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    }
+]

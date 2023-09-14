@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 31,
+        "candidato": "Juan Velasco",
+        "value": 0.71
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 13,
+        "candidato": "Juan Velasco",
+        "value": 0.59
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 27,
+        "candidato": "Juan Velasco",
+        "value": 0.84
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 22,
+        "candidato": "Juan Velasco",
+        "value": 0.69
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 182,
+        "candidato": "Juan Velasco",
+        "value": 1.15
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANCONCITO",
+        "id": 115,
+        "votos": 585,
+        "candidato": "Xavier Hervas",
+        "value": 8.44
+    },
+    {
+        "parroquia": "JOSÉ LUIS TAMAYO MUEY",
+        "id": 1850,
+        "votos": 1508,
+        "candidato": "Xavier Hervas",
+        "value": 12.19
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 5920,
+        "votos": 2016,
+        "candidato": "Xavier Hervas",
+        "value": 14.92
+    },
+    {
+        "parroquia": "GRAL. A. E. GALLO",
+        "id": 6270,
+        "votos": 199,
+        "candidato": "Xavier Hervas",
+        "value": 12.19
+    },
+    {
+        "parroquia": "VICENTE ROCAFUERTE",
+        "id": 6275,
+        "votos": 165,
+        "candidato": "Xavier Hervas",
+        "value": 8.90
+    },
+    {
+        "parroquia": "CARLOS ESPINOZA LARREA",
+        "id": 6280,
+        "votos": 398,
+        "candidato": "Xavier Hervas",
+        "value": 12.61
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6925,
+        "votos": 387,
+        "candidato": "Xavier Hervas",
+        "value": 9.65
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "MONTALVO ANDOAS",
+        "id": 2450,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.67
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.05
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.09
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 52,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

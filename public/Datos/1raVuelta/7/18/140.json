@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "BENITEZ PACHANLICA",
+        "id": 335,
+        "votos": 70,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.42
+    },
+    {
+        "parroquia": "BOLIVAR",
+        "id": 365,
+        "votos": 67,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.98
+    },
+    {
+        "parroquia": "COTALO",
+        "id": 675,
+        "votos": 47,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.78
+    },
+    {
+        "parroquia": "CHIQUICHA",
+        "id": 900,
+        "votos": 24,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.58
+    },
+    {
+        "parroquia": "EL ROSARIO RUMICHACA",
+        "id": 1185,
+        "votos": 59,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.30
+    },
+    {
+        "parroquia": "GARCIA MORENO",
+        "id": 1320,
+        "votos": 76,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.58
+    },
+    {
+        "parroquia": "HUAMBALO",
+        "id": 1630,
+        "votos": 261,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.34
+    },
+    {
+        "parroquia": "SALASACA",
+        "id": 3905,
+        "votos": 58,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.57
+    },
+    {
+        "parroquia": "PELILEO",
+        "id": 5780,
+        "votos": 546,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.00
+    },
+    {
+        "parroquia": "PELILEO GRANDE R. MINO",
+        "id": 5900,
+        "votos": 18,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.18
+    }
+]

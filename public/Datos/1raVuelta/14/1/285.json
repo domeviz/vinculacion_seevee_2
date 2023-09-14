@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON LA UNION",
+        "id": 15,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CAÑARIBAMBA",
+        "id": 4610,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    }
+]

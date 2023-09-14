@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 113,
+        "candidato": "Ximena Peña",
+        "value": 5.20
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 154,
+        "candidato": "Ximena Peña",
+        "value": 5.10
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 136,
+        "candidato": "Ximena Peña",
+        "value": 4.02
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 116,
+        "candidato": "Ximena Peña",
+        "value": 4.72
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 136,
+        "candidato": "Ximena Peña",
+        "value": 3.86
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 140,
+        "candidato": "Ximena Peña",
+        "value": 2.86
+    },
+        {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 1257,
+        "candidato": "Ximena Peña",
+        "value": 2.42
+    }
+]

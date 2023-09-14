@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.24
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 55,
+        "candidato": "Guillermo Celi",
+        "value": 0.29
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.44
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 346,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 172,
+        "candidato": "Guillermo Celi",
+        "value": 0.31
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 76,
+        "candidato": "Guillermo Celi",
+        "value": 0.31
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 17,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.43
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.36
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 17,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.55
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.58
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 29,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.68
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.18
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 43,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 44,
+        "candidato": "Guillermo Celi",
+        "value": 0.35
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 62,
+        "candidato": "Guillermo Celi",
+        "value": 0.29
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 27,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 42,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 64,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.39
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 151,
+        "candidato": "Guillermo Celi",
+        "value": 0.42
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 48,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.38
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 4818,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    }
+]

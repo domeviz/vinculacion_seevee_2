@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 415,
+        "candidato": "Yaku Pérez",
+        "value": 34.73
+    },
+    {
+        "parroquia": "GARCIA MORENO  LLURIMAGUA",
+        "id": 1310,
+        "votos": 1199,
+        "candidato": "Yaku Pérez",
+        "value": 24.71
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 1032,
+        "candidato": "Yaku Pérez",
+        "value": 31.65
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 330,
+        "candidato": "Yaku Pérez",
+        "value": 32.26
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 151,
+        "candidato": "Yaku Pérez",
+        "value": 39.43
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 1243,
+        "candidato": "Yaku Pérez",
+        "value": 27.37
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 547,
+        "candidato": "Yaku Pérez",
+        "value": 44.01
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 82,
+        "candidato": "Yaku Pérez",
+        "value": 24.33
+    },
+    {
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 3178,
+        "candidato": "Yaku Pérez",
+        "value": 27.80
+    }
+]

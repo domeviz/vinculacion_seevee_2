@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 969,
+        "candidato": "Andrés Arauz",
+        "value": 42.35
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 1485,
+        "candidato": "Andrés Arauz",
+        "value": 26.35
+    },
+    {
+        "parroquia": "AUGUSTO N MARTÍNEZ",
+        "id": 210,
+        "votos": 1370,
+        "candidato": "Andrés Arauz",
+        "value": 26.36
+    },
+    {
+        "parroquia": "CONSTANTINO FERNÁNDEZ",
+        "id": 635,
+        "votos": 333,
+        "candidato": "Andrés Arauz",
+        "value": 21.99
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 496,
+        "candidato": "Andrés Arauz",
+        "value": 26.70
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 316,
+        "candidato": "Andrés Arauz",
+        "value": 23.72
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 1211,
+        "candidato": "Andrés Arauz",
+        "value": 22.86
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 2655,
+        "candidato": "Andrés Arauz",
+        "value": 24.27
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 814,
+        "candidato": "Andrés Arauz",
+        "value": 25.20
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 587,
+        "candidato": "Andrés Arauz",
+        "value": 29.03
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 1151,
+        "candidato": "Andrés Arauz",
+        "value": 43.45
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 1965,
+        "candidato": "Andrés Arauz",
+        "value": 23.40
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 1295,
+        "candidato": "Andrés Arauz",
+        "value": 31.06
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 1595,
+        "candidato": "Andrés Arauz",
+        "value": 36.91
+    },
+    {
+        "parroquia": "SAN BARTOLOMÉ",
+        "id": 3355,
+        "votos": 1169,
+        "candidato": "Andrés Arauz",
+        "value": 23.54
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 386,
+        "candidato": "Andrés Arauz",
+        "value": 34.81
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 2249,
+        "candidato": "Andrés Arauz",
+        "value": 26.48
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 1207,
+        "candidato": "Andrés Arauz",
+        "value": 32.10
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 25060,
+        "candidato": "Andrés Arauz",
+        "value": 21.80
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "BOLÍVAR",
+        "id": 355,
+        "votos": 584,
+        "candidato": "Andrés Arauz",
+        "value": 76.24
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 1010,
+        "votos": 909,
+        "candidato": "Andrés Arauz",
+        "value": 85.59
+    },
+    {
+        "parroquia": "GALERA",
+        "id": 1305,
+        "votos": 662,
+        "candidato": "Andrés Arauz",
+        "value": 75.06
+    },
+    {
+        "parroquia": "QUINGUE",
+        "id": 3125,
+        "votos": 366,
+        "candidato": "Andrés Arauz",
+        "value": 74.09
+    },
+    {
+        "parroquia": "SALIMA",
+        "id": 3280,
+        "votos": 684,
+        "candidato": "Andrés Arauz",
+        "value": 84.03
+    },
+    {
+        "parroquia": "SAN FRANCISCO",
+        "id": 3390,
+        "votos": 1158,
+        "candidato": "Andrés Arauz",
+        "value": 74.52
+    },
+    {
+        "parroquia": "SAN GREGORIO",
+        "id": 3430,
+        "votos": 2092,
+        "candidato": "Andrés Arauz",
+        "value": 72.39
+    },
+    {
+        "parroquia": "SAN JOSÉ DE CHAMANGA",
+        "id": 3470,
+        "votos": 2058,
+        "candidato": "Andrés Arauz",
+        "value": 76.31
+    },
+    {
+        "parroquia": "MUISNE",
+        "id": 5670,
+        "votos": 4183,
+        "candidato": "Andrés Arauz",
+        "value": 62.45
+    }
+]

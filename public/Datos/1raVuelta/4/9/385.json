@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUAYAS PUERTO NUEVO",
+        "id": 1470,
+        "votos": 136,
+        "candidato": "Xavier Hervas",
+        "value": 3.70
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1640,
+        "votos": 144,
+        "candidato": "Xavier Hervas",
+        "value": 4.62
+    },
+    {
+        "parroquia": "VELASCO IBARRA",
+        "id": 6225,
+        "votos": 3773,
+        "candidato": "Xavier Hervas",
+        "value": 9.18
+    }
+]

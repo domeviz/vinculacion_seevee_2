@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 52,
+        "candidato": "Guillermo Celi",
+        "value": 2.39
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 77,
+        "candidato": "Guillermo Celi",
+        "value": 2.55
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 52,
+        "candidato": "Guillermo Celi",
+        "value": 1.54
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 47,
+        "candidato": "Guillermo Celi",
+        "value": 1.91
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 98,
+        "candidato": "Guillermo Celi",
+        "value": 2.78
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 188,
+        "candidato": "Guillermo Celi",
+        "value": 3.84
+    },
+      {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 1773,
+        "candidato": "Guillermo Cel",
+        "value":3.39
+    }
+]

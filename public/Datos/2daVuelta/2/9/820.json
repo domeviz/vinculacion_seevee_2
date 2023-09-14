@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ELOY ALFARO  / DURÁN",
+        "id": 6525,
+        "votos": 57919,
+        "candidato": "Andrés Arauz",
+        "value": 56.16
+    },
+    {
+        "parroquia": "EL RECREO",
+        "id": 7455,
+        "votos": 16485,
+        "candidato": "Andrés Arauz",
+        "value": 64.12
+    },
+    {
+        "parroquia": "DIVINO NIÑO",
+        "id": 7515,
+        "votos": 9928,
+        "candidato": "Andrés Arauz",
+        "value": 64.25
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 1.26
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 1.42
+    },
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 114,
+        "candidato": "Guillermo Celi",
+        "value": 1.61
+    }
+]

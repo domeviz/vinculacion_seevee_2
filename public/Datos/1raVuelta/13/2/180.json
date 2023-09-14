@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 35,
+        "candidato": "Gustavo Larrea",
+        "value": 0.95
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 25,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    }
+]

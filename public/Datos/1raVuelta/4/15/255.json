@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "GONZALO DIAZ DE PINEDA",
+        "id": 1020,
+        "votos": 75,
+        "candidato": "Xavier Hervas",
+        "value": 16.16
+    },
+    {
+        "parroquia": "LINARES",
+        "id": 2180,
+        "votos": 41,
+        "candidato": "Xavier Hervas",
+        "value": 17.90
+    },
+    {
+        "parroquia": "OYACACHI",
+        "id": 2640,
+        "votos": 20,
+        "candidato": "Xavier Hervas",
+        "value": 4.18
+    },
+    {
+        "parroquia": "SANTA ROSA DE QUIJOS",
+        "id": 3745,
+        "votos": 141,
+        "candidato": "Xavier Hervas",
+        "value": 17.39
+    },
+    {
+        "parroquia": "SARDINAS",
+        "id": 3790,
+        "votos": 63,
+        "candidato": "Xavier Hervas",
+        "value": 16.89
+    },
+    {
+        "parroquia": "EL CHACO",
+        "id": 5510,
+        "votos": 827,
+        "candidato": "Xavier Hervas",
+        "value": 23.16
+    }
+]

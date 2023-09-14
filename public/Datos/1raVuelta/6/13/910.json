@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COJIMIES",
+        "id": 580,
+        "votos": 68,
+        "candidato": "Isidro Romero",
+        "value": 1.35
+    },
+    {
+        "parroquia": "ATAHUALPA",
+        "id": 785,
+        "votos": 11,
+        "candidato": "Isidro Romero",
+        "value": 0.74
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1030,
+        "votos": 22,
+        "candidato": "Isidro Romero",
+        "value": 0.88
+    },
+    {
+        "parroquia": "PEDERNALES",
+        "id": 6430,
+        "votos": 304,
+        "candidato": "Isidro Romero",
+        "value": 1.23
+    }
+]

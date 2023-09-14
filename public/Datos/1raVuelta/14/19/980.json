@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "TRIUNFO DORADO",
+        "id": 4385,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "PANGUINTZA",
+        "id": 4600,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ZUMBI",
+        "id": 6625,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    }
+]

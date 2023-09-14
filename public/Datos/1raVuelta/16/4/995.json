@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MARISCAL SUCRE",
+        "id": 1520,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "HUACA",
+        "id": 6665,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

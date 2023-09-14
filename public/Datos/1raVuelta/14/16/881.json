@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CURARAY",
+        "id": 735,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.07
+    },
+    {
+        "parroquia": "ARAJUNO",
+        "id": 6705,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    }
+]

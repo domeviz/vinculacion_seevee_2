@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JACINTO",
+        "id": 1435,
+        "votos": 83,
+        "candidato": "Xavier Hervas",
+        "value": 3.55
+    },
+    {
+        "parroquia": "COLIMES",
+        "id": 5365,
+        "votos": 626,
+        "candidato": "Xavier Hervas",
+        "value": 5.17
+    }
+]

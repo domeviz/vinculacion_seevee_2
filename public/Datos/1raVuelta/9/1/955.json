@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 1,
+        "candidato": "Ximena Peña",
+        "value": 0.17
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 17,
+        "candidato": "Ximena Peña",
+        "value": 1.13
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 1.01
+    }
+]

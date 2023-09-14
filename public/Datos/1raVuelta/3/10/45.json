@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 214,
+        "candidato": "Yaku Pérez",
+        "value": 23.11
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 971,
+        "candidato": "Yaku Pérez",
+        "value": 27.10
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 483,
+        "candidato": "Yaku Pérez",
+        "value": 23.38
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 1929,
+        "candidato": "Yaku Pérez",
+        "value": 30.20
+    },
+    {
+        "parroquia": "ANDRADE MARIN LOURDES",
+        "id": 5025,
+        "votos": 788,
+        "candidato": "Yaku Pérez",
+        "value": 25.53
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 2461,
+        "candidato": "Yaku Pérez",
+        "value": 19.37
+    }
+]

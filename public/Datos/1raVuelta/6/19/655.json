@@ -1,0 +1,56 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.31
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.78
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.18
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.63
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 29,
+        "candidato": "Isidro Romero",
+        "value": 0.30
+    },
+    {
+        "parroquia": "EL LIMON",
+        "id": 6840,
+     "fill":"#EF8A62"
+    }
+]

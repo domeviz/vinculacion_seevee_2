@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 166,
+        "candidato": "Xavier Hervas",
+        "value": 7.15
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 1094,
+        "candidato": "Xavier Hervas",
+        "value": 7.84
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 193,
+        "candidato": "Xavier Hervas",
+        "value": 3.38
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 641,
+        "candidato": "Xavier Hervas",
+        "value": 9.80
+    },
+    {
+        "parroquia": "PASCUALES",
+        "id": 90150,
+        "votos": 149064,
+        "candidato": "Xavier Hervas",
+        "value": 8.77
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 12,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "LA PILA",
+        "id": 1545,
+        "votos": 219,
+        "candidato": "Xavier Hervas",
+        "value": 10.55
+    },
+    {
+        "parroquia": "MONTECRISTI",
+        "id": 5665,
+        "votos": 3159,
+        "candidato": "Xavier Hervas",
+        "value": 10.87
+    },
+    {
+        "parroquia": "ANIBAL SAN ANDRÉS",
+        "id": 7460,
+        "votos": 209,
+        "candidato": "Xavier Hervas",
+        "value": 10.39
+    },
+    {
+        "parroquia": "COLORADO",
+        "id": 7490,
+        "votos": 198,
+        "candidato": "Xavier Hervas",
+        "value": 14.82
+    },
+    {
+        "parroquia": "LEONIDAS PROAÑO",
+        "id": 7495,
+        "votos": 907,
+        "candidato": "Xavier Hervas",
+        "value": 10.53
+    },
+    {
+        "parroquia": "GENERAL ELOY ALFARO DELGA",
+        "id": 7500,
+        "votos": 213,
+        "candidato": "Xavier Hervas",
+        "value": 12.66
+    }
+]

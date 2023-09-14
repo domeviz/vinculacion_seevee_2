@@ -1,0 +1,52 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 11,
+        "candidato": "César Montúfar",
+        "value": 0.51
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 28,
+        "candidato": "César Montúfar",
+        "value": 0.93
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 17,
+        "candidato": "César Montúfar",
+        "value": 0.50
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 25,
+        "candidato": "César Montúfar",
+        "value": 1.02
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 31,
+        "candidato": "César Montúfar",
+        "value": 0.88
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 17,
+        "candidato": "César Montúfar",
+        "value": 0.35
+    },
+     {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 226,
+        "candidato": "César Montúfar",
+        "value": 0.70
+    }
+
+]

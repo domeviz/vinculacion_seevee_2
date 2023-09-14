@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 267,
+        "candidato": "Andrés Arauz",
+        "value": 45.25
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 583,
+        "candidato": "Andrés Arauz",
+        "value": 38.66
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 812,
+        "candidato": "Andrés Arauz",
+        "value": 51.42
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA RAMA",
+        "id": 2085,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.76
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2145,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SABIANGO",
+        "id": 3265,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.72
+    },
+    {
+        "parroquia": "GRAL.ELOY ALFARO",
+        "id": 5385,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.22
+    },
+    {
+        "parroquia": "MACARA",
+        "id": 5680,
+        "votos": 53,
+        "candidato": "Ximena Peña",
+        "value": 0.63
+    }
+]

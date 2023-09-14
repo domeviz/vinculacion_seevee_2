@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TOMAS DE BERLANGA",
+        "id": 4165,
+        "votos": 3,
+        "candidato": "Isidro Romero",
+        "value": 1.96
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 13,
+        "candidato": "Isidro Romero",
+        "value": 0.94
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.18
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 1.36
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.63
+    },
+    {
+        "parroquia": "MONTALVO HORQUETA",
+        "id": 2445,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 0.63
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 15,
+        "candidato": "Pedro Freile",
+        "value": 0.48
+    },
+    {
+        "parroquia": "RÍO VERDE",
+        "id": 6720,
+        "votos": 18,
+        "candidato": "Pedro Freile",
+        "value": 0.51
+    }
+]

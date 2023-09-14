@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 143,
+        "candidato": "Xavier Hervas",
+        "value": 4.35
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 179,
+        "candidato": "Xavier Hervas",
+        "value": 3.73
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 71,
+        "candidato": "Xavier Hervas",
+        "value": 2.47
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 97,
+        "candidato": "Xavier Hervas",
+        "value": 4.27
+    },
+    {
+        "parroquia": "PAJÁN",
+        "id": 5755,
+        "votos": 1016,
+        "candidato": "Xavier Hervas",
+        "value": 8.52
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.11
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SANSAHUARI",
+        "id": 4745,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.24
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.38
+    }
+]

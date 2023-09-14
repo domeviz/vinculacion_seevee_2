@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 86,
+        "candidato": "Juan Velasco",
+        "value": 0.68
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 131,
+        "candidato": "Juan Velasco",
+        "value": 0.68
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 6,
+        "candidato": "Juan Velasco",
+        "value": 0.53
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 32,
+        "candidato": "Juan Velasco",
+        "value": 1.00
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 895,
+        "candidato": "Juan Velasco",
+        "value": 0.97
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 398,
+        "candidato": "Juan Velasco",
+        "value": 0.72
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 123,
+        "candidato": "Juan Velasco",
+        "value": 0.49
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 3,
+        "candidato": "Juan Velasco",
+        "value": 0.60
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 34,
+        "candidato": "Juan Velasco",
+        "value": 0.69
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 2,
+        "candidato": "Juan Velasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 24,
+        "candidato": "Juan Velasco",
+        "value": 1.09
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 67,
+        "candidato": "Juan Velasco",
+        "value": 0.67
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 28,
+        "candidato": "Juan Velasco",
+        "value": 0.61
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 59,
+        "candidato": "Juan Velasco",
+        "value": 0.91
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 7,
+        "candidato": "Juan Velasco",
+        "value": 0.48
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 11,
+        "candidato": "Juan Velasco",
+        "value": 0.72
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 12,
+        "candidato": "Juan Velasco",
+        "value": 0.63
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 61,
+        "candidato": "Juan Velasco",
+        "value": 0.81
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 13,
+        "candidato": "Juan Velasco",
+        "value": 1.27
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 13,
+        "candidato": "Juan Velasco",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 4,
+        "candidato": "Juan Velasco",
+        "value": 0.73
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 91,
+        "candidato": "Juan Velasco",
+        "value": 0.83
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 79,
+        "candidato": "Juan Velasco",
+        "value": 0.62
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 158,
+        "candidato": "Juan Velasco",
+        "value": 0.73
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 19,
+        "candidato": "Juan Velasco",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 82,
+        "candidato": "Juan Velasco",
+        "value": 0.91
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 123,
+        "candidato": "Juan Velasco",
+        "value": 1.07
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 161,
+        "candidato": "Juan Velasco",
+        "value": 0.76
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 26,
+        "candidato": "Juan Velasco",
+        "value": 0.63
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 11,
+        "candidato": "Juan Velasco",
+        "value": 0.63
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 322,
+        "candidato": "Juan Velasco",
+        "value": 0.89
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 126,
+        "candidato": "Juan Velasco",
+        "value": 0.99
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 44,
+        "candidato": "Juan Velasco",
+        "value": 1.19
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 10815,
+        "candidato": "Juan Velasco",
+        "value": 0.83
+    }
+]

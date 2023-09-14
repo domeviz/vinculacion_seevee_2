@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "CUTCHIL",
+        "id": 750,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.13
+    },
+    {
+        "parroquia": "GIMA",
+        "id": 1355,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    },
+    {
+        "parroquia": "GUEL",
+        "id": 1490,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LUDO",
+        "id": 2215,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN BARTOLOME",
+        "id": 3360,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SAN JOSE DE RARANGA",
+        "id": 3495,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.25
+    },
+    {
+        "parroquia": "SIGSIG",
+        "id": 6085,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.13
+    }
+]

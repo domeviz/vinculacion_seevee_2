@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.69
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 1.47
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 3.35
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.86
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 1.48
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 0.75
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 23,
+        "candidato": "Ximena Peña",
+        "value": 1.22
+    }
+]

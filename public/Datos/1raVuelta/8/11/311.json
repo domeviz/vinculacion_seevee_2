@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "LA TINGUE",
+        "id": 2120,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "OLMEDO",
+        "id": 6730,
+        "votos": 12,
+        "candidato": "Gerson Almeida",
+        "value": 0.43
+    }
+]

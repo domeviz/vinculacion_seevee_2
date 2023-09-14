@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "GRAL. VERNAZA",
+        "id": 1350,
+        "votos": 15,
+        "candidato": "Giovanny Andrade",
+        "value": 0.35
+    },
+    {
+        "parroquia": "JUNQUILLAL",
+        "id": 1595,
+        "votos": 20,
+        "candidato": "Giovanny Andrade",
+        "value": 0.38
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4220,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    },
+    {
+        "parroquia": "BOCANA",
+        "id": 5120,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CANDILEJOS",
+        "id": 5155,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SALITRE",
+        "id": 5200,
+        "votos": 72,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    },
+    {
+        "parroquia": "PARAISO",
+        "id": 5765,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 5990,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 1.10
+    }
+]

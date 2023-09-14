@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "EL CARMEN DE PIJILI",
+        "id": 1130,
+        "votos": 12,
+        "candidato": "Paúl Carrasco",
+        "value": 1.42
+    },
+    {
+        "parroquia": "CAMILO PONCE ENRIQUEZ",
+        "id": 6875,
+        "votos": 76,
+        "candidato": "Paúl Carrasco",
+        "value": 0.68
+    }
+]

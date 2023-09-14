@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "ELOY ALFARO DURAN",
+        "id": 6525,
+        "votos": 410,
+        "candidato": "Carlos Sagnay",
+        "value": 0.41
+    },
+    {
+        "parroquia": "EL RECREO",
+        "id": 7455,
+        "votos": 72,
+        "candidato": "Carlos Sagnay",
+        "value": 0.29
+    },
+    {
+        "parroquia": "DIVINO NIÑO",
+        "id": 7515,
+        "votos": 62,
+        "candidato": "Carlos Sagnay",
+        "value": 0.40
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "CHUMBLIN",
+        "id": 4560,
+        "votos": 79,
+        "candidato": "Andrés Arauz",
+        "value": 21.58
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 6565,
+        "votos": 333,
+        "candidato": "Andrés Arauz",
+        "value": 13.42
+    }
+]

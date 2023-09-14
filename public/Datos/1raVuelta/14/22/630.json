@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.49
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 7485,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    }
+]

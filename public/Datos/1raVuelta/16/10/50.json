@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHUGA",
+        "id": 955,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "MARIANO ACOSTA",
+        "id": 2380,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE SIGSIPAMBA",
+        "id": 3415,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PIMAMPIRO",
+        "id": 5750,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    }
+]

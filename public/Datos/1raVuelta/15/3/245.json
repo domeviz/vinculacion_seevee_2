@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "JERUSALEN",
+        "id": 1085,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "NAZON",
+        "id": 2545,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN FCO. DE SAGEO",
+        "id": 3410,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TURUPAMBA",
+        "id": 4100,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BIBLIAN",
+        "id": 5115,
+        "votos": 13,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    }
+]

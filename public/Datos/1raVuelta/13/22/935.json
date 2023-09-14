@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.12
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.05
+    },
+    {
+        "parroquia": "SAN JOSE DE DAHUANO",
+        "id": 1680,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 0.39
+    },
+    {
+        "parroquia": "SAN JOSE DE PAYAMINO",
+        "id": 3480,
+        "votos": 14,
+        "candidato": "Gustavo Larrea",
+        "value": 0.92
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.36
+    }
+]

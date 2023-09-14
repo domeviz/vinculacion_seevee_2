@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 50,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.30
+    },
+    {
+        "parroquia": "MAGDALENA CHAPACOTO",
+        "id": 2315,
+        "votos": 62,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.53
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 35,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.26
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 76,
+        "candidato": "Lucio Gutiérrez",
+        "value": 6.30
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 132,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.00
+    }
+]

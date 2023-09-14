@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ACHUPALLAS",
+        "id": 20,
+        "votos": 124,
+        "candidato": "Ximena Peña",
+        "value": 2.50
+    },
+    {
+        "parroquia": "GUASUNTOS",
+        "id": 1465,
+        "votos": 20,
+        "candidato": "Ximena Peña",
+        "value": 2.13
+    },
+    {
+        "parroquia": "HUIGRA",
+        "id": 1660,
+        "votos": 12,
+        "candidato": "Ximena Peña",
+        "value": 1.17
+    },
+    {
+        "parroquia": "MULTITUD",
+        "id": 2485,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 1.11
+    },
+    {
+        "parroquia": "PISTISHI",
+        "id": 2905,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 1.78
+    },
+    {
+        "parroquia": "PUMALLACTA",
+        "id": 3025,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 2.44
+    },
+    {
+        "parroquia": "SEVILLA",
+        "id": 3820,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 2.12
+    },
+    {
+        "parroquia": "SIBAMBE",
+        "id": 3845,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 0.68
+    },
+    {
+        "parroquia": "TIXAN",
+        "id": 4030,
+        "votos": 53,
+        "candidato": "Ximena Peña",
+        "value": 0.91
+    },
+    {
+        "parroquia": "ALAUSI",
+        "id": 5010,
+        "votos": 93,
+        "candidato": "Ximena Peña",
+        "value": 1.26
+    }
+]

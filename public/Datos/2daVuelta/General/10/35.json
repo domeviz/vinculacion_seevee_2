@@ -1,0 +1,122 @@
+[
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 3368,
+        "votos1": 763,
+        "votos2": 2605,
+        "fill": "#EF8A62",
+        "porcentaje1": 22.65,
+        "porcentaje2": 77.35
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 3933,
+        "votos1": 912,
+        "votos2": 3021,
+        "fill": "#EF8A62",
+        "porcentaje1": 23.19,
+        "porcentaje2": 76.81
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 3272,
+        "votos1": 1063,
+        "votos2": 2209,
+        "fill": "#EF8A62",
+        "porcentaje1": 32.49,
+        "porcentaje2": 67.51
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 224,
+        "votos1": 145,
+        "votos2": 79,
+        "fill": "#045A8D",
+        "porcentaje1": 64.73,
+        "porcentaje2": 35.27
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 4396,
+        "votos1": 1857,
+        "votos2": 2539,
+        "fill": "#EF8A62",
+        "porcentaje1": 42.24,
+        "porcentaje2": 57.76
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 4396,
+        "votos1": 1349,
+        "votos2": 2770,
+        "fill": "#EF8A62",
+        "porcentaje1": 32.75,
+        "porcentaje2": 67.25
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 5585,
+        "votos1": 2812,
+        "votos2": 2773,
+        "fill": "#045A8D",
+        "porcentaje1": 50.35,
+        "porcentaje2": 49.65
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 3020,
+        "votos1": 470,
+        "votos2": 2550,
+        "fill": "#EF8A62",
+        "porcentaje1": 15.56,
+        "porcentaje2": 84.44
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 1025,
+        "votos1": 618,
+        "votos2": 407,
+        "fill": "#045A8D",
+        "porcentaje1": 60.29,
+        "porcentaje2": 39.71
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 31852,
+        "votos1": 16229,
+        "votos2": 15623,
+        "fill": "#045A8D",
+        "porcentaje1": 50.95,
+        "porcentaje2": 49.04
+    }
+]

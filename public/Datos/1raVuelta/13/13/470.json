@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 38,
+        "candidato": "Gustavo Larrea",
+        "value": 0.88
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 0.59
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 0.81
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 28,
+        "candidato": "Gustavo Larrea",
+        "value": 0.88
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 71,
+        "candidato": "Gustavo Larrea",
+        "value": 0.45
+    }
+]

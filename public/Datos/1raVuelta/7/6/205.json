@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 34,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.60
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 118,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.10
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 32,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.71
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.05
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 112,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.47
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 88,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.42
+    }
+]

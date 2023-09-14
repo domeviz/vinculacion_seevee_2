@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "GUASAGANDA",
+        "id": 1500,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.55
+    },
+    {
+        "parroquia": "PUCAYACO",
+        "id": 2965,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LA MANA",
+        "id": 6535,
+        "votos": 145,
+        "candidato": "Gerson Almeida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 6880,
+        "votos": 12,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 6895,
+        "votos": 18,
+        "candidato": "Gerson Almeida",
+        "value": 0.75
+    }
+]

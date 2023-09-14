@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 75,
+        "candidato": "Isidro Romero",
+        "value": 3.64
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 95,
+        "candidato": "Isidro Romero",
+        "value": 3.21
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 451,
+        "candidato": "Isidro Romero",
+        "value": 2.23
+    }
+]

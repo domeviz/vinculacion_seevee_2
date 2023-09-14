@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LLIGUA",
+        "id": 2270,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.08
+    },
+    {
+        "parroquia": "RIO NEGRO",
+        "id": 3190,
+        "votos": 39,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.00
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 3200,
+        "votos": 39,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.53
+    },
+    {
+        "parroquia": "ULBA",
+        "id": 4135,
+        "votos": 49,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.82
+    },
+    {
+        "parroquia": "BAÑOS",
+        "id": 5105,
+        "votos": 290,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.62
+    }
+]

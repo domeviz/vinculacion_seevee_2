@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 431,
+        "candidato": "Xavier Hervas",
+        "value": 10.91
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 398,
+        "candidato": "Xavier Hervas",
+        "value": 9.12
+    },
+    {
+        "parroquia": "GONZÁLEZ SUÁREZ",
+        "id": 1360,
+        "votos": 698,
+        "candidato": "Xavier Hervas",
+        "value": 16.98
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 43,
+        "candidato": "Xavier Hervas",
+        "value": 16.04
+    },
+    {
+        "parroquia": "SAN JOSÉ DE QUICHINCHE",
+        "id": 3490,
+        "votos": 528,
+        "candidato": "Xavier Hervas",
+        "value": 10.19
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMÁN",
+        "id": 3525,
+        "votos": 450,
+        "candidato": "Xavier Hervas",
+        "value": 9.11
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 1350,
+        "candidato": "Xavier Hervas",
+        "value": 20.32
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 152,
+        "candidato": "Xavier Hervas",
+        "value": 4.64
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 161,
+        "candidato": "Xavier Hervas",
+        "value": 14.57
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 6365,
+        "candidato": "Xavier Hervas",
+        "value": 17.90
+    }
+]

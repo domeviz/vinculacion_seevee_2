@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 102,
+        "candidato": "Lucio Gutiérrez",
+        "value": 4.74
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 498,
+        "candidato": "Lucio Gutiérrez",
+        "value": 17.73
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 179,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.20
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 657,
+        "candidato": "Lucio Gutiérrez",
+        "value": 14.07
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 5411,
+        "candidato": "Lucio Gutiérrez",
+        "value": 10.16
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 153,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.72
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 16,
+        "candidato": "Lucio Gutiérrez",
+        "value": 5.56
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 15,
+        "candidato": "Paúl Carrasco",
+        "value": 0.66
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.12
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 26,
+        "candidato": "Paúl Carrasco",
+        "value": 0.47
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 20,
+        "candidato": "Paúl Carrasco",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 17,
+        "candidato": "Paúl Carrasco",
+        "value": 0.49
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 64,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 131,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    }
+]

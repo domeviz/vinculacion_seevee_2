@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 1.32
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 133,
+        "candidato": "Ximena Peña",
+        "value": 1.24
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 38,
+        "candidato": "Ximena Peña",
+        "value": 2.04
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.88
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 98,
+        "candidato": "Ximena Peña",
+        "value": 1.28
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 83,
+        "candidato": "Ximena Peña",
+        "value": 1.34
+    }
+]

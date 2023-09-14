@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 22,
+        "candidato": "Isidro Romero",
+        "value": 1.16
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.79
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.81
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.31
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 142,
+        "candidato": "Isidro Romero",
+        "value": 0.92
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 4,
+        "candidato": "Isidro Romero",
+        "value": 0.49
+    }
+]

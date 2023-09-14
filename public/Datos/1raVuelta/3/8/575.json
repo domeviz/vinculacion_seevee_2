@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE  CHANCAMA",
+        "id": 700,
+        "votos": 374,
+        "candidato": "Yaku Pérez",
+        "value": 20.12
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 206,
+        "candidato": "Yaku Pérez",
+        "value": 23.90
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1530,
+        "votos": 1889,
+        "candidato": "Yaku Pérez",
+        "value": 17.01
+    },
+    {
+        "parroquia": "MALIMPIA  GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 1703,
+        "candidato": "Yaku Pérez",
+        "value": 23.09
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 660,
+        "candidato": "Yaku Pérez",
+        "value": 15.98
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 5624,
+        "candidato": "Yaku Pérez",
+        "value": 15.19
+    }
+]

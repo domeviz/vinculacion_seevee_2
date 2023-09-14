@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "JIJÓN Y CAAMAÑO",
+        "id": 1835,
+        "votos": 24,
+        "candidato": "Isidro Romero",
+        "value": 2.16
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 1875,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.84
+    },
+    {
+        "parroquia": "LA CONCEPCIÓN",
+        "id": 2010,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.31
+    },
+    {
+        "parroquia": "MIRA",
+        "id": 5685,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 1.07
+    }
+]

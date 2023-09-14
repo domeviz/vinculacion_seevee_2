@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAP. AUGUSTO RIVADENEIRA",
+        "id": 510,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CONONACO",
+        "id": 630,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 2.27
+    },
+    {
+        "parroquia": "STA. MARIA DE HUIRIRIMA",
+        "id": 3720,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 2.43
+    },
+    {
+        "parroquia": "YASUNI",
+        "id": 4295,
+        "votos": 2,
+        "candidato": "Ximena Peña",
+        "value": 0.83
+    },
+    {
+        "parroquia": "NUEVO ROCAFUERTE",
+        "id": 5700,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 0.91
+    },
+    {
+        "parroquia": "TIPUTINI",
+        "id": 7485,
+        "votos": 9,
+        "candidato": "Ximena Peña",
+        "value": 0.92
+    }
+]

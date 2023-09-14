@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.43
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.43
+    },
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.04
+    }
+]

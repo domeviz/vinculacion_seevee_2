@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BALZAPAMBA",
+        "id": 275,
+        "votos": 938,
+        "candidato": "Yaku Pérez",
+        "value": 44.00
+    },
+    {
+        "parroquia": "BILOVAN",
+        "id": 345,
+        "votos": 564,
+        "candidato": "Yaku Pérez",
+        "value": 39.75
+    },
+    {
+        "parroquia": "SAN PABLO DE ATENAS",
+        "id": 3595,
+        "votos": 1431,
+        "candidato": "Yaku Pérez",
+        "value": 43.26
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3775,
+        "votos": 484,
+        "candidato": "Yaku Pérez",
+        "value": 44.94
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 3900,
+        "votos": 266,
+        "candidato": "Yaku Pérez",
+        "value": 42.36
+    },
+    {
+        "parroquia": "REGULO DE MORA",
+        "id": 4515,
+        "votos": 267,
+        "candidato": "Yaku Pérez",
+        "value": 37.03
+    },
+    {
+        "parroquia": "SAN MIGUEL",
+        "id": 5995,
+        "votos": 3091,
+        "candidato": "Yaku Pérez",
+        "value": 35.25
+    }
+]

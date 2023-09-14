@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 86,
+        "candidato": "Xavier Hervas",
+        "value": 3.78
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 505,
+        "candidato": "Xavier Hervas",
+        "value": 11.72
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 273,
+        "candidato": "Xavier Hervas",
+        "value": 19.46
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 124,
+        "candidato": "Xavier Hervas",
+        "value": 4.01
+    },
+    {
+        "parroquia": "LICÁN",
+        "id": 2160,
+        "votos": 851,
+        "candidato": "Xavier Hervas",
+        "value": 20.86
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 413,
+        "candidato": "Xavier Hervas",
+        "value": 7.51
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 210,
+        "candidato": "Xavier Hervas",
+        "value": 5.68
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 319,
+        "candidato": "Xavier Hervas",
+        "value": 7.56
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 358,
+        "candidato": "Xavier Hervas",
+        "value": 10.24
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 549,
+        "candidato": "Xavier Hervas",
+        "value": 10.21
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 561,
+        "candidato": "Xavier Hervas",
+        "value": 12.91
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 9409,
+        "candidato": "Xavier Hervas",
+        "value": 26.09
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 18938,
+        "candidato": "Xavier Hervas",
+        "value": 20.93
+    }
+]

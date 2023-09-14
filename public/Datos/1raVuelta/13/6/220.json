@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAPZOL",
+        "id": 515,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.41
+    },
+    {
+        "parroquia": "COMPUD",
+        "id": 615,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    },
+    {
+        "parroquia": "GONZOL",
+        "id": 1370,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.56
+    },
+    {
+        "parroquia": "LLAGOS",
+        "id": 2260,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CHUNCHI",
+        "id": 5255,
+        "votos": 14,
+        "candidato": "Gustavo Larrea",
+        "value": 0.30
+    }
+]

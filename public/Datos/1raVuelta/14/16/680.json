@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CANELOS",
+        "id": 475,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.63
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 1025,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.17
+    },
+    {
+        "parroquia": "FATIMA",
+        "id": 1260,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL TRIUNFO",
+        "id": 1275,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "MONTALVO ANDOAS",
+        "id": 2450,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "POMONA",
+        "id": 3055,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    },
+    {
+        "parroquia": "RIO CORRIENTES",
+        "id": 3180,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.65
+    },
+    {
+        "parroquia": "RIO TIGRE",
+        "id": 3195,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.29
+    },
+    {
+        "parroquia": "ZARAYACU",
+        "id": 3785,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.06
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3985,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TNTE. HUGO ORTIZ",
+        "id": 4005,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "VERACRUZ",
+        "id": 4205,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.06
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 4510,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    },
+    {
+        "parroquia": "PUYO",
+        "id": 5825,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.08
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.51
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    }
+]

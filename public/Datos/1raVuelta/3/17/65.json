@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ASCAZUBI",
+        "id": 165,
+        "votos": 856,
+        "candidato": "Yaku Pérez",
+        "value": 27.03
+    },
+    {
+        "parroquia": "CANGAHUA",
+        "id": 480,
+        "votos": 3647,
+        "candidato": "Yaku Pérez",
+        "value": 41.85
+    },
+    {
+        "parroquia": "OLMEDO PESILLO",
+        "id": 2600,
+        "votos": 1563,
+        "candidato": "Yaku Pérez",
+        "value": 34.16
+    },
+    {
+        "parroquia": "OTON",
+        "id": 2635,
+        "votos": 888,
+        "candidato": "Yaku Pérez",
+        "value": 49.47
+    },
+    {
+        "parroquia": "STA.ROSA DE CUSUBAMBA",
+        "id": 3735,
+        "votos": 923,
+        "candidato": "Yaku Pérez",
+        "value": 38.30
+    },
+    {
+        "parroquia": "SAN JOSE DE AYORA",
+        "id": 4620,
+        "votos": 1583,
+        "candidato": "Yaku Pérez",
+        "value": 31.05
+    },
+    {
+        "parroquia": "CAYAMBE",
+        "id": 5190,
+        "votos": 6277,
+        "candidato": "Yaku Pérez",
+        "value": 20.21
+    },
+    {
+        "parroquia": "JUAN MONTALVO",
+        "id": 5495,
+        "votos": 913,
+        "candidato": "Yaku Pérez",
+        "value": 28.10
+    }
+]

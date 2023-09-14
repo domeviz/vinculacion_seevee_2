@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 1.06
+    },
+    {
+        "parroquia": "MAGDALENA CHAPACOTO",
+        "id": 2315,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 0.80
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 1.07
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 7,
+        "candidato": "Ximena Peña",
+        "value": 0.58
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 24,
+        "candidato": "Ximena Peña",
+        "value": 0.55
+    }
+]

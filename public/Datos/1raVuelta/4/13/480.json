@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 186,
+        "candidato": "Xavier Hervas",
+        "value": 8.55
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 225,
+        "candidato": "Xavier Hervas",
+        "value": 7.45
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 259,
+        "candidato": "Xavier Hervas",
+        "value": 7.66
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 198,
+        "candidato": "Xavier Hervas",
+        "value": 8.06
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 374,
+        "candidato": "Xavier Hervas",
+        "value": 10.60
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 483,
+        "candidato": "Xavier Hervas",
+        "value": 9.88
+    },
+     {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 8852,
+        "candidato": "Xavier Hervas",
+        "value": 16.92
+    }
+]

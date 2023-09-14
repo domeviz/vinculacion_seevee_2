@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 2309,
+        "candidato": "Andrés Arauz",
+        "value": 53.22
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 1457,
+        "candidato": "Andrés Arauz",
+        "value": 66.08
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 1980,
+        "candidato": "Andrés Arauz",
+        "value": 61.70
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 2053,
+        "candidato": "Andrés Arauz",
+        "value": 64.24
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 7944,
+        "candidato": "Andrés Arauz",
+        "value": 50.35
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SUSUDEL",
+        "id": 1540,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "OÑA",
+        "id": 6360,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.05
+    }
+]

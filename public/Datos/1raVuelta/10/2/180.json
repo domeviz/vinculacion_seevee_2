@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 44,
+        "candidato": "Guillermo Celi",
+        "value": 1.20
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 77,
+        "candidato": "Guillermo Celi",
+        "value": 1.00
+    }
+]

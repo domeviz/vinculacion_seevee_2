@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AMBUQUI CHOTA",
+        "id": 100,
+        "votos": 73,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.20
+    },
+    {
+        "parroquia": "ANGOCHAGUA",
+        "id": 130,
+        "votos": 40,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.61
+    },
+    {
+        "parroquia": "CAROLINA GUALLUPI",
+        "id": 530,
+        "votos": 45,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.93
+    },
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2020,
+        "votos": 130,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.54
+    },
+    {
+        "parroquia": "LITA",
+        "id": 2185,
+        "votos": 39,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.99
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3290,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.21
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3315,
+        "votos": 178,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.63
+    },
+    {
+        "parroquia": "IBARRA",
+        "id": 100150,
+        "votos": 1124,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.19
+    }
+]

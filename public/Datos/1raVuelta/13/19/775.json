@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "EL GUISMI",
+        "id": 665,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "TUNDAYME",
+        "id": 945,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PACHICUTZA",
+        "id": 1015,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.54
+    },
+    {
+        "parroquia": "EL PANGUI",
+        "id": 6355,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NOVILLO",
+        "id": 1600,
+        "votos": 11,
+        "candidato": "Carlos Sagnay",
+        "value": 0.83
+    },
+    {
+        "parroquia": "ZAPALLO",
+        "id": 1620,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.29
+    },
+    {
+        "parroquia": "FLAVIO ALFARO",
+        "id": 5480,
+        "votos": 79,
+        "candidato": "Carlos Sagnay",
+        "value": 0.57
+    }
+]

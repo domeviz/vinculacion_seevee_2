@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 385,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.12
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1180,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "AMARILLOS",
+        "id": 1450,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SANTA RUFINA",
+        "id": 3755,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "CHAGUARPAMBA",
+        "id": 6530,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    }
+]

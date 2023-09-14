@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 27,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 25,
+        "candidato": "Guillermo Celi",
+        "value": 0.64
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.47
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.08
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 15,
+        "candidato": "Guillermo Celi",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 21,
+        "candidato": "Guillermo Celi",
+        "value": 0.60
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 80,
+        "candidato": "Guillermo Celi",
+        "value": 0.37
+    }
+]

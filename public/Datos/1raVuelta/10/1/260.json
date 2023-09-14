@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 48,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.19
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.42
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 20,
+        "candidato": "Guillermo Celi",
+        "value": 0.74
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 12,
+        "candidato": "Guillermo Celi",
+        "value": 0.28
+    },
+    {
+        "parroquia": "MULTI    NULTI",
+        "id": 2570,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.68
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.13
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 37,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 18,
+        "candidato": "Guillermo Celi",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 16,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 27,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.17
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.16
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.26
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.10
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 613,
+        "candidato": "Guillermo Celi",
+        "value": 0.29
+    }
+]

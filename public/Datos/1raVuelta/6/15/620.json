@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 23,
+        "candidato": "Isidro Romero",
+        "value": 0.59
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.39
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 10,
+        "candidato": "Isidro Romero",
+        "value": 0.29
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.21
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 149,
+        "candidato": "Isidro Romero",
+        "value": 0.69
+    }
+]

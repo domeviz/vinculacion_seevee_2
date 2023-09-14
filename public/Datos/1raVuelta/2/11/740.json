@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "FUNDOCHAMBA",
+        "id": 360,
+        "votos": 67,
+        "candidato": "Andrés Arauz",
+        "value": 20.00
+    },
+    {
+        "parroquia": "SAN ANTONIO DE LAS ARADAS",
+        "id": 3345,
+        "votos": 187,
+        "candidato": "Andrés Arauz",
+        "value": 27.10
+    },
+    {
+        "parroquia": "QUILANGA  LA PAZ",
+        "id": 6260,
+        "votos": 351,
+        "candidato": "Andres Arauz",
+        "value": 18.85
+    }
+]

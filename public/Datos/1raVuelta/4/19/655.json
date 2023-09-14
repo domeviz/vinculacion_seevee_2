@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "CUMBARATZA",
+        "id": 720,
+        "votos": 823,
+        "candidato": "Xavier Hervas",
+        "value": 36.11
+    },
+    {
+        "parroquia": "GUADALUPE",
+        "id": 1390,
+        "votos": 475,
+        "candidato": "Xavier Hervas",
+        "value": 23.82
+    },
+    {
+        "parroquia": "SAN CARLOS DE LAS MINAS",
+        "id": 1770,
+        "votos": 414,
+        "candidato": "Xavier Hervas",
+        "value": 36.09
+    },
+    {
+        "parroquia": "LA VICTORIA DE IMBANA",
+        "id": 2155,
+        "votos": 48,
+        "candidato": "Xavier Hervas",
+        "value": 6.23
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 3260,
+        "votos": 83,
+        "candidato": "Xavier Hervas",
+        "value": 15.31
+    },
+    {
+        "parroquia": "TIMBARA",
+        "id": 4010,
+        "votos": 284,
+        "candidato": "Xavier Hervas",
+        "value": 25.59
+    },
+    {
+        "parroquia": "ZAMORA",
+        "id": 6305,
+        "votos": 3315,
+        "candidato": "Xavier Hervas",
+        "value": 34.84
+    },
+    {
+        "parroquia": "EL LIMÓN",
+        "id": 6840,
+        "votos": 116,
+        "candidato": "Xavier Hervas",
+        "value": 36.94
+    }
+]

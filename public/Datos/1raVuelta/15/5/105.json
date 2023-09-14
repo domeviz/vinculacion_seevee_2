@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 13,
+        "candidato": "Giovanny Andrade",
+        "value": 0.48
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 24,
+        "candidato": "Giovanny Andrade",
+        "value": 0.43
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.40
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 28,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 53,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    }
+]

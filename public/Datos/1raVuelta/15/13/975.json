@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 6,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.27
+    },
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 15,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    }
+]

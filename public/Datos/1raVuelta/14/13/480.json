@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 17,
+        "candidato": "Carlos Sagnay",
+        "value": 0.78
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 18,
+        "candidato": "Carlos Sagnay",
+        "value": 0.60
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 15,
+        "candidato": "Carlos Sagnay",
+        "value": 0.44
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 23,
+        "candidato": "Carlos Sagnay",
+        "value": 0.94
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 23,
+        "candidato": "Carlos Sagnay",
+        "value": 0.65
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.41
+    },
+     {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 238,
+        "candidato": "Carlos Sagnay",
+        "value": 0.45
+    }
+]

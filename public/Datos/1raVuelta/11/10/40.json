@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "APUELA",
+        "id": 145,
+        "votos": 8,
+        "candidato": "Juan Velasco",
+        "value": 0.67
+    },
+    {
+        "parroquia": "GARCIA MORENO LLURIMAGUA",
+        "id": 1310,
+        "votos": 22,
+        "candidato": "Juan Velasco",
+        "value": 0.45
+    },
+    {
+        "parroquia": "IMANTAG",
+        "id": 1710,
+        "votos": 45,
+        "candidato": "Juan Velasco",
+        "value": 1.38
+    },
+    {
+        "parroquia": "PEÑAHERRERA",
+        "id": 2820,
+        "votos": 4,
+        "candidato": "Juan Velasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "PLAZA GUTIERREZ CALVARIO",
+        "id": 2915,
+        "votos": 2,
+        "candidato": "Juan Velasco",
+        "value": 0.52
+    },
+    {
+        "parroquia": "QUIROGA",
+        "id": 3115,
+        "votos": 44,
+        "candidato": "Juan Velasco",
+        "value": 0.97
+    },
+    {
+        "parroquia": "6 DE JULIO DE CUELLAJE",
+        "id": 3800,
+        "votos": 4,
+        "candidato": "Juan Velasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "VACAS GALINDO",
+        "id": 4185,
+        "votos": 2,
+        "candidato": "Juan Velasco",
+        "value": 0.59
+    },
+    {
+        "parroquia": "COTACACHI",
+        "id": 100350,
+        "votos": 118,
+        "candidato": "Juan Velasco",
+        "value": 1.03
+    }
+]

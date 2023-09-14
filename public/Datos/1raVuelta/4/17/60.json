@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASÉ",
+        "id": 30,
+        "votos": 2784,
+        "candidato": "Xavier Hervas",
+        "value": 21.87
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 5275,
+        "candidato": "Xavier Hervas",
+        "value": 27.53
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 312,
+        "candidato": "Xavier Hervas",
+        "value": 27.54
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 887,
+        "candidato": "Xavier Hervas",
+        "value": 27.67
+    },
+    {
+        "parroquia": "CALDERÓN",
+        "id": 440,
+        "votos": 23446,
+        "candidato": "Xavier Hervas",
+        "value": 25.43
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 12714,
+        "candidato": "Xavier Hervas",
+        "value": 22.98
+    },
+    {
+        "parroquia": "CUMBAYÁ",
+        "id": 725,
+        "votos": 3404,
+        "candidato": "Xavier Hervas",
+        "value": 13.67
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 146,
+        "candidato": "Xavier Hervas",
+        "value": 29.08
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 1306,
+        "candidato": "Xavier Hervas",
+        "value": 26.53
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 213,
+        "candidato": "Xavier Hervas",
+        "value": 18.24
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 534,
+        "candidato": "Xavier Hervas",
+        "value": 24.21
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 2557,
+        "candidato": "Xavier Hervas",
+        "value": 25.65
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 938,
+        "candidato": "Xavier Hervas",
+        "value": 20.44
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 1663,
+        "candidato": "Xavier Hervas",
+        "value": 25.77
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 285,
+        "candidato": "Xavier Hervas",
+        "value": 19.57
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 306,
+        "candidato": "Xavier Hervas",
+        "value": 20.04
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 419,
+        "candidato": "Xavier Hervas",
+        "value": 22.16
+    },
+    {
+        "parroquia": "NAYÓN",
+        "id": 2540,
+        "votos": 1699,
+        "candidato": "Xavier Hervas",
+        "value": 22.56
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 135,
+        "candidato": "Xavier Hervas",
+        "value": 13.20
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 336,
+        "candidato": "Xavier Hervas",
+        "value": 12.41
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 151,
+        "candidato": "Xavier Hervas",
+        "value": 27.45
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 2594,
+        "candidato": "Xavier Hervas",
+        "value": 23.79
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 2228,
+        "candidato": "Xavier Hervas",
+        "value": 17.52
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 5236,
+        "candidato": "Xavier Hervas",
+        "value": 24.16
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 1021,
+        "candidato": "Xavier Hervas",
+        "value": 25.53
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 2065,
+        "candidato": "Xavier Hervas",
+        "value": 22.88
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 2775,
+        "candidato": "Xavier Hervas",
+        "value": 24.24
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 5263,
+        "candidato": "Xavier Hervas",
+        "value": 24.86
+    },
+    {
+        "parroquia": "SAN JOSÉ DE MINAS",
+        "id": 3475,
+        "votos": 994,
+        "candidato": "Xavier Hervas",
+        "value": 24.00
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 423,
+        "candidato": "Xavier Hervas",
+        "value": 24.41
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 7833,
+        "candidato": "Xavier Hervas",
+        "value": 21.73
+    },
+    {
+        "parroquia": "YARUQUÍ",
+        "id": 4290,
+        "votos": 3325,
+        "candidato": "Xavier Hervas",
+        "value": 26.03
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 998,
+        "candidato": "Xavier Hervas",
+        "value": 27.03
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 303564,
+        "candidato": "Xavier Hervas",
+        "value": 23.25
+    }
+]

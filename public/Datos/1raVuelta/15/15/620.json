@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.25
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.06
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.08
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 24,
+        "candidato": "Giovanny Andrade",
+        "value": 0.11
+    }
+]

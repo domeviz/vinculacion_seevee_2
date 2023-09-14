@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1975,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.50
+    },
+    {
+        "parroquia": "BALSAS",
+        "id": 6590,
+        "votos": 27,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.60
+    }
+]

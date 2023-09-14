@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 2100,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.18
+    }
+]

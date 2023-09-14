@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "ANTONIO J. HOLGUÍN",
+        "id": 135,
+        "votos": 401,
+        "candidato": "Andrés Arauz",
+        "value": 27.89
+    },
+    {
+        "parroquia": "CUSUBAMBA",
+        "id": 745,
+        "votos": 1200,
+        "candidato": "Andrés Arauz",
+        "value": 42.74
+    },
+    {
+        "parroquia": "MULALILLO",
+        "id": 2475,
+        "votos": 828,
+        "candidato": "Andrés Arauz",
+        "value": 31.34
+    },
+    {
+        "parroquia": "MULLIQUINDIL",
+        "id": 2490,
+        "votos": 1007,
+        "candidato": "Andrés Arauz",
+        "value": 30.60
+    },
+    {
+        "parroquia": "PANZALEO",
+        "id": 2760,
+        "votos": 577,
+        "candidato": "Andrés Arauz",
+        "value": 36.31
+    },
+    {
+        "parroquia": "SAN MIGUEL DE SALCEDO",
+        "id": 6000,
+        "votos": 5871,
+        "candidato": "Andrés Arauz",
+        "value": 33.10
+    }
+]

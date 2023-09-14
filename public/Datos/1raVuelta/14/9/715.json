@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 148,
+        "candidato": "Carlos Sagnay",
+        "value": 0.60
+    }
+]

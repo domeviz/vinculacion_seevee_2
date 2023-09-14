@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN RAFAEL DE SHARUG",
+        "id": 1690,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 1.22
+    },
+    {
+        "parroquia": "PUCARÁ",
+        "id": 5690,
+        "votos": 45,
+        "candidato": "Pedro Freile",
+        "value": 0.98
+    }
+]

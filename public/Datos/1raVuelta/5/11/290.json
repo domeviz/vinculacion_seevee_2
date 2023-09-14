@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.68
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 1.17
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.63
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 178,
+        "candidato": "Pedro Freile",
+        "value": 1.15
+    },
+    {
+        "parroquia": "SAN JOSÉ",
+        "id": 6825,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.37
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CANI",
+        "id": 500,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "value": 0.00
+    },
+    {
+        "parroquia": "COLUMBE",
+        "id": 610,
+        "votos": 165,
+        "candidato": "Gerson Almeida",
+        "value": 1.54
+    },
+    {
+        "parroquia": "JUAN DE VELASCO PONGOR",
+        "id": 1865,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SANTIAGO DE QUITO",
+        "id": 4430,
+        "votos": 40,
+        "candidato": "Gerson Almeida",
+        "value": 3.01
+    },
+    {
+        "parroquia": "CAJABAMBA",
+        "id": 5145,
+        "votos": 103,
+        "candidato": "Gerson Almeida",
+        "value": 1.35
+    },
+    {
+        "parroquia": "SICALPA",
+        "id": 6080,
+        "votos": 94,
+        "candidato": "Gerson Almeida",
+        "value": 1.52
+    }
+]

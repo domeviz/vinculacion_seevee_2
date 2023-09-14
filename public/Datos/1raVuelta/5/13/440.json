@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDÓN CALDERÓN",
+        "id": 10,
+        "votos": 54,
+        "candidato": "Pedro Freile",
+        "value": 0.60
+    },
+    {
+        "parroquia": "ALHAJUELA BAJO GRANDE",
+        "id": 50,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 0.45
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 39,
+        "candidato": "Pedro Freile",
+        "value": 0.50
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.28
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 0.74
+    },
+    {
+        "parroquia": "RÍO CHICO",
+        "id": 3185,
+        "votos": 42,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 16,
+        "candidato": "Pedro Freile",
+        "value": 0.30
+    },
+    {
+        "parroquia": "ANDRÉS DE VERA",
+        "id": 5030,
+        "votos": 372,
+        "candidato": "Pedro Freile",
+        "value": 0.77
+    },
+    {
+        "parroquia": "COLÓN",
+        "id": 5265,
+        "votos": 76,
+        "candidato": "Pedro Freile",
+        "value": 0.63
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 166,
+        "candidato": "Pedro Freile",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 149,
+        "candidato": "Pedro Freile",
+        "value": 0.74
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 59,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 26,
+        "candidato": "Pedro Freile",
+        "value": 0.50
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 80,
+        "candidato": "Pedro Freile",
+        "value": 1.11
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 36,
+        "candidato": "Pedro Freile",
+        "value": 0.67
+    },
+    {
+        "parroquia": "SIMÓN BOLÍVAR",
+        "id": 6910,
+        "votos": 12,
+        "candidato": "Pedro Freile",
+        "value": 0.44
+    }
+]

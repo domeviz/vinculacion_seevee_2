@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 25,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.01
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 29,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.50
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 37,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.94
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 29,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.68
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.88
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 69,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.54
+    }
+]

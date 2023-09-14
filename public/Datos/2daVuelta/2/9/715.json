@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VÍRGEN",
+        "id": 185,
+        "votos": 1603,
+        "candidato": "Andrés Arauz",
+        "value": 75.86
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 2144,
+        "candidato": "Andrés Arauz",
+        "value": 69.43
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 16908,
+        "candidato": "Andrés Arauz",
+        "value": 65.76
+    }
+]

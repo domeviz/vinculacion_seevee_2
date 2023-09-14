@@ -1,0 +1,40 @@
+[
+    {
+        "parroquia": "CHITO",
+        "id": 915,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.50
+    },
+    {
+        "parroquia": "EL CHORRO",
+        "id": 1145,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.37
+    },
+    {
+        "parroquia": "LA CHONTA",
+        "id": 2015,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "SAN ANDRÉS",
+        "id": 2110,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PUCAPAMBA",
+        "id": 2955,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "ZUMBA",
+        "id": 6315,
+        "votos": 23,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    }
+]

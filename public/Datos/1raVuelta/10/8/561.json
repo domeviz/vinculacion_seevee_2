@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.43
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 9,
+        "candidato": "Guillermo Celi",
+        "value": 0.58
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 11,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "MONTALVO HORQUETA",
+        "id": 2445,
+        "votos": 10,
+        "candidato": "Guillermo Celi",
+        "value": 0.45
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 19,
+        "candidato": "Guillermo Celi",
+        "value": 0.54
+    }
+]

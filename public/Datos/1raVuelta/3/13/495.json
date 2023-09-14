@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CAMPOZANO",
+        "id": 460,
+        "votos": 416,
+        "candidato": "Yaku Pérez",
+        "value": 12.67
+    },
+    {
+        "parroquia": "CASCOL",
+        "id": 540,
+        "votos": 470,
+        "candidato": "Yaku Pérez",
+        "value": 9.80
+    },
+    {
+        "parroquia": "GUALE STO.DOMINGO",
+        "id": 1395,
+        "votos": 190,
+        "candidato": "Yaku Pérez",
+        "value": 6.62
+    },
+    {
+        "parroquia": "LASCANO",
+        "id": 2090,
+        "votos": 148,
+        "candidato": "Yaku Pérez",
+        "value": 6.51
+    },
+    {
+        "parroquia": "PAJAN",
+        "id": 5755,
+        "votos": 2094,
+        "candidato": "Yaku Pérez",
+        "value": 17.56
+    }
+]

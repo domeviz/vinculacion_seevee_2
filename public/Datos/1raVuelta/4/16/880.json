@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSÉ",
+        "id": 2100,
+        "votos": 78,
+        "candidato": "Xavier Hervas",
+        "value": 12.89
+    },
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 369,
+        "candidato": "Xavier Hervas",
+        "value": 13.48
+    }
+]

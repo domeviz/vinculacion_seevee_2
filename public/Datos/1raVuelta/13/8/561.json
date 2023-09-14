@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CHONTADURO",
+        "id": 930,
+        "votos": 18,
+        "candidato": "Gustavo Larrea",
+        "value": 1.10
+    },
+    {
+        "parroquia": "CHUMUNDE",
+        "id": 965,
+        "votos": 44,
+        "candidato": "Gustavo Larrea",
+        "value": 2.85
+    },
+    {
+        "parroquia": "LAGARTO",
+        "id": 2035,
+        "votos": 18,
+        "candidato": "Gustavo Larrea",
+        "value": 0.75
+    },
+    {
+        "parroquia": "MONTALVO HORQUETA",
+        "id": 2445,
+        "votos": 30,
+        "candidato": "Gustavo Larrea",
+        "value": 1.34
+    },
+    {
+        "parroquia": "ROCAFUERTE",
+        "id": 3215,
+        "votos": 50,
+        "candidato": "Gustavo Larrea",
+        "value": 1.59
+    },
+    {
+        "parroquia": "RIO VERDE",
+        "id": 6720,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 0.74
+    }
+]

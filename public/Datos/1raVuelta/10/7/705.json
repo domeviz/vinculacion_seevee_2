@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.22
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 4530,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 1.00
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 1,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.11
+    }
+]

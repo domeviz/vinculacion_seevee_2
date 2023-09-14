@@ -1,0 +1,26 @@
+[
+    {
+        "candidato2": "Yaku Pérez",
+        "candidato1": "Xavier Hervas",
+        "parroquia": "QUINCHICOTO",
+        "id": 1375,
+        "votos": 658,
+        "votos1": 237,
+        "fill": "#e2943a",
+        "votos2": 150,
+        "porcentaje1": 36.02,
+        "porcentaje2": 22.80
+    },
+    {
+        "candidato2": "Xavier Hervas",
+        "candidato1": "Yaku Pérez",
+        "parroquia": "TISALEO",
+        "id": 5515,
+        "votos": 7179,
+        "votos1": 2577,
+        "fill": "#9B59B6",
+        "votos2": 1829,
+        "porcentaje1": 35.90,
+        "porcentaje2": 25.48
+    }
+]

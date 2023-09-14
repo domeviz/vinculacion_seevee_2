@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COPAL",
+        "id": 645,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CHUPIANZA",
+        "id": 970,
+        "votos": 0,
+        "candidato": "Gerson Almeida",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN FCO. DE CHINIMBIMI",
+        "id": 1365,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.39
+    },
+    {
+        "parroquia": "PATUCA",
+        "id": 2795,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SAN LUIS DEL ACHO",
+        "id": 3565,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.25
+    },
+    {
+        "parroquia": "TAYUZA",
+        "id": 4115,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.20
+    },
+    {
+        "parroquia": "MENDEZ",
+        "id": 5645,
+        "votos": 8,
+        "candidato": "Gerson Almeida",
+        "value": 0.35
+    }
+]

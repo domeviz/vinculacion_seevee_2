@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 32,
+        "candidato": "Gerson Almeida",
+        "value": 1.02
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 30,
+        "candidato": "Gerson Almeida",
+        "value": 1.10
+    },
+    {
+        "parroquia": "PICHINCHA GERMUD",
+        "id": 6550,
+        "votos": 122,
+        "candidato": "Gerson Almeida",
+        "value": 0.91
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.68
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.37
+    },
+    {
+        "parroquia": "GÜIZHAGÜIÑA",
+        "id": 1425,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.39
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 1.04
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 1.49
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 1.55
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.77
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 1.46
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 2.00
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 89,
+        "candidato": "Pedro Freile",
+        "value": 1.16
+    }
+]

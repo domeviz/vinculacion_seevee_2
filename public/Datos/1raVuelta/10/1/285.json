@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "ABDON CALDERON LA UNION",
+        "id": 15,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.33
+    },
+    {
+        "parroquia": "SHAGLLI",
+        "id": 3835,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.55
+    },
+    {
+        "parroquia": "SAN SALVADOR DE CÑARIBAMBA",
+        "id": 4610,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SANTA ISABEL",
+        "id": 6045,
+        "votos": 14,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    }
+]

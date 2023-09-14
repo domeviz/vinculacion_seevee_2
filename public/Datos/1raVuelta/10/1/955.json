@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "AMALUZA",
+        "id": 85,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.34
+    },
+    {
+        "parroquia": "PALMAS",
+        "id": 2725,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SEVILLA DE ORO",
+        "id": 6480,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.44
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 54,
+        "candidato": "Ximena Peña",
+        "value": 1.20
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 35,
+        "candidato": "Ximena Peña",
+        "value": 0.99
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 58,
+        "candidato": "Ximena Peña",
+        "value": 0.92
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 13,
+        "candidato": "Ximena Peña",
+        "value": 1.02
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 89,
+        "candidato": "Ximena Peña",
+        "value": 1.51
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 15,
+        "candidato": "Ximena Peña",
+        "value": 1.03
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 35,
+        "candidato": "Ximena Peña",
+        "value": 0.86
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 80,
+        "candidato": "Ximena Peña",
+        "value": 1.13
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 86,
+        "candidato": "Ximena Peña",
+        "value": 1.01
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 72,
+        "candidato": "Ximena Peña",
+        "value": 0.99
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 629,
+        "candidato": "Ximena Peña",
+        "value": 0.93
+    }
+]

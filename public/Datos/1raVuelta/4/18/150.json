@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LLIGUA",
+        "id": 2270,
+        "votos": 87,
+        "candidato": "Xavier Hervas",
+        "value": 27.27
+    },
+    {
+        "parroquia": "RÍO NEGRO",
+        "id": 3190,
+        "votos": 197,
+        "candidato": "Xavier Hervas",
+        "value": 25.26
+    },
+    {
+        "parroquia": "RÍO VERDE",
+        "id": 3200,
+        "votos": 207,
+        "candidato": "Xavier Hervas",
+        "value": 24.07
+    },
+    {
+        "parroquia": "ULBA",
+        "id": 4135,
+        "votos": 419,
+        "candidato": "Xavier Hervas",
+        "value": 32.66
+    },
+    {
+        "parroquia": "BAÑOS",
+        "id": 5105,
+        "votos": 3952,
+        "candidato": "Xavier Hervas",
+        "value": 35.71
+    }
+]

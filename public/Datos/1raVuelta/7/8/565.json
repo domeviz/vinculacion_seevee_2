@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.29
+    },
+    {
+        "parroquia": "ATAHUALPACAMARONES",
+        "id": 200,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.45
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 32,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.62
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.88
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.47
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.59
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 12,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.85
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 2,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.73
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.63
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 7,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.65
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.70
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.62
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.30
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 9,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.71
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PENIAS",
+        "id": 4595,
+        "votos": 6,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.85
+    },
+    {
+        "parroquia": "VALDEZLIMONES",
+        "id": 6205,
+        "votos": 34,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.87
+    }
+]

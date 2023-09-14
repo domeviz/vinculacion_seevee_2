@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "ALSHI 9 DE OCTUBRE",
+        "id": 65,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "CUCHAENTZA",
+        "id": 1250,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.08
+    },
+    {
+        "parroquia": "GRAL. PROAÑO",
+        "id": 1345,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.08
+    },
+    {
+        "parroquia": "RIO BLANCO",
+        "id": 1730,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3440,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SEVILLA DON BOSCO",
+        "id": 3830,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.10
+    },
+    {
+        "parroquia": "ZUNAC",
+        "id": 4360,
+        "votos": 0,
+        "candidato": "Gustavo Larrea",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SINAI",
+        "id": 4485,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    },
+    {
+        "parroquia": "MACAS",
+        "id": 5615,
+        "votos": 18,
+        "candidato": "Gustavo Larrea",
+        "value": 0.14
+    }
+]

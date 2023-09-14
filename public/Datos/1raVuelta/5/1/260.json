@@ -1,0 +1,156 @@
+[
+    {
+        "parroquia": "BAÑOS",
+        "id": 285,
+        "votos": 536,
+        "candidato": "Pedro Freile",
+        "value": 3.37
+    },
+    {
+        "parroquia": "CUMBE",
+        "id": 730,
+        "votos": 38,
+        "candidato": "Pedro Freile",
+        "value": 0.93
+    },
+    {
+        "parroquia": "CHAUCHA ANGAS",
+        "id": 845,
+        "votos": 7,
+        "candidato": "Pedro Freile",
+        "value": 0.97
+    },
+    {
+        "parroquia": "CHECA JIDCAY",
+        "id": 860,
+        "votos": 23,
+        "candidato": "Pedro Freile",
+        "value": 1.46
+    },
+    {
+        "parroquia": "CHIQUINTAD",
+        "id": 905,
+        "votos": 69,
+        "candidato": "Pedro Freile",
+        "value": 2.65
+    },
+    {
+        "parroquia": "LLACAO",
+        "id": 2255,
+        "votos": 68,
+        "candidato": "Pedro Freile",
+        "value": 2.51
+    },
+    {
+        "parroquia": "MOLLETURO",
+        "id": 2430,
+        "votos": 30,
+        "candidato": "Pedro Freile",
+        "value": 0.70
+    },
+    {
+        "parroquia": "MULTI NULTI",
+        "id": 2570,
+        "votos": 64,
+        "candidato": "Pedro Freile",
+        "value": 1.82
+    },
+    {
+        "parroquia": "OCTAVIO CORDERO PALACIOS",
+        "id": 2595,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 1.62
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 2680,
+        "votos": 73,
+        "candidato": "Pedro Freile",
+        "value": 2.31
+    },
+    {
+        "parroquia": "QUINGEO",
+        "id": 3105,
+        "votos": 17,
+        "candidato": "Pedro Freile",
+        "value": 0.43
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3165,
+        "votos": 446,
+        "candidato": "Pedro Freile",
+        "value": 3.65
+    },
+    {
+        "parroquia": "SAN JOAQUIN",
+        "id": 3460,
+        "votos": 205,
+        "candidato": "Pedro Freile",
+        "value": 3.28
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 3685,
+        "votos": 64,
+        "candidato": "Pedro Freile",
+        "value": 1.70
+    },
+    {
+        "parroquia": "SAYAUSI",
+        "id": 3795,
+        "votos": 353,
+        "candidato": "Pedro Freile",
+        "value": 4.44
+    },
+    {
+        "parroquia": "SIDCAY",
+        "id": 3850,
+        "votos": 45,
+        "candidato": "Pedro Freile",
+        "value": 1.95
+    },
+    {
+        "parroquia": "SININCAY",
+        "id": 3870,
+        "votos": 160,
+        "candidato": "Pedro Freile",
+        "value": 2.39
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 3980,
+        "votos": 93,
+        "candidato": "Pedro Freile",
+        "value": 1.45
+    },
+    {
+        "parroquia": "TURI",
+        "id": 4095,
+        "votos": 85,
+        "candidato": "Pedro Freile",
+        "value": 1.90
+    },
+    {
+        "parroquia": "VALLE",
+        "id": 4200,
+        "votos": 288,
+        "candidato": "Pedro Freile",
+        "value": 2.48
+    },
+    {
+        "parroquia": "VICTORIA DEL PORTETE",
+        "id": 4225,
+        "votos": 36,
+        "candidato": "Pedro Freile",
+        "value": 1.21
+    },
+    {
+        "parroquia": "CUENCA",
+        "id": 10150,
+        "votos": 6895,
+        "candidato": "Pedro Freile",
+        "value": 3.37
+    }
+]

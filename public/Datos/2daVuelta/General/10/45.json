@@ -1,0 +1,74 @@
+[
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 885,
+        "votos1": 465,
+        "votos2": 420,
+        "fill": "#045A8D",
+        "porcentaje1": 52.54,
+        "porcentaje2": 47.46
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 3112,
+        "votos1": 1959,
+        "votos2": 1153,
+        "fill": "#045A8D",
+        "porcentaje1": 62.95,
+        "porcentaje2": 37.05
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 1855,
+        "votos1": 1059,
+        "votos2": 796,
+        "fill": "#045A8D",
+        "porcentaje1": 57.09,
+        "porcentaje2": 42.91
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 5437,
+        "votos1": 2608,
+        "votos2": 2829,
+        "fill": "#EF8A62",
+        "porcentaje1": 47.97,
+        "porcentaje2": 52.03
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "ANDRADE MARIN LOURDES",
+        "id": 5025,
+        "votos": 2719,
+        "votos1": 1528,
+        "votos2": 1191,
+        "fill": "#045A8D",
+        "porcentaje1": 56.2,
+        "porcentaje2": 43.8
+    },
+    {
+        "candidato1": "Guillermo Lasso",
+        "candidato2": "Andrés Arauz",
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 11912,
+        "votos1": 7981,
+        "votos2": 3931,
+        "fill": "#045A8D",
+        "porcentaje1": 67.0,
+        "porcentaje2": 33.0
+    }
+]

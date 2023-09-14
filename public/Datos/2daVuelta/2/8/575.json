@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CUBE / CHANCAMA",
+        "id": 700,
+        "votos": 1075,
+        "candidato": "Andrés Arauz",
+        "value": 51.00
+    },
+    {
+        "parroquia": "CHURA",
+        "id": 980,
+        "votos": 555,
+        "candidato": "Andrés Arauz",
+        "value": 60.92
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 1530,
+        "votos": 5980,
+        "candidato": "Andrés Arauz",
+        "value": 50.93
+    },
+    {
+        "parroquia": "MALIMPIA / GUAYLLABAMBA",
+        "id": 2345,
+        "votos": 4812,
+        "candidato": "Andrés Arauz",
+        "value": 60.30
+    },
+    {
+        "parroquia": "VICHE",
+        "id": 4230,
+        "votos": 2430,
+        "candidato": "Andrés Arauz",
+        "value": 53.11
+    },
+    {
+        "parroquia": "ROSA ZARATE",
+        "id": 5895,
+        "votos": 19038,
+        "candidato": "Andrés Arauz",
+        "value": 48.73
+    }
+]

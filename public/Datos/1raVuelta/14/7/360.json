@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "ABANIN",
+        "id": 5,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.68
+    },
+    {
+        "parroquia": "GUANAZAN",
+        "id": 1420,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "GUIZHAGUIÃ\u2018A",
+        "id": 1425,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.13
+    },
+    {
+        "parroquia": "HUERTAS",
+        "id": 1655,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SINSAO",
+        "id": 1700,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SALVIAS",
+        "id": 1750,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.34
+    },
+    {
+        "parroquia": "MALVAS",
+        "id": 2350,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "ARCAPAMBA",
+        "id": 4445,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.49
+    },
+    {
+        "parroquia": "MULUNCAY GRANDE",
+        "id": 4450,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "ZARUMA",
+        "id": 6310,
+        "votos": 24,
+        "candidato": "Carlos Sagnay",
+        "value": 0.31
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "IMBAYA",
+        "id": 1715,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.11
+    },
+    {
+        "parroquia": "SAN FCO.DE NATABUELA",
+        "id": 3400,
+        "votos": 22,
+        "candidato": "Gustavo Larrea",
+        "value": 0.61
+    },
+    {
+        "parroquia": "SAN JOSE DE CHALTURA",
+        "id": 3465,
+        "votos": 16,
+        "candidato": "Gustavo Larrea",
+        "value": 0.77
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3640,
+        "votos": 37,
+        "candidato": "Gustavo Larrea",
+        "value": 0.58
+    },
+    {
+        "parroquia": "ANDRADE MARIN LOURDES",
+        "id": 5025,
+        "votos": 10,
+        "candidato": "Gustavo Larrea",
+        "value": 0.32
+    },
+    {
+        "parroquia": "ATUNTAQUI",
+        "id": 5050,
+        "votos": 36,
+        "candidato": "Gustavo Larrea",
+        "value": 0.28
+    }
+]

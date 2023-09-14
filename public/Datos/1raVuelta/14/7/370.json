@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.25
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 5,
+        "candidato": "Carlos Sagnay",
+        "value": 0.59
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.42
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 131,
+        "candidato": "Carlos Sagnay",
+        "value": 1.09
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.45
+    }
+]

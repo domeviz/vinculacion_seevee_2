@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.43
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 33,
+        "candidato": "Paúl Carrasco",
+        "value": 0.54
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 55,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    }
+]

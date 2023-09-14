@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "COLAIZACA",
+        "id": 590,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.66
+    },
+    {
+        "parroquia": "EL LUCERO",
+        "id": 1230,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SANGUILLIN",
+        "id": 1550,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 1.13
+    },
+    {
+        "parroquia": "UTUANA",
+        "id": 4150,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.74
+    },
+    {
+        "parroquia": "CARIAMANGA",
+        "id": 5175,
+        "votos": 30,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CHILE",
+        "id": 5240,
+        "votos": 13,
+        "candidato": "Guillermo Celi",
+        "value": 0.71
+    },
+    {
+        "parroquia": "SAN VICENTE",
+        "id": 6025,
+        "votos": 0,
+        "candidato": "Guillermo Celi",
+        "fill": "#ced4da"
+    }
+]

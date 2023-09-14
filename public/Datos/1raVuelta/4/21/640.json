@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL PLAYÓN DE SN. FRANCISCO",
+        "id": 1170,
+        "votos": 183,
+        "candidato": "Xavier Hervas",
+        "value": 15.97
+    },
+    {
+        "parroquia": "LA SOFIA",
+        "id": 2095,
+        "votos": 8,
+        "candidato": "Xavier Hervas",
+        "value": 6.35
+    },
+    {
+        "parroquia": "ROSA FLORIDA",
+        "id": 3220,
+        "votos": 24,
+        "candidato": "Xavier Hervas",
+        "value": 7.50
+    },
+    {
+        "parroquia": "SANTA BARBARA",
+        "id": 3690,
+        "votos": 75,
+        "candidato": "Xavier Hervas",
+        "value": 14.59
+    },
+    {
+        "parroquia": "LA BONITA",
+        "id": 5525,
+        "votos": 70,
+        "candidato": "Xavier Hervas",
+        "value": 12.70
+    }
+]

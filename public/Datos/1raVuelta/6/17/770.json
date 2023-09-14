@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "MINDO",
+        "id": 2410,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.45
+    },
+    {
+        "parroquia": "S. MIGUEL DE LOS BANCOS",
+        "id": 6350,
+        "votos": 163,
+        "candidato": "Isidro Romero",
+        "value": 2.47
+    }
+]

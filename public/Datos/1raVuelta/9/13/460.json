@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 330,
+        "votos": 61,
+        "candidato": "Ximena Peña",
+        "value": 2.04
+    },
+    {
+        "parroquia": "ARQ.SIXTO DURAN BALLEN",
+        "id": 1570,
+        "votos": 61,
+        "candidato": "Ximena Peña",
+        "value": 3.66
+    },
+    {
+        "parroquia": "NOBOA",
+        "id": 2555,
+        "votos": 121,
+        "candidato": "Ximena Peña",
+        "value": 3.38
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6105,
+        "votos": 235,
+        "candidato": "Ximena Peña",
+        "value": 2.35
+    }
+]

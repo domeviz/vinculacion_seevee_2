@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHAQUINAL",
+        "id": 835,
+        "votos": 145,
+        "candidato": "Yaku Pérez",
+        "value": 19.75
+    },
+    {
+        "parroquia": "12 DE DICIEMBRE",
+        "id": 1035,
+        "votos": 182,
+        "candidato": "Yaku Pérez",
+        "value": 19.53
+    },
+    {
+        "parroquia": "MILAGROS",
+        "id": 4545,
+        "votos": 350,
+        "candidato": "Yaku Pérez",
+        "value": 28.04
+    },
+    {
+        "parroquia": "PINDAL  FEDERICO PAEZ",
+        "id": 5810,
+        "votos": 809,
+        "candidato": "Yaku Pérez",
+        "value": 25.80
+    }
+]

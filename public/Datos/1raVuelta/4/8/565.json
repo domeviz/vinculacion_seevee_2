@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 13,
+        "candidato": "Xavier Hervas",
+        "value": 1.87
+    },
+    {
+        "parroquia": "ATAHUALPA CAMARONES",
+        "id": 200,
+        "votos": 12,
+        "candidato": "Xavier Hervas",
+        "value": 1.36
+    },
+    {
+        "parroquia": "BORBÓN",
+        "id": 370,
+        "votos": 248,
+        "candidato": "Xavier Hervas",
+        "value": 4.78
+    },
+    {
+        "parroquia": "SAN JOSÉ DE CAYAPAS",
+        "id": 1505,
+        "votos": 7,
+        "candidato": "Xavier Hervas",
+        "value": 0.77
+    },
+    {
+        "parroquia": "COLÓN ELOY DE MARIA",
+        "id": 1510,
+        "votos": 7,
+        "candidato": "Xavier Hervas",
+        "value": 1.10
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 7,
+        "candidato": "Xavier Hervas",
+        "value": 1.39
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 47,
+        "candidato": "Xavier Hervas",
+        "value": 3.34
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 4,
+        "candidato": "Xavier Hervas",
+        "value": 1.47
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 28,
+        "candidato": "Xavier Hervas",
+        "value": 2.93
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 6,
+        "candidato": "Xavier Hervas",
+        "value": 1.42
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 13,
+        "candidato": "Xavier Hervas",
+        "value": 1.70
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 5,
+        "candidato": "Xavier Hervas",
+        "value": 0.77
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 14,
+        "candidato": "Xavier Hervas",
+        "value": 0.52
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 14,
+        "candidato": "Xavier Hervas",
+        "value": 1.10
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+        "id": 4595,
+        "votos": 30,
+        "candidato": "Xavier Hervas",
+        "value": 4.26
+    },
+    {
+        "parroquia": "VALDÉZ LIMONES",
+        "id": 6205,
+        "votos": 81,
+        "candidato": "Xavier Hervas",
+        "value": 2.06
+    }
+]

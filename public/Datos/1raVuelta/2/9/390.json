@@ -1,0 +1,38 @@
+[
+    
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 686,
+        "candidato": "Andrés Arauz",
+        "value": 29.53
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 8164,
+        "candidato": "Andrés Arauz",
+        "value": 58.53
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 3248,
+        "candidato": "Andrés Arauz",
+        "value": 56.93
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 3336,
+        "candidato": "Andrés Arauz",
+        "value": 50.99
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 517796,
+        "candidato": "Andrés Arauz",
+        "value": 32.89
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.24
+    },
+    {
+        "parroquia": "ANGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 22,
+        "candidato": "Gerson Almeida",
+        "value": 0.74
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 102,
+        "candidato": "Gerson Almeida",
+        "value": 0.51
+    }
+]

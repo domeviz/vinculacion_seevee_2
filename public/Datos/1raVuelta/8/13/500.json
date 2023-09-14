@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "WILFRIDO LOOR MOREIRA",
+        "id": 1070,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 1.50
+    },
+    {
+        "parroquia": "SAN PEDRO DE SUMA",
+        "id": 1980,
+        "votos": 16,
+        "candidato": "Gerson Almeida",
+        "value": 0.90
+    },
+    {
+        "parroquia": "SANTA MARIA",
+        "id": 3632,
+        "votos": 45,
+        "candidato": "Gerson Almeida",
+        "value": 0.84
+    },
+    {
+        "parroquia": "EL PARAISO LA 14",
+        "id": 3635,
+        "votos": 62,
+        "candidato": "Gerson Almeida",
+        "value": 1.02
+    },
+    {
+        "parroquia": "EL CARMEN",
+        "id": 5300,
+        "votos": 1688,
+        "candidato": "Gerson Almeida",
+        "value": 3.62
+    },
+    {
+        "parroquia": "4 DE DICIEMBRE",
+        "id": 6195,
+        "votos": 64,
+        "candidato": "Gerson Almeida",
+        "value": 3.18
+    }
+]

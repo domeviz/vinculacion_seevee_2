@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 118,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.91
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 86,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.31
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 54,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.46
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 17,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.42
+    }
+]

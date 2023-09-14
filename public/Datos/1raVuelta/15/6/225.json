@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LA CANDELARIA",
+        "id": 925,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "EL ALTAR",
+        "id": 1110,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "BILBAO",
+        "id": 1325,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "MATUS",
+        "id": 2400,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.29
+    },
+    {
+        "parroquia": "PUELA",
+        "id": 2975,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "SAN ANTONIO DE BAYUSHIG",
+        "id": 3335,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.33
+    },
+    {
+        "parroquia": "PENIPE",
+        "id": 5740,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    }
+]

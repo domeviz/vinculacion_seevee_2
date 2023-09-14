@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2025,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.43
+    },
+    {
+        "parroquia": "MALCHINGUI",
+        "id": 2330,
+        "votos": 8,
+        "candidato": "Gerson Almeida",
+        "value": 0.27
+    },
+    {
+        "parroquia": "TOCACHI",
+        "id": 4045,
+        "votos": 5,
+        "candidato": "Gerson Almeida",
+        "value": 0.48
+    },
+    {
+        "parroquia": "TUPIGACHI",
+        "id": 4090,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.21
+    },
+    {
+        "parroquia": "TABACUNDO",
+        "id": 6145,
+        "votos": 63,
+        "candidato": "Gerson Almeida",
+        "value": 0.51
+    }
+]

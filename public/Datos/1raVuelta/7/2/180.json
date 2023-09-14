@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 628,
+        "candidato": "Lucio Gutiérrez",
+        "value": 17.06
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 763,
+        "candidato": "Lucio Gutiérrez",
+        "value": 9.93
+    }
+]

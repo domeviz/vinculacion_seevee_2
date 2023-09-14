@@ -1,0 +1,72 @@
+[
+    {
+        "parroquia": "DR MIGUEL EGAS PEGUCHE",
+        "id": 1040,
+        "votos": 31,
+        "candidato": "Juan Velasco",
+        "value": 0.78
+    },
+    {
+        "parroquia": "EUGENIO ESPEJO",
+        "id": 1215,
+        "votos": 38,
+        "candidato": "Juan Velasco",
+        "value": 0.87
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 1360,
+        "votos": 27,
+        "candidato": "Juan Velasco",
+        "value": 0.66
+    },
+    {
+        "parroquia": "PATAQUI",
+        "id": 2785,
+        "votos": 0,
+        "candidato": "Juan Velasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SAN JOSE DE QUICHINCHE",
+        "id": 3490,
+        "votos": 40,
+        "candidato": "Juan Velasco",
+        "value": 0.77
+    },
+    {
+        "parroquia": "SAN JUAN DE ILUMAN",
+        "id": 3525,
+        "votos": 60,
+        "candidato": "Juan Velasco",
+        "value": 1.22
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 3590,
+        "votos": 37,
+        "candidato": "Juan Velasco",
+        "value": 0.56
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 3630,
+        "votos": 17,
+        "candidato": "Juan Velasco",
+        "value": 0.52
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3810,
+        "votos": 14,
+        "candidato": "Juan Velasco",
+        "value": 1.27
+    },
+    {
+        "parroquia": "OTAVALO",
+        "id": 100450,
+        "votos": 367,
+        "candidato": "Juan Velasco",
+        "value": 1.03
+    }
+]

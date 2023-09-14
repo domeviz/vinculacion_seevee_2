@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 563,
+        "candidato": "Xavier Hervas",
+        "value": 14.54
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 63,
+        "candidato": "Xavier Hervas",
+        "value": 8.84
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 262,
+        "candidato": "Xavier Hervas",
+        "value": 13.03
+    },
+    {
+        "parroquia": "LA PEAÑA",
+        "id": 2075,
+        "votos": 306,
+        "candidato": "Xavier Hervas",
+        "value": 13.87
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 54,
+        "candidato": "Xavier Hervas",
+        "value": 6.96
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 150,
+        "candidato": "Xavier Hervas",
+        "value": 11.88
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 70950,
+        "votos": 6459,
+        "candidato": "Xavier Hervas",
+        "value": 14.16
+    }
+]

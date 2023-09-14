@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.33
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.29
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 30,
+        "candidato": "Gerson Almeida",
+        "value": 0.70
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 10,
+        "candidato": "Gerson Almeida",
+        "value": 0.36
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 21,
+        "candidato": "Gerson Almeida",
+        "value": 0.69
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 7,
+        "candidato": "Gerson Almeida",
+        "value": 0.47
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.37
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 308,
+        "candidato": "Gerson Almeida",
+        "value": 0.81
+    }
+]

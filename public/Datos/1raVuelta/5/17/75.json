@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA ESPERANZA",
+        "id": 2025,
+        "votos": 61,
+        "candidato": "Pedro Freile",
+        "value": 2.88
+    },
+    {
+        "parroquia": "MALCHINGUI",
+        "id": 2330,
+        "votos": 87,
+        "candidato": "Pedro Freile",
+        "value": 2.95
+    },
+    {
+        "parroquia": "TOCACHI",
+        "id": 4045,
+        "votos": 19,
+        "candidato": "Pedro Freile",
+        "value": 1.81
+    },
+    {
+        "parroquia": "TUPIGACHI",
+        "id": 4090,
+        "votos": 65,
+        "candidato": "Pedro Freile",
+        "value": 2.29
+    },
+    {
+        "parroquia": "TABACUNDO",
+        "id": 6145,
+        "votos": 482,
+        "candidato": "Pedro Freile",
+        "value": 3.90
+    }
+]

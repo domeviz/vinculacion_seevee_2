@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 1060,
+        "votos": 90,
+        "candidato": "Yaku Pérez",
+        "value": 2.87
+    },
+    {
+        "parroquia": "BARRAGANETE",
+        "id": 1065,
+        "votos": 87,
+        "candidato": "Yaku Pérez",
+        "value": 3.20
+    },
+    {
+        "parroquia": "PICHINCHA GERMUD",
+        "id": 6550,
+        "votos": 615,
+        "candidato": "Yaku Pérez",
+        "value": 4.57
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 123,
+        "candidato": "Andrés Arauz",
+        "value": 18.39
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 242,
+        "candidato": "Andrés Arauz",
+        "value": 13.26
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 100,
+        "candidato": "Andrés Arauz",
+        "value": 22.78
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 160,
+        "candidato": "Andrés Arauz",
+        "value": 24.17
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 360,
+        "candidato": "Andrés Arauz",
+        "value": 18.45
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 978,
+        "candidato": "Andrés Arauz",
+        "value": 15.01
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 1108,
+        "candidato": "Andrés Arauz",
+        "value": 16.79
+    }
+]

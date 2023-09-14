@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "BULAN J. VICTOR IZQUIERDO",
+        "id": 395,
+        "votos": 13,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.78
+    },
+    {
+        "parroquia": "CHICAN GUILLERMO ORTEGA",
+        "id": 870,
+        "votos": 14,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.03
+    },
+    {
+        "parroquia": "DUG-DUG",
+        "id": 890,
+        "votos": 4,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.51
+    },
+    {
+        "parroquia": "GUARAINAC",
+        "id": 1455,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.21
+    },
+    {
+        "parroquia": "SAN CRISTOBAL",
+        "id": 3375,
+        "votos": 8,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.66
+    },
+    {
+        "parroquia": "TOMEBAMBA",
+        "id": 4050,
+        "votos": 3,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.41
+    },
+    {
+        "parroquia": "EL CABO",
+        "id": 4565,
+        "votos": 0,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.00
+    },
+    {
+        "parroquia": "PAUTE",
+        "id": 5775,
+        "votos": 45,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.46
+    }
+]

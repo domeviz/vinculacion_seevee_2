@@ -1,0 +1,142 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.11
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 5,
+        "candidato": "Paúl Carrasco",
+        "value": 0.44
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.35
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 19,
+        "candidato": "Paúl Carrasco",
+        "value": 0.43
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.16
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    },
+    {
+        "parroquia": "EL SAGRARIO",
+        "id": 5320,
+        "votos": 33,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 6015,
+        "votos": 39,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SUCRE",
+        "id": 6100,
+        "votos": 82,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    },
+    {
+        "parroquia": "EL VALLE",
+        "id": 6210,
+        "votos": 46,
+        "candidato": "Paúl Carrasco",
+        "value": 0.17
+    },
+    {
+        "parroquia": "CARIGAN",
+        "id": 7525,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PUNZARA",
+        "id": 7530,
+        "votos": 10,
+        "candidato": "Paúl Carrasco",
+        "value": 0.15
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 221,
+        "candidato": "Paúl Carrasco",
+        "value": 0.18
+    }
+]

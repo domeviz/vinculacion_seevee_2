@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GOALTAL LAS JUNTAS",
+        "id": 1150,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.27
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.28
+    },
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    }
+]

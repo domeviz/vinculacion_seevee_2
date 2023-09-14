@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 7827,
+        "candidato": "Andrés Arauz",
+        "value": 60.54
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 3892,
+        "candidato": "Andrés Arauz",
+        "value": 59.32
+    },
+    {
+        "parroquia": "BAHIA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 5874,
+        "candidato": "Andrés Arauz",
+        "value": 50.52
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 2137,
+        "candidato": "Andrés Arauz",
+        "value": 53.20
+    }
+]

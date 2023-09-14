@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CARACOL",
+        "id": 520,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "FEBRES CORDERO",
+        "id": 1265,
+        "votos": 31,
+        "candidato": "Giovanny Andrade",
+        "value": 0.32
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 1525,
+        "votos": 18,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PIMOCHA",
+        "id": 2875,
+        "votos": 45,
+        "candidato": "Giovanny Andrade",
+        "value": 0.54
+    },
+    {
+        "parroquia": "BABAHOYO",
+        "id": 120150,
+        "votos": 173,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    }
+]

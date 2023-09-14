@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "SANTA MARIANITA",
+        "id": 1800,
+        "votos": 11,
+        "candidato": "Gerson Almeida",
+        "value": 0.59
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3550,
+        "votos": 17,
+        "candidato": "Gerson Almeida",
+        "value": 0.75
+    },
+    {
+        "parroquia": "LOS ESTEROS",
+        "id": 5570,
+        "votos": 293,
+        "candidato": "Gerson Almeida",
+        "value": 1.32
+    },
+    {
+        "parroquia": "MANTA",
+        "id": 5635,
+        "votos": 542,
+        "candidato": "Gerson Almeida",
+        "value": 1.08
+    },
+    {
+        "parroquia": "SAN MATEO",
+        "id": 6135,
+        "votos": 25,
+        "candidato": "Gerson Almeida",
+        "value": 0.90
+    },
+    {
+        "parroquia": "TARQUI",
+        "id": 6155,
+        "votos": 606,
+        "candidato": "Gerson Almeida",
+        "value": 1.22
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 6745,
+        "votos": 299,
+        "candidato": "Gerson Almeida",
+        "value": 1.34
+    }
+]

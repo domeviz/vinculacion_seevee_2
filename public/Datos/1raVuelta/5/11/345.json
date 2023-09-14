@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "NUEVA FÁTIMA",
+        "id": 2575,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.71
+    },
+    {
+        "parroquia": "TACAMOROS",
+        "id": 3935,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.62
+    },
+    {
+        "parroquia": "SOZORANGA",
+        "id": 6120,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    }
+]

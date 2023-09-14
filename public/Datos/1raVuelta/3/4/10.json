@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "PIARTAL",
+        "id": 250,
+        "votos": 282,
+        "candidato": "Yaku Pérez",
+        "value": 42.15
+    },
+    {
+        "parroquia": "CRISTOBAL COLON",
+        "id": 690,
+        "votos": 640,
+        "candidato": "Yaku Pérez",
+        "value": 35.07
+    },
+    {
+        "parroquia": "CHITAN DE NAVARRETES",
+        "id": 910,
+        "votos": 123,
+        "candidato": "Yaku Pérez",
+        "value": 28.02
+    },
+    {
+        "parroquia": "FERNANDEZ SALVADOR",
+        "id": 1270,
+        "votos": 195,
+        "candidato": "Yaku Pérez",
+        "value": 29.46
+    },
+    {
+        "parroquia": "LA PAZ",
+        "id": 2065,
+        "votos": 534,
+        "candidato": "Yaku Pérez",
+        "value": 27.37
+    },
+    {
+        "parroquia": "GONZALEZ SUAREZ",
+        "id": 5405,
+        "votos": 1759,
+        "candidato": "Yaku Pérez",
+        "value": 27.00
+    },
+    {
+        "parroquia": "SAN GABRIEL",
+        "id": 40550,
+        "votos": 1905,
+        "candidato": "Yaku Pérez",
+        "value": 28.86
+    }
+]

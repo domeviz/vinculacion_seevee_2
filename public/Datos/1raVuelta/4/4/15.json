@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GOALTAL LAS JUNTAS",
+        "id": 1150,
+        "votos": 65,
+        "candidato": "Xavier Hervas",
+        "value": 10.82
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 533,
+        "candidato": "Xavier Hervas",
+        "value": 20.83
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 406,
+        "candidato": "Xavier Hervas",
+        "value": 19.51
+    },
+    {
+        "parroquia": "EL ÁNGEL",
+        "id": 5295,
+        "votos": 835,
+        "candidato": "Xavier Hervas",
+        "value": 25.69
+    },
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 215,
+        "candidato": "Xavier Hervas",
+        "value": 21.74
+    }
+]

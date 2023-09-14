@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "LA PAZ",
+        "id": 2070,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "TUTUPALI",
+        "id": 4105,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.29
+    },
+    {
+        "parroquia": "28 DE MAYO",
+        "id": 6215,
+        "votos": 6,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    }
+]

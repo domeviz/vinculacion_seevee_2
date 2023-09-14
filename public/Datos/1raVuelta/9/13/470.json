@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "AYACUCHO",
+        "id": 220,
+        "votos": 156,
+        "candidato": "Ximena Peña",
+        "value": 3.60
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 1105,
+        "votos": 130,
+        "candidato": "Ximena Peña",
+        "value": 5.90
+    },
+    {
+        "parroquia": "HONORATO VASQUEZ",
+        "id": 1610,
+        "votos": 127,
+        "candidato": "Ximena Peña",
+        "value": 3.96
+    },
+    {
+        "parroquia": "LA UNION",
+        "id": 2135,
+        "votos": 164,
+        "candidato": "Ximena Peña",
+        "value": 5.13
+    },
+    {
+        "parroquia": "SANTA ANA",
+        "id": 131350,
+        "votos": 406,
+        "candidato": "Ximena Peña",
+        "value": 2.57
+    }
+]

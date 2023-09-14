@@ -1,0 +1,66 @@
+[
+    {
+        "parroquia": "SAN LUIS DE PAMBIL",
+        "id": 795,
+        "votos": 741,
+        "candidato": "Andres Arauz",
+        "value": 19.40
+    },
+    {
+        "parroquia": "FACUNDO VELA",
+        "id": 1255,
+        "votos": 128,
+        "candidato": "Andres Arauz",
+        "value": 9.10
+    },
+    {
+        "parroquia": "JULIO E MORENO",
+        "id": 1890,
+        "votos": 100,
+        "candidato": "Andres Arauz",
+        "value": 7.91
+    },
+    {
+        "parroquia": "SALINAS",
+        "id": 3285,
+        "votos": 412,
+        "candidato": "Andres Arauz",
+        "value": 14.58
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 3545,
+        "votos": 100,
+        "candidato": "Andres Arauz",
+        "value": 8.48
+    },
+    {
+        "parroquia": "SAN SIMON",
+        "id": 3670,
+        "votos": 276,
+        "candidato": "Andres Arauz",
+        "value": 11.45
+    },
+    {
+        "parroquia": "SANTA FE",
+        "id": 3710,
+        "votos": 172,
+        "candidato": "Andres Arauz",
+        "value": 13.86
+    },
+    {
+        "parroquia": "SIMIATUG",
+        "id": 3860,
+        "votos": 1275,
+        "candidato": "Andres Arauz",
+        "value": 21.02
+    },
+    {
+        "parroquia": "GUARANDA",
+        "id": 165,
+        "votos": 4258,
+        "candidato": "Andres Arauz",
+        "value": 11.15
+    }
+    
+]

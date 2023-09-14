@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "HUASAGA WAMPUIK",
+        "id": 595,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.10
+    },
+    {
+        "parroquia": "TUTINENTZA",
+        "id": 1205,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.16
+    },
+    {
+        "parroquia": "MACUMA",
+        "id": 2285,
+        "votos": 8,
+        "candidato": "Pedro Freile",
+        "value": 0.30
+    },
+    {
+        "parroquia": "PUMPUENTSA",
+        "id": 4575,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.08
+    },
+    {
+        "parroquia": "TAISHA",
+        "id": 6700,
+        "votos": 21,
+        "candidato": "Pedro Freile",
+        "value": 0.65
+    }
+]

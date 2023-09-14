@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 12,
+        "candidato": "Pedro Freile",
+        "value": 0.56
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 0.39
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 0.70
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 27,
+        "candidato": "Pedro Freile",
+        "value": 0.58
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 360,
+        "candidato": "Pedro Freile",
+        "value": 0.68
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 272,
+        "candidato": "Pedro Freile",
+        "value": 1.29
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.69
+    }
+]

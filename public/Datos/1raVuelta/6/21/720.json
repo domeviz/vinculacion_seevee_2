@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 24,
+        "candidato": "Isidro Romero",
+        "value": 1.25
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.35
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.28
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 2,
+        "candidato": "Isidro Romero",
+        "value": 0.50
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 20,
+        "candidato": "Isidro Romero",
+        "value": 1.02
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 118,
+        "candidato": "Isidro Romero",
+        "value": 0.64
+    }
+]

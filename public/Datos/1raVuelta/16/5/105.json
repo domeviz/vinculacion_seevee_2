@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "ANGAMARCA",
+        "id": 125,
+        "votos": 7,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "GUANGAJE",
+        "id": 1430,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.25
+    },
+    {
+        "parroquia": "LA VICTORIA",
+        "id": 2150,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.22
+    },
+    {
+        "parroquia": "PILALO",
+        "id": 2865,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.24
+    },
+    {
+        "parroquia": "TINGO",
+        "id": 4015,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "ZUMBAHUA",
+        "id": 4365,
+        "votos": 23,
+        "candidato": "Paúl Carrasco",
+        "value": 0.26
+    },
+    {
+        "parroquia": "PUJILI",
+        "id": 5820,
+        "votos": 82,
+        "candidato": "Paúl Carrasco",
+        "value": 0.34
+    }
+]

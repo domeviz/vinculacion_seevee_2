@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 46,
+        "candidato": "Isidro Romero",
+        "value": 2.14
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 57,
+        "candidato": "Isidro Romero",
+        "value": 2.03
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 73,
+        "candidato": "Isidro Romero",
+        "value": 2.12
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 100,
+        "candidato": "Isidro Romero",
+        "value": 2.14
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 1251,
+        "candidato": "Isidro Romero",
+        "value": 2.35
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 492,
+        "candidato": "Isidro Romero",
+        "value": 2.33
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 3.13
+    }
+]

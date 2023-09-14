@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ABDON CALDERON",
+        "id": 10,
+        "votos": 25,
+        "candidato": "Carlos Sagnay",
+        "value": 0.28
+    },
+    {
+        "parroquia": "ALHAJUELA BAJO GRANDE",
+        "id": 50,
+        "votos": 25,
+        "candidato": "Carlos Sagnay",
+        "value": 0.81
+    },
+    {
+        "parroquia": "CRUCITA",
+        "id": 770,
+        "votos": 48,
+        "candidato": "Carlos Sagnay",
+        "value": 0.62
+    },
+    {
+        "parroquia": "CHIRIJOS",
+        "id": 1925,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.42
+    },
+    {
+        "parroquia": "PUEBLO NUEVO",
+        "id": 2970,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.44
+    },
+    {
+        "parroquia": "RIO CHICO",
+        "id": 3185,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SAN PLACIDO",
+        "id": 3625,
+        "votos": 16,
+        "candidato": "Carlos Sagnay",
+        "value": 0.30
+    },
+    {
+        "parroquia": "ANDRES DE VERA",
+        "id": 5030,
+        "votos": 100,
+        "candidato": "Carlos Sagnay",
+        "value": 0.21
+    },
+    {
+        "parroquia": "COLON",
+        "id": 5265,
+        "votos": 43,
+        "candidato": "Carlos Sagnay",
+        "value": 0.36
+    },
+    {
+        "parroquia": "12 DE MARZO",
+        "id": 5280,
+        "votos": 124,
+        "candidato": "Carlos Sagnay",
+        "value": 0.49
+    },
+    {
+        "parroquia": "PORTOVIEJO",
+        "id": 5795,
+        "votos": 47,
+        "candidato": "Carlos Sagnay",
+        "value": 0.23
+    },
+    {
+        "parroquia": "PICOAZA",
+        "id": 5845,
+        "votos": 81,
+        "candidato": "Carlos Sagnay",
+        "value": 0.61
+    },
+    {
+        "parroquia": "SAN PABLO",
+        "id": 6585,
+        "votos": 20,
+        "candidato": "Carlos Sagnay",
+        "value": 0.38
+    },
+    {
+        "parroquia": "18 DE OCTUBRE",
+        "id": 6770,
+        "votos": 10,
+        "candidato": "Carlos Sagnay",
+        "value": 0.14
+    },
+    {
+        "parroquia": "FRANCISCO PACHECO",
+        "id": 6775,
+        "votos": 19,
+        "candidato": "Carlos Sagnay",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SIMON BOLIVAR",
+        "id": 6910,
+        "votos": 12,
+        "candidato": "Carlos Sagnay",
+        "value": 0.44
+    }
+]

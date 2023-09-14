@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE DE TAMBO",
+        "id": 3500,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.30
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 11,
+        "candidato": "Paúl Carrasco",
+        "value": 0.14
+    }
+]

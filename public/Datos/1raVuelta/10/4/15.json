@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "EL GOALTAL LAS JUNTAS",
+        "id": 1150,
+        "votos": 2,
+        "candidato": "Guillermo Celi",
+        "value": 0.33
+    },
+    {
+        "parroquia": "LA LIBERTAD",
+        "id": 2040,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3435,
+        "votos": 4,
+        "candidato": "Guillermo Celi",
+        "value": 0.19
+    },
+    {
+        "parroquia": "EL ANGEL",
+        "id": 5295,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.15
+    },
+    {
+        "parroquia": "27 DE SEPTIEMBRE",
+        "id": 6250,
+        "votos": 3,
+        "candidato": "Guillermo Celi",
+        "value": 0.30
+    }
+]

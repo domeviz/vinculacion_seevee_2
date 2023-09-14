@@ -1,0 +1,135 @@
+[
+    {
+        "parroquia": "AMBATILLO",
+        "id": 95,
+        "votos": 398,
+        "candidato": "Xavier Hervas",
+        "value": 13.69
+    },
+    {
+        "parroquia": "ATAHUALPA CHIPZALATA",
+        "id": 190,
+        "votos": 1729,
+        "candidato": "Xavier Hervas",
+        "value": 27.95
+    },
+    {
+        "parroquia": "AUGUSTO N MARTÍNEZ",
+        "id": 210,
+        "votos": 1336,
+        "candidato": "Xavier Hervas",
+        "value": 22.27
+    },
+    {
+        "parroquia": "CONSTANTINO FERNÁNDEZ",
+        "id": 635,
+        "votos": 248,
+        "candidato": "Xavier Hervas",
+        "value": 14.41
+    },
+    {
+        "parroquia": "CUNCHIBAMBA",
+        "id": 800,
+        "votos": 557,
+        "candidato": "Xavier Hervas",
+        "value": 21.93
+    },
+    {
+        "parroquia": "UNAMUNCHO",
+        "id": 810,
+        "votos": 394,
+        "candidato": "Xavier Hervas",
+        "value": 22.31
+    },
+    {
+        "parroquia": "HUACHI GRANDE",
+        "id": 1625,
+        "votos": 1762,
+        "candidato": "Xavier Hervas",
+        "value": 29.71
+    },
+    {
+        "parroquia": "IZAMBA",
+        "id": 1745,
+        "votos": 3145,
+        "candidato": "Xavier Hervas",
+        "value": 23.99
+    },
+    {
+        "parroquia": "JUAN BENIGNO VELA",
+        "id": 1860,
+        "votos": 611,
+        "candidato": "Xavier Hervas",
+        "value": 12.27
+    },
+    {
+        "parroquia": "MONTALVO",
+        "id": 2435,
+        "votos": 728,
+        "candidato": "Xavier Hervas",
+        "value": 32.37
+    },
+    {
+        "parroquia": "PASA",
+        "id": 2775,
+        "votos": 277,
+        "candidato": "Xavier Hervas",
+        "value": 6.72
+    },
+    {
+        "parroquia": "PICAYHUA",
+        "id": 2830,
+        "votos": 2667,
+        "candidato": "Xavier Hervas",
+        "value": 27.24
+    },
+    {
+        "parroquia": "PILAHUIN",
+        "id": 2860,
+        "votos": 351,
+        "candidato": "Xavier Hervas",
+        "value": 4.58
+    },
+    {
+        "parroquia": "QUISAPINCHA",
+        "id": 3120,
+        "votos": 656,
+        "candidato": "Xavier Hervas",
+        "value": 10.31
+    },
+    {
+        "parroquia": "SAN BARTOLOMÉ",
+        "id": 3355,
+        "votos": 1414,
+        "candidato": "Xavier Hervas",
+        "value": 24.93
+    },
+    {
+        "parroquia": "SAN FERNANDO",
+        "id": 3380,
+        "votos": 104,
+        "candidato": "Xavier Hervas",
+        "value": 6.64
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 3730,
+        "votos": 1985,
+        "candidato": "Xavier Hervas",
+        "value": 17.57
+    },
+    {
+        "parroquia": "TOTORAS",
+        "id": 4065,
+        "votos": 1096,
+        "candidato": "Xavier Hervas",
+        "value": 24.95
+    },
+    {
+        "parroquia": "AMBATO",
+        "id": 180150,
+        "votos": 32986,
+        "candidato": "Xavier Hervas",
+        "value": 27.75
+    }
+]

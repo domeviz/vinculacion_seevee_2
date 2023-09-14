@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.20
+    },
+    {
+        "parroquia": "MAGDALENA CHAPACOTO",
+        "id": 2315,
+        "votos": 27,
+        "candidato": "Gerson Almeida",
+        "value": 1.54
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 2,
+        "candidato": "Gerson Almeida",
+        "value": 0.36
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 1,
+        "candidato": "Gerson Almeida",
+        "value": 0.08
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 22,
+        "candidato": "Gerson Almeida",
+        "value": 0.50
+    }
+]

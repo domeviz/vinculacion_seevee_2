@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AVILA",
+        "id": 215,
+        "votos": 76,
+        "candidato": "Xavier Hervas",
+        "value": 2.90
+    },
+    {
+        "parroquia": "SAN VICENTE DE HUATICOCHA",
+        "id": 400,
+        "votos": 50,
+        "candidato": "Xavier Hervas",
+        "value": 6.17
+    },
+    {
+        "parroquia": "PUERTO MURIALDO",
+        "id": 1050,
+        "votos": 36,
+        "candidato": "Xavier Hervas",
+        "value": 1.83
+    },
+    {
+        "parroquia": "SAN JOSÉ DE DAHUANO",
+        "id": 1680,
+        "votos": 69,
+        "candidato": "Xavier Hervas",
+        "value": 2.43
+    },
+    {
+        "parroquia": "SAN JOSÉ DE PAYAMINO",
+        "id": 3480,
+        "votos": 47,
+        "candidato": "Xavier Hervas",
+        "value": 3.10
+    },
+    {
+        "parroquia": "LORETO",
+        "id": 6455,
+        "votos": 550,
+        "candidato": "Xavier Hervas",
+        "value": 12.25
+    }
+]

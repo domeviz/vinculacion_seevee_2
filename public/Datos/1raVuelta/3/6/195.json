@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 1312,
+        "candidato": "Yaku Pérez",
+        "value": 57.62
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 2589,
+        "candidato": "Yaku Pérez",
+        "value": 60.07
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 585,
+        "candidato": "Yaku Pérez",
+        "value": 41.70
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 1354,
+        "candidato": "Yaku Pérez",
+        "value": 43.82
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 1907,
+        "candidato": "Yaku Pérez",
+        "value": 46.74
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 2327,
+        "candidato": "Yaku Pérez",
+        "value": 42.29
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 2239,
+        "candidato": "Yaku Pérez",
+        "value": 60.56
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 2414,
+        "candidato": "Yaku Pérez",
+        "value": 57.19
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 2103,
+        "candidato": "Yaku Pérez",
+        "value": 60.17
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 3274,
+        "candidato": "Yaku Pérez",
+        "value": 60.87
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 2217,
+        "candidato": "Yaku Pérez",
+        "value": 51.00
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 7535,
+        "candidato": "Yaku Pérez",
+        "value": 20.90
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 15210,
+        "candidato": "Yaku Pérez",
+        "value": 37.89
+    }
+]

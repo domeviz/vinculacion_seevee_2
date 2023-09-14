@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "CHANGAIMINA LA LIBERTAD",
+        "id": 825,
+        "votos": 4,
+        "candidato": "Carlos Sagnay",
+        "value": 0.29
+    },
+    {
+        "parroquia": "NAMBACOLA",
+        "id": 2520,
+        "votos": 8,
+        "candidato": "Carlos Sagnay",
+        "value": 0.36
+    },
+    {
+        "parroquia": "PURUNUMA EGUIGUREN",
+        "id": 3045,
+        "votos": 0,
+        "candidato": "Carlos Sagnay",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "SACAPALCA",
+        "id": 3270,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.19
+    },
+    {
+        "parroquia": "GONZANAMA",
+        "id": 5400,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    }
+]

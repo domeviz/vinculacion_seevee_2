@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "CHARAPOTO",
+        "id": 840,
+        "votos": 1233,
+        "candidato": "Xavier Hervas",
+        "value": 9.54
+    },
+    {
+        "parroquia": "SAN ISIDRO",
+        "id": 3445,
+        "votos": 433,
+        "candidato": "Xavier Hervas",
+        "value": 6.60
+    },
+    {
+        "parroquia": "BAHÍA DE CARAQUEZ",
+        "id": 5095,
+        "votos": 931,
+        "candidato": "Xavier Hervas",
+        "value": 8.01
+    },
+    {
+        "parroquia": "LEONIDAS PLAZA G.",
+        "id": 5580,
+        "votos": 442,
+        "candidato": "Xavier Hervas",
+        "value": 11.00
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.31
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.57
+    }
+]

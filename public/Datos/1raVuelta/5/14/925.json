@@ -1,0 +1,31 @@
+[
+    {
+        "parroquia": "SAN JACINTO DE WAKAMBEIS",
+        "id": 710,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "SANTIAGO DE PANANZA",
+        "id": 1785,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "PAN DE AZÚCAR",
+        "id": 2750,
+        "votos": 2,
+        "candidato": "Pedro Freile",
+        "value": 0.93
+    },
+    {
+        "parroquia": "SAN CARLOS DE LIMÓN",
+        "id": 3920,
+        "fill": "#EF8A62"
+    },
+    {
+        "parroquia": "SAN JUAN BOSCO",
+        "id": 6445,
+        "votos": 5,
+        "candidato": "Pedro Freile",
+        "value": 0.34
+    }
+]

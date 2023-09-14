@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BUENAVISTA",
+        "id": 390,
+        "votos": 12,
+        "candidato": "Cesar Montufar",
+        "value": 0.31
+    },
+    {
+        "parroquia": "CAÑAQUEMADA",
+        "id": 775,
+        "votos": 3,
+        "candidato": "Cesar Montufar",
+        "value": 0.42
+    },
+    {
+        "parroquia": "PROGRESO",
+        "id": 1225,
+        "votos": 6,
+        "candidato": "Cesar Montufar",
+        "value": 0.30
+    },
+    {
+        "parroquia": "LA PEAÃ\u2018A",
+        "id": 2075,
+        "votos": 5,
+        "candidato": "Cesar Montufar",
+        "value": 0.23
+    },
+    {
+        "parroquia": "UZHCURRUMI",
+        "id": 4160,
+        "votos": 1,
+        "candidato": "Cesar Montufar",
+        "value": 0.13
+    },
+    {
+        "parroquia": "CASACAY",
+        "id": 4495,
+        "votos": 5,
+        "candidato": "Cesar Montufar",
+        "value": 0.40
+    },
+    {
+        "parroquia": "PASAJE",
+        "id": 70950,
+        "votos": 129,
+        "candidato": "Cesar Montufar",
+        "value": 0.39
+    }
+]

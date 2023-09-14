@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 41,
+        "candidato": "Juan Velasco",
+        "value": 0.91
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 30,
+        "candidato": "Juan Velasco",
+        "value": 0.85
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 40,
+        "candidato": "Juan Velasco",
+        "value": 0.63
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 7,
+        "candidato": "Juan Velasco",
+        "value": 0.55
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 54,
+        "candidato": "Juan Velasco",
+        "value": 0.92
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 20,
+        "candidato": "Juan Velasco",
+        "value": 1.38
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 39,
+        "candidato": "Juan Velasco",
+        "value": 0.96
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 71,
+        "candidato": "Juan Velasco",
+        "value": 1.00
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 66,
+        "candidato": "Juan Velasco",
+        "value": 0.78
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 36,
+        "candidato": "Juan Velasco",
+        "value": 0.50
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 606,
+        "candidato": "Juan Velasco",
+        "value": 0.94
+    }
+]

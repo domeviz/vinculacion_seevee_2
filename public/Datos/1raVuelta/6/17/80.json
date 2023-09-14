@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "COTOGCHOA",
+        "id": 680,
+        "votos": 16,
+        "candidato": "Isidro Romero",
+        "value": 0.83
+    },
+    {
+        "parroquia": "RUMIPAMBA",
+        "id": 3230,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 1.26
+    },
+    {
+        "parroquia": "SANGOLQUI",
+        "id": 5965,
+        "votos": 424,
+        "candidato": "Isidro Romero",
+        "value": 0.88
+    },
+    {
+        "parroquia": "SAN RAFAEL",
+        "id": 6600,
+        "votos": 71,
+        "candidato": "Isidro Romero",
+        "value": 0.56
+    },
+    {
+        "parroquia": "SAN PEDRO DE TABOADA",
+        "id": 6605,
+        "votos": 39,
+        "candidato": "Isidro Romero",
+        "value": 0.71
+    },
+    {
+        "parroquia": "FAJARDO",
+        "id": 7535,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.68
+    }
+]

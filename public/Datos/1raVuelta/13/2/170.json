@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "ASUNCION",
+        "id": 170,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.46
+    },
+    {
+        "parroquia": "MAGDALENA CHAPACOTO",
+        "id": 2315,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SAN SEBASTIAN",
+        "id": 3655,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 1.61
+    },
+    {
+        "parroquia": "TELIMBELA",
+        "id": 3995,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.41
+    },
+    {
+        "parroquia": "SAN JOSE DE CHIMBO",
+        "id": 5975,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.09
+    }
+]

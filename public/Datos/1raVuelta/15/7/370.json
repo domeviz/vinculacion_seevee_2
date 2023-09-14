@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.51
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 20,
+        "candidato": "Giovanny Andrade",
+        "value": 0.17
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    }
+]

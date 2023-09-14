@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "MONTERREY",
+        "id": 4635,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.13
+    },
+    {
+        "parroquia": "LA VILLEGAS",
+        "id": 4640,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.48
+    },
+    {
+        "parroquia": "PLAN PILOTO",
+        "id": 4645,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    },
+    {
+        "parroquia": "LA CONCORDIA",
+        "id": 7520,
+        "votos": 53,
+        "candidato": "Paúl Carrasco",
+        "value": 0.21
+    }
+]

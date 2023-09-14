@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 18,
+        "candidato": "Juan Velasco",
+        "value": 0.79
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 14,
+        "candidato": "Juan Velasco",
+        "value": 0.32
+    },
+    {
+        "parroquia": "CUBIJIES",
+        "id": 705,
+        "votos": 9,
+        "candidato": "Juan Velasco",
+        "value": 0.64
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 11,
+        "candidato": "Juan Velasco",
+        "value": 0.36
+    },
+    {
+        "parroquia": "LICAN",
+        "id": 2160,
+        "votos": 21,
+        "candidato": "Juan Velasco",
+        "value": 0.51
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 38,
+        "candidato": "Juan Velasco",
+        "value": 0.69
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 14,
+        "candidato": "Juan Velasco",
+        "value": 0.38
+    },
+    {
+        "parroquia": "PUNIN",
+        "id": 3040,
+        "votos": 17,
+        "candidato": "Juan Velasco",
+        "value": 0.40
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 13,
+        "candidato": "Juan Velasco",
+        "value": 0.37
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 24,
+        "candidato": "Juan Velasco",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 35,
+        "candidato": "Juan Velasco",
+        "value": 0.81
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 259,
+        "candidato": "Juan Velasco",
+        "value": 0.72
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 453,
+        "candidato": "Juan Velasco",
+        "value": 2.73
+    }
+]

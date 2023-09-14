@@ -1,0 +1,79 @@
+[
+    {
+        "parroquia": "ALAQUEZ",
+        "id": 35,
+        "votos": 2078,
+        "candidato": "Yaku Pérez",
+        "value": 46.32
+    },
+    {
+        "parroquia": "BELISARIO QUEVEDO",
+        "id": 315,
+        "votos": 1686,
+        "candidato": "Yaku Pérez",
+        "value": 47.86
+    },
+    {
+        "parroquia": "GUAYTACAMA",
+        "id": 1485,
+        "votos": 2648,
+        "candidato": "Yaku Pérez",
+        "value": 41.88
+    },
+    {
+        "parroquia": "JOSEGUANGO BAJO",
+        "id": 1905,
+        "votos": 412,
+        "candidato": "Yaku Pérez",
+        "value": 32.19
+    },
+    {
+        "parroquia": "MULALO",
+        "id": 2480,
+        "votos": 2651,
+        "candidato": "Yaku Pérez",
+        "value": 45.11
+    },
+    {
+        "parroquia": "11 DE NOVIEMBRE",
+        "id": 2620,
+        "votos": 551,
+        "candidato": "Yaku Pérez",
+        "value": 37.90
+    },
+    {
+        "parroquia": "POALO",
+        "id": 2920,
+        "votos": 2633,
+        "candidato": "Yaku Pérez",
+        "value": 64.65
+    },
+    {
+        "parroquia": "SAN JUAN DE PASTOCALLE",
+        "id": 3530,
+        "votos": 3273,
+        "candidato": "Yaku Pérez",
+        "value": 46.27
+    },
+    {
+        "parroquia": "TANICUCHI",
+        "id": 3965,
+        "votos": 3723,
+        "candidato": "Yaku Pérez",
+        "value": 43.78
+    },
+    {
+        "parroquia": "TOACAZO",
+        "id": 4035,
+        "votos": 3982,
+        "candidato": "Yaku Pérez",
+        "value": 54.81
+    },
+    {
+        "parroquia": "LATACUNGA",
+        "id": 50150,
+        "votos": 21437,
+        "candidato": "Yaku Pérez",
+        "value": 32.658
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "parroquia": "COCHAPATA",
+        "id": 575,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 0.66
+    },
+    {
+        "parroquia": "EL PROGRESO",
+        "id": 1175,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 0.87
+    },
+    {
+        "parroquia": "NIEVES",
+        "id": 2550,
+        "votos": 8,
+        "candidato": "Ximena Peña",
+        "value": 0.91
+    },
+    {
+        "parroquia": "NABON",
+        "id": 6595,
+        "votos": 74,
+        "candidato": "Ximena Peña",
+        "value": 1.14
+    }
+]

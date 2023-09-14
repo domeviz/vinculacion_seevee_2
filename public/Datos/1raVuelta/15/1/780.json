@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SUSUDEL",
+        "id": 1540,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "OÑA",
+        "id": 6360,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.22
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "GUAYAS PUERTO NUEVO",
+        "id": 1470,
+        "votos": 124,
+        "candidato": "Ximena Peña",
+        "value": 3.38
+    },
+    {
+        "parroquia": "EL ROSARIO",
+        "id": 1640,
+        "votos": 110,
+        "candidato": "Ximena Peña",
+        "value": 3.53
+    },
+    {
+        "parroquia": "VELASCO IBARRA",
+        "id": 6225,
+        "votos": 1244,
+        "candidato": "Ximena Peña",
+        "value": 3.03
+    }
+]

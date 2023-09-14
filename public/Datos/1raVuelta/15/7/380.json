@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.10
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.28
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.25
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 52,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    }
+]

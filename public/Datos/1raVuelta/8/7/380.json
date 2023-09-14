@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "LA IBERIA",
+        "id": 245,
+        "votos": 27,
+        "candidato": "Gerson Almeida",
+        "value": 1.39
+    },
+    {
+        "parroquia": "BARBONES",
+        "id": 300,
+        "votos": 40,
+        "candidato": "Gerson Almeida",
+        "value": 1.06
+    },
+    {
+        "parroquia": "RIO BONITO",
+        "id": 2050,
+        "votos": 33,
+        "candidato": "Gerson Almeida",
+        "value": 1.33
+    },
+    {
+        "parroquia": "TENDALES",
+        "id": 4000,
+        "votos": 23,
+        "candidato": "Gerson Almeida",
+        "value": 1.14
+    },
+    {
+        "parroquia": "EL GUABO",
+        "id": 5340,
+        "votos": 260,
+        "candidato": "Gerson Almeida",
+        "value": 1.17
+    }
+]

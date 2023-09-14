@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "SAN PEDRO DE LOS COFANES",
+        "id": 600,
+        "votos": 4,
+        "candidato": "Gerson Almeida",
+        "value": 0.21
+    },
+    {
+        "parroquia": "SIETE DE JULIO",
+        "id": 780,
+        "votos": 16,
+        "candidato": "Gerson Almeida",
+        "value": 0.63
+    },
+    {
+        "parroquia": "LIMONCOCHA",
+        "id": 2175,
+        "votos": 9,
+        "candidato": "Gerson Almeida",
+        "value": 0.35
+    },
+    {
+        "parroquia": "PANACOCHA",
+        "id": 2765,
+        "votos": 3,
+        "candidato": "Gerson Almeida",
+        "value": 0.75
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3645,
+        "votos": 6,
+        "candidato": "Gerson Almeida",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SHUSHUFINDI CENTRAL",
+        "id": 6140,
+        "votos": 98,
+        "candidato": "Gerson Almeida",
+        "value": 0.53
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "TOMAS DE BERLANGA",
+        "id": 4165,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 1.96
+    },
+    {
+        "parroquia": "PUERTO VILLAMIL",
+        "id": 6515,
+        "votos": 15,
+        "candidato": "Ximena Peña",
+        "value": 1.09
+    }
+]

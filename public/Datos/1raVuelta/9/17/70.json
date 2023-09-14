@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 62,
+        "candidato": "Ximena Peña",
+        "value": 1.03
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 52,
+        "candidato": "Ximena Peña",
+        "value": 1.22
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA TANDAPI",
+        "id": 650,
+        "votos": 25,
+        "candidato": "Ximena Peña",
+        "value": 1.57
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 140,
+        "candidato": "Ximena Peña",
+        "value": 1.43
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 15,
+        "candidato": "Ximena Peña",
+        "value": 1.50
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 59,
+        "candidato": "Ximena Peña",
+        "value": 0.89
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 16,
+        "candidato": "Ximena Peña",
+        "value": 0.59
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 176,
+        "candidato": "Ximena Peña",
+        "value": 0.76
+    }
+]

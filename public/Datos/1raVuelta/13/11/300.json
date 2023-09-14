@@ -1,0 +1,100 @@
+[
+    {
+        "parroquia": "CHUQUIRIBAMBA",
+        "id": 975,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.60
+    },
+    {
+        "parroquia": "EL CISNE",
+        "id": 1135,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.45
+    },
+    {
+        "parroquia": "GUALEL",
+        "id": 1405,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.71
+    },
+    {
+        "parroquia": "QUINARA",
+        "id": 1780,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.23
+    },
+    {
+        "parroquia": "JIMBILLA",
+        "id": 1840,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.36
+    },
+    {
+        "parroquia": "MALACATOS VALLADOLID",
+        "id": 2325,
+        "votos": 40,
+        "candidato": "Gustavo Larrea",
+        "value": 0.90
+    },
+    {
+        "parroquia": "SAN LUCAS",
+        "id": 3555,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SANTIAGO",
+        "id": 3770,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.44
+    },
+    {
+        "parroquia": "TAQUIL MIGUEL RIOFRIO",
+        "id": 3970,
+        "votos": 6,
+        "candidato": "Gustavo Larrea",
+        "value": 0.33
+    },
+    {
+        "parroquia": "VILCABAMBA VICTORIA",
+        "id": 4235,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 0.36
+    },
+    {
+        "parroquia": "YANGANA ARSENIO CASTILLO",
+        "id": 4280,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.45
+    },
+    {
+        "parroquia": "CHANTACO",
+        "id": 4475,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.35
+    },
+    {
+        "parroquia": "SAN PEDRO DE VILCABAMBA",
+        "id": 4540,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.69
+    },
+    {
+        "parroquia": "LOJA",
+        "id": 110150,
+        "votos": 237,
+        "candidato": "Gustavo Larrea",
+        "value": 0.19
+    }
+]

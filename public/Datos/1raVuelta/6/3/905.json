@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SOLANO",
+        "id": 3875,
+        "votos": 1,
+        "candidato": "Isidro Romero",
+        "value": 0.15
+    },
+    {
+        "parroquia": "DELEG",
+        "id": 6425,
+        "votos": 12,
+        "candidato": "Isidro Romero",
+        "value": 0.53
+    }
+]

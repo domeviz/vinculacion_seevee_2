@@ -1,0 +1,37 @@
+[
+    {
+        "parroquia": "TONSUPA",
+        "id": 1615,
+        "votos": 33,
+        "candidato": "Pedro Freile",
+        "value": 0.58
+    },
+    {
+        "parroquia": "LA UNIÓN",
+        "id": 2130,
+        "votos": 13,
+        "candidato": "Pedro Freile",
+        "value": 0.87
+    },
+    {
+        "parroquia": "SUA BOCANA",
+        "id": 3880,
+        "votos": 10,
+        "candidato": "Pedro Freile",
+        "value": 0.47
+    },
+    {
+        "parroquia": "TONCHIGUE",
+        "id": 4055,
+        "votos": 28,
+        "candidato": "Pedro Freile",
+        "value": 0.60
+    },
+    {
+        "parroquia": "ATACAMES",
+        "id": 6380,
+        "votos": 66,
+        "candidato": "Pedro Freile",
+        "value": 0.62
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BACHILLERO",
+        "id": 265,
+        "votos": 322,
+        "candidato": "Xavier Hervas",
+        "value": 15.62
+    },
+    {
+        "parroquia": "ÁNGEL PEDRO GILER",
+        "id": 2030,
+        "votos": 342,
+        "candidato": "Xavier Hervas",
+        "value": 11.54
+    },
+    {
+        "parroquia": "TOSAGUA",
+        "id": 6170,
+        "votos": 2534,
+        "candidato": "Xavier Hervas",
+        "value": 12.55
+    }
+]

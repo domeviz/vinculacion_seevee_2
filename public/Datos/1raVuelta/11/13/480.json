@@ -1,0 +1,52 @@
+[
+    {
+        "parroquia": "BOYACA",
+        "id": 380,
+        "votos": 9,
+        "candidato": "Juan Velasco",
+        "value": 0.41
+    },
+    {
+        "parroquia": "CHIBUNGA",
+        "id": 405,
+        "votos": 37,
+        "candidato": "Juan Velasco",
+        "value": 1.22
+    },
+    {
+        "parroquia": "CONVENTO",
+        "id": 640,
+        "votos": 31,
+        "candidato": "Juan Velasco",
+        "value": 0.92
+    },
+    {
+        "parroquia": "ELOY ALFARO",
+        "id": 1160,
+        "votos": 20,
+        "candidato": "Juan Velasco",
+        "value": 0.81
+    },
+    {
+        "parroquia": "RICAURTE",
+        "id": 3170,
+        "votos": 20,
+        "candidato": "Juan Velasco",
+        "value": 0.57
+    },
+    {
+        "parroquia": "SAN ANTONIO DEL PELUDO",
+        "id": 3350,
+        "votos": 22,
+        "candidato": "Juan Velasco",
+        "value": 0.45
+    },
+     {
+        "parroquia": "CHONE",
+        "id": 5250,
+        "votos": 367,
+        "candidato": "Juan Velasco",
+        "value": 0.70
+    }
+
+]

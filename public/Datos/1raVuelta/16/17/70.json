@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "ALOAG",
+        "id": 55,
+        "votos": 14,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    },
+    {
+        "parroquia": "ALOASI",
+        "id": 60,
+        "votos": 8,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "CORNEJO ASTORGA TANDAPI",
+        "id": 650,
+        "votos": 3,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    },
+    {
+        "parroquia": "CUTUGLAGUA",
+        "id": 755,
+        "votos": 20,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    },
+    {
+        "parroquia": "CHAUPI",
+        "id": 850,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.10
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3960,
+        "votos": 26,
+        "candidato": "Paúl Carrasco",
+        "value": 0.39
+    },
+    {
+        "parroquia": "UYUMBICHO",
+        "id": 4155,
+        "votos": 1,
+        "candidato": "Paúl Carrasco",
+        "value": 0.04
+    },
+    {
+        "parroquia": "MACHACHI",
+        "id": 5620,
+        "votos": 45,
+        "candidato": "Paúl Carrasco",
+        "value": 0.19
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSÉ DE TAMBO",
+        "id": 3500,
+        "votos": 348,
+        "candidato": "Xavier Hervas",
+        "value": 9.45
+    },
+    {
+        "parroquia": "CHILLANES",
+        "id": 5245,
+        "votos": 912,
+        "candidato": "Xavier Hervas",
+        "value": 11.87
+    }
+]

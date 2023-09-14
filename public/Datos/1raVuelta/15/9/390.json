@@ -1,0 +1,38 @@
+[
+    
+    {
+        "parroquia": "MORRO",
+        "id": 2470,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.30
+    },
+    {
+        "parroquia": "POSORJA",
+        "id": 2940,
+        "votos": 28,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    },
+    {
+        "parroquia": "PUNA",
+        "id": 3030,
+        "votos": 27,
+        "candidato": "Giovanny Andrade",
+        "value": 0.47
+    },
+    {
+        "parroquia": "TENGUEL",
+        "id": 4120,
+        "votos": 10,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "GUAYAQUIL",
+        "id": 90150,
+        "votos": 2800,
+        "candidato": "Giovanny Andrade",
+        "value": 0.20
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.31
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.57
+    },
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 40,
+        "candidato": "Giovanny Andrade",
+        "value": 0.57
+    }
+]

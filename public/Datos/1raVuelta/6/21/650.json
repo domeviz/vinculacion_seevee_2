@@ -1,0 +1,40 @@
+[
+    {
+        "parroquia": "PALMA ROJA",
+        "id": 2720,
+        "votos": 5,
+        "candidato": "Isidro Romero",
+        "value": 0.54
+    },
+    {
+        "parroquia": "PUERTO BOLIVAR",
+        "id": 3005,
+     "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "PUERTO RODRIGUEZ",
+        "id": 3020,
+      "fill":"#EF8A62"
+    },
+    {
+        "parroquia": "SANTA ELENA",
+        "id": 3705,
+        "votos": 6,
+        "candidato": "Isidro Romero",
+        "value": 0.98
+    },
+    {
+        "parroquia": "SANSAHUARI",
+        "id": 4745,
+        "votos": 7,
+        "candidato": "Isidro Romero",
+        "value": 0.56
+    },
+    {
+        "parroquia": "EL CARMEN DE PUTUMAYO",
+        "id": 6500,
+        "votos": 9,
+        "candidato": "Isidro Romero",
+        "value": 0.48
+    }
+]

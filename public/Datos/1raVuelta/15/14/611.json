@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.10
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.11
+    }
+]

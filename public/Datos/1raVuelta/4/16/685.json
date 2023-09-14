@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MADRE TIERRA",
+        "id": 2310,
+        "votos": 105,
+        "candidato": "Xavier Hervas",
+        "value": 8.22
+    },
+    {
+        "parroquia": "SHELL",
+        "id": 3840,
+        "votos": 969,
+        "candidato": "Xavier Hervas",
+        "value": 21.55
+    },
+    {
+        "parroquia": "MERA",
+        "id": 5650,
+        "votos": 277,
+        "candidato": "Xavier Hervas",
+        "value": 22.67
+    }
+]

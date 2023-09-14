@@ -1,0 +1,240 @@
+[
+    {
+        "parroquia": "ALANGASI",
+        "id": 30,
+        "votos": 2095,
+        "candidato": "Yaku Pérez",
+        "value": 16.46
+    },
+    {
+        "parroquia": "AMAGUAÑA",
+        "id": 80,
+        "votos": 4239,
+        "candidato": "Yaku Pérez",
+        "value": 22.13
+    },
+    {
+        "parroquia": "ATAHUALPA HABASPAMBA",
+        "id": 195,
+        "votos": 273,
+        "candidato": "Yaku Pérez",
+        "value": 24.10
+    },
+    {
+        "parroquia": "CALACALI",
+        "id": 430,
+        "votos": 751,
+        "candidato": "Yaku Pérez",
+        "value": 23.42
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 440,
+        "votos": 14226,
+        "candidato": "Yaku Pérez",
+        "value": 15.43
+    },
+    {
+        "parroquia": "CONOCOTO",
+        "id": 625,
+        "votos": 6812,
+        "candidato": "Yaku Pérez",
+        "value": 12.31
+    },
+    {
+        "parroquia": "CUMBAYA",
+        "id": 725,
+        "votos": 1904,
+        "candidato": "Yaku Pérez",
+        "value": 7.65
+    },
+    {
+        "parroquia": "CHAVEZPAMBA",
+        "id": 855,
+        "votos": 159,
+        "candidato": "Yaku Pérez",
+        "value": 31.67
+    },
+    {
+        "parroquia": "CHECA",
+        "id": 865,
+        "votos": 947,
+        "candidato": "Yaku Pérez",
+        "value": 19.24
+    },
+    {
+        "parroquia": "GUALEA",
+        "id": 1400,
+        "votos": 361,
+        "candidato": "Yaku Pérez",
+        "value": 30.91
+    },
+    {
+        "parroquia": "GUANGOPOLO",
+        "id": 1440,
+        "votos": 442,
+        "candidato": "Yaku Pérez",
+        "value": 20.04
+    },
+    {
+        "parroquia": "GUAYLLABAMBA",
+        "id": 1475,
+        "votos": 1966,
+        "candidato": "Yaku Pérez",
+        "value": 19.72
+    },
+    {
+        "parroquia": "LA MERCED",
+        "id": 2055,
+        "votos": 979,
+        "candidato": "Yaku Pérez",
+        "value": 21.33
+    },
+    {
+        "parroquia": "LLANO CHICO",
+        "id": 2265,
+        "votos": 1405,
+        "candidato": "Yaku Pérez",
+        "value": 21.77
+    },
+    {
+        "parroquia": "LLOA",
+        "id": 2275,
+        "votos": 440,
+        "candidato": "Yaku Pérez",
+        "value": 30.22
+    },
+    {
+        "parroquia": "NANEGAL",
+        "id": 2525,
+        "votos": 393,
+        "candidato": "Yaku Pérez",
+        "value": 25.74
+    },
+    {
+        "parroquia": "NANEGALITO",
+        "id": 2530,
+        "votos": 463,
+        "candidato": "Yaku Pérez",
+        "value": 24.48
+    },
+    {
+        "parroquia": "NAYON",
+        "id": 2540,
+        "votos": 1248,
+        "candidato": "Yaku Pérez",
+        "value": 16.57
+    },
+    {
+        "parroquia": "NONO",
+        "id": 2560,
+        "votos": 307,
+        "candidato": "Yaku Pérez",
+        "value": 30.01
+    },
+    {
+        "parroquia": "PACTO",
+        "id": 2690,
+        "votos": 1264,
+        "candidato": "Yaku Pérez",
+        "value": 46.69
+    },
+    {
+        "parroquia": "PERUCHO",
+        "id": 2825,
+        "votos": 142,
+        "candidato": "Yaku Pérez",
+        "value": 25.82
+    },
+    {
+        "parroquia": "PIFO",
+        "id": 2855,
+        "votos": 2388,
+        "candidato": "Yaku Pérez",
+        "value": 21.90
+    },
+    {
+        "parroquia": "PINTAG",
+        "id": 2895,
+        "votos": 4374,
+        "candidato": "Yaku Pérez",
+        "value": 34.40
+    },
+    {
+        "parroquia": "POMASQUI",
+        "id": 2925,
+        "votos": 2675,
+        "candidato": "Yaku Pérez",
+        "value": 12.34
+    },
+    {
+        "parroquia": "PUELLARO",
+        "id": 2980,
+        "votos": 1288,
+        "candidato": "Yaku Pérez",
+        "value": 32.20
+    },
+    {
+        "parroquia": "PUEMBO",
+        "id": 2985,
+        "votos": 1354,
+        "candidato": "Yaku Pérez",
+        "value": 15.00
+    },
+    {
+        "parroquia": "QUINCHE",
+        "id": 3100,
+        "votos": 2655,
+        "candidato": "Yaku Pérez",
+        "value": 23.19
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3325,
+        "votos": 3518,
+        "candidato": "Yaku Pérez",
+        "value": 16.62
+    },
+    {
+        "parroquia": "SAN JOSE DE MINAS",
+        "id": 3475,
+        "votos": 1323,
+        "candidato": "Yaku Pérez",
+        "value": 31.95
+    },
+    {
+        "parroquia": "TABABELA",
+        "id": 3925,
+        "votos": 274,
+        "candidato": "Yaku Pérez",
+        "value": 15.81
+    },
+    {
+        "parroquia": "TUMBACO",
+        "id": 4085,
+        "votos": 5684,
+        "candidato": "Yaku Pérez",
+        "value": 15.77
+    },
+    {
+        "parroquia": "YARUQUI",
+        "id": 4290,
+        "votos": 2582,
+        "candidato": "Yaku Pérez",
+        "value": 20.21
+    },
+    {
+        "parroquia": "ZAMBIZA",
+        "id": 4325,
+        "votos": 878,
+        "candidato": "Yaku Pérez",
+        "value": 23.78
+    },
+    {
+        "parroquia": "QUITO",
+        "id": 170150,
+        "votos": 215915,
+        "candidato": "Yaku Pérez",
+        "value": 16.54
+    }
+]

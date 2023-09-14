@@ -1,0 +1,65 @@
+[
+    {
+        "parroquia": "CAPIRO",
+        "id": 505,
+        "votos": 14,
+        "candidato": "Ximena Peña",
+        "value": 1.71
+    },
+    {
+        "parroquia": "SARACAY",
+        "id": 1385,
+        "votos": 28,
+        "candidato": "Ximena Peña",
+        "value": 2.44
+    },
+    {
+        "parroquia": "LA BOCANA",
+        "id": 2230,
+        "votos": 13,
+        "candidato": "Ximena Peña",
+        "value": 1.66
+    },
+    {
+        "parroquia": "MOROMORO",
+        "id": 2465,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.59
+    },
+    {
+        "parroquia": "PIEDRAS",
+        "id": 2850,
+        "votos": 4,
+        "candidato": "Ximena Peña",
+        "value": 0.85
+    },
+    {
+        "parroquia": "SAN ROQUE",
+        "id": 3650,
+        "votos": 6,
+        "candidato": "Ximena Peña",
+        "value": 1.37
+    },
+    {
+        "parroquia": "PIÑAS",
+        "id": 5790,
+        "votos": 74,
+        "candidato": "Ximena Peña",
+        "value": 0.62
+    },
+    {
+        "parroquia": "PIÑAS GRANDE",
+        "id": 6675,
+        "votos": 0,
+        "candidato": "Ximena Peña",
+        "value": 0.00
+    },
+    {
+        "parroquia": "LA SUSAYA",
+        "id": 6680,
+        "votos": 1,
+        "candidato": "Ximena Peña",
+        "value": 0.45
+    }
+]

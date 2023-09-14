@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "AYAPAMBA",
+        "id": 225,
+        "votos": 411,
+        "candidato": "Xavier Hervas",
+        "value": 44.72
+    },
+    {
+        "parroquia": "SAN JUAN DE CERRO AZUL",
+        "id": 375,
+        "votos": 49,
+        "candidato": "Xavier Hervas",
+        "value": 13.73
+    },
+    {
+        "parroquia": "CORDONCILLO",
+        "id": 4480,
+        "votos": 255,
+        "candidato": "Xavier Hervas",
+        "value": 41.94
+    },
+    {
+        "parroquia": "SAN JOSÉ",
+        "id": 4530,
+        "votos": 100,
+        "candidato": "Xavier Hervas",
+        "value": 33.44
+    },
+    {
+        "parroquia": "MILAGRO",
+        "id": 4535,
+        "votos": 76,
+        "candidato": "Xavier Hervas",
+        "value": 30.16
+    },
+    {
+        "parroquia": "PACCHA",
+        "id": 5745,
+        "votos": 712,
+        "candidato": "Xavier Hervas",
+        "value": 38.59
+    }
+]

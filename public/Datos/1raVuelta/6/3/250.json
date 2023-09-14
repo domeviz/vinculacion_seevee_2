@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "MANUEL J. CALLE",
+        "id": 2365,
+        "votos": 29,
+        "candidato": "Isidro Romero",
+        "value": 1.15
+    },
+    {
+        "parroquia": "PANCHO NEGRO",
+        "id": 2745,
+        "votos": 26,
+        "candidato": "Isidro Romero",
+        "value": 0.78
+    },
+    {
+        "parroquia": "LA TRONCAL",
+        "id": 5610,
+        "votos": 222,
+        "candidato": "Isidro Romero",
+        "value": 0.82
+    }
+]

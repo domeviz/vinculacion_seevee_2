@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "BELLA VISTA",
+        "id": 235,
+        "votos": 14,
+        "candidato": "Pedro Freile",
+        "value": 1.47
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 1985,
+        "votos": 11,
+        "candidato": "Pedro Freile",
+        "value": 3.12
+    },
+    {
+        "parroquia": "PUERTO AYORA",
+        "id": 6505,
+        "votos": 135,
+        "candidato": "Pedro Freile",
+        "value": 1.91
+    }
+]

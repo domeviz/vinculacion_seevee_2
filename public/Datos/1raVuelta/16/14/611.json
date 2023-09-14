@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 0,
+        "candidato": "Paúl Carrasco",
+        "fill": "#ced4da"
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 4,
+        "candidato": "Paúl Carrasco",
+        "value": 0.23
+    }
+]

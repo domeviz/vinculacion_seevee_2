@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "INDANZA",
+        "id": 1720,
+        "votos": 3,
+        "candidato": "Giovanny Andrade",
+        "value": 0.45
+    },
+    {
+        "parroquia": "SAN MIGUEL DE CONCHAY",
+        "id": 3250,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3320,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.26
+    },
+    {
+        "parroquia": "SANTA SUSANA DE CHIVIAZA",
+        "id": 3760,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.39
+    },
+    {
+        "parroquia": "YUNGANZA  EL ROSARIO",
+        "id": 4305,
+        "votos": 1,
+        "candidato": "Giovanny Andrade",
+        "value": 0.15
+    },
+    {
+        "parroquia": "GRAL. LEONIDAS PLAZA",
+        "id": 5390,
+        "votos": 0,
+        "candidato": "Giovanny Andrade",
+        "fill": "#ced4da"
+    }
+]

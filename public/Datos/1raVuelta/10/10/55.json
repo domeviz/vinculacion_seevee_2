@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "CAHUASQUI",
+        "id": 425,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LA MERCED DE BUENOS AIRES",
+        "id": 2060,
+        "votos": 5,
+        "candidato": "Guillermo Celi",
+        "value": 0.43
+    },
+    {
+        "parroquia": "PABLO ARENAS",
+        "id": 2675,
+        "votos": 6,
+        "candidato": "Guillermo Celi",
+        "value": 0.48
+    },
+    {
+        "parroquia": "SAN BLAS",
+        "id": 3365,
+        "votos": 8,
+        "candidato": "Guillermo Celi",
+        "value": 0.46
+    },
+    {
+        "parroquia": "TUMBABIRO",
+        "id": 4080,
+        "votos": 7,
+        "candidato": "Guillermo Celi",
+        "value": 0.68
+    },
+    {
+        "parroquia": "URCUQUI",
+        "id": 6190,
+        "votos": 15,
+        "candidato": "Guillermo Celi",
+        "value": 0.33
+    }
+]

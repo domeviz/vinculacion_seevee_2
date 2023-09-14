@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "ALTO TAMBO GUADAL",
+        "id": 70,
+        "votos": 26,
+        "candidato": "Gustavo Larrea",
+        "value": 4.51
+    },
+    {
+        "parroquia": "ANCON/PALMA REAL",
+        "id": 110,
+        "votos": 42,
+        "candidato": "Gustavo Larrea",
+        "value": 5.06
+    },
+    {
+        "parroquia": "CALDERON",
+        "id": 435,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 4.26
+    },
+    {
+        "parroquia": "CARONDELET",
+        "id": 535,
+        "votos": 38,
+        "candidato": "Gustavo Larrea",
+        "value": 4.79
+    },
+    {
+        "parroquia": "5 DE JUNIO HUIMBI",
+        "id": 570,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 5.33
+    },
+    {
+        "parroquia": "CONCEPCION",
+        "id": 620,
+        "votos": 20,
+        "candidato": "Gustavo Larrea",
+        "value": 2.48
+    },
+    {
+        "parroquia": "MATAJE",
+        "id": 2395,
+        "votos": 18,
+        "candidato": "Gustavo Larrea",
+        "value": 2.89
+    },
+    {
+        "parroquia": "SAN JAVIER DE CACHABI",
+        "id": 3455,
+        "votos": 20,
+        "candidato": "Gustavo Larrea",
+        "value": 5.10
+    },
+    {
+        "parroquia": "SANTA RITA",
+        "id": 3725,
+        "votos": 13,
+        "candidato": "Gustavo Larrea",
+        "value": 1.59
+    },
+    {
+        "parroquia": "TAMBILLO",
+        "id": 3955,
+        "votos": 50,
+        "candidato": "Gustavo Larrea",
+        "value": 5.58
+    },
+    {
+        "parroquia": "TULULBI RICAURTE",
+        "id": 4075,
+        "votos": 39,
+        "candidato": "Gustavo Larrea",
+        "value": 3.68
+    },
+    {
+        "parroquia": "URBINA",
+        "id": 4125,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 1.81
+    },
+    {
+        "parroquia": "SAN LORENZO",
+        "id": 6130,
+        "votos": 602,
+        "candidato": "Gustavo Larrea",
+        "value": 5.07
+    }
+]

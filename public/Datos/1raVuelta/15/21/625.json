@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "DURENO",
+        "id": 1045,
+        "votos": 7,
+        "candidato": "Giovanny Andrade",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL ENO",
+        "id": 1285,
+        "votos": 9,
+        "candidato": "Giovanny Andrade",
+        "value": 0.23
+    },
+    {
+        "parroquia": "PACAYACU",
+        "id": 1290,
+        "votos": 8,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "GENERAL FARFAN",
+        "id": 1330,
+        "votos": 5,
+        "candidato": "Giovanny Andrade",
+        "value": 0.18
+    },
+    {
+        "parroquia": "SANTA CECILIA",
+        "id": 1790,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.07
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1795,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    },
+    {
+        "parroquia": "10 DE AGOSTO",
+        "id": 4625,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.37
+    },
+    {
+        "parroquia": "NUEVA LOJA",
+        "id": 5710,
+        "votos": 50,
+        "candidato": "Giovanny Andrade",
+        "value": 0.13
+    }
+]

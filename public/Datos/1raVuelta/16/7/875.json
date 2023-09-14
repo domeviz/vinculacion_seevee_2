@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1975,
+        "votos": 2,
+        "candidato": "Paúl Carrasco",
+        "value": 0.33
+    },
+    {
+        "parroquia": "BALSAS",
+        "id": 6590,
+        "votos": 9,
+        "candidato": "Paúl Carrasco",
+        "value": 0.20
+    }
+]

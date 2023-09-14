@@ -1,0 +1,44 @@
+[
+    {
+        "parroquia": "EL TAMBO",
+        "id": 1200,
+        "votos": 54,
+        "candidato": "Lucio Gutiérrez",
+        "value": 2.84
+    },
+    {
+        "parroquia": "GUAYQUICHUMA",
+        "id": 1480,
+        "votos": 1,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.40
+    },
+    {
+        "parroquia": "SAN PEDRO DE LA BENDITA",
+        "id": 3610,
+        "votos": 5,
+        "candidato": "Lucio Gutiérrez",
+        "value": 0.45
+    },
+    {
+        "parroquia": "ZAMBI",
+        "id": 4455,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 3.45
+    },
+    {
+        "parroquia": "CATAMAYO",
+        "id": 5270,
+        "votos": 204,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.32
+    },
+    {
+        "parroquia": "SAN JOSE",
+        "id": 6825,
+        "votos": 11,
+        "candidato": "Lucio Gutiérrez",
+        "value": 1.34
+    }
+]

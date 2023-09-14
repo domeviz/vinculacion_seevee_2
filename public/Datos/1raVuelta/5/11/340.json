@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 320,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.38
+    },
+    {
+        "parroquia": "EL INGENIO",
+        "id": 790,
+        "votos": 3,
+        "candidato": "Pedro Freile",
+        "value": 0.30
+    },
+    {
+        "parroquia": "EL AIRO",
+        "id": 1645,
+        "votos": 1,
+        "candidato": "Pedro Freile",
+        "value": 0.18
+    },
+    {
+        "parroquia": "JIMBURA",
+        "id": 1845,
+        "votos": 9,
+        "candidato": "Pedro Freile",
+        "value": 0.87
+    },
+    {
+        "parroquia": "SANTA TERESITA",
+        "id": 3765,
+        "votos": 4,
+        "candidato": "Pedro Freile",
+        "value": 0.45
+    },
+    {
+        "parroquia": "27 DE ABRIL LA NARANJA",
+        "id": 4460,
+        "votos": 6,
+        "candidato": "Pedro Freile",
+        "value": 0.54
+    },
+    {
+        "parroquia": "AMALUZA",
+        "id": 5020,
+        "votos": 24,
+        "candidato": "Pedro Freile",
+        "value": 0.84
+    }
+]

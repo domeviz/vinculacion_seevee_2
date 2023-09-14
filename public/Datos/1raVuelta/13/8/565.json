@@ -1,0 +1,114 @@
+[
+    {
+        "parroquia": "ANCHAYACU",
+        "id": 120,
+        "votos": 11,
+        "candidato": "Gustavo Larrea",
+        "value": 1.58
+    },
+    {
+        "parroquia": "ATAHUALPA/CAMARONES",
+        "id": 200,
+        "votos": 5,
+        "candidato": "Gustavo Larrea",
+        "value": 0.56
+    },
+    {
+        "parroquia": "BORBON",
+        "id": 370,
+        "votos": 85,
+        "candidato": "Gustavo Larrea",
+        "value": 1.64
+    },
+    {
+        "parroquia": "SAN JOSE DE CAYAPAS",
+        "id": 1505,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 1.66
+    },
+    {
+        "parroquia": "COLON ELOY DE MARIA",
+        "id": 1510,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TIMBIRE",
+        "id": 1515,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.40
+    },
+    {
+        "parroquia": "LA TOLA",
+        "id": 2125,
+        "votos": 28,
+        "candidato": "Gustavo Larrea",
+        "value": 1.99
+    },
+    {
+        "parroquia": "LUIS VARGAS TORRES",
+        "id": 2225,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.73
+    },
+    {
+        "parroquia": "MALDONADO",
+        "id": 2335,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 0.94
+    },
+    {
+        "parroquia": "PAMPANAL DE BOLIVAR",
+        "id": 2670,
+        "votos": 4,
+        "candidato": "Gustavo Larrea",
+        "value": 0.94
+    },
+    {
+        "parroquia": "SAN FRANCISCO DE ONZOLE",
+        "id": 3405,
+        "votos": 9,
+        "candidato": "Gustavo Larrea",
+        "value": 1.17
+    },
+    {
+        "parroquia": "SELVA ALEGRE",
+        "id": 3805,
+        "votos": 2,
+        "candidato": "Gustavo Larrea",
+        "value": 0.31
+    },
+    {
+        "parroquia": "TELEMBI",
+        "id": 4170,
+        "votos": 15,
+        "candidato": "Gustavo Larrea",
+        "value": 0.56
+    },
+    {
+        "parroquia": "SANTO DOMINGO DE ONZOLE",
+        "id": 4465,
+        "votos": 8,
+        "candidato": "Gustavo Larrea",
+        "value": 0.63
+    },
+    {
+        "parroquia": "SANTA LUCIA DE LAS PEÑAS",
+        "id": 4595,
+        "votos": 7,
+        "candidato": "Gustavo Larrea",
+        "value": 0.99
+    },
+    {
+        "parroquia": "VALDEZ LIMONES",
+        "id": 6205,
+        "votos": 62,
+        "candidato": "Gustavo Larrea",
+        "value": 1.58
+    }
+]

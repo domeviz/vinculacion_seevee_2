@@ -1,0 +1,51 @@
+[
+    {
+        "parroquia": "LIMONAL",
+        "id": 260,
+        "votos": 4,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "JUAN BAUTISTA AGUIRRE",
+        "id": 1855,
+        "votos": 11,
+        "candidato": "Giovanny Andrade",
+        "value": 0.39
+    },
+    {
+        "parroquia": "LAS LOJAS",
+        "id": 2105,
+        "votos": 19,
+        "candidato": "Giovanny Andrade",
+        "value": 0.55
+    },
+    {
+        "parroquia": "EL LAUREL",
+        "id": 4500,
+        "votos": 20,
+        "candidato": "Giovanny Andrade",
+        "value": 0.43
+    },
+    {
+        "parroquia": "DAULE",
+        "id": 5275,
+        "votos": 126,
+        "candidato": "Giovanny Andrade",
+        "value": 0.24
+    },
+    {
+        "parroquia": "LA AURORA",
+        "id": 6850,
+        "votos": 41,
+        "candidato": "Giovanny Andrade",
+        "value": 0.19
+    },
+    {
+        "parroquia": "MAGRO",
+        "id": 7425,
+        "votos": 2,
+        "candidato": "Giovanny Andrade",
+        "value": 0.69
+    }
+]

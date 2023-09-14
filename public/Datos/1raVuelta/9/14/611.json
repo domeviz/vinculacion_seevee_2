@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SHIMPIS",
+        "id": 525,
+        "votos": 5,
+        "candidato": "Ximena Peña",
+        "value": 0.40
+    },
+    {
+        "parroquia": "YAUPI",
+        "id": 4300,
+        "votos": 3,
+        "candidato": "Ximena Peña",
+        "value": 0.31
+    },
+    {
+        "parroquia": "LOGROÑO",
+        "id": 6735,
+        "votos": 10,
+        "candidato": "Ximena Peña",
+        "value": 0.57
+    }
+]

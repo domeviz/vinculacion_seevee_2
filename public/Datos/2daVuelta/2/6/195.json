@@ -1,0 +1,93 @@
+[
+    {
+        "parroquia": "CACHA",
+        "id": 420,
+        "votos": 967,
+        "candidato": "Andrés Arauz",
+        "value": 52.84
+    },
+    {
+        "parroquia": "CALPI",
+        "id": 445,
+        "votos": 889,
+        "candidato": "Andrés Arauz",
+        "value": 29.41
+    },
+    {
+        "parroquia": "CUBIJÍES",
+        "id": 705,
+        "votos": 338,
+        "candidato": "Andrés Arauz",
+        "value": 27.80
+    },
+    {
+        "parroquia": "FLORES",
+        "id": 1280,
+        "votos": 1865,
+        "candidato": "Andrés Arauz",
+        "value": 67.77
+    },
+    {
+        "parroquia": "LICÁN",
+        "id": 2160,
+        "votos": 818,
+        "candidato": "Andrés Arauz",
+        "value": 23.72
+    },
+    {
+        "parroquia": "LICTO",
+        "id": 2165,
+        "votos": 3082,
+        "candidato": "Andrés Arauz",
+        "value": 63.26
+    },
+    {
+        "parroquia": "PUNGALA",
+        "id": 3035,
+        "votos": 1272,
+        "candidato": "Andrés Arauz",
+        "value": 45.82
+    },
+    {
+        "parroquia": "PUNÍN",
+        "id": 3040,
+        "votos": 1631,
+        "candidato": "Andrés Arauz",
+        "value": 49.94
+    },
+    {
+        "parroquia": "QUIMIAG",
+        "id": 3095,
+        "votos": 687,
+        "candidato": "Andrés Arauz",
+        "value": 23.67
+    },
+    {
+        "parroquia": "SAN JUAN",
+        "id": 3515,
+        "votos": 1183,
+        "candidato": "Andrés Arauz",
+        "value": 31.50
+    },
+    {
+        "parroquia": "SAN LUIS",
+        "id": 3560,
+        "votos": 1067,
+        "candidato": "Andrés Arauz",
+        "value": 31.39
+    },
+    {
+        "parroquia": "LIZARZABURU",
+        "id": 5590,
+        "votos": 7372,
+        "candidato": "Andrés Arauz",
+        "value": 21.29
+    },
+    {
+        "parroquia": "RIOBAMBA",
+        "id": 60150,
+        "votos": 13254,
+        "candidato": "Andrés Arauz",
+        "value": 21.30
+    }
+]

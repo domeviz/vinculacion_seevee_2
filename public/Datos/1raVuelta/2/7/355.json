@@ -1,0 +1,86 @@
+[
+    {
+        "parroquia": "BELLAVISTA",
+        "id": 325,
+        "votos": 534,
+        "candidato": "Andrés Arauz",
+        "value": 32.74
+    },
+    {
+        "parroquia": "BELLAMARIA",
+        "id": 1665,
+        "votos": 479,
+        "candidato": "Andrés Arauz",
+        "value": 43.90
+    },
+    {
+        "parroquia": "JAMBELI",
+        "id": 1815,
+        "votos": 269,
+        "candidato": "Andrés Arauz",
+        "value": 65.13
+    },
+    {
+        "parroquia": "LA AVANZADA",
+        "id": 2005,
+        "votos": 348,
+        "candidato": "Andrés Arauz",
+        "value": 29.44
+    },
+    {
+        "parroquia": "SAN ANTONIO",
+        "id": 3330,
+        "votos": 341,
+        "candidato": "Andrés Arauz",
+        "value": 41.43
+    },
+    {
+        "parroquia": "VICTORIA",
+        "id": 4215,
+        "votos": 942,
+        "candidato": "Andrés Arauz",
+        "value": 64.17
+    },
+    {
+        "parroquia": "TORATA",
+        "id": 4525,
+        "votos": 311,
+        "candidato": "Andrés Arauz",
+        "value": 27.67
+    },
+    {
+        "parroquia": "SANTA ROSA",
+        "id": 6060,
+        "votos": 12876,
+        "candidato": "Andrés Arauz",
+        "value": 36.66
+    },
+    {
+        "parroquia": "PUERTO JELI",
+        "id": 6670,
+        "votos": 229,
+        "candidato": "Andrés Arauz",
+        "value": 48.41
+    },
+    {
+        "parroquia": "BALNEARIO JAMBELI",
+        "id": 6900,
+        "votos": 86,
+        "candidato": "Andrés Arauz",
+        "value": 73.50
+    },
+    {
+        "parroquia": "JUMON",
+        "id": 6985,
+        "votos": 211,
+        "candidato": "Andrés Arauz",
+        "value": 52.49
+    },
+    {
+        "parroquia": "NUEVO SANTA ROSA",
+        "id": 6990,
+        "votos": 379,
+        "candidato": "Andrés Arauz",
+        "value": 48.34
+    }
+]

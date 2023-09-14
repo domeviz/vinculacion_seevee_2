@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "VALLE DE LA VIRGEN",
+        "id": 185,
+        "votos": 55,
+        "candidato": "Gerson Almeida",
+        "value": 2.90
+    },
+    {
+        "parroquia": "SABANILLA",
+        "id": 1670,
+        "votos": 50,
+        "candidato": "Gerson Almeida",
+        "value": 1.70
+    },
+    {
+        "parroquia": "PEDRO CARBO",
+        "id": 5735,
+        "votos": 480,
+        "candidato": "Gerson Almeida",
+        "value": 1.96
+    }
+]

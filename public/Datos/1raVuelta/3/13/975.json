@@ -1,0 +1,23 @@
+[
+    {
+        "parroquia": "SALANGO",
+        "id": 1920,
+        "votos": 398,
+        "candidato": "Yaku Pérez",
+        "value": 19.55
+    },
+    {
+        "parroquia": "MACHALILLA",
+        "id": 2305,
+        "votos": 403,
+        "candidato": "Yaku Pérez",
+        "value": 13.64
+    },
+    {
+        "parroquia": "PUERTO LOPEZ",
+        "id": 6575,
+        "votos": 1042,
+        "candidato": "Yaku Pérez",
+        "value": 11.78
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "parroquia": "AHUANO",
+        "id": 25,
+        "votos": 6,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "CHONTAPUNTA",
+        "id": 940,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.05
+    },
+    {
+        "parroquia": "TALAG",
+        "id": 1930,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.05
+    },
+    {
+        "parroquia": "PANO",
+        "id": 2755,
+        "votos": 2,
+        "candidato": "Carlos Sagnay",
+        "value": 0.16
+    },
+    {
+        "parroquia": "PUERTO MISAHUALLI",
+        "id": 3000,
+        "votos": 3,
+        "candidato": "Carlos Sagnay",
+        "value": 0.10
+    },
+    {
+        "parroquia": "PUERTO NAPO",
+        "id": 3050,
+        "votos": 7,
+        "candidato": "Carlos Sagnay",
+        "value": 0.20
+    },
+    {
+        "parroquia": "SAN JUAN DE MUYUNA",
+        "id": 4580,
+        "votos": 1,
+        "candidato": "Carlos Sagnay",
+        "value": 0.04
+    },
+    {
+        "parroquia": "TENA",
+        "id": 6160,
+        "votos": 26,
+        "candidato": "Carlos Sagnay",
+        "value": 0.12
+    }
+]

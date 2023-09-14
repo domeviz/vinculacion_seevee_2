@@ -1,0 +1,16 @@
+[
+    {
+        "parroquia": "SAN JOSE",
+        "id": 2100,
+        "votos": 1,
+        "candidato": "Gustavo Larrea",
+        "value": 0.17
+    },
+    {
+        "parroquia": "SANTA CLARA",
+        "id": 6395,
+        "votos": 3,
+        "candidato": "Gustavo Larrea",
+        "value": 0.11
+    }
+]
